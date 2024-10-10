@@ -1,3 +1,9 @@
 {
   index.html = "Hello!"
+
+  img
+
+  library.html = libraryPage.ori(library.json)
+
+  vinyl.html = vinylPage.ori(vinyl.json)
 }

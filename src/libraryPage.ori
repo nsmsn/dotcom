@@ -1,0 +1,17 @@
+(books) => page.ori({
+  title: "Library"
+  @text: `
+    <h1>${ title }</h1>
+    <ul>
+
+    ${ @map(books, (book) => `
+      <li>
+        <a href="${ book/url }" alt="Cover of ${ book/title }">
+          ${ book/title }
+        </a>
+      </li>
+    `) }
+
+    </ul>
+  `
+})
