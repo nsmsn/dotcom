@@ -401,6 +401,14 @@
       },
 
       {
+        "title": "Lift Your Skinny Fists Like Antennas To Heaven",
+        "artist": "Godspeed You! Black Emperor",
+        "cover": "godspeed-liftyrskinnyfists-2000.jpg",
+        "year": "2000",
+        "url": "https://www.discogs.com/master/4393-Godspeed-You-Black-Emperor-Lift-Your-Skinny-Fists-Like-Antennas-To-Heaven"
+      },
+
+      {
         "title": "The Virtuoso Liszt",
         "artist": "Gary Graffman",
         "cover": "virtuoso-liszt-1960.jpg",
@@ -455,6 +463,13 @@
         "cover": "hartford-1969.jpg",
         "year": "1969",
         "url": "https://www.discogs.com/master/422365-John-Hartford-John-Hartford"
+      },
+      {
+        "title": "Morning Bugle",
+        "artist": "John Hartford",
+        "cover": "hartford-morning-bugle-1972.jpg",
+        "year": "1972",
+        "url": "https://www.discogs.com/master/340352-John-Hartford-Morning-Bugle"
       },
       {
         "title": "Headin’ Down Into The Mystery Below",
@@ -625,6 +640,13 @@
         "url": "https://www.discogs.com/release/7015934-Jim-ORourke-Simple-Songs"
       },
       {
+        "title": "Black Sheep Boy (Anniversary Edition)",
+        "artist": "Okkervil River",
+        "cover": "okkervilriver-blacksheepboy-2005.jpg",
+        "year": "2005",
+        "url": "https://www.discogs.com/release/7819946-Okkervil-River-Black-Sheep-Boy"
+      },
+      {
         "title": "Plastic Ono Band",
         "artist": "Yoko Ono",
         "cover": "yoko-plastic-ono-1970.jpg",
@@ -638,13 +660,6 @@
         "year": "1962",
         "url": "https://www.discogs.com/master/386261-Roy-Orbison-And-Bristow-Hopper-Orbiting-With"
       },
-      {
-        "title": "Stories",
-        "artist": "The Ordinary Things",
-        "cover": "ordinary-things-stories-2019.jpg",
-        "year": "2019",
-        "url": "https://www.discogs.com/release/15203019-The-Ordinary-Things-Stories"
-      },
 
       {
         "title": "The Best Of Pearls Before Swine",
@@ -653,6 +668,7 @@
         "year": "1980",
         "url": "https://www.discogs.com/release/1365383-Pearls-Before-Swine-The-Best-Of-Pearls-Before-Swine"
       },
+
       {
         "title": "Animals",
         "artist": "Pink Floyd",
@@ -885,6 +901,20 @@
         "url": "https://www.discogs.com/master/68458-The-Who-The-Who-By-Numbers"
       },
       {
+        "title": "Yankee Hotel Foxtrot",
+        "artist": "Wilco",
+        "cover": "wilco-yhf-2002.png",
+        "year": "2002",
+        "url": "https://www.discogs.com/master/10363-Wilco-Yankee-Hotel-Foxtrot"
+      },
+      {
+        "title": "A Ghost is Born",
+        "artist": "Wilco",
+        "cover": "wilco-ghost-2004.jpg",
+        "year": "2004",
+        "url": "https://www.discogs.com/release/6926013-Wilco-A-Ghost-Is-Born"
+      },
+      {
         "title": "Sky Blue Sky",
         "artist": "Wilco",
         "cover": "wilco-sky-blue-sky-2007.jpg",
@@ -906,6 +936,38 @@
         "year": "1990",
         "url": "https://www.discogs.com/master/32451-Yo-La-Tengo-Fakebook"
       },
+
+      {
+        "title": "Painful",
+        "artist": "Yo La Tengo",
+        "cover": "ylt-painful-1993.jpg",
+        "year": "1993",
+        "url": "https://www.discogs.com/master/32460-Yo-La-Tengo-Painful"
+      },
+
+      {
+        "title": "I Can Hear The Heart Beating As One",
+        "artist": "Yo La Tengo",
+        "cover": "ylt-icanhear-1997.jpg",
+        "year": "1997",
+        "url": "https://www.discogs.com/master/32485-Yo-La-Tengo-I-Can-Hear-The-Heart-Beating-As-One"
+      },
+
+      {
+        "title": "And Then Nothing Turned Itself Inside-Out",
+        "artist": "Yo La Tengo",
+        "cover": "ylt-andthennothing-2000.jpg",
+        "year": "2000",
+        "url": "https://www.discogs.com/master/32489-Yo-La-Tengo-And-Then-Nothing-Turned-Itself-Inside-Out"
+      },
+
+      {
+        "title": "This Stupid World",
+        "artist": "Yo La Tengo",
+        "cover": "ylt-thisstupidworld-2023.jpg",
+        "year": "2023",
+        "url": "https://www.discogs.com/master/2971105-Yo-La-Tengo-This-Stupid-World"
+      },      
 
       {
         "title": "After the Gold Rush",

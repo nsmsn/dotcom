@@ -6,7 +6,7 @@
 
     ${ @map(vinyls, (vinyl) => `
       <li>
-        <a href="${ vinyl/url }"> <img src="/img/vinyl/${ vinyl/cover }" alt="Cover of ${ vinyl/title }" width="100" height="100" loading="lazy" />
+        <a href="${ vinyl/url }"> <img src="/img/vinyl/${ vinyl/cover }" alt="" width="128" height="128" loading="lazy" />
           ${ vinyl/title }
         </a><br />
         <span class="artist">${ vinyl/artist }</span><br />
