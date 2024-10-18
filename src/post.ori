@@ -1,0 +1,7 @@
+(post) => page.ori({
+  title: post/title
+  @text: `
+    <h1>${ post/title }</h1>
+    ${ post/@text }
+  `
+})

@@ -8,7 +8,9 @@
   </head>
   <body>
     ${ topNav.html }
+    <main id="main-content">
     ${ page/@text }
+    </main>
   </body>
 </html>
 `

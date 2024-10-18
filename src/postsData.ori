@@ -1,0 +1,13 @@
+// Turn all the markdown files in `posts` into data ready for templating
+
+// Turn the markdown in each post into HTML
+@map(posts, @mdHtml)
+
+-> (postsHtml) => @map(postsHtml, (post) => {
+  ...post
+  date: new:@js/Date(post/date)
+})
+
+-> (postsWithDates) => @sort(postsWithDates, (post) => post/date)
+
+-> @reverse
