@@ -5,7 +5,18 @@
 
   library.html = libraryPage.ori(library.json)
 
-  posts/ = @map(postsData.ori, post.ori)
+  posts = {
+    ...@map(postsData.ori, post.ori)
+    index.html = posts-index.ori(postsData.ori)
+  }
+
+  tags = {
+    ...@map(tagsData.ori, {
+      extension: "->html"
+      value: tagPage.ori
+    })
+    index.html = tags-index.ori(tagsData.ori)
+  }
 
   vinyl.html = vinylPage.ori(vinyl.json)
 }

@@ -1,0 +1,15 @@
+(tags) => page.ori({
+  title: "Tags"
+  @text: `
+    <h1>Tags</h1>
+    <ul>
+
+    ${ @map(tags, (posts,tagname) => `
+      <li>
+        <a href="/tags/${ tagname }.html">${ tagname }</a> <span>(${ @length(posts) })</span>
+      </li>
+    `) }
+
+    </ul>
+  `
+})

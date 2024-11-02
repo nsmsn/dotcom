@@ -1,0 +1,15 @@
+(posts) => page.ori({
+  title: "Posts"
+  @text: `
+    <h1>${ title }</h1>
+    <ol reversed>
+
+    ${ @map(posts, (post,filename) => `
+      <li>
+        <a href="/posts/${ filename }">${ post/title }</a>
+      </li>
+    `) }
+
+    </ol>
+  `
+})
