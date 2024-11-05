@@ -2,6 +2,7 @@
   title: post/title
   @text: `
     <h1>${ post/title }</h1>
+    <small class="timestamp">Published <time datetime="${ post/date }" class="dt-published"><a class="u-url" href="${ post/url }">${ post/date }</a></time> by <a rel="author" class="p-author h-card" href="/about.html">Nick</a></small>
     ${ post/@text }
   `
 })

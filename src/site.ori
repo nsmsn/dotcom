@@ -1,6 +1,8 @@
 {
   index.html = "Hello!"
 
+  assets 
+
   img
 
   library.html = libraryPage.ori(library.json)
@@ -8,6 +10,11 @@
   posts = {
     ...@map(postsData.ori, post.ori)
     index.html = posts-index.ori(postsData.ori)
+  }
+
+  notes = {
+    ...@map(notesData.ori, note.ori)
+    index.html = notes-index.ori(notesData.ori)
   }
 
   tags = {
@@ -19,4 +26,8 @@
   }
 
   vinyl.html = vinylPage.ori(vinyl.json)
+
+  favicon.ico
+  robots.txt 
+  humans.txt 
 }

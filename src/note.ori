@@ -1,0 +1,6 @@
+(note) => page.ori({
+  title: note/title
+  @text: `
+    ${ note/@text }
+  `
+})

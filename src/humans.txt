@@ -1,0 +1,32 @@
+nicksimson.com
+https://nicksimson.com
+
+
+## The Human Responsible
+- Nick Simson
+  - Designer
+  - Albuquerque, NM
+  - nick@nicksimson.com
+  - @nsmsn
+
+
+## Thanks
+- Jan Miksovsky (https://jan.miksovsky.com/)
+- Eleanor and O.C.
+- Mom and Dad
+- My friends and family
+
+
+## Built With
+- Standards
+  - HTML (https://www.w3.org/TR/html5/)
+  - CSS (https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/)
+  - JavaScript (https://www.javascript.com/)
+
+- Components
+  - Web Origami (https://weborigami.org/)
+  - Node.js (https://nodejs.org/en/)
+  - Git (https://git-scm.com/)
+  - GitHub (https://github.com/)
+  - Netlify (https://www.netlify.com/)
+

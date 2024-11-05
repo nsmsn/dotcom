@@ -1,0 +1,321 @@
+@import url(https://fonts.bunny.net/css?family=hanken-grotesk:400,400i,700,700i);
+@layer config, resets, custom;
+
+@layer config {
+  :root {
+    /* Color */
+    --color-fg: #F0F0F0;
+    --color-bg: #040014;
+    --color-accent: #6161ff;
+
+    /* Spacing */
+    --gutter: clamp(3ch, 2.5vmax, 3.75ch);
+    --stack: clamp(1.25ex, 2.5vmax, 1.75ex);
+    --line-length: 75ch;
+    --page-max-inline-size: min(var(--line-length), 80dvi);
+    --page-padding-inline: calc((100dvi - var(--page-max-inline-size)) / 2);
+
+    /* Typography */
+    --font: 'Hanken Grotesk', system-ui, sans-serif;
+    --font-weight: 400;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 900;
+    --font-size-min: 100%;
+    --font-size-max: 150%;
+    --leading: 1.4;
+
+    /* Traditional point sizes */
+    --pt-double-canon: 4.666rem;
+    --pt-canon: 3.999rem;
+    --pt-double-great-primer: 2.999rem;
+    --pt-double-english: 2.333rem;
+    --pt-double-pica: 2rem;
+    --pt-paragon: 1.666rem;
+    --pt-great-primer: 1.5rem;
+    --pt-english: 1.166rem;
+    --pt-pica: 1rem;
+    --pt-small-pica: 0.916rem;
+    --pt-long-primer: 0.833rem;
+    --pt-bourgeois: 0.75rem;
+    --pt-minion: 0.583rem;
+
+    font-family: var(--font);
+    font-size: clamp(
+      var(--font-size-min),
+      var(--font-size-min) * 0.9 + 0.5dvi,
+      var(--font-size-max)
+    );
+    font-weight: var(--font-weight);
+    line-height: var(--leading);
+    color: var(--color-fg);
+    background-color: var(--color-bg);
+    accent-color: var(--color-accent);
+    color-scheme: dark light;
+  }
+
+  @media (prefers-color-scheme: light) {
+    :root {
+      --color-fg: #404040;
+      --color-bg: #f0f0f0;
+      --color-accent: crimson;
+    }
+  }
+
+  @media (prefers-contrast: more) {
+    :root {
+      --color-text: white;
+      --color-bg: black;
+    }
+  }
+
+  @media (prefers-color-scheme: light) and (prefers-contrast: more) {
+    :root {
+      --color-text: black;
+      --color-bg: white;
+    }
+  }
+}
+
+@layer resets {
+  *,
+  *::before,
+  *::after {
+    font-feature-settings: "kern";
+    font-kerning: normal;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  input:is([type="checkbox"], [type="radio"]),
+  select,
+  label,
+  button {
+    cursor: pointer;
+  }
+
+  input,
+  select,
+  textarea,
+  button {
+    font: inherit;
+    letter-spacing: inherit;
+    word-spacing: inherit;
+    color: currentColor;
+  }
+
+  img,
+  svg,
+  video {
+    display: block;
+    max-inline-size: 100%;
+    block-size: auto;
+  }
+
+  p, h1, h2, h3, h4, h5, h6 {
+    overflow-wrap: break-word;
+  }
+
+  ol, ul {
+    list-style: none;
+  }
+
+  :not([class]) {
+    h1&, h2&, h3&, h4&, h5&, h6& {
+      margin-block: 0.75em;
+      line-height: 1.2;
+      text-wrap: balance;
+      letter-spacing: -0.05ch;
+    }
+
+    p&, ol&, ul& {
+      margin-block: 1em;
+    }
+
+    ol&, ul& {
+      padding-inline-start: 1.5em;
+      list-style: revert;
+    }
+
+    li& {
+      margin-block: 0.5em;
+    }
+  }
+
+  @media (forced-colors: active) {
+    button {
+      border: 1px solid;
+    }
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    :root {
+      scroll-behavior: smooth;
+    }
+  }
+}
+
+@layer custom {
+    body {
+        max-width: 64em;
+        margin-left: 1em;
+        margin-right: 1em;
+        margin: 0 auto;
+    }
+
+    main {
+      padding: 0.5rem 1rem;
+    }
+
+    footer {
+      margin-top: var(--stack);
+      font-size: var(--pt-bourgeois);
+    }
+
+    /* Format headings */
+    h1 {
+      font-size: 2.5rem;
+    }
+
+    h2 {
+      font-size: 2rem;
+    }
+
+    h3 {
+      font-size: 1.75rem;
+    }
+
+    h4 {
+      font-size: 1.325rem;
+    }
+
+    h5 {
+      font-size: 1.125rem;
+    }
+
+    h6 {
+      font-size: 0.96rem;
+    }
+
+
+    @media (min-width: 32em){
+      h1 {
+        font-size: var(--pt-canon);
+      }
+  
+      h2 {
+        font-size: var(--pt-double-great-primer);
+      }
+  
+      h3 {
+        font-size: var(--pt-double-english);
+      }
+  
+      h4 {
+        font-size: var(--pt-double-pica);
+      }
+  
+      h5 {
+        font-size: var(--pt-paragon);
+      }
+  
+      h6 {
+        font-size: var(--pt-english);
+      }
+    }
+
+    p, li {
+      max-width: var(--line-length);
+    }
+
+    small {
+      font-size: var(--pt-bourgeois);
+    }
+
+    blockquote {
+      margin-inline-end: 0;
+      margin-block: 2rem;
+      padding: 0.4rem 1rem;
+      border-inline-start: 0.35rem solid var(--color-accent);
+      color: var(--text-light);
+      font-style: italic;
+      max-width: var(--line-length);
+    }
+    
+    cite {
+      font-size: 0.9rem;
+      color: var(--text-light);
+      font-style: normal;
+    }
+
+    /* Utility Classes */
+
+    .img-circle {
+      border-radius: 50%;
+  }
+
+    .list-unstyled {
+      list-style: none;
+      padding: 0;
+  }
+
+    .list-multi-col{
+      column-width: 12em;
+      column-gap: 2em;
+  }
+
+    .text-uppercase {
+      text-transform: uppercase;
+      letter-spacing: 1px;
+  }
+
+    .vis-hidden {
+      border: 0;
+      clip: rect(0 0 0 0);
+      height: auto;
+      margin: 0;
+      overflow: hidden;
+      padding: 0; 
+      position: absolute;
+      width: 1px;
+      white-space: nowrap;
+    }
+
+    .auto-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(var(--auto-grid-min-size, 10rem), 2fr));
+      grid-gap: 1.5rem;
+    }
+
+    .flexo {
+      display: flex;
+      flex-wrap: wrap;
+      margin: -0.5em;
+    }
+    
+    .flexo > * {
+      flex: 1 0 18em;
+      margin: 0.75em;
+    }
+
+    .lib-item {
+      font-size: 0.75em;
+      padding: 1em 1em 1em 0;
+    }
+    
+    .lib-title {
+      font-weight: 700;
+    }
+    
+    .lib-cover {
+      height: 8em;
+      width: auto;
+      border: 1px solid rgba(0, 0, 0, 0.0185);
+    }
+
+}

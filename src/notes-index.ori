@@ -1,0 +1,15 @@
+(notes) => page.ori({
+  title: "Notes"
+  @text: `
+    <h1>${ title }</h1>
+    <ol reversed>
+
+    ${ @map(notes, (note,filename) => `
+      <li>
+        <a href="/notes/${ filename }">${ note/date }</a>
+      </li>
+    `) }
+
+    </ol>
+  `
+})

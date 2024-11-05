@@ -1,0 +1,13 @@
+// Turn all the markdown files in `notes` into data ready for templating
+
+// Turn the markdown in each note into HTML
+@map(notes, @mdHtml)
+
+-> (notesHtml) => @map(notesHtml, (note) => {
+  ...notes
+  date: new:@js/Date(note/date)
+})
+
+-> (notesWithDates) => @sort(notesWithDates, (note) => note/date)
+
+-> @reverse
