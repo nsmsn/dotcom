@@ -5,7 +5,7 @@
   :root {
     /* Color */
     --color-fg: #F0F0F0;
-    --color-bg: #040014;
+    --color-bg: #31233c;
     --color-accent: #6161ff;
 
     /* Spacing */
@@ -109,6 +109,14 @@
     color: currentColor;
   }
 
+  details summary { 
+    cursor: pointer;
+  }
+  
+  details summary > * {
+    display: inline;
+  }
+
   img,
   svg,
   video {
@@ -130,7 +138,7 @@
       margin-block: 0.75em;
       line-height: 1.2;
       text-wrap: balance;
-      letter-spacing: -0.05ch;
+      letter-spacing: -0.025ch;
     }
 
     p&, ol&, ul& {
@@ -162,19 +170,28 @@
 
 @layer custom {
     body {
-        max-width: 64em;
-        margin-left: 1em;
-        margin-right: 1em;
-        margin: 0 auto;
+      display: flex;
+      min-height: 100vh;
+      flex-direction: column;
+      margin-left: 1em;
+      margin-right: 1em;
+      margin: 0 auto;
     }
 
     main {
       padding: 0.5rem 1rem;
+      flex-grow: 1;
     }
 
     footer {
+      background: rgba(0, 0, 0, 0.125);
       margin-top: var(--stack);
       font-size: var(--pt-bourgeois);
+      line-height: 1.75;
+      padding-top: 1rem;
+      padding-bottom: 1rem;
+      padding-left: 1rem;
+      padding-right: 1rem;
     }
 
     /* Format headings */
@@ -317,5 +334,24 @@
       width: auto;
       border: 1px solid rgba(0, 0, 0, 0.0185);
     }
+
+    @media screen and (min-width: 980px) {
+      .recent-played {text-align: end;}
+    }
+  
+  .skip-to-content{
+    padding-left: 2em;
+    font-size: 14px;
+    padding-bottom: 1rem;
+  }
+  
+  .site-logo {
+    display: block;
+    padding-left: 1.5em;
+  }
+
+  nav ul li {
+    display: inline-block;
+    padding-inline-end: 0.5em;}
 
 }

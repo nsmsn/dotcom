@@ -1,11 +1,11 @@
 {
-  index.html = "Hello!"
+  blank.html = "This page intentionally left blank."
 
   assets 
 
   img
 
-  library.html = libraryPage.ori(library.json)
+  library.html = libraryPage.ori(data/library.json)
 
   posts = {
     ...@map(postsData.ori, post.ori)
@@ -25,7 +25,9 @@
     index.html = tags-index.ori(tagsData.ori)
   }
 
-  vinyl.html = vinylPage.ori(vinyl.json)
+  vinyl.html = vinylPage.ori(data/vinyl.json)
+
+  ...@map(@map(slash, @mdHtml), page.ori)
 
   favicon.ico
   robots.txt 
