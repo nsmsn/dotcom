@@ -6,6 +6,6 @@ title: Nick Simson
 
 I'm a graphic and interaction designer who lives and works in New Mexico. 
 
-I write short [notes](/notes.html) and longer [posts](/posts) on a variety of [topics](/tags/).
+I write short [notes](/notes/) and longer [posts](/posts/) on a variety of [topics](/tags/).
 
 Read more [about me](/about.html), or see what I'm up to [now](/now.html).
