@@ -3,8 +3,7 @@ title: Ditch Twitter. And Instagram. And Goodreads.
 description: Making social media work for me (not the billionaires).
 date: 	2022-05-01T20:18:23Z
 tags:
-  - websites
-layout: layouts/post.njk
+  - Websites
 ---
 
 In a 2014 essay called [Ditching Twitter](http://incisive.nu/2014/ditching-twitter/), Erin Kissane wrote about her personal dissatisfaction with the social network. The issues with the platform she diagnosed seven-plus years ago are still there. I keep coming back to this essay since it is about making something imperfect, broken even, work somehow for you.

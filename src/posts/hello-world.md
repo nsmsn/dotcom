@@ -4,8 +4,7 @@ id: 001
 description: An obligatory first blog post.
 date: 2014-11-29
 tags:
-  - personal
-layout: layouts/post.njk
+  - Personal
 ---
 
 Hello, world.

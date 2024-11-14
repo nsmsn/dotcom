@@ -3,8 +3,7 @@ title: Books finished in 2019
 description: I finished 7,122 pages and 22 books.
 date: 2020-01-01
 tags:
-  - books
-layout: layouts/post.njk
+  - Books
 ---
 In 2019 I consumed a lot of books that I would consider "impulse adds" on Goodreads. A bunch were from authors I heard on radio or podcasts. I know I attempted a novel, a collection of short stories and maybe other works of fiction this year, but clearly they did not stick.
 

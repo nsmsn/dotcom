@@ -3,8 +3,7 @@ title: Web fonts and base HTML
 description: My rationale for these new fonts, plus a poor man’s style guide. 
 date: 2020-12-19
 tags:
-  - redesign
-layout: layouts/post.njk
+  - Redesign
 ---
 
 

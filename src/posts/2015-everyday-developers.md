@@ -3,8 +3,7 @@ title: Everyday developers
 description: On specialization, generalization, and being no stranger to change.
 date: 2015-08-31
 tags:
-  - design
-layout: layouts/post.njk
+  - Design
 ---
 
 I always enjoy [The Web Ahead](http://thewebahead.net) podcast, hosted by [Jen Simmons](http://jensimmons.com/). For the past 4 years and over 100 episodes, Jen has been researching very specific topics, booking the best possible guests, and then going deep into that subject matter for a good hour or so. I make it a point to catch up after each episode is published, as I've found it to be an indespensible resource to keep up with new technologies and conversations surrounding the world wide web, and the people who work on it.

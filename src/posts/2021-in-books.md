@@ -3,8 +3,7 @@ title: Books finished in 2021
 description: I finished 7,449 pages and 20 books.
 date: 2022-01-02
 tags:
-  - books
-layout: layouts/post.njk
+  - Books
 ---
 In 2021 I managed to complete more fiction titles, including the Pynchon and Murakami books I started last year. 
 

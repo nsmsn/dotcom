@@ -4,8 +4,7 @@ id: 002
 description: What to learn, how to learn it, and what to learn next.
 date: 2015-09-07
 tags:
-  - learning
-layout: layouts/post.njk
+  - Learning
 ---
 
 A week ago [I shared a few highlights and my impressions](http://nicksimson.com/everyday-developers/) from a recent Web Ahead discussion about "everyday developers". I made the point that web development is not a monolith: There are a lot of different kinds of websites, there are a ton of different tools and ways to deploy a site, and noone should be expected to know everything.

@@ -3,8 +3,7 @@ title: Thank you, Knoxville
 description: Saying farewell to the Scruffy Little City.
 date: 2023-06-15T22:27:12Z
 tags:
-  - places
-layout: layouts/post.njk
+  - Places
 ---
 
 I vividly remember looking at apartments in Knoxville on January 13, 2010. I only remember that it was the thirteenth, because it was the morning after [Lane Kiffin announced he was leaving the Tennessee Vols](https://www.knoxnews.com/story/sports/college/university-of-tennessee/football/2020/01/12/10-years-ago-lane-kiffin-left-tennessee-vols-become-coach-usc/4448431002/). It was quite the weekend on sports talk radio as I was driving around town. 

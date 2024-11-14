@@ -3,8 +3,7 @@ title: Never
 description: Never say never. These are some things I have not done.
 date: 2022-09-25T14:50:32+0000
 tags:
-  - personal
-layout: layouts/post.njk
+  - Personal
 ---
 
 This is not a bucket list. These are just a handful of things that haven’t happened for me yet, and perhaps some things I will never get around to. Never say never, though.

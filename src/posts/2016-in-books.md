@@ -3,8 +3,7 @@ title: Books finished in 2016
 description: I finished 5,323 pages and 17 books.
 date: 2017-01-02
 tags:
-  - books
-layout: layouts/post.njk
+  - Books
 ---
 
 In 2015 I became a dog guardian for the first time. Zelda is still a young pup and requires a lot of walking, so audiobooks are becoming my new friend. I expect I will be listening to a lot more in 2017.

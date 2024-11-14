@@ -3,8 +3,7 @@ title: Commonplace books, gardens, and streams
 description: An antique concept gets a digital upgrade.
 date: 2021-09-04
 tags:
-  - websites
-layout: layouts/post.njk
+  - Websites
 ---
 
 Earlier this summer I discovered that the [Homebrew Website Club](https://events.indieweb.org/) is meeting each week virtually. Due to my time zone and work schedule, I’ve only been able to attend a few club meetings so far. I’ve found it to be a great chance to stay up late and meet other folks passionate about the web, sharing what we’re working on, as well as sources of inspiration.

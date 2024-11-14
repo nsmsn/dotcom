@@ -3,8 +3,9 @@ title: An engine, a building, a garden
 description: Thoughts on personal websites, including this one.
 date: 2021-02-17
 tags:
-  - redesign
-layout: layouts/post.njk
+  - Redesign
+  - This site
+  - Websites
 ---
 
 For a couple years, I have been maintaining a collection on Are.na called [The Art of the Personal Website](https://www.are.na/nick-simson/the-art-of-the-personal-website). There are larger and more popular lists and directories, but I mainly use this as a repository for personal sites that catch my eye as I come across them in the wild. Some are [portfolios](https://www.nicchan.me/projects/), some are [blogs](https://macwright.com/). Some are harder to classify. Some sites have a [minimal layout and aesthetic](https://estrattonbailey.com/), some are much more [experimental](https://nathan.tokyo/). All have something about them that feels handcrafted.

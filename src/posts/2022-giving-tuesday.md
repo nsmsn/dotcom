@@ -3,8 +3,7 @@ title: Giving Tuesday
 description: This holiday season, be generous. Radically.
 date: 2022-11-29T11:26:26+0000
 tags:
-  - personal
-layout: layouts/post.njk
+  - Personal
 ---
 
 Today is [Giving Tuesday](https://en.wikipedia.org/wiki/GivingTuesday), a worldwide holiday for giving to organizations working to transform their communities. Since 2012, it has been celebrated the Tuesday after Thanksgiving, Black Friday, Cyber Monday to highlight charity, philanthropy and nonprofits doing good around the globe. The official [GivingTuesday.org website](https://www.givingtuesday.org/) uses the phrase “radical generosity” throughout its content, defined as “the concept that the suffering of others should be as intolerable to us as our own suffering.”

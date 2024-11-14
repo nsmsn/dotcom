@@ -3,8 +3,7 @@ title: Cedric Johnson on Public Goods and Inequality
 description: Beyond slogans and cynicism. Identifying complexity and contradiction.
 date: 2021-01-17
 tags:
-  - scholars
-layout: layouts/post.njk
+  - Scholars
 ---
 
 My introduction to Cedric Johnson and his work was an  [interview with Johnson on the Michael Brooks Show](https://www.youtube.com/watch?v=907lFP0j1Dg) (R.I.P.) in June of 2020. 

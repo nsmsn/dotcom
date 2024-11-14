@@ -3,8 +3,7 @@ title: These webfonts do not track you
 description: Self-hosting web typography for privacy and performance enhancements.
 date: 2022-07-03T01:08:13Z
 tags:
-  - redesign
-layout: layouts/post.njk
+  - Redesign
 ---
 
 For a while I have proudly displayed the following statement on my about page:

@@ -3,8 +3,7 @@ title: Lullabies
 description: I’m a dad!
 date: 2022-03-13
 tags:
-  - personal
-layout: layouts/post.njk
+  - Personal
 ---
 
 I’m a dad! [Eleanor](https://eleanoraldrich.com) and I welcomed the arrival of our first child. Witnessing her birth was the most amazing experience and we’re thankful for a safe delivery and healthy baby.

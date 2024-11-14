@@ -3,8 +3,7 @@ title: Learn JavaScript with Morten Rand-Hendriksen
 description: Learn the web’s scripting language in 10 chapters.
 date: 2021-02-21
 tags:
-  - learning
-layout: layouts/post.njk
+  - Learning
 ---
 
 I’ve learned a lot of technical skills from Morten Rand-Hendriksen’s courses on LinkedIn Learning (a.k.a. Lynda.com). I met Morten in person in 2019 and had the chance to tell him this in person.

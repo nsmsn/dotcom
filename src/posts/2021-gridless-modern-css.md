@@ -3,8 +3,7 @@ title: Gridlessness and modern CSS
 description: There’s never been a better time to learn (or re-learn) CSS.
 date: 2021-07-21
 tags:
-  - learning
-layout: layouts/post.njk
+  - Learning
 ---
 
 I just finished reading [gridless.design](https://gridless.design/), Donnie D’Amato’s thesis (in the form of a website) for doing away with the <i>n</i>-column grid or the <i>n</i>-pixel grid in the web design process. [Go read it](https://gridless.design/), if you haven’t already.

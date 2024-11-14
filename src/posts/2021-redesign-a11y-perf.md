@@ -3,8 +3,8 @@ title: Accessibility and Performance
 description: A few handy code snippets and more. 
 date: 2021-02-07
 tags:
-  - redesign
-layout: layouts/post.njk
+  - Accessibility
+  - Redesign
 ---
 
 I have read and agree with Robin Rendle's sentiment: [accessibility and web performance are not features, they’re the baseline ](https://css-tricks.com/accessibility-and-web-performance-are-not-features-theyre-the-baseline/). 

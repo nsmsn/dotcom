@@ -3,8 +3,9 @@ title: Adding an accessibility statement
 description: An important new feature to this site.
 date: 2022-05-30T11:23:57Z
 tags:
-  - redesign
-layout: layouts/post.njk
+  - Accessibility
+  - Redesign
+  - This site
 ---
 
 With the latest deployment of this website, you should be able to see a link labeled “Accessibility” in the <code>footer</code>. This will take you to my [accessibility statement](/accessibility/). This is important to me for a few reasons:

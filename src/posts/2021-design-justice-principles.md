@@ -3,8 +3,7 @@ title: Design Justice Principles
 description: Thinking about co-creation as a force for good.
 date: 2021-01-30
 tags:
-  - design
-layout: layouts/post.njk
+  - Design
 ---
 
 After I set up my [now page](/now/) late in December, I found myself creating [yet another profile](https://nownownow.com/p/Mu02), to get included in the [directory of now pages](https://nownownow.com/). My new profile included space for a book recommendation and a quote. I wanted my quote to be original and pithy, and after a moment, it popped in my head:

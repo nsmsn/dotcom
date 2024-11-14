@@ -3,8 +3,7 @@ title: Books finished in 2022
 description: I finished 4,310 pages and 15 books.
 date: 2023-01-01T14:20:57Z
 tags:
-  - books
-layout: layouts/post.njk
+  - Books
 ---
 
 In 2022, the books I was able to finish tended to be on the shorter side, compared to previous years. You’ll find several books on this list hovering around or under 200 pages. 

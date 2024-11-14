@@ -6,8 +6,7 @@ description:
   works everywhere.
 date: 2015-03-07
 tags:
-  - process
-layout: layouts/post.njk
+  - Process
 ---
 
 <figure><a href="http://tumbleweedsband.com/"><img src="/img/post-images/tw-web-preview.jpg" alt="Screenshots of The Tumbleweeds website" /></a>

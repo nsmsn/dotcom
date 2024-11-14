@@ -4,7 +4,7 @@
 @map(notes, @mdHtml)
 
 -> (notesHtml) => @map(notesHtml, (note) => {
-  ...notes
+  ...note
   date: new:@js/Date(note/date)
 })
 

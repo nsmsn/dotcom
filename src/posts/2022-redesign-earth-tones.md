@@ -3,8 +3,8 @@ title: Earth tones
 description: A new color scheme and a little CSS refactor spurred on by using dark mode. 
 date: 2022-08-09T23:37:55Z
 tags:
-  - redesign
-layout: layouts/post.njk
+  - Redesign
+  - This site
 ---
 
 Nope, it is not déjà vu. I revised my website colors again. This time, if you are viewing my website in in light mode, you are seeing a rich brown text on a creamy, ivory-colored background. In dark mode, you are likely seeing light text on a rich chocolatey dark brown background. 

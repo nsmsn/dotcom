@@ -3,8 +3,7 @@ title: Boone
 description: Goodbye, Dad.
 date: 2021-11-09
 tags:
-  - personal
-layout: layouts/post.njk
+  - Personal
 ---
 
 After he moved out west, he tried going by “Ed”. Back east, Ed was his dad’s name and all family, close friends, and everyone he grew up with knew him as Boone. My sister and I called him Dad.

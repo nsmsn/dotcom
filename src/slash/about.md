@@ -28,7 +28,7 @@ I’m married to Eleanor, who makes paintings. We live in New Mexico with our pr
 
 ## Get in touch
 
-Send me email: nick@nicksimson.com. This is the quickest way to reach me.
+Send me email: <a href="mailto:nick@nicksimson.com">nick@nicksimson.com</a>. This is the quickest way to reach me.
 
 I’m also on Bluesky, Mastodon, and a few other places.
 
@@ -36,7 +36,7 @@ I’m also on Bluesky, Mastodon, and a few other places.
 
 ## This website
 
-This is the sixth major version of nicksimson.com, a URL I registered in 2008. This is a static site, built with WebOrigami and hosted with Netlify.
+This is the sixth major version of nicksimson.com, a URL I registered in 2008. This is a static site, built with [Web Origami](https://weborigami.org/) and hosted with [Netlify](https://netlify.com).
 
 The primary typeface is Hanken Grotesk, with <code>code samples</code> set in TK, and supporting text set in Server Mono.
 

@@ -3,8 +3,7 @@ title: Simple sites and HTML energy
 description: Start something small and let it grow.
 date: 2023-03-18T13:02:36Z
 tags:
-  - websites
-layout: layouts/post.njk
+  - Websites
 ---
 
 I recently purchased a great domain name (at least I think so). Over the last couple weeks I’ve slowly been tinkering away at [Typo.town](https://typo.town/), a personal resource on typography. I have a vision for what I eventually want this website to be, but it will take me some time to get there. So right now, it’s pretty much a landing page plus two lists, with some classification stuff I hope will be useful metadata in the future.

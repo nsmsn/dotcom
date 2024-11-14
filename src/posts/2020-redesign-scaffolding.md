@@ -3,8 +3,7 @@ title: Scaffolding
 description: Setting up a structure for the cascade.
 date: 2020-12-30
 tags:
-  - redesign
-layout: layouts/post.njk
+  - Redesign
 ---
 
 A few things have changed visually since [the last snapshot](http://web.archive.org/web/20201221200650/http://nicksimson.com/): Some of the base styles, the header, the footer, the [home page](https://nicksimson.com). I want to write a little about some things happening behind the scenes.

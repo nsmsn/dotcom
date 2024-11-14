@@ -3,8 +3,7 @@ title: Many best practices
 description: There’s more than one way to skin a website.
 date: 2016-06-11
 tags:
-  - design
-layout: layouts/post.njk
+  - Design
 ---
 
 I recently stumbled across a website called [Web Field Manual](http://webfieldmanual.com/), a directory of resources "focused on documenting only the best knowledge for designing experiences and interfaces on the web."

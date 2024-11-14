@@ -3,8 +3,7 @@ title: NewwwYear Itches
 description: A few things I’d like to do with my site in 2023.
 date: 2023-01-11T16:40:02Z
 tags:
-  - redesign
-layout: layouts/post.njk
+  - Redesign
 ---
 
 The [#NewwwYear hashtag](https://indieweb.org/newwwyear) was [popularized by Jen Simmons on Twitter in 2017](https://twitter.com/jensimmons/status/943323088405581824) for the purpose of making commitments and improvements to your personal website. The idea behind it is similar to New Year’s resolutions: taking small, but concrete steps toward building and improving one’s website. 

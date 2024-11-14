@@ -350,8 +350,14 @@
     padding-left: 1.5em;
   }
 
+  .home-heading {
+    margin-top: 0.75em;
+  }
+
   nav ul li {
     display: inline-block;
     padding-inline-end: 0.5em;}
+
+  
 
 }

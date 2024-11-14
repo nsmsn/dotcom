@@ -4,8 +4,7 @@ id: 003
 description: Mary Ruefle’s writing is a blow to the skull and a balm to the soul.
 date: 2015-05-17
 tags:
-  - books
-layout: layouts/post.njk
+  - Books
 ---
 
 <a href="http://www.wavepoetry.com/products/madness-rack-and-honey"><img class="book" src="/img/post-images/ruefle-madness.jpg" alt="Cover of Madness, Rack, and Honey" /></a>

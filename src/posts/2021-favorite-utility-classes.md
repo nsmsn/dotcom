@@ -3,8 +3,7 @@ title: My six favorite utility classes
 description: Bits of CSS I re-use in almost every project.
 date: 2021-08-07
 tags:
-  - redesign
-layout: layouts/post.njk
+  - Redesign
 ---
 
 My approach to writing CSS these days lays somewhere in between Andy Bell’s [CUBE CSS](https://cube.fyi/) and Harry Roberts’ [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/). I prefer Andy’s definition of a utility class from the CUBE CSS docs:
