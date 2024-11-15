@@ -1,6 +1,9 @@
 (posts) => page.ori({
   title: "Posts"
   @text: `
+    <link rel="alternate" type="application/rss+xml" title="${ siteInfo.yaml/description }" href="feed-posts.xml">
+    <link rel="alternate" type="application/json" title="${ siteInfo.yaml/description }" href="feed-posts.json">
+    
     <h1>${ title }</h1>
     <ol reversed>
 

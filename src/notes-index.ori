@@ -6,7 +6,24 @@
 
     ${ @map(notes, (note,filename) => `
       <li>
-        <a href="/notes/${ filename }">${ note/date }</a>
+        <a href="/notes/${ filename }">
+          ${
+            // Format the date in US style, e.g.: Jan 1, 2024
+            note/date/toLocaleString("en-US", {
+              month: "short"
+              day: "numeric"
+              year: "numeric"
+            })
+          }
+
+          ${
+            // Format the time
+            note/date/toLocaleTimeString("en-US", {
+              hour: "2-digit"
+              minute: "2-digit"
+            })
+          }
+        </a>
       </li>
     `) }
 

@@ -32,4 +32,10 @@
   favicon.ico
   robots.txt 
   humans.txt 
+
+  posts-feed.json = @json(feed-posts.ori(postsData.ori))
+  posts-feed.xml = @rss(feed-posts.ori(postsData.ori))
+  notes-feed.json = @json(feed-notes.ori(notesData.ori))
+  notes-feed.xml = @rss(feed-notes.ori(notesData.ori))
+
 }
