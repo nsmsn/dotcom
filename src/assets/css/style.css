@@ -1,7 +1,5 @@
 @import url(https://fonts.bunny.net/css?family=hanken-grotesk:400,400i,700,700i);
-@layer config, resets, custom;
 
-@layer config {
   :root {
     /* Color */
     --color-fg: #F0F0F0;
@@ -23,21 +21,6 @@
     --font-size-min: 100%;
     --font-size-max: 150%;
     --leading: 1.4;
-
-    /* Traditional point sizes */
-    --pt-double-canon: 4.666rem;
-    --pt-canon: 3.999rem;
-    --pt-double-great-primer: 2.999rem;
-    --pt-double-english: 2.333rem;
-    --pt-double-pica: 2rem;
-    --pt-paragon: 1.666rem;
-    --pt-great-primer: 1.5rem;
-    --pt-english: 1.166rem;
-    --pt-pica: 1rem;
-    --pt-small-pica: 0.916rem;
-    --pt-long-primer: 0.833rem;
-    --pt-bourgeois: 0.75rem;
-    --pt-minion: 0.583rem;
 
     font-family: var(--font);
     font-size: clamp(
@@ -74,201 +57,233 @@
       --color-bg: white;
     }
   }
+
+*,
+*::before,
+*::after {
+  font-feature-settings: "kern";
+  font-kerning: normal;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
 }
 
-@layer resets {
-  *,
-  *::before,
-  *::after {
-    font-feature-settings: "kern";
-    font-kerning: normal;
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;
-    box-sizing: border-box;
-  }
+input:is([type="checkbox"], [type="radio"]),
+select,
+label,
+button {
+  cursor: pointer;
+}
 
-  * {
-    margin: 0;
-    padding: 0;
-  }
+input,
+select,
+textarea,
+button {
+  font: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: currentColor;
+}
 
-  input:is([type="checkbox"], [type="radio"]),
-  select,
-  label,
-  button {
-    cursor: pointer;
-  }
+details summary { 
+  cursor: pointer;
+}
 
-  input,
-  select,
-  textarea,
-  button {
-    font: inherit;
-    letter-spacing: inherit;
-    word-spacing: inherit;
-    color: currentColor;
-  }
+details summary > * {
+  display: inline;
+}
 
-  details summary { 
-    cursor: pointer;
-  }
-  
-  details summary > * {
-    display: inline;
-  }
+img,
+svg,
+video {
+  display: block;
+  max-inline-size: 100%;
+  block-size: auto;
+}
 
-  img,
-  svg,
-  video {
-    display: block;
-    max-inline-size: 100%;
-    block-size: auto;
-  }
+p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
+}
 
-  p, h1, h2, h3, h4, h5, h6 {
-    overflow-wrap: break-word;
-  }
-
-  ol, ul {
-    list-style: none;
-  }
-
-  :not([class]) {
-    h1&, h2&, h3&, h4&, h5&, h6& {
-      margin-block: 0.75em;
-      line-height: 1.2;
-      text-wrap: balance;
-      letter-spacing: -0.025ch;
-    }
-
-    p&, ol&, ul& {
-      margin-block: 1em;
-    }
-
-    ol&, ul& {
-      padding-inline-start: 1.5em;
-      list-style: revert;
-    }
-
-    li& {
-      margin-block: 0.5em;
-    }
-  }
-
-  @media (forced-colors: active) {
-    button {
-      border: 1px solid;
-    }
-  }
-
-  @media (prefers-reduced-motion: no-preference) {
-    :root {
-      scroll-behavior: smooth;
-    }
+:not([class]) {
+  h1&, h2&, h3&, h4&, h5&, h6& {
+    margin-block: 0.75em;
+    line-height: 1.2;
+    text-wrap: balance;
+    letter-spacing: -0.025ch;
   }
 }
 
-@layer custom {
-    body {
-      display: flex;
-      min-height: 100vh;
-      flex-direction: column;
-      margin-left: 1em;
-      margin-right: 1em;
-      margin: 0 auto;
-    }
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: black;
+}
 
-    main {
-      padding: 0.5rem 1rem;
-      flex-grow: 1;
-    }
+body {
+  background-color: var(--color-bg);
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  margin: 0 auto;
+}
 
-    footer {
-      background: rgba(0, 0, 0, 0.125);
-      margin-top: var(--stack);
-      font-size: var(--pt-bourgeois);
-      line-height: 1.75;
-      padding-top: 1rem;
-      padding-bottom: 1rem;
-      padding-left: 1rem;
-      padding-right: 1rem;
-    }
+main {
+  padding: 0.5rem 1rem;
+  flex-grow: 1;
+}
 
-    /* Format headings */
-    h1 {
-      font-size: 2.5rem;
-    }
+footer {
+  background: rgba(0, 0, 0, 0.125);
+  line-height: 1.75;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
 
-    h2 {
-      font-size: 2rem;
-    }
+/* Format headings */
+h1 {
+  font-size: 2.5rem;
+}
 
-    h3 {
-      font-size: 1.75rem;
-    }
+h2 {
+  font-size: 2rem;
+}
 
-    h4 {
-      font-size: 1.325rem;
-    }
+h3 {
+  font-size: 1.75rem;
+}
 
-    h5 {
-      font-size: 1.125rem;
-    }
+h4 {
+  font-size: 1.325rem;
+}
 
-    h6 {
-      font-size: 0.96rem;
-    }
+h5 {
+  font-size: 1.125rem;
+}
+
+h6 {
+  font-size: 0.96rem;
+}
 
 
-    @media (min-width: 32em){
-      h1 {
-        font-size: var(--pt-canon);
-      }
-  
-      h2 {
-        font-size: var(--pt-double-great-primer);
-      }
-  
-      h3 {
-        font-size: var(--pt-double-english);
-      }
-  
-      h4 {
-        font-size: var(--pt-double-pica);
-      }
-  
-      h5 {
-        font-size: var(--pt-paragon);
-      }
-  
-      h6 {
-        font-size: var(--pt-english);
-      }
-    }
+@media (min-width: 32em){
+  h1 {
+    font-size: 3.999rem;
+  }
 
-    p, li {
-      max-width: var(--line-length);
-    }
+  h2 {
+    font-size: 2.999rem;
+  }
 
-    small {
-      font-size: var(--pt-bourgeois);
-    }
+  h3 {
+    font-size: 2.333rem;
+  }
 
-    blockquote {
-      margin-inline-end: 0;
-      margin-block: 2rem;
-      padding: 0.4rem 1rem;
-      border-inline-start: 0.35rem solid var(--color-accent);
-      color: var(--text-light);
-      font-style: italic;
-      max-width: var(--line-length);
-    }
-    
-    cite {
-      font-size: 0.9rem;
-      color: var(--text-light);
-      font-style: normal;
-    }
+  h4 {
+    font-size: 2rem;
+  }
+
+  h5 {
+    font-size: 1.666rem;
+  }
+
+  h6 {
+    font-size: 1.166rem;
+  }
+}
+
+.container {
+  width: 95%;
+  margin: 0 auto;
+}
+
+.container p, .container ol li, .container ul li {
+  max-width: var(--line-length);
+}
+
+.control {
+  float: right;
+  border: 1px solid;
+  text-decoration: none;
+  border-radius: 0.25em;
+  padding: 0.25em 0.5em;
+}
+
+a.control:hover,
+a.control:focus,
+a.control:active {
+  text-decoration: none;
+  background-color: #ff8200;
+  border: 1px solid #ff8200;
+  color: black;
+}
+
+.canvas,
+[role="navigation"] {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  min-height: 100%;
+}
+
+.canvas {
+  background: var(--color-bg);
+  color: var(--color-fg);
+  display: flex;
+  flex-direction: column;
+}
+
+.canvas + * {
+  flex-grow: 1;
+}
+
+.off-canvas {
+  background-color: black;
+  color: white;
+}
+
+.off-canvas a {
+  color: yellow;
+}
+
+[role="navigation"] {
+  padding: 1em 5% 3em;
+}
+
+@media screen {
+  .cutsthemustard .canvas {
+      -webkit-transition: all .25s;
+      transition: all .25s;
+      width: 100%;
+      position: absolute;
+      z-index: 2;
+      top: 0;
+      right: 0;
+  }
+  .cutsthemustard [role="navigation"] {
+      width: 75%;
+      position: absolute;
+      position: fixed;
+      overflow: hidden;
+      overflow-y: scroll;
+      z-index: 1;
+      top: 0;
+      right: 0;
+      height: 100%;
+      height: 100vh
+  }
+  .cutsthemustard .active .canvas {
+      -webkit-transform: translateX(-75%);
+      -ms-transform: translateX(-75%);
+      transform: translateX(-75%);
+  }
+}
 
     /* Utility Classes */
 
@@ -303,6 +318,8 @@
       white-space: nowrap;
     }
 
+    /* Grid stuff */    
+
     .auto-grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(var(--auto-grid-min-size, 10rem), 2fr));
@@ -320,6 +337,8 @@
       margin: 0.75em;
     }
 
+    /* Collections */     
+    
     .lib-item {
       font-size: 0.75em;
       padding: 1em 1em 1em 0;
@@ -334,30 +353,3 @@
       width: auto;
       border: 1px solid rgba(0, 0, 0, 0.0185);
     }
-
-    @media screen and (min-width: 980px) {
-      .recent-played {text-align: end;}
-    }
-  
-  .skip-to-content{
-    padding-left: 2em;
-    font-size: 14px;
-    padding-bottom: 1rem;
-  }
-  
-  .site-logo {
-    display: block;
-    padding-left: 1.5em;
-  }
-
-  .home-heading {
-    margin-top: 0.75em;
-  }
-
-  nav ul li {
-    display: inline-block;
-    padding-inline-end: 0.5em;}
-
-  
-
-}

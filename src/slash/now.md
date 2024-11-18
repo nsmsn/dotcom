@@ -4,7 +4,7 @@ title: Now
 
 # Now
 
-<script src="https://status.lol/nsmsn.js?time&link&pretty"></script>
+<script src="https://status.lol/nsmsn.js?time&link&fluent&pretty"></script>
 
 &nbsp;
 
@@ -30,4 +30,4 @@ I use Literal to keep track of my reading.
 
 <a href="https://www.last.fm/user/nsmsn"><img src="https://lastfm-recently-played.vercel.app/api?user=nsmsn&count=10&width=300" height="auto" width="300px" loading="lazy" alt="recently played songs from my Last dot FM profile"/></a>
 
-My last.fm account keeps track of music I listen to throughout the day. Stats are fun. I'm also scrobbling to Libre.fm now!
+[My last.fm account](https://www.last.fm/user/nsmsn) keeps track of music I listen to throughout the day. Stats are fun. I'm also scrobbling to [Libre.fm](https://libre.fm/user/nsmsn) now!

@@ -11,12 +11,19 @@
 
   </head>
   <body>
-    ${ topNav.html }
+  <div class="canvas">
+    ${ header.html }
     <main id="main-content">
+    <div class="container">
     ${ page/@text }
+    </div>
     </main>
+  
 
     ${ footer.html }
+ </div>   
+    ${ navigation.html }
+  <script src="/assets/js/offcanvas.js"></script>  
   </body>
 </html>
 `
