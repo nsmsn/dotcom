@@ -10,11 +10,15 @@
   posts = {
     ...@map(postsData.ori, post.ori)
     index.html = posts-index.ori(postsData.ori)
+    feed.json = @json(feed-posts.ori(postsData.ori))
+    feed.xml = @rss(feed-posts.ori(postsData.ori))
   }
 
   notes = {
     ...@map(notesData.ori, note.ori)
     index.html = notes-index.ori(notesData.ori)
+    feed.json = @json(feed-notes.ori(notesData.ori))
+    feed.xml = @rss(feed-notes.ori(notesData.ori))
   }
 
   tags = {
@@ -31,11 +35,6 @@
 
   favicon.ico
   robots.txt 
-  humans.txt 
-
-  posts-feed.json = @json(feed-posts.ori(postsData.ori))
-  posts-feed.xml = @rss(feed-posts.ori(postsData.ori))
-  notes-feed.json = @json(feed-notes.ori(notesData.ori))
-  notes-feed.xml = @rss(feed-notes.ori(notesData.ori))
+  humans.txt
 
 }
