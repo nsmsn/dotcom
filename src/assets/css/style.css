@@ -1,10 +1,27 @@
 @import url(https://fonts.bunny.net/css?family=hanken-grotesk:400,400i,700,700i);
 
+/* Server Mono */
+@font-face {
+  font-family: "Server Mono";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/assets/fonts/ServerMono-Regular.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Server Mono";
+  font-style: italic;
+  font-weight: 400;
+  src: url("/assets/fonts/ServerMono-Regular-Italic.woff2") format("woff2");
+  font-display: swap;
+}
+
   :root {
     /* Color */
     --color-fg: #F0F0F0;
-    --color-bg: #31233c;
-    --color-accent: #6161ff;
+    --color-bg: #283945;
+    --color-accent: #61bdff;
 
     /* Spacing */
     --gutter: clamp(3ch, 2.5vmax, 3.75ch);
@@ -21,6 +38,8 @@
     --font-size-min: 100%;
     --font-size-max: 150%;
     --leading: 1.4;
+    --font-hanken: 'Hanken Grotesk', system-ui, sans-serif;
+    --font-server: 'Server Mono', monospace;
 
     font-family: var(--font);
     font-size: clamp(
@@ -40,6 +59,7 @@
     :root {
       --color-fg: #404040;
       --color-bg: #f0f0f0;
+      --color-link: #283945;
       --color-accent: crimson;
     }
   }
@@ -120,7 +140,7 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  background: black;
+  background: var(--color-bg);
 }
 
 body {
@@ -129,6 +149,10 @@ body {
   min-height: 100vh;
   flex-direction: column;
   margin: 0 auto;
+}
+
+a {
+  color: var(--color-fg);
 }
 
 main {
@@ -143,6 +167,11 @@ footer {
   padding-bottom: 1rem;
   padding-left: 1rem;
   padding-right: 1rem;
+}
+
+footer p {
+  font-size: 0.875em;
+  line-height: 1.5;
 }
 
 /* Format headings */
@@ -206,21 +235,8 @@ h6 {
   max-width: var(--line-length);
 }
 
-.control {
-  float: right;
-  border: 1px solid;
-  text-decoration: none;
-  border-radius: 0.25em;
-  padding: 0.25em 0.5em;
-}
-
-a.control:hover,
-a.control:focus,
-a.control:active {
-  text-decoration: none;
-  background-color: #ff8200;
-  border: 1px solid #ff8200;
-  color: black;
+.container-small {
+  max-width: 32em;
 }
 
 .canvas,
@@ -244,12 +260,42 @@ a.control:active {
 }
 
 .off-canvas {
-  background-color: black;
+  background-color: #151e25;
   color: white;
 }
 
 .off-canvas a {
   color: yellow;
+  font-family: var(--font-server);
+}
+
+.off-canvas a:hover {
+  color: #ff8200;
+  font-family: var(--font-server);
+}
+
+.off-canvas li {
+  padding-bottom: 0.875em;
+}
+
+.control {
+  float: right;
+  border: 1px solid;
+  text-decoration: none;
+  border-radius: 0.25em;
+  padding: 0.25em 0.5em 0.125em 0.5em;
+  font-family: var(--font-server);
+  font-size: 0.875em;
+  text-transform: uppercase;
+}
+
+a.control:hover,
+a.control:focus,
+a.control:active {
+  text-decoration: none;
+  background-color: #ff8200;
+  border: 1px solid #ff8200;
+  color: black;
 }
 
 [role="navigation"] {
@@ -285,6 +331,10 @@ a.control:active {
   }
 }
 
+    .site-logo {
+      float: left;
+    }
+
     /* Utility Classes */
 
     .img-circle {
@@ -318,6 +368,12 @@ a.control:active {
       white-space: nowrap;
     }
 
+    .skip-to-content{
+      padding-left: 2em;
+      font-size: 14px;
+      padding-bottom: 1rem;
+    }
+
     /* Grid stuff */    
 
     .auto-grid {
@@ -340,7 +396,7 @@ a.control:active {
     /* Collections */     
     
     .lib-item {
-      font-size: 0.75em;
+      font-size: 0.875em;
       padding: 1em 1em 1em 0;
     }
     
