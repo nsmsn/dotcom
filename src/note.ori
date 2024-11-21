@@ -1,6 +1,13 @@
 (note) => page.ori({
   title: note/title
   @text: `
-    ${ note/@text }
+  <div class="note-single v-centered">
+  <article>
+  <small class="timestamp">Published <time datetime="${ note/date }" class="dt-published">${ date.ori(note/date) }</time> by <a rel="author" class="p-author h-card" href="/about.html">Nick</a></small>
+  <div class="text-large">
+  ${ note/@text }
+  </div>
+  </article>  
+  </div>  
   `
 })

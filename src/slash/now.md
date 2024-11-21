@@ -32,13 +32,13 @@ I use Literal to keep track of my reading.
 
 <a href="https://www.last.fm/user/nsmsn"><img src="https://lastfm-recently-played.vercel.app/api?user=nsmsn&count=10&width=300" height="auto" width="300px" loading="lazy" alt="recently played songs from my Last dot FM profile"/></a>
 
-[My last.fm account](https://www.last.fm/user/nsmsn) keeps track of music I listen to throughout the day. Stats are fun. I'm also scrobbling to [Libre.fm](https://libre.fm/user/nsmsn) now!
+[My last.fm account](https://www.last.fm/user/nsmsn) keeps track of music I listen to throughout the day. [Stats are fun](https://lastfmstats.com/user/nsmsn/dataset). I'm also scrobbling to [Libre.fm](https://libre.fm/user/nsmsn) as much as I can.
 
 &nbsp;
 
 <small>
 This page uses some third-party widgets to display my current status, books, and music.<br />
-<em>Last manually updated October 25, 2024.</em>
+<em>Last manually updated November 21, 2024.</em>
 </small>
 
 &nbsp;
