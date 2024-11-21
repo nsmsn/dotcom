@@ -7,7 +7,7 @@
   home_page_url: `${ siteInfo.yaml/url }`
   
   // Map the post data to JSON Feed items
-  items: @values(@map(notes, (note, key) => {
+  items: values(map(notes, (note, key) => {
     content_html: note/@text
     date_published: note/date
     id: `${ siteInfo.yaml/url }/notes/${ key }`

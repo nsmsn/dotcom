@@ -22,7 +22,7 @@ title: Hello, I'm Nick Simson
         }
       </script>
 
-Welcome to my little corner of the world wide web. 
+<p class="text-xl">Welcome to my little corner of the world wide web.</p>
 
 I write shorter [notes](/notes/) and longer [posts](/posts/) on a variety of [topics](/tags/).
 

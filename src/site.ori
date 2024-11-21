@@ -8,22 +8,22 @@
   library.html = libraryPage.ori(data/library.json)
 
   posts = {
-    ...@map(postsData.ori, post.ori)
+    ...map(postsData.ori, post.ori)
     index.html = posts-index.ori(postsData.ori)
-    feed.json = @json(feed-posts.ori(postsData.ori))
-    feed.xml = @rss(feed-posts.ori(postsData.ori))
+    feed.json = json(feed-posts.ori(postsData.ori))
+    feed.xml = rss(feed-posts.ori(postsData.ori))
   }
 
   notes = {
-    ...@map(notesData.ori, note.ori)
+    ...map(notesData.ori, note.ori)
     index.html = notes-index.ori(notesData.ori)
-    feed.json = @json(feed-notes.ori(notesData.ori))
-    feed.xml = @rss(feed-notes.ori(notesData.ori))
+    feed.json = json(feed-notes.ori(notesData.ori))
+    feed.xml = rss(feed-notes.ori(notesData.ori))
   }
 
   tags = {
-    ...@map(tagsData.ori, {
-      extension: "->html"
+    ...map(tagsData.ori, {
+      key: (items, tag) => `${ slug(tag) }.html`
       value: tagPage.ori
     })
     index.html = tags-index.ori(tagsData.ori)
@@ -31,7 +31,7 @@
 
   vinyl.html = vinylPage.ori(data/vinyl.json)
 
-  ...@map(@map(slash, @mdHtml), page.ori)
+  ...map(map(slash, mdHtml), page.ori)
 
   favicon.ico
   robots.txt 

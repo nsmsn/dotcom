@@ -351,11 +351,6 @@ a.control:active {
       column-gap: 2em;
   }
 
-    .text-uppercase {
-      text-transform: uppercase;
-      letter-spacing: 1px;
-  }
-
     .vis-hidden {
       border: 0;
       clip: rect(0 0 0 0);
@@ -389,6 +384,15 @@ a.control:active {
     .text-large {
       font-size: 1.166rem;
     }
+
+    .text-xl {
+      font-size: 1.666rem;
+    }
+
+    .text-uppercase {
+      text-transform: uppercase;
+      letter-spacing: 1px;
+  }
 
     .text-bold {
       font-weight: 700;

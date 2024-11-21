@@ -24,11 +24,13 @@ title: Now
 <div id="literal-widget" handle="nsmsn" status="IS_READING" layout="list"></div>
 <script src="https://literal.club/js/widget.js"></script>
 
-I use Literal to keep track of my reading.
+I use [Literal](https://literal.club/nsmsn/is-reading) to keep track of my reading.
 
 &nbsp;
 
 ## 🎧 Listening
+
+<script src="https://recentfm.rknight.me/now.js?u=nsmsn&e=🎵"></script>
 
 <a href="https://www.last.fm/user/nsmsn"><img src="https://lastfm-recently-played.vercel.app/api?user=nsmsn&count=10&width=300" height="auto" width="300px" loading="lazy" alt="recently played songs from my Last dot FM profile"/></a>
 

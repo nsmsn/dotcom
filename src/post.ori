@@ -4,5 +4,14 @@
     <h1>${ post/title }</h1>
     <small class="timestamp">Published <time datetime="${ post/date }" class="dt-published"><a class="u-url" href="${ post/url }">${ date.ori(post/date) }</a></time> by <a rel="author" class="p-author h-card" href="/about.html">Nick</a></small>
     ${ post/@text }
+    <ul>
+
+    ${ map(post/tags, (tagname) => `
+      <li>
+        <a href="/tags/${ slug(tagname) }.html">${ tagname }</a>
+      </li>
+    `) }
+
+    </ul>
   `
 })

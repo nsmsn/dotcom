@@ -4,7 +4,7 @@
     <h1>${ title }</h1>
     <ul class="list-unstyled auto-grid">
 
-    ${ @map(vinyls, (vinyl) => `
+    ${ map(vinyls, (vinyl) => `
       <li class="lib-item">
         <a href="${ vinyl/url }"> <img src="/img/vinyl/${ vinyl/cover }" alt="" width="128" height="128" loading="lazy" />
           ${ vinyl/title }
