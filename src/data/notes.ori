@@ -3,9 +3,10 @@
 // Turn the markdown in each note into HTML
 map(notes, mdHtml)
 
--> (notesHtml) => map(notesHtml, (note) => {
+-> (notesHtml) => map(notesHtml, (note, key) => {
   ...note
   date: new:Date(note/date)
+  path: `/notes/${ key }`
 })
 
 -> (notesWithDates) => sort(notesWithDates, (note) => note/date)

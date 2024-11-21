@@ -5,33 +5,33 @@
 
   img
 
-  library.html = libraryPage.ori(data/library.json)
+  library.html = templates/library.ori(data/library.json)
 
   posts = {
-    ...map(postsData.ori, post.ori)
-    index.html = posts-index.ori(postsData.ori)
-    feed.json = json(feed-posts.ori(postsData.ori))
-    feed.xml = rss(feed-posts.ori(postsData.ori))
+    ...map(data/posts.ori, templates/post.ori)
+    index.html = templates/posts-index.ori(data/posts.ori)
+    feed.json = json(feed-posts.ori(data/posts.ori))
+    feed.xml = rss(feed-posts.ori(data/posts.ori))
   }
 
   notes = {
-    ...map(notesData.ori, note.ori)
-    index.html = notes-index.ori(notesData.ori)
-    feed.json = json(feed-notes.ori(notesData.ori))
-    feed.xml = rss(feed-notes.ori(notesData.ori))
+    ...map(data/notes.ori, templates/note.ori)
+    index.html = templates/notes-index.ori(data/notes.ori)
+    feed.json = json(feed-notes.ori(data/notes.ori))
+    feed.xml = rss(feed-notes.ori(data/notes.ori))
   }
 
   tags = {
-    ...map(tagsData.ori, {
+    ...map(data/tags.ori, {
       key: (items, tag) => `${ slug(tag) }.html`
-      value: tagPage.ori
+      value: templates/tag.ori
     })
-    index.html = tags-index.ori(tagsData.ori)
+    index.html = templates/tags-index.ori(data/tags.ori)
   }
 
-  vinyl.html = vinylPage.ori(data/vinyl.json)
+  vinyl.html = templates/vinyl.ori(data/vinyl.json)
 
-  ...map(map(slash, mdHtml), page.ori)
+  ...map(map(slash, mdHtml), templates/page.ori)
 
   favicon.ico
   robots.txt 

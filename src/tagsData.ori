@@ -1,3 +1,0 @@
-group(postsData.ori, (post) => post/tags)
-
--> (tags) => sort(tags)
