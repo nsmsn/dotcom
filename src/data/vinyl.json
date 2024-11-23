@@ -280,6 +280,13 @@
         "url": "https://www.discogs.com/master/513925-The-Drifters-Their-Greatest-RecordingsEarly-Years"
       },
       {
+        "title": "Do It Yourself",
+        "artist": "Ian Dury & the Blockheads",
+        "cover": "diy-1979.jpg",
+        "year": "1979",
+        "url": "https://www.discogs.com/release/1260126-Ian-Dury-And-The-Blockheads-Do-It-Yourself"
+      },
+      {
         "title": "Symphony No. 4 in G Major, Op. 88 / Scherzo Capriccioso, Op. 66",
         "artist": "Antonín Dvořák (Sir John Barbirolli Conducting The Hallé Orchestra)",
         "cover": "dvorak-everyman-1963.jpg",
@@ -334,6 +341,48 @@
         "cover": "ellington-paris-concert-1973.jpg",
         "year": "1973",
         "url": "https://www.discogs.com/master/478341-Duke-Ellington-And-His-Orchestra-The-Great-Paris-Concert"
+      },
+      {
+        "title": "Volume 2: Death Chants, Breakdowns, & Military Waltzes",
+        "artist": "John Fahey",
+        "cover": "fahey-vol2-1967.jpg",
+        "year": "1967",
+        "url": "https://www.discogs.com/release/4103220-John-Fahey-Volume-2-Death-Chants-Breakdowns-Military-Waltzes"
+      },
+      {
+        "title": "Volume 3: The Dance of Death & Other Plantation Favorites",
+        "artist": "John Fahey",
+        "cover": "fahey-vol3-1967.jpg",
+        "year": "1967",
+        "url": "https://www.discogs.com/release/2216364-John-Fahey-Volume-3-The-Dance-Of-Death-Other-Plantation-Favorites"
+      },
+      {
+        "title": "Volume 5: The Transfiguration of Blind Joe Death",
+        "artist": "John Fahey",
+        "cover": "fahey-vol5-1967.jpg",
+        "year": "1967",
+        "url": "https://www.discogs.com/master/18614-John-Fahey-Volume-5-The-Transfiguration-Of-Blind-Joe-Death"
+      },
+      {
+        "title": "The Essential John Fahey",
+        "artist": "John Fahey",
+        "cover": "fahey-essential-1974.jpg",
+        "year": "1974",
+        "url": "https://www.discogs.com/release/15122954-John-Fahey-The-Essential-John-Fahey"
+      },
+      {
+        "title": "Christmas Guitar (Volume One)",
+        "artist": "John Fahey",
+        "cover": "fahey-christmas-guitar-one-1982.jpg",
+        "year": "1982",
+        "url": "https://www.discogs.com/master/186589-John-Fahey-Christmas-Guitar-Volume-One"
+      },
+      {
+        "title": "Popular Songs Of Christmas & New Year's",
+        "artist": "John Fahey",
+        "cover": "fahey-popular-christmas-1983.jpg",
+        "year": "1983",
+        "url": "https://www.discogs.com/master/234791-John-Fahey-Popular-Songs-Of-Christmas-New-Years"
       },
       {
         "title": "The Felice Brothers",
@@ -407,13 +456,19 @@
         "year": "2000",
         "url": "https://www.discogs.com/master/4393-Godspeed-You-Black-Emperor-Lift-Your-Skinny-Fists-Like-Antennas-To-Heaven"
       },
-
       {
         "title": "The Virtuoso Liszt",
         "artist": "Gary Graffman",
         "cover": "virtuoso-liszt-1960.jpg",
         "year": "1960",
         "url": "https://www.discogs.com/master/985370-Liszt-Graffman-The-Virtuoso-Liszt"
+      },
+      {
+        "title": "The David Grisman Quintet",
+        "artist": "David Grisman Quintet",
+        "cover": "grisman-quintet-1977.jpg",
+        "year": "1977",
+        "url": "https://www.discogs.com/release/2195833-David-Grisman-Quintet-The-David-Grisman-Quintet"
       },
       {
         "title": "Tim Hardin 3 Live In Concert",

@@ -293,8 +293,8 @@ a.control:hover,
 a.control:focus,
 a.control:active {
   text-decoration: none;
-  background-color: #ff8200;
-  border: 1px solid #ff8200;
+  background-color: #f98228;
+  border: 1px solid #f98228;
   color: black;
 }
 

@@ -1,7 +1,8 @@
 (items, tag) => page.ori({
   title: tag
   @text: `
-    <h1>${ tag }</h1>
+    <h1>Tagged '${ tag }'</h1>
+    
     <ol reversed>
 
     ${ map(items, (item,filename) => `
