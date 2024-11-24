@@ -1,0 +1,17 @@
+// The posts in JSON Feed format
+(items) => {
+  version: "https://jsonfeed.org/version/1.1"
+  title: `Posts and notes from ${ siteInfo.yaml/title }`
+  description: siteInfo.yaml/description
+  feed_url: `${ siteInfo.yaml/url }/feed.json`
+  home_page_url: `${ siteInfo.yaml/url }`
+  
+  // Map the post data to JSON Feed items
+  items: values(map(items, (item, key) => {
+    content_html: item/@text
+    date_published: item/date
+    id: `${ siteInfo.yaml/url }/${item/path}`
+    title: item/title
+    url: `${ siteInfo.yaml/url }/${item/path}`
+  }))
+}

@@ -163,6 +163,7 @@ main {
 footer {
   background: rgba(0, 0, 0, 0.125);
   line-height: 1.75;
+  margin-top: 2.5rem;
   padding-top: 1rem;
   padding-bottom: 1rem;
   padding-left: 1rem;
@@ -287,6 +288,10 @@ h6 {
   font-family: var(--font-server);
   font-size: 0.875em;
   text-transform: uppercase;
+}
+
+.control-primary {
+  margin-top: 0.5rem;
 }
 
 a.control:hover,
@@ -446,4 +451,11 @@ a.control:active {
       height: 8em;
       width: auto;
       border: 1px solid rgba(0, 0, 0, 0.0185);
+    }
+
+    /* Third-Party */ 
+
+    .statuslol_container {
+      border: 1px solid rgba(0, 0, 0, 0.085);
+      border-radius: 0.5em;
     }

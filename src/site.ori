@@ -33,6 +33,9 @@
 
   ...map(map(slash, mdHtml), templates/page.ori)
 
+  feed.json = json(feed.ori(data/combined.ori))
+  feed.xml = rss(feed.ori(data/combined.ori))
+
   favicon.ico
   robots.txt 
   humans.txt

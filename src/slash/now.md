@@ -48,3 +48,5 @@ This page uses some third-party widgets to display my current status, books, and
 <small>
 Inspired by Derek Sivers’ <a href="https://nownownow.com/about">nownownow.com</a>. This page has its own <a href="https://nownownow.com/p/Mu02">profile</a>, too.
 </small>
+
+&nbsp;
