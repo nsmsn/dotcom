@@ -4,9 +4,9 @@
     <h1>${ title }</h1>
     <ol reversed>
 
-    ${ map(notes, (note,filename) => `
+    ${ map(notes, (note) => `
       <li>
-        <a href="/notes/${ filename }">${ date.ori(note/date) }</a>
+        <a href="${ note/path }">${ date.ori(note/date) }</a>
       </li>
     `) }
 

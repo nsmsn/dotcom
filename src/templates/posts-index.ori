@@ -7,9 +7,9 @@
     <h1>${ title }</h1>
     <ol reversed class="list-unstyled posts-list">
 
-    ${ map(posts, (post,filename) => `
+    ${ map(posts, (post) => `
       <li>
-        <a href="/posts/${ filename }" class="text-large text-bold">${ post/title }</a><br/>
+        <a href="${ post/path }" class="text-large text-bold">${ post/title }</a><br/>
         <small class="timestamp">${ date.ori(post/date) }</small>
       </li>
     `) }
