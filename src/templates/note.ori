@@ -9,7 +9,7 @@
   </div>
       <ul>
 
-    ${ map(or(note/tags, []), (tagname) => `
+    ${ map(note/tags ?? [], (tagname) => `
       <li>
         <a href="/tags/${ slug(tagname) }.html">${ tagname }</a>
       </li>

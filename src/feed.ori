@@ -11,7 +11,7 @@
     content_html: item/@text
     date_published: item/date
     id: `${ siteInfo.yaml/url }/${item/path}`
-    title: if(equals(item/type, "post"), item/title)
+    title: item/type === "post" ? item/title : undefined
     url: `${ siteInfo.yaml/url }/${item/path}`
   }))
 }
