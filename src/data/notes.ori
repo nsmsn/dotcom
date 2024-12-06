@@ -7,6 +7,7 @@ map(notes, mdHtml)
   ...note
   date: new:Date(note/date)
   path: `/notes/${ key }`
+  type: "note"
 })
 
 -> (notesWithDates) => sort(notesWithDates, (note) => note/date)

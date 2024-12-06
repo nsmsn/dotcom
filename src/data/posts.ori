@@ -7,6 +7,7 @@ map(posts, mdHtml)
   ...post
   date: new:Date(post/date)
   path: `/posts/${ key }`
+  type: "post"
 })
 
 -> (postsWithDates) => sort(postsWithDates, (post) => post/date)
