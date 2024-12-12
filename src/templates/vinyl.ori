@@ -1,5 +1,5 @@
 (vinyls) => page.ori({
-  title: "Vinyl"
+  title: "Vinyl Collection"
   @text: `
     <h1>${ title }</h1>
     <ul class="list-unstyled auto-grid">

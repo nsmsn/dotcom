@@ -26,4 +26,4 @@ title: Hello, I'm Nick Simson
 
 I write shorter [notes](/notes/) and longer [posts](/posts/) on a variety of [topics](/tags/).
 
-Read more [about me](/about.html), or see what I'm up to [now](/now.html).
+You can read more [about me](/about.html), dig through my [record collection](/vinyl.html), or see what I'm up to [now](/now.html).

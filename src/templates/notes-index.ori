@@ -2,11 +2,14 @@
   title: "Notes"
   @text: `
     <h1>${ title }</h1>
-    <ol reversed>
+    <ol reversed class="list-unstyled posts-list">
 
     ${ map(notes, (note) => `
       <li>
-        <a href="${ note/path }">${ date.ori(note/date) }</a>
+      <article class="note-single outline">
+        <small class="timestamp"><a href="${ note/path }">${ date.ori(note/date) }</a></small>
+        ${ note/@text }
+      </article>  
       </li>
     `) }
 

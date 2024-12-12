@@ -403,6 +403,15 @@ a.control:active {
       font-weight: 700;
     }
 
+    .border-bottom {
+      border-bottom: 1px solid #777777;
+    }
+
+    .outline {
+      border: 1px solid #777777;
+      border-radius: 8px;
+    }
+
     /* Grid stuff */    
 
     .auto-grid {
