@@ -1,10 +1,10 @@
-(notes) => page.ori({
+(noteSet) => page.ori({
   title: "Notes"
   @text: `
     <h1>${ title }</h1>
     <ol reversed class="list-unstyled posts-list">
 
-    ${ map(notes, (note) => `
+    ${ map(noteSet/items, (note) => `
       <li>
       <article class="note-single outline">
         <small class="timestamp"><a href="${ note/path }">${ date.ori(note/date) }</a></small>
@@ -14,5 +14,26 @@
     `) }
 
     </ol>
+    <p>
+      ${ noteSet/nextPage
+          ? indent`
+            <a class="next" href="/notes/pages/${ noteSet/nextPage }.html">
+              <strong>Older notes</strong>
+            </a>
+            &nbsp;
+          `
+          : ""
+      }
+      ${ noteSet/previousPage
+          ? indent`
+            <a class="previous" href="${
+              noteSet/previousPage == 1 ? "/notes" : `/notes/pages/${ noteSet/previousPage }.html`
+            }">
+              <strong>Newer notes</strong>
+            </a>
+          `
+          : ""
+      }
+    </p>
   `
 })

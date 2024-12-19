@@ -16,7 +16,12 @@
 
   notes = {
     ...map(data/notes.ori, templates/note.ori)
-    index.html = templates/notes-index.ori(data/notes.ori)
+    (noteSets) = paginate(data/notes.ori, 10)
+    pages/ = map(noteSets, {
+      extension: "->.html"
+      value: templates/notes-index.ori
+    })
+    index.html = pages/1.html
     feed.json = json(feed-notes.ori(data/notes.ori))
     feed.xml = rss(feed-notes.ori(data/notes.ori))
   }
@@ -39,5 +44,9 @@
   favicon.ico
   robots.txt 
   humans.txt
-
+  search.html = templates/search.ori()
 }
+
+→ (site) => merge(site, {
+    pagefind/ = once(=package:@weborigami/pagefind(site))
+  })
