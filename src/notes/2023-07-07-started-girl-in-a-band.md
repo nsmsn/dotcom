@@ -1,0 +1,11 @@
+---
+title: "Started reading Girl in a Band by Kim ..."
+date: "2023-07-07T04:23:36.000Z"
+tags: 
+  - "books"
+  - "music"
+---
+
+Started reading [Girl in a Band](https://micro.blog/books/9780062295903) by Kim Gordon 📚
+
+Listening to the audiobook version, read by the author.

@@ -1,0 +1,17 @@
+---
+title: "Jenny HolzerAmerican, b. 1950 Survival Series: In a ..."
+date: "2020-11-07T21:30:10.000Z"
+categories: 
+  - "places"
+tags: 
+  - "art"
+---
+
+Jenny Holzer  
+American, b. 1950
+
+Survival Series: In a Dream You Saw a Way, 1997
+
+![A marble bench inscribed with In a dream you saw a way to survive and you were full of joy](images/5bd3c4369b.jpg)
+
+Cheekwood (Nashville, Tenn.)
