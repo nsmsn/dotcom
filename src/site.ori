@@ -47,6 +47,11 @@
   search.html = templates/search.ori()
 }
 
-→ (site) => merge(site, {
-    pagefind/ = once(=package:@weborigami/pagefind(site))
-  })
+// Only build each page once
+→ (site) => cache(site)
+
+// Use the pages to make both the site and the search index
+→ (cached) => {
+    ...cached
+    pagefind/ = once(=package:@weborigami/pagefind(cached))
+  }

@@ -21,6 +21,7 @@ title: All the Things
 - [/posts](/posts)
 - [/radio](/radio.html)
 - [/robots.txt](/robots.txt)
+- [/search](/search.html)
 - [/support](/support.html)
 - [/tags](/tags/)
 - [/uses](/uses.html)
