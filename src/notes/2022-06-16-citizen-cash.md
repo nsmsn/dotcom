@@ -2,8 +2,8 @@
 title: "Finished reading: Citizen Cash: The Political Life and ..."
 date: "2022-06-16T20:38:10.000Z"
 tags: 
-  - "books"
-  - "music"
+  - "Books"
+  - "Music"
 ---
 
 Finished reading: [Citizen Cash: The Political Life and Times of Johnny Cash](https://micro.blog/books/9781541699564) by Michael Stewart Foley 📚

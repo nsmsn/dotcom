@@ -2,7 +2,7 @@
 title: "Jamelle Bouie: Why Republicans Are So Angry About ..."
 date: "2022-05-09T23:33:10.000Z"
 tags: 
-  - "politics"
+  - "Politics"
 ---
 
 Jamelle Bouie: [Why Republicans Are So Angry About the Supreme Court Leak](https://www.nytimes.com/2022/05/06/opinion/supreme-court-roe-dobbs-legitimacy.html)

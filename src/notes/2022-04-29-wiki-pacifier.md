@@ -1,5 +1,5 @@
 ---
-title: "Reading the pacifier Wikipedia entry. An invention I ..."
+title: "Reading the pacifier Wikipedia entry."
 date: "2022-04-30T00:01:10.000Z"
 ---
 

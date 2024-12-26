@@ -2,8 +2,8 @@
 title: "Don't call it a Substack."
 date: "2024-11-20T15:11:51.000Z"
 tags: 
-  - "blogging"
-  - "websites"
+  - "Blogging"
+  - "Websites"
 ---
 
 _Likes [Don't call it a Substack.](https://www.anildash.com/2024/11/19/dont-call-it-a-substack/) by Anil Dash._

@@ -1,11 +1,9 @@
 ---
 title: "The J.D. Vance thing"
 date: "2024-07-18T00:08:00.000Z"
-categories: 
-  - "words"
 tags: 
-  - "books"
-  - "politics"
+  - "Books"
+  - "Politics"
 ---
 
 _In reply to [Dunking on J.D. Vance’s ‘Hillbilly Elegy’ Is ‘Unusual Behavior,’ Goodreads Says](https://www.404media.co/j-d-vance-hillbilly-elegy-goodreads-reviews/?ref=daily-stories-newsletter)._

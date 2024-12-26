@@ -2,8 +2,8 @@
 title: "Likes Word Wrap Podcast: Does valid and semantic ..."
 date: "2022-05-02T20:10:10.000Z"
 tags: 
-  - "html"
-  - "podcast"
+  - "HTML"
+  - "Podcast"
 ---
 
 _Likes [Word Wrap Podcast: Does valid and semantic HTML still matter?](https://wordwrap.dev/episodes/s2/014/)._

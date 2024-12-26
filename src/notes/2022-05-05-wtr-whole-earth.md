@@ -2,7 +2,7 @@
 title: "Want to read: Whole Earth: The Many Lives ..."
 date: "2022-05-06T03:18:10.000Z"
 tags: 
-  - "books"
+  - "Books"
 ---
 
 Want to read: [Whole Earth: The Many Lives of Stewart Brand](https://micro.blog/books/9780735223943) by John Markoff

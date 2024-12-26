@@ -1,11 +1,9 @@
 ---
 title: "you might not need a design system"
 date: "2024-11-13T23:59:00.000Z"
-categories: 
-  - "words"
 tags: 
-  - "design-systems"
-  - "work"
+  - "Design Systems"
+  - "Work"
 ---
 
 _Likes [You Might Not Need a Design System](https://www.coryetzkorn.com/blog/you-might-not-need-a-design-system) by Cory Etzkorn._

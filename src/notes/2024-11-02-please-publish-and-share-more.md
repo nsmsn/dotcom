@@ -2,8 +2,8 @@
 title: "Please publish and share more"
 date: "2024-11-02T16:10:09.000Z"
 tags: 
-  - "indieweb"
-  - "websites"
+  - "IndieWeb"
+  - "Websites"
 ---
 
 _Likes [Please publish and share more](https://micro.webology.dev/2024/11/02/please-publish-and.html) by Jeff Triplett._

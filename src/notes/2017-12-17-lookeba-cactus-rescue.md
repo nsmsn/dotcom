@@ -2,7 +2,7 @@
 title: "Lookeba, Oklahoma Cactus Rescue"
 date: "2017-12-17T17:46:10.000Z"
 categories: 
-  - "places"
+  - "Places"
 tags: 
   - "Oklahoma"
 ---

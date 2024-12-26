@@ -1,8 +1,8 @@
 ---
-title: "Finished reading: Worn: A People’s History of Clothing ..."
+title: "Finished reading: Worn: A People’s History of Clothing"
 date: "2022-05-22T13:33:10.000Z"
 tags: 
-  - "books"
+  - "Books"
 ---
 
 Finished reading: [Worn: A People’s History of Clothing](https://micro.blog/books/9781524748401) by Sofi Thanhauser 📚

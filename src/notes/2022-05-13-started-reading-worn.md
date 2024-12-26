@@ -1,5 +1,5 @@
 ---
-title: "Started reading Worn: A People’s History of Clothing ..."
+title: "Worn: A People’s History of Clothing"
 date: "2022-05-13T15:41:10.000Z"
 tags: 
   - "books"

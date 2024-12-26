@@ -2,9 +2,9 @@
 title: "Bookmarked Centering Accessibility in Data Visualization. The authors ..."
 date: "2022-12-15T23:24:10.000Z"
 tags: 
-  - "bookmarks"
-  - "dataviz"
-  - "graphic-design"
+  - "Bookmarks"
+  - "Dataviz"
+  - "Graphic Design"
 ---
 
 _Bookmarked [Centering Accessibility in Data Visualization](https://www.urban.org/research/publication/do-no-harm-guide-centering-accessibility-data-visualization)._

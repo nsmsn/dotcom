@@ -2,7 +2,7 @@
 title: "I’m canceling Spotify Premium next month."
 date: "2022-04-30T15:55:10.000Z"
 tags: 
-  - "music"
+  - "Music"
 ---
 
 I’m canceling Spotify Premium next month.

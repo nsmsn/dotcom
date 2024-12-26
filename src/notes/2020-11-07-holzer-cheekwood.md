@@ -2,7 +2,7 @@
 title: "Jenny HolzerAmerican, b. 1950 Survival Series: In a ..."
 date: "2020-11-07T21:30:10.000Z"
 categories: 
-  - "places"
+  - "Places"
 tags: 
   - "Art"
 ---

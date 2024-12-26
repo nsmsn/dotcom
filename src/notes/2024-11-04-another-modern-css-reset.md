@@ -1,11 +1,9 @@
 ---
 title: "and another modern CSS reset"
 date: "2024-11-05T00:40:00.000Z"
-categories: 
-  - "words"
 tags: 
-  - "bookmarks"
-  - "css"
+  - "Bookmarks"
+  - "CSS"
 ---
 
 _Bookmarked [My Modern CSS Reset](https://jakelazaroff.com/words/my-modern-css-reset/) by Jake Lazaroff._

@@ -2,7 +2,7 @@
 title: "Wide sky yesterday (Outside Santa Fe, NM)"
 date: "2016-12-31T04:18:10.000Z"
 categories: 
-  - "places"
+  - "Places"
 tags: 
   - "New Mexico"
 ---

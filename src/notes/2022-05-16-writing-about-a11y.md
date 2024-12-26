@@ -1,6 +1,8 @@
 ---
 title: "Ryan Bateman: A Guide to Writing About Digital ..."
 date: "2022-05-16T19:16:10.000Z"
+tags: 
+  - "Accessibility"
 ---
 
 Ryan Bateman: [A Guide to Writing About Digital Accessibility](https://www.deque.com/blog/a-guide-to-writing-about-digital-accessibility/)
