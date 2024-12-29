@@ -2,8 +2,8 @@
 title: "Finished reading: Freedom of Choice by Evie Nagy ..."
 date: "2022-06-05T07:45:10.000Z"
 tags: 
-  - "books"
-  - "music"
+  - "Books"
+  - "Music"
 ---
 
 Finished reading: [Freedom of Choice](https://micro.blog/books/9781501308734) by Evie Nagy 📚
