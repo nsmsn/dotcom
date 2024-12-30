@@ -2,7 +2,7 @@
 title: "Finished reading: The Dawn of Everything: A New ..."
 date: "2023-01-12T16:56:10.000Z"
 tags: 
-  - "books"
+  - "Books"
 ---
 
 Finished reading: [The Dawn of Everything: A New History of Humanity](https://micro.blog/books/9780771049835) by David Graeber and David Wengrow 📚

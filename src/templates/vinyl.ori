@@ -2,6 +2,11 @@
   title: "Vinyl Collection"
   @text: `
     <h1>${ title }</h1>
+
+    <p>A collection of music I’ve accumulated over the years. I only buy records I intend to listen to, so everything here has been played again and again.</p>
+    
+    <p>Releases are organized alphabetically by artist, and chronologically by release date. It will be some time before the collection is fully cataloged, so this page is very much a work in progress.</p>
+
     <ul class="list-unstyled auto-grid">
 
     ${ map(vinyls, (vinyl) => `

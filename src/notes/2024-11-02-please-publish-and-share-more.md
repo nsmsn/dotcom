@@ -1,11 +1,16 @@
 ---
-title: "Please publish and share more"
-date: "2024-11-02T16:10:09.000Z"
-tags: 
-  - "IndieWeb"
-  - "Websites"
+title: Please publish and share more
+date: 2024-11-02T10:10:09-06:00
+tags:
+  - IndieWeb
+  - Likes
+  - Websites
 ---
 
-_Likes [Please publish and share more](https://micro.webology.dev/2024/11/02/please-publish-and.html) by Jeff Triplett._
+<div class="u-like-of h-cite"><p><i>Likes <a class="u-url p-name" href="https://micro.webology.dev/2024/11/02/please-publish-and.html">Please publish and share more</a> by <span class="p-author">Jeff Triplett</span>.</i></p></div>
 
-> Write and publish before you write your own static site generator or perfect blogging platform. We have lost billions of good writers to this side quest because they spend all their time working on the platform instead of writing.
+<div class="e-content">
+<blockquote>
+<p>Write and publish before you write your own static site generator or perfect blogging platform. We have lost billions of good writers to this side quest because they spend all their time working on the platform instead of writing.</p>
+</blockquote>
+</div>

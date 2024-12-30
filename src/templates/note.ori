@@ -3,15 +3,18 @@
   @text: `
   <div class="note-single v-centered">
   <article>
+  <div class="pre-note-meta">
   <small class="timestamp">Published <time datetime="${ note/date }" class="dt-published">${ date.ori(note/date) }</time> by <a rel="author" class="p-author h-card" href="/about.html">Nick</a></small>
+  </div>
   <div class="text-large">
   ${ note/@text }
   </div>
-      <ul>
+
+      <ul class="list-unstyled">
 
     ${ map(note/tags ?? [], (tagname) => `
-      <li>
-        <a href="/tags/${ slug(tagname) }.html">${ tagname }</a>
+      <li class="list-item-inline">
+        <a href="/tags/${ slug(tagname) }.html" class="tagged-item">${ tagname }</a>
       </li>
     `) }
 

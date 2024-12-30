@@ -356,6 +356,10 @@ a.control:active {
       column-gap: 2em;
   }
 
+  .list-item-inline {
+    display: inline-block;
+  }
+
     .vis-hidden {
       border: 0;
       clip: rect(0 0 0 0);
@@ -432,6 +436,10 @@ a.control:active {
     }
 
     /* Bloggy Stuff */
+
+    .pre-note-meta {
+      margin-bottom: 2rem;
+    }
     
     .note-single {
       margin-top: 2rem;
@@ -443,6 +451,25 @@ a.control:active {
 
     .timestamp {
       font-family: var(--font-server);
+    }
+
+    .tagged-item {
+      background: rgba(0, 0, 0, 0.125);
+      border-radius: 8px;
+      font-family: var(--font-server);
+      font-size: 18px;
+      padding: .375em .5em;
+      text-decoration: none;
+    }
+
+    .tagged-item:hover {
+      background-color: #f98228;
+      color: #151e25;
+    }
+
+    .tagged-count {
+      font-family: var(--font-server);
+      font-size: 14px;
     }
 
     /* Collections */     

@@ -2,11 +2,12 @@
   title: "Tags"
   @text: `
     <h1>Tags</h1>
-    <ul>
+
+    <ul class="list-unstyled">
 
     ${ map(tags, (posts,tagname) => `
       <li>
-        <a href="/tags/${ slug(tagname) }.html">${ tagname }</a> <span>(${ length(posts) })</span>
+        <a href="/tags/${ slug(tagname) }.html" class="tagged-item">${ tagname }</a> <span class="tagged-count">(${ length(posts) })</span>
       </li>
     `) }
 
