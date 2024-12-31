@@ -8,7 +8,7 @@ tags:
 coverImage: "26Days-27.png"
 ---
 
-![Day 27: Bonus Day!](images/26Days-27-1024x576.png)
+![Day 27: Bonus Day!](/img/post-images/26Days-27-1024x576.png)
 
 In planning, researching, writing and designing my [26 Days of Type](https://nicksimson.com/26-days-of-type/) series, I wanted to cover a diverse array of typefaces and topics in an accessible way. I'm proud of the work I was able to do on my blog this month, but a personal project from one person's perspective has its limitations.
 
@@ -16,7 +16,7 @@ Retrospectively, I wished I called the series 26 Days of \[Latin\] Type. At one 
 
 I have no business being _confidently wrong_ about this subject. So instead I want to highlight a few places that One great resources for exploring non-Latin typefaces is [Typographica](https://typographica.org/category/script-or-writing-system/), a site for type reviews, books, and commentary on all things type. From the filters navigation, you can select "Script" and a dropdown of non-Latin script options appears. This is a great resource for finding unique fonts in another writing system or learning about type designers working in other languages.
 
-![A dropdown featuring different writing systems in alphabetical order.](images/typographica-non-latin.png)
+![A dropdown featuring different writing systems in alphabetical order.](/img/post-images/typographica-non-latin.png)
 
 Another site that features a diverse array of scripts and voices is [Alphabettes](https://www.alphabettes.org/), a site focusing on the work of women and nonbinary people in lettering, typography, and type design. Alphabettes has been going since 2015 and features the work of [over 300 members from all over the world](https://www.alphabettes.org/about/all-alphabettes/).
 

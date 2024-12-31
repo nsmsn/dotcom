@@ -3,13 +3,12 @@ title: "J is for Journal"
 date: "2024-02-10T20:46:45.000Z"
 description: "There’s something beautiful about a new thing born out of the technological limitations of its time."
 tags: 
-tags: 
   - "26DaysofType"
   - "Type"
 coverImage: "26Days-J-Journal.png"
 ---
 
-![Day 10: Journal](images/26Days-J-Journal-1024x576.png)
+![Day 10: Journal](/img/post-images/26Days-J-Journal-1024x576.png)
 
 When I started planning out [26 Days of Type](https://nicksimson.com/26-days-of-type/), I had a sense I would be writing about my design school education, when I _really_ started taking notice of visual culture, or was at least developing the vocabulary for it. And this would mean I'd be risking nostalgia.
 
@@ -19,7 +18,7 @@ While I was a design student in the mid 2000s, _Emigre_ the magazine was publish
 
 <figure>
 
-![Asymetrical magazine layout, with misspelled giant headings in a spread from 1991](images/LFA_Emigre_0019_004-scaled.jpg)
+![Asymetrical magazine layout, with misspelled giant headings in a spread from 1991](/img/post-images/LFA_Emigre_0019_004-scaled.jpg)
 
 <figcaption>
 
@@ -33,7 +32,7 @@ Picking just one of Licko's typefaces proved tricky in my alphabetical framework
 
 <figure>
 
-![Two columns of typeset paragraphs, with some italicized and bold text.](images/26Days-J-Journal-Text-corrected.png)
+![Two columns of typeset paragraphs, with some italicized and bold text.](/img/post-images/26Days-J-Journal-Text-corrected.png)
 
 <figcaption>
 
@@ -53,9 +52,7 @@ There's something beautiful about a new thing born out of the technological limi
 
 <figure>
 
-![I need a steady diet of fonts that are weird enough for me to really enjoy using.
-<div></div>
-Barry Deck](images/26Days-J-Journal-BDquote-1024x576.png)
+<img src="/img/post-images/26Days-J-Journal-BDquote-1024x576.png" alt="I need a steady diet of fonts that are weird enough for me to really enjoy using" />
 
 <figcaption>
 
@@ -68,37 +65,23 @@ Journal text at display size. I can see this treatment being used with a [humani
 There are quite a few other typefaces with _Journal_ in the name, by the way:
 
 - [Journal](https://fontsinuse.com/typefaces/41702/journal-paratype)
-
 - [Journal Sans](https://fontsinuse.com/typefaces/5533/journal-sans)
-
 - [Foundry Journal](https://fontsinuse.com/typefaces/42126/foundry-journal)
-
 - [Ivy Journal](https://fontsinuse.com/typefaces/74371/ivyjournal)
-
 - [Le Monde Journal](https://fontsinuse.com/typefaces/5637/le-monde-journal)
-
 - [Journal Republica](https://fontsinuse.com/typefaces/175974/journal-republica)
-
 - [Journal Hand](https://fontsinuse.com/typefaces/21819/journal-hand)
 
 ## Notable Emigre fonts
 
 - [Alda](https://www.emigre.com/Fonts/Alda) is a text face I quite like. It was designed by Berton Hasebe in 2008, and doesn't really look like anything else out there.
-
 - [Brothers](https://www.emigre.com/Fonts/Brothers) is kind of a 19th century revival display typeface designed by Jonathan Downer. This was everywhere in branding the late 2000s - 2010s
-
 - [Cardea](https://www.emigre.com/Fonts/Cardea) is a beautiful text face by David Cabianca, released in 2004.
-
 - [Cholla and Cholla Slab](https://www.emigre.com/Fonts/Cholla) is kind of a weird-looking family I'd love to see used more. This one was developed by Sibylle Hagmann and came out in 1999.
-
 - [Dead History](https://www.emigre.com/Fonts/Dead-History) and [Keedy Sans](https://www.emigre.com/Fonts/Keedy) both play with contrasting shapes, angles, and roundness. These two scream "1990s design" to me.
-
 - [Fairplex](https://www.emigre.com/Fonts/Fairplex) is another great design by Licko. This is a wonderfully executed example of a low-contrast serif.
-
 - The [Lo-Res family](https://www.emigre.com/Fonts/Lo-Res) are updated versions of Licko's early bitmap fonts, the ones that appear in the early issues of _Emigre_ magazine.
-
 - [Template Gothic](https://www.emigre.com/Fonts/Template-Gothic) by Barry Deck is another one that screams 1990s design. It was used in the logo for the [first season of _Survivor_](https://survivor.fandom.com/wiki/Survivor:_Borneo?file=BorneoLogo2ORI.png#cite_note-5), before they switched to the _Survivor_ logo we know and love today.
-
 - [Vendetta](https://www.emigre.com/Fonts/Vendetta), another John Downer face, from 1999. This one's a revival of old style Venetian type.
 
 All of these (and more) are [available in the Adobe Fonts library](https://fonts.adobe.com/foundries/emigre), by the way.
@@ -106,9 +89,6 @@ All of these (and more) are [available in the Adobe Fonts library](https://fonts
 Emigre's history is full of rich, expressive visual material. To spend more time with the output of Licko, VanderLans and the crew visit the following links:
 
 - The Letterform Archive has the [full print run of _Emigre_ magazine](https://oa.letterformarchive.org/?dims=Collection&vals0=Emigre%20Collection&_ga=2.17628729.1884723703.1677710247-1453205240.1677710247&sortby=collection) digitized, which you can access online.
-
 - Emigre's [vibrant type specimens are all available in PDF form](https://www.emigre.com/TypeSpecimens) on emigre.com, and you can sign up to get the new ones in the mail! Like I said, I'm a fan: [I've been getting these mailed to me](https://nicksimson.com/notes/emigre-specimens/) since 2007 or so.
-
 - As always, [Fonts in Use comes through](https://fontsinuse.com/foundry/28/emigre) with a showcase of design from the 1990s and 2000s using Emigre fonts.
-
 - There's plenty of [essays and stuff from Emigre's history](https://www.emigre.com/Essays) to read on their website that may be relevant if you are interested in type or graphic design.
