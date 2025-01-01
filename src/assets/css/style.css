@@ -160,7 +160,7 @@ main {
   flex-grow: 1;
 }
 
-footer {
+.site-footer {
   background: rgba(0, 0, 0, 0.125);
   line-height: 1.75;
   margin-top: 2.5rem;
@@ -170,8 +170,9 @@ footer {
   padding-right: 1rem;
 }
 
-footer p {
-  font-size: 0.875em;
+.site-footer p {
+  font-family: var(--font-server);
+  font-size: 0.75em;
   line-height: 1.5;
 }
 
@@ -225,6 +226,10 @@ h6 {
   h6 {
     font-size: 1.166rem;
   }
+}
+
+small {
+  font-size: 0.75em;
 }
 
 .container {
@@ -388,6 +393,10 @@ a.control:active {
       display: flex;
       flex-direction: row;
       align-items: center;
+    }
+
+    .mt-2rem {
+      margin-top: 2rem;
     }
 
     .text-large {

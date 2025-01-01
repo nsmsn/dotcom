@@ -10,7 +10,7 @@
   ${ note/@text }
   </div>
 
-      <ul class="list-unstyled">
+      <ul class="list-unstyled mt-2rem">
 
     ${ map(note/tags ?? [], (tagname) => `
       <li class="list-item-inline">
