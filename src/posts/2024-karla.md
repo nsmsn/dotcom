@@ -8,13 +8,13 @@ tags:
 coverImage: "26Days-K-Karla.png"
 ---
 
-![Day 11: Karla](images/26Days-K-Karla-1024x576.png)
+![Day 11: Karla](/img/post-images/26Days-K-Karla-1024x576.png)
 
 I just can't get enough of these quirky-looking grotesques. This time around we're looking at [Karla](https://fonts.google.com/specimen/Karla), an open-source design by Jonny Pinhorn and released by Google Fonts in 2012. After Google, Pinhorn went on to the [Indian Type Foundry](https://www.indiantypefoundry.com/) (ITF), and is now at [Dalton Maag](https://www.daltonmaag.com/about/our-people.html).
 
 <figure>
 
-![ExtraLight & Light & Regular & Medium & SemiBold & Bold & ExtraBold](images/26Days-K-Karla-WeightsStyles-1024x576.png)
+![ExtraLight & Light & Regular & Medium & SemiBold & Bold & ExtraBold](/img/post-images/26Days-K-Karla-WeightsStyles-1024x576.png)
 
 <figcaption>
 
@@ -28,7 +28,7 @@ As far as free fonts go, this one has a bit of personality and is full of quirks
 
 <figure>
 
-![](images/26Days-K-Karla-69LoveSongs-1-1024x576.png)
+![Let's pretend we're bunny reabbits by The Magnetic Fields. 1999 Merge Records. Synth-Pop, Indie Rock.](/img/post-images/26Days-K-Karla-69LoveSongs-1-1024x576.png)
 
 <figcaption>
 

@@ -8,17 +8,20 @@ tags:
 coverImage: "26Days-H-Halyard.png"
 ---
 
-![Day 8: Halyard Family](images/26Days-H-Halyard-1024x576.png)
+![Day 8: Halyard Family](/img/post-images/26Days-H-Halyard-1024x576.png)
 
 [Halyard](https://www.dardenstudio.com/halyard) is a family of [grotesque sans-serifs](https://fonts.google.com/knowledge/glossary/grotesque_neo_grotesque) in three optical sizes: Display, Text and Micro. The type family was conceived by Joshua Darden, with design contributions by Eben Sorkin and Lucas Sharp. The typeface was released in 2017 by Darden Studio.
 
-> Halyard radically extends the typographic utility of the now hyper ubiquitous category: the Grotesque Sans. Halyard’s personality is at once familiar and pleasingly distinctive. The Halyard superfamily is beautifully robust and lively, ready to work at any size. While starkly different in appearance, Halyard’s optical subfamilies perform with consistent personality at their intended sizes — creating the impression of single type design.
-> 
-> [Marketing for Halyard](https://fonts.adobe.com/fonts/halyard#about-section). _Now that's how you sell a typeface!_
+<figure>
+ <blockquote>
+  <p>Halyard radically extends the typographic utility of the now hyper ubiquitous category: the Grotesque Sans. Halyard’s personality is at once familiar and pleasingly distinctive. The Halyard superfamily is beautifully robust and lively, ready to work at any size. While starkly different in appearance, Halyard’s optical subfamilies perform with consistent personality at their intended sizes — creating the impression of single type design.</p>
+ </blockquote>
+ <figcaption><cite><a href="https://fonts.adobe.com/fonts/halyard#about-section">Marketing for Halyard</a>.</cite> <em>Now that's how you sell a typeface!</em></figcaption>
+</figure>
 
 <figure>
 
-![Scan the QR code to get started](images/26Days-H-Halyard-Display-QR-1024x576.png)
+![Scan the QR code to get started](/img/post-images/26Days-H-Halyard-Display-QR-1024x576.png)
 
 <figcaption>
 
@@ -32,7 +35,7 @@ Rather than being a revival of any particular 19th or 20th century grotesque, Ha
 
 <figure>
 
-![a biography of Ida B. Wells set in Halyard Text](images/26Days-H-Halyard-Text-Ida-1024x576.png)
+![a biography of Ida B. Wells set in Halyard Text](/img/post-images/26Days-H-Halyard-Text-Ida-1024x576.png)
 
 <figcaption>
 
@@ -46,7 +49,7 @@ The Display family comes in nice, tight letterspacing, especially in the heavier
 
 <figure>
 
-![Blue Note 95326. Information about Blue Train, the 1958 album by John Coltrane.](images/26Days-H-Halyard-Micro-Coltrane-1024x576.png)
+![Blue Note 95326. Information about Blue Train, the 1958 album by John Coltrane.](/img/post-images/26Days-H-Halyard-Micro-Coltrane-1024x576.png)
 
 <figcaption>
 

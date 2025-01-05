@@ -8,29 +8,32 @@ tags:
 coverImage: "26Days-N-NeoGrotesque.png"
 ---
 
-![Day 14: Neo-Grotesque](images/26Days-N-NeoGrotesque-1024x576.png)
+![Day 14: Neo-Grotesque](/img/post-images/26Days-N-NeoGrotesque-1024x576.png)
 
 Welcome to the 14th installment of [26 Days of Type](https://nicksimson.com/26-days-of-type/). And Happy Valentine's Day! I thought it might be appropriate today to open with a sonnet, and who better to write a love poem to this "coldest", most "sterile" of typeface genres, than ChatGPT?
 
-> In fonts austere, their love does thrive,  
-> Neo-Grotesque, where clean lines strive.  
-> In Helvetica's grip, Univers does jive,  
-> Their bond serene, in typographic hive.
-> 
-> No ornamentation, no extravagant hue,  
-> Each character precise, in its rigid milieu.  
-> No fancy curves, no embellishment true,  
-> Their passion restrained, in a minimalist view.
-> 
-> In stark embrace, they share their domain,  
-> No excess here, in this textual terrain.  
-> Their love in simplicity, an unadorned refrain,  
-> Yet in their austerity, a beauty plain.
-> 
-> So here's to Helvetica, to Univers fair,  
-> In fonts austere, their love they bear.
-> 
-> Love poem to Univers & Helvetica, written by ChatGPT
+<figure>
+ <blockquote>
+  <p>In fonts austere, their love does thrive,<br/>
+  Neo-Grotesque, where clean lines strive.<br/>
+  In Helvetica's grip, Univers does jive,<br/>
+  Their bond serene, in typographic hive.</p>
+
+<p>No ornamentation, no extravagant hue,<br/>
+Each character precise, in its rigid milieu.<br/>
+No fancy curves, no embellishment true,<br/>
+Their passion restrained, in a minimalist view.</p>
+
+<p>In stark embrace, they share their domain,<br/>
+No excess here, in this textual terrain.<br/>
+Their love in simplicity, an unadorned refrain,<br/>
+Yet in their austerity, a beauty plain.</p>
+ 
+<p>So here's to Helvetica, to Univers fair,<br/>  
+In fonts austere, their love they bear.</p>
+ </blockquote>
+ <figcaption><cite>Love poem to Univers & Helvetica</cite>, written by ChatGPT</figcaption>
+</figure>
 
 🤢
 
@@ -42,7 +45,7 @@ The most famous example is [Helvetica](https://en.wikipedia.org/wiki/Helvetica),
 
 <figure>
 
-![Books featuring Univers and Helvetica](images/Univers-Helvetica-Specimens.jpg)
+![Books featuring Univers and Helvetica](/img/post-images/Univers-Helvetica-Specimens.jpg)
 
 <figcaption>
 
@@ -62,7 +65,7 @@ If you can't get enough of this genre, independent type designers have their own
 
 <figure>
 
-![Comparing the appearance of characters between 8 different grotesque typefaces](images/26Days-N-NeoGrotesque-comparison.png)
+![Comparing the appearance of characters between 8 different grotesque typefaces](/img/post-images/26Days-N-NeoGrotesque-comparison.png)
 
 <figcaption>
 

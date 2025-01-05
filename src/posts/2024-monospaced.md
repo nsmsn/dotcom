@@ -8,7 +8,7 @@ tags:
 coverImage: "26Days-M-Monospaced-1.png"
 ---
 
-![Day 13: Monospaced](images/26Days-M-Monospaced-1-1024x576.png)
+![Day 13: Monospaced](/img/post-images/26Days-M-Monospaced-1-1024x576.png)
 
 We're halfway through the alphabet today, and up until now I've barely mentioned the _monospaced_ classification. These fonts are derived from typewriters and early computing, but are still very useful today.
 
@@ -16,7 +16,7 @@ A monospaced typeface differs from a _proportional_ typeface in that each charac
 
 <figure>
 
-![The phrase Computer Science compared between a proportional typeface and a monospaced font.](images/26Days-M-Monospaced-vs-Proportional-1-1024x576.png)
+![The phrase Computer Science compared between a proportional typeface and a monospaced font.](/img/post-images/26Days-M-Monospaced-vs-Proportional-1-1024x576.png)
 
 <figcaption>
 
@@ -34,7 +34,7 @@ Monospaced type is also used to denote `code` samples on the web, like in this C
 body {
   background color: #3b3b3b;
   font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
-font-weight: normal;
+  font-weight: normal;
   color: #fdfdfd;
 }
 ```
@@ -59,9 +59,12 @@ Monospaced fonts don't have to be restricted to coding or code examples, but the
 
 [Space Mono](https://fonts.google.com/specimen/Space+Mono/about), developed by [Colophon Foundry](https://www.colophon-foundry.org/) for Google Design, was not envisioned as a programming font, but for "editorial use in headline and display typography."
 
-> \[T\]he letterforms infuse a geometric foundation and grotesque details with qualities often found in headline typefaces of the 1960s (See: [Microgramma](https://en.wikipedia.org/wiki/Microgramma_(typeface)), [Eurostile](https://en.wikipedia.org/wiki/Eurostile)), many of which have since been co-opted by science fiction films, television, and literature.
-> 
-> Google Fonts: [About Space Mono](https://fonts.google.com/specimen/Space+Mono/about)
+<figure>
+ <blockquote>
+  <p>[T]he letterforms infuse a geometric foundation and grotesque details with qualities often found in headline typefaces of the 1960s (See: <a href="https://en.wikipedia.org/wiki/Microgramma_(typeface)">Microgramma</a>, <a href="https://en.wikipedia.org/wiki/Eurostile">Eurostile</a>), many of which have since been co-opted by science fiction films, television, and literature.</p>
+ </blockquote>
+ <figcaption><cite><a href="https://fonts.google.com/specimen/Space+Mono/about">Google Fonts: About Space Mono</a></cite></figcaption>
+</figure>
 
 The newer tech journalism upstart [404 Media](https://www.404media.co/) uses [Space Mono](https://fonts.google.com/specimen/Space+Mono) (in all caps) in the masthead, navigation, and supporting text throughout their website, paired with Space Grotesk for headlines and Inter for body text. [Oak Studios](https://oak.is/) uses [Input Mono](https://input.djr.com/) for their website body type, with headings in Tiempos Headline.
 

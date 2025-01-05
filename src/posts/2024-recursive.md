@@ -8,7 +8,7 @@ tags:
 coverImage: "26Days-R-Recursive.png"
 ---
 
-![Day 18. Recursive](images/26Days-R-Recursive-1024x576.png)
+![Day 18. Recursive](/img/post-images/26Days-R-Recursive-1024x576.png)
 
 I vaguely remember mentioning a variable font or two earlier in [this blogging series](https://nicksimson.com/26-days-of-type/), without elaborating on the topic much further. I knew it was something I wanted to dig in deeper down the road.
 
@@ -18,7 +18,7 @@ The design I want to highlight today is [Recursive](https://www.recursive.design
 
 <figure>
 
-![The words "This is the same font" rendered in three different styles.](images/26Days-R-Recursive-variable-demo-1024x576.png)
+![The words "This is the same font" rendered in three different styles.](/img/post-images/26Days-R-Recursive-variable-demo-1024x576.png)
 
 <figcaption>
 
@@ -30,9 +30,12 @@ A demonstration of Recursive's five variable axes. Try it now at [recursive.desi
 
 The inspiration behind Recursive is a vernacular form of sign-painting called single-stroke casual lettering. These hand-painted letters are typically uppercase and forward-slanting.
 
-> A foundational style for sign painters, single-stroke casual is comprised of just a few basic strokes which are assembled together to create letters. As a result, this style is highly practical, easy to learn, and (relatively) easy to paint. Its features are deliberately informal and “unbalanced”: letters are somewhat condensed and have curved stems, stroke connections are left visibly imperfect, and midpoints are low-slung. These qualities allow a sign painter to avoid some of the aspects of letter shaping that can be most challenging: perfectly straight lines, rigid symmetry, and optically-centered elements like the spine of the letter ‘S’.
-> 
-> Stephen Nixon, from the [Recursive type specimen (PDF)](https://www.recursive.design/assets/arrowtype-recursive-sansmono-specimen-230407.pdf)
+<figure>
+ <blockquote>
+  <p>A foundational style for sign painters, single-stroke casual is comprised of just a few basic strokes which are assembled together to create letters. As a result, this style is highly practical, easy to learn, and (relatively) easy to paint. Its features are deliberately informal and “unbalanced”: letters are somewhat condensed and have curved stems, stroke connections are left visibly imperfect, and midpoints are low-slung. These qualities allow a sign painter to avoid some of the aspects of letter shaping that can be most challenging: perfectly straight lines, rigid symmetry, and optically-centered elements like the spine of the letter ‘S’.</p>
+ </blockquote>
+ <figcaption>Stephen Nixon, from the <cite><a href="https://www.recursive.design/assets/arrowtype-recursive-sansmono-specimen-230407.pdf">Recursive type specimen (PDF)</a></cite></figcaption>
+</figure>
 
 Nixon's initial idea was to explore what a single-stroke casual [monospaced](https://nicksimson.com/posts/monospaced/) font could look like in a programming context. The result ended up becoming an ambitious project with an astounding variety of visual expression on five variable axes:
 
@@ -48,7 +51,7 @@ Nixon's initial idea was to explore what a single-stroke casual [monospaced](htt
 
 <figure>
 
-![Sans Linear, Mono Linear, Sans Casual, and Mono Casual, in a range of weights and italics](images/26Days-R-Recursive-64-static-fonts-1024x576.png)
+![Sans Linear, Mono Linear, Sans Casual, and Mono Casual, in a range of weights and italics](/img/post-images/26Days-R-Recursive-64-static-fonts-1024x576.png)
 
 <figcaption>
 
@@ -60,19 +63,23 @@ There are 64 static fonts you can download for Recursive. Use the variable versi
 
 In addition to the five variable axes, Recursive is also a superplexed family:
 
-> \[A\]ll of its 32 instances have shared glyph width, kerning, and overall letterforms for every character. Of course, this also applies to in-between variations. The fact that characters within Recursive Sans have shared metrics ensures that line length is not affected when changing between its different font styles. This also allows smooth, animated transitions between any of the subfamily’s _Weight, Slant, & Casual_ axes.
-> 
-> Stephen Nixon, Recursive "[Designing Recursive](https://www.recursive.design/process/)"
+<figure>
+ <blockquote>
+  <p>[A]ll of its 32 instances have shared glyph width, kerning, and overall letterforms for every character. Of course, this also applies to in-between variations. The fact that characters within Recursive Sans have shared metrics ensures that line length is not affected when changing between its different font styles. This also allows smooth, animated transitions between any of the subfamily’s <em>Weight, Slant, & Casual</em> axes.</p>
+ </blockquote>
+ <figcaption>Stephen Nixon, Recursive <cite>"<a href="https://www.recursive.design/process/">Designing Recursive</a></cite>"</figcaption>
+</figure>
+
 
 There's a lot going on with this one typeface, so its worth [reading the manual specimen](https://www.recursive.design/assets/arrowtype-recursive-sansmono-specimen-230407.pdf) and [trying it out](https://www.recursive.design/#toolbar) before downloading and putting it to use on your next project. I just love the ambition and creativity on display here.
 
 <figure>
 
-![two ampersands compared](images/26Days-R-Recursive-ampersand-1024x576.png)
+![two ampersands compared](/img/post-images/26Days-R-Recursive-ampersand-1024x576.png)
 
 <figcaption>
 
-At large sizes you can admire the details, like the [ink traps](https://nicksimson.com/posts/ink-traps/) in Sans Linear, and the brushstroke inspired curves in Mono Casual.
+At large sizes you can admire the details, like the [ink traps](/posts/2024-ink-traps/) in Sans Linear, and the brushstroke inspired curves in Mono Casual.
 
 </figcaption>
 

@@ -8,13 +8,13 @@ tags:
 coverImage: "26Days-S-Script.png"
 ---
 
-![Day 19: Script Typefaces](images/26Days-S-Script-1024x576.png)
+![Day 19: Script Typefaces](/img/post-images/26Days-S-Script-1024x576.png)
 
-The [script classification](https://fonts.google.com/knowledge/glossary/script_typeface_style) describes typefaces that are based on handwriting or calligraphy. In this way, it feels a bit like the [geometric classification](https://nicksimson.com/posts/geometric/) to me, since all type is based on handwriting or calligraphic forms. It's not to be confused with the term ["script" as it applies to writing systems](https://fonts.google.com/knowledge/glossary/script_writing_system).
+The [script classification](https://fonts.google.com/knowledge/glossary/script_typeface_style) describes typefaces that are based on handwriting or calligraphy. In this way, it feels a bit like the [geometric classification](/posts/2024-geometric/) to me, since all type is based on handwriting or calligraphic forms. It's not to be confused with the term ["script" as it applies to writing systems](https://fonts.google.com/knowledge/glossary/script_writing_system).
 
 In the Latin writing system, a script typeface generally takes on one of two sub-classifications: **formal** and **casual**. Quality digital script fonts should feature carefully designed ligatures, swashes, alternates, and other features so the quality of the type output looks calligraphic and handcrafted.
 
-![Formal and Casual styles compared](images/26Days-S-Script-styles-1024x576.png)
+![Formal and Casual styles compared](/img/post-images/26Days-S-Script-styles-1024x576.png)
 
 Most of our modern formal script fonts (think formal cursive invitations) are derived from a form of handwriting with a quill or a metal pen nib popular throughout the 17th, 18th and into the early 19th centuries. This style is called [round hand](https://en.wikipedia.org/wiki/Round_hand), and many of the font names ([Bickham](https://fonts.adobe.com/fonts/bickham-script), [Snell](https://www.myfonts.com/collections/snell-roundhand-script-font-linotype)) come from the names of the people who perfected this form of handwriting. [Chancery hand](https://en.wikipedia.org/wiki/Chancery_hand) is an earlier form of handwriting performed with similar technology, but much different letterforms.
 
@@ -36,7 +36,7 @@ There's a lot more variety than these examples. Once again, I'm only scratching 
 
 <figure>
 
-![The word Springfield in a swashy baseball script](images/26Days-S-Script-Fenway-1024x576.png)
+![The word Springfield in a swashy baseball script](/img/post-images/26Days-S-Script-Fenway-1024x576.png)
 
 <figcaption>
 
@@ -50,7 +50,7 @@ Scripts are good for display type, headings, or short lines of text, but can be 
 
 <figure>
 
-![doormat that says hope you brought wine, only the word wine looks like urine](images/urine-wine-font-mishap-1024x715.webp)
+![doormat that says hope you brought wine, only the word wine looks like urine](/img/post-images/urine-wine-font-mishap-1024x715.webp)
 
 <figcaption>
 
@@ -63,11 +63,7 @@ _Wine?_ Or _urine?_ [Image from r/comedyheaven subreddit](https://www.reddit.com
 ## Reliable places for interesting script fonts
 
 - [Hoodzpah](https://hoodzpahdesign.com/product-category/fonts/)
-
 - [Jukebox Fonts](https://www.jukeboxfonts.com/)
-
 - [Laura Worthington](https://lauraworthingtondesign.com/)
-
 - [Oh No Type Company](https://ohnotype.co/fonts)
-
 - [Sudtipos](https://www.sudtipos.com/fonts)

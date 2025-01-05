@@ -18,8 +18,6 @@ People don’t talk enough about the fears associated with parenthood, and tryin
 
 Here’s the song:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/77u3W6fyKt0?si=hZapGiKpArL1Kbbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 <blockquote>
 <p style="font-style: italic">It’s been a nice day, we all went swimming<br/>
 Me and my sweetheart and our boy<br/>
@@ -54,3 +52,5 @@ Singing “take me from this world.”</p>
 <p style="font-style: italic">It’s been a nice day, we all went swimming<br/>
 Me and my sweetheart and our boy</p>
 </blockquote>
+
+['Nice Day' performed by Tommy Womack on YouTube](https://youtu.be/77u3W6fyKt0)

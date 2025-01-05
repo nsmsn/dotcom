@@ -1,6 +1,6 @@
 ---
 title: "The friends we made along the way"
-date: "2024-03-01T05:35:44.000Z"
+date: "2024-02-29T22:35:44.000Z"
 description: "I really don’t know how else to close out the last day of a month-long daily writing and publishing challenge."
 tags: 
   - "26DaysofType"

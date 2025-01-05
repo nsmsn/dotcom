@@ -30,9 +30,12 @@ ITC Zapf Dingbats was promoted in [U&lc magazine, Volume 5, Issue 2](https://arc
 
 </figure>
 
-> Welcome to the Dingbat Revival! Decades of absence from the printed page was a natural reaction to the tasteless overuse of dingbats that inevitably led to a dearth of dingbat designs. Hermann Zapf now fills that void with a collection of winners grouped by the designer into three dingbat series to be known as ITC-100, ITC-200, and ITC-300. Each dingbat bears a universal number for precise identification on any keyboard or manual typesetting machine as well as on transfer and cutout sheets. A sensitive look at typography reveals that restrained, tasteful use of ornament is the lyric side of the printed page—a fresh delight to the eye. Welcome back.
-> 
-> U&lc magazine copy promoting the new ITC Zapf Dingbats family in 1977.
+<figure>
+ <blockquote>
+  <p>Welcome to the Dingbat Revival! Decades of absence from the printed page was a natural reaction to the tasteless overuse of dingbats that inevitably led to a dearth of dingbat designs. Hermann Zapf now fills that void with a collection of winners grouped by the designer into three dingbat series to be known as ITC-100, ITC-200, and ITC-300. Each dingbat bears a universal number for precise identification on any keyboard or manual typesetting machine as well as on transfer and cutout sheets. A sensitive look at typography reveals that restrained, tasteful use of ornament is the lyric side of the printed page—a fresh delight to the eye. Welcome back.</p>
+ </blockquote>
+ <figcaption>U&lc magazine copy promoting the new ITC Zapf Dingbats family in 1977.</figcaption>
+</figure>
 
 The symbols in Zapf Dingbats are recognizable as [Unicode symbols](https://en.wikipedia.org/wiki/Dingbats_(Unicode_block)). The dingbats from Zapf's font made their way into the Unicode Standard in 1991. One of my favorites, the V-hand sign (✌) was adopted as the official logo for the entrepreneur/startup website [AngelList](https://www.angellist.com/). The Unicode symbols of course are a precursor to [emoji](https://en.wikipedia.org/wiki/Emoji), more widely used in our digital lives today.
 

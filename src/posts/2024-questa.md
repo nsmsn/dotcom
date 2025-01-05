@@ -8,11 +8,11 @@ tags:
 coverImage: "26Days-Q-Questa.png"
 ---
 
-![Day 17: The Questa Project](images/26Days-Q-Questa-1024x576.png)
+![Day 17: The Questa Project](/img/post-images/26Days-Q-Questa-1024x576.png)
 
-In [yesterday's post](https://nicksimson.com/posts/pairs/) I wrote about combining type and brought up the concept of a superfamily: a collection of fonts in different classifications (usually at least a serif and a sans) sharing a name and similar design features. Today I want to explore one superfamily a little further.
+In [yesterday's post](/posts/2024-pairs/) I wrote about combining type and brought up the concept of a superfamily: a collection of fonts in different classifications (usually at least a serif and a sans) sharing a name and similar design features. Today I want to explore one superfamily a little further.
 
-> The Questa Project is a type design adventure by Dutch type designers _[Jos Buivenga](https://www.exljbris.com/)_ and _[Martin Majoor](https://www.martinmajoor.com)_. Their collaboration began in 2010 using Buivenga's initial sketch for a squarish Didot-like display typeface as a starting point. It was a perfect base on which to apply Majoor's type design philosophy that a serif typeface is a logical starting point for creating a sans serif version and not the other way around. The extensive Questa family includes serif, sans, slab and display typefaces.
+> The Questa Project is a type design adventure by Dutch type designers [Jos Buivenga](https://www.exljbris.com/) and [Martin Majoor](https://www.martinmajoor.com). Their collaboration began in 2010 using Buivenga's initial sketch for a squarish Didot-like display typeface as a starting point. It was a perfect base on which to apply Majoor's type design philosophy that a serif typeface is a logical starting point for creating a sans serif version and not the other way around. The extensive Questa family includes serif, sans, slab and display typefaces.
 > 
 > Intro to the Quest Project specimen, available to [download from thequestaproject.com](https://thequestaproject.com/free.html)
 
@@ -24,9 +24,9 @@ Twenty years after entering graphic design school, certain type classifications 
 
 The Questa text face is the foundation for the three other designs in the superfamily. The high-contrast faces Didot (1784), Bodoni (1796) and Walbaum were reviewed for the design, but Questa is not a revival—it is an original design. The contrast between strokes is a bit lower from what you might see in digital revivals of Bodoni, for example.
 
-![Bodoni compared to Questa](images/26Days-Q-Questa-Regular-1024x576.png)
+![Bodoni compared to Questa](/img/post-images/26Days-Q-Questa-Regular-1024x576.png)
 
-![Bodoni italic compared to Questa italic](images/26Days-Q-Questa-Italic-1024x576.png)
+![Bodoni italic compared to Questa italic](/img/post-images/26Days-Q-Questa-Italic-1024x576.png)
 
 The design of the italics is also interesting. There is an angle to the italic, but it is more upright than Bodoni's. There are more humanist, or handwritten elements to the letterforms in the Questa italic. Check out the _**y**_, the reverse-contrast **_z_**, as well as the slight curve in the captial **_V_**. Contrast also reverses in the italic numerals.
 
@@ -34,23 +34,23 @@ The design of the italics is also interesting. There is an angle to the italic, 
 
 Questa Grande is meant for bigger type sizes. The contrast is noticeably higher in Questa Grande, compared to the text. All the serifs are very thin, and in five weights from Light to Black, these hairline serifs stay the same thickness. The teardrop-shaped terminals in the **a** and **g** curl inward on the Grande display version.
 
-![Questa Regular compared to Questa Grande](images/26Days-Q-Questa-Grande-1024x576.png)
+![Questa Regular compared to Questa Grande](/img/post-images/26Days-Q-Questa-Grande-1024x576.png)
 
 ## The sans
 
 Questa Sans was created by removing the serifs from the text face, changing the contrast, closing some of the open spaces, and optically correcting the shapes. The italics in Questa Sans are also based on the italics of Questa, so these are "true" italics, not an oblique, like many grotesques.
 
-![Questa compared to Questa Sans](images/26Days-Q-Questa-Sans-1024x576.png)
+![Questa compared to Questa Sans](/img/post-images/26Days-Q-Questa-Sans-1024x576.png)
 
 ## The slab
 
 Questa Slab was created by addings serifs back to Questa Sans, but thicker, chunkier serifs. Certain characters like a, e, g, and s don't have serifs at all in the slab version and could almost be interchangeable with the sans. The italic styles of Questa Slab feature "bended" stems.
 
-![A comparison shows how similar the sans and slab are. characters like the a, g, and e aren't changed at all in the slab.](images/26Days-Q-Questa-Slab-1024x576.png)
+![A comparison shows how similar the sans and slab are. characters like the a, g, and e aren't changed at all in the slab.](/img/post-images/26Days-Q-Questa-Slab-1024x576.png)
 
 <figure>
 
-![Questa Italics compared to Questa Sans and Questa Slab Italics](images/26Days-Q-Questa-Italics-compared-1024x576.png)
+![Questa Italics compared to Questa Sans and Questa Slab Italics](/img/post-images/26Days-Q-Questa-Italics-compared-1024x576.png)
 
 <figcaption>
 

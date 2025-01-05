@@ -8,13 +8,15 @@ tags:
 coverImage: "26Days-V-Vocal-Type.png"
 ---
 
-![Day 22: Vocal Type](images/26Days-V-Vocal-Type-1024x576.png)
+![Day 22: Vocal Type](/img/post-images/26Days-V-Vocal-Type-1024x576.png)
 
-> When an industry is dominated by a single race and gender, this not only creates a lack of diversity in peoples and experiences but ideas and creations as well. That’s why Vocal Type is working to diversify design through the root of all (good) works of graphic design—typography.
-> 
-> Each typeface highlights a piece of history from a specific underrepresented race, ethnicity, or gender—from the Women’s Suffrage Movement in Argentina to the Civil Rights Movement in America.
-> 
-> [Foundry, vocaltype.co](https://www.vocaltype.co/foundry)
+<figure>
+ <blockquote>
+  <p>When an industry is dominated by a single race and gender, this not only creates a lack of diversity in peoples and experiences but ideas and creations as well. That’s why Vocal Type is working to diversify design through the root of all (good) works of graphic design—typography.</p>
+  <p>Each typeface highlights a piece of history from a specific underrepresented race, ethnicity, or gender—from the Women’s Suffrage Movement in Argentina to the Civil Rights Movement in America.</p>
+ </blockquote>
+ <figcaption><cite><a href="https://www.vocaltype.co/foundry">Foundry, vocaltype.co</a></cite></figcaption>
+</figure>
 
 [Tré Seals](https://www.treseals.com) is the designer behind [Vocal Type](https://www.vocaltype.co/), a foundry releasing original typefaces and commissions for artists, organizations, and campaigns since 2016. Each Vocal Type release is based on a historical figure or social movement and is meticulously researched from archival photos and typographic materials.
 
@@ -40,9 +42,13 @@ The Vocal Type catalogue includes:
 
 In addition to the typefaces, the studio takes on commissioned work, including but not limited to a line of [sports apparel inspired by tennis icon Arthur Ashe](https://www.vocaltype.co/case-study/arthur-ashe), a [book by Spike Lee](https://www.printmag.com/daily-heller/the-daily-heller/), and [Stacey Abrams’ gubernatorial campaign](https://www.vocaltype.co/case-study/stacey-abrams) in Georgia.
 
-> I see type as a force for education, and education as a force for diversity. Someone once told me that if you condensed the world population into a group of 100 people, only one person in that group would be college educated. I only know three Black type designers in America, and according to the United States Department of Labor, Black designers only make up 3.5 percent of all designers in America. So, I’m using type to educate the graphic design community about the importance of understanding other cultures. My next step is to educate the youth in Black and Brown communities on what’s possible. My grandfather always told me that you can’t make money selling art, and a lot of the older generations in these communities feel the same way. But if you can believe that a boy raised on a farm survived two brain tumors and grew up to sell letters, then you should be able to believe that anything is possible if you work to make it so.
-> 
-> [Tré Seals, in Communication Arts magazine](https://www.commarts.com/columns/seals)
+
+<figure>
+ <blockquote>
+  <p>I see type as a force for education, and education as a force for diversity. Someone once told me that if you condensed the world population into a group of 100 people, only one person in that group would be college educated. I only know three Black type designers in America, and according to the United States Department of Labor, Black designers only make up 3.5 percent of all designers in America. So, I’m using type to educate the graphic design community about the importance of understanding other cultures. My next step is to educate the youth in Black and Brown communities on what’s possible. My grandfather always told me that you can’t make money selling art, and a lot of the older generations in these communities feel the same way. But if you can believe that a boy raised on a farm survived two brain tumors and grew up to sell letters, then you should be able to believe that anything is possible if you work to make it so.</p>
+ </blockquote>
+ <figcaption><cite><a href="https://www.commarts.com/columns/seals">Tré Seals, in Communication Arts magazine</a></cite></figcaption>
+</figure>
 
 ## Vocal Type in use
 
@@ -50,7 +56,7 @@ In addition to the typefaces, the studio takes on commissioned work, including b
 
 Mike Monteiro uses [VTC James](https://www.vocaltype.co/history-of/james) for the Necessary Second Edition (Mike's Version) of _[Design is a Job](https://www.designisajob.com/)_. Here's my copy:
 
-![Mike's Version: Design is a Job by Mike Monteiro](images/IMG_3683-768x1024.jpeg)
+![Mike's Version: Design is a Job by Mike Monteiro](/img/post-images/IMG_3683-768x1024.jpeg)
 
 As always, [Fonts in Use features some excellent design work](https://fontsinuse.com/type_designers/6335/tre-seals) using Vocal Type fonts. I've noticed a few designs combining Seals' display type with [Halyard](https://nicksimson.com/posts/halyard/), Dapifer, and other typefaces by [Joshua Darden](https://www.dardenstudio.com/), another contemporary Black type designer.
 

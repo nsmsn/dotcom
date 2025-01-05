@@ -10,7 +10,7 @@ coverImage: "26Days-W-Wood-Type.png"
 
 <figure>
 
-![Day 23: Wood Type](images/26Days-W-Wood-Type-1024x576.png)
+![Day 23: Wood Type](/img/post-images/26Days-W-Wood-Type-1024x576.png)
 
 <figcaption>
 
@@ -24,7 +24,7 @@ In letterpress printing, moveable type made from wood originated in China in the
 
 <figure>
 
-![Large condensed type samples](images/47181270-edited.jpg)
+![Large condensed type samples](/img/post-images/47181270-edited.jpg)
 
 <figcaption>
 
@@ -36,7 +36,7 @@ Specimens of Wood Type and Catalogue of Printers' Wood Goods and Materials, publ
 
 <figure>
 
-![A two page spread of wood type specimens in a variety of styles](images/ACU7VII7RITC5M8F-M-h1380-53b21-1024x674.jpg)
+![A two page spread of wood type specimens in a variety of styles](/img/post-images/ACU7VII7RITC5M8F-M-h1380-53b21-1024x674.jpg)
 
 <figcaption>
 
@@ -55,13 +55,8 @@ If you're looking to replicate the wood type look digitally, Adobe Fonts feature
 ## A handful of artists working with wood type today
 
 - [Alan Kitching](https://www.alankitching.com/portfolio)
-
 - [Brad Vetter](https://bradvetterdesign.com/)
-
 - [Chad Danieley](https://www.instagram.com/chaddanieley/)
-
-- [David Wolske](https://David Wolske)
-
+- [David Wolske](https://davidwolske.xyz/bio)
 - [Julia Humfress](https://www.woodwordsletterpress.com/woodwords-originaletterpressart)
-
 - [Rachel Dugan](https://racheldugan.com/work/)

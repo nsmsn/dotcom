@@ -63,7 +63,7 @@ Here’s a guide to the emoji in this post:
     297 pages
     &nbsp;
 
-9. <i>Long Walk to Freedom: The Autobiography of Nelson Mandela</i> <br/>
+9. <i>Long Walk to Freedom: The Autobiography of Nelson Mandela</i> ⭐ <br/>
     by Nelson Mandela <br/>
     🎧 <small>Finished on <time datetime="2024-07-10">July 10</time></small> <br/>
     656 pages

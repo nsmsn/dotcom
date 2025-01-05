@@ -8,13 +8,13 @@ tags:
 coverImage: "26Days-I-Inktrap.png"
 ---
 
-![Day 9: Ink Traps](images/26Days-I-Inktrap-1024x576.png)
+![Day 9: Ink Traps](/img/post-images/26Days-I-Inktrap-1024x576.png)
 
 Back before I started making and keeping [lists of fonts](https://typo.town/font-lists), I did what I imagine a "normal" person might do. I started out typing out my text (maybe a headline or a paragraph) into a word processor or design app, and would literally go through the font menu one by one, until something interesting popped up. That was how I came across this:
 
 <figure>
 
-![Something other than Myriad Pro set in all caps. The beginning of Bartleby, the scivener.](images/26Days-I-Inktrap-Bell-Centennial-1024x576.png)
+![Something other than Myriad Pro set in all caps. The beginning of Bartleby, the scivener.](/img/post-images/26Days-I-Inktrap-Bell-Centennial-1024x576.png)
 
 <figcaption>
 
@@ -26,17 +26,15 @@ A complete approximation of my design. I truly can't remember the content at all
 
 I kind of liked it! That heading feels _wrong_, in a weirdly satisfying way. Was this a lost [Emigre](https://www.emigre.com/) font from the 1990s? I looked up closer at the font menu: **Bell Centennial BT**. The weight was **Bold Listing**. Here was the phone book font, teaching me all about ink traps.
 
+Here's [Nick Sherman, writing about Bell Centennial](https://nicksherman.com/articles/bellCentennial.html), designed by Matthew Carter:
+
 > Maybe the most unique of Bell Centennial's forms are in place to solve problems during production. Since the phonebook is printed at high speeds and on low-quality paper, the ink has a tendency to spread out on the paper (this effect is called “dot gain”). Since the slightest spread greatly effects the shape of such small letterforms, \[Matthew\] Carter incorporated [notches](https://nicksherman.com/articles/bellCentennial/inkTraps.gif) (called “ink traps”) at the corners for compensation.
-> 
-> [Nick Sherman, writing about Bell Centennial](https://nicksherman.com/articles/bellCentennial.html), designed by Matthew Carter
 
 Ink traps are features from metal typesetting, especially at small sizes, that prevent ink from pooling or bleeding at the intersection of certain strokes. (The first time I used a [letterpress machine](https://en.wikipedia.org/wiki/Vandercook) was a few years after college) Printing technology has changed, but this carryover from the hot metal days is still being employed by digital type designers.
 
 <figure>
 
-![1982 Word's Fair
-Knoxville, Tennessee
-1,234,567,890](images/26Days-I-Inktrap-Halyard-Micro-1982-1024x576.png)
+![1982 Word's Fair. Knoxville, Tennessee. 1,234,567,890](/img/post-images/26Days-I-Inktrap-Halyard-Micro-1982-1024x576.png)
 
 <figcaption>
 
@@ -54,7 +52,7 @@ I wrote about the [Halyard family](https://nicksimson.com/posts/halyard/) in yes
 
 <figure>
 
-![Expo '82 in different weights of Halyard Micro](images/26Days-I-Inktrap-Halyard-Micro-Expo-82-514x1024.png)
+![Expo '82 in different weights of Halyard Micro](/img/post-images/26Days-I-Inktrap-Halyard-Micro-Expo-82-514x1024.png)
 
 <figcaption>
 
@@ -66,17 +64,13 @@ Halyard Micro (upright) in 8 weights: ExtraLight to Black
 
 <figure>
 
-![Expo '82 in different weights of Halyard Micro Italic](images/26Days-I-Inktrap-Halyard-Micro-Expo-82-Italic-514x1024.png)
+![Expo '82 in different weights of Halyard Micro Italic](/img/post-images/26Days-I-Inktrap-Halyard-Micro-Expo-82-Italic-514x1024.png)
 
 <figcaption>
 
 Halyard Micro italics in 8 weights: ExtraLight to Black
 
 </figcaption>
-
-</figure>
-
-
 
 </figure>
 

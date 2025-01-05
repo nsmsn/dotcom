@@ -27,9 +27,6 @@ More than 200 years after the Luddite uprisings, there are plenty of lessons for
 If you still need convincing, check out:
 
 - An interview with Brian Merchant in [_Current Affairs_ magazine](https://www.currentaffairs.org/2024/01/why-you-should-be-a-luddite)
-
 - An interview with Brian Merchant on the [99% Invisible podcast](https://99percentinvisible.org/episode/blood-in-the-machine/)
-
 - [Mandy Brown's notes](https://aworkinglibrary.com/reading/blood-in-the-machine) on Blood in the Machine
-
 - [Matt Stein's review](https://mattstein.com/books/blood-in-the-machine/): "It’s some real _Game of Thrones_ type shit and not a light read."

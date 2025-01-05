@@ -8,7 +8,7 @@ tags:
 coverImage: "26Days-D-Drop-Caps.png"
 ---
 
-![Day 4: Drop Caps](images/26Days-D-Drop-Caps-1024x576.png)
+![Day 4: Drop Caps](/img/post-images/26Days-D-Drop-Caps-1024x576.png)
 
 **Drop caps, or "dropped capitals"** are a design element that can add a little _oomph_ to your page (or screen). The idea is this: a large capital letter, the first letter of the first word of your paragraph, stands out as a decorative element. This captures your reader's attention, hopefully drawing them in. The standard size of a drop cap is 2 or more lines tall. If you are reading this article on my website, and not in some RSS reader or [Instapaper](https://instapaper.com/)\-type app, you may have noticed that the **D** in this very paragraph "pops" in the page design.
 
@@ -24,7 +24,7 @@ So my neglect of my side project, a personal yearlong goal, and this unique writ
 
 <figure>
 
-![An engraved O two lines tall opens a paragraph on Abraham Lincoln](images/IMG_3639-768x1024.jpeg)
+![An engraved O two lines tall opens a paragraph on Abraham Lincoln](/img/post-images/IMG_3639-768x1024.jpeg)
 
 <figcaption>
 
@@ -36,7 +36,7 @@ From The Crroked Path to Abolition by James Oakes
 
 <figure>
 
-![A big bold capital R three lines tall opens a short story](images/IMG_3640-768x1024.jpeg)
+![A big bold capital R three lines tall opens a short story](/img/post-images/IMG_3640-768x1024.jpeg)
 
 <figcaption>
 
@@ -48,7 +48,7 @@ From Killing the Buddha by Peter Manseau and Jeff Sharlet
 
 <figure>
 
-![A highly decorative red A stands 4 lines tall and opens a section about the prophets](images/IMG_3643-768x1024.jpeg)
+![A highly decorative red A stands 4 lines tall and opens a section about the prophets](/img/post-images/IMG_3643-768x1024.jpeg)
 
 <figcaption>
 
@@ -68,7 +68,7 @@ A drop cap is not to be confused with an **initial cap**, which sits on the base
 
 <figure>
 
-![A large capital W](images/IMG_3644-768x1024.jpeg)
+![A large capital W](/img/post-images/IMG_3644-768x1024.jpeg)
 
 <figcaption>
 
@@ -80,7 +80,7 @@ From Welcome to the Monkey House by Kurt Vonnegut
 
 <figure>
 
-![A large capital A opens The Lorax by Dr. Suess](images/IMG_3645-768x1024.jpeg)
+![A large capital A opens The Lorax by Dr. Suess](/img/post-images/IMG_3645-768x1024.jpeg)
 
 <figcaption>
 
@@ -92,7 +92,7 @@ From The Lorax by Dr. Seuss
 
 <figure>
 
-![A huge capital L opens a page about Guitars](images/IMG_3646-768x1024.jpeg)
+![A huge capital L opens a page about Guitars](/img/post-images/IMG_3646-768x1024.jpeg)
 
 <figcaption>
 

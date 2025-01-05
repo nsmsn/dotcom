@@ -8,7 +8,7 @@ tags:
 coverImage: "26Days-F-Franklin.png"
 ---
 
-![Day 6: Franklin Gothic](images/26Days-F-Franklin-1024x576.png)
+![Day 6: Franklin Gothic](/img/post-images/26Days-F-Franklin-1024x576.png)
 
 I'm sure you've seen this one. Maybe on a poster or a magazine headline. Or in the Windows 95 font menu. The [MoMA logotype](https://bpando.org/2020/01/02/moma-by-order/) is based on it. It's named after Benjamin Franklin, the most famous printer in American history.
 
@@ -16,7 +16,7 @@ Sometimes, a classic can't be beat. But it can be perfected.
 
 <figure>
 
-![Early letterpress specimen of Franklin Gothic at different type sizes](images/Franklin-Letterpress-786x1024.jpg)
+![Early letterpress specimen of Franklin Gothic at different type sizes](/img/post-images/Franklin-Letterpress-786x1024.jpg)
 
 <figcaption>
 
@@ -29,17 +29,11 @@ An early font specimen for Franklin Gothic. [Source](https://dailytypespecimen.c
 ## Meet the Franklins
 
 - [Libre Franklin](https://fonts.google.com/specimen/Libre+Franklin) (Google Fonts)
-
 - [ITC Franklin Gothic](https://fonts.adobe.com/fonts/itc-franklin-gothic) (Adobe Fonts)
-
 - [ITC Franklin](https://www.myfonts.com/collections/franklin-font-itc) (MyFonts)
-
 - [Franklin Gothic URW](https://fonts.adobe.com/fonts/franklin-gothic-urw) (Adobe Fonts)
-
 - [ATF Franklin Gothic](https://fonts.adobe.com/fonts/atf-franklin-gothic) (Adobe Fonts)
-
 - [HEX Franklin](https://www.futurefonts.xyz/hex/hex-franklin) (Future Fonts)
-
 - There are many more versions that have (and haven't) been digitized, and some that are not even available to license.
 
 ## Why are there so many versions?
@@ -48,7 +42,7 @@ The short answer is technology. Franklin Gothic was designed by Morris Fuller Be
 
 <figure>
 
-![Cover of U & LC Magazine: An Illuminating, Often Profound Dissertation on the Versatility of ITC Franklin Gothic -Oh wow!- And its eponym, Benjamin Frainklin. Dynamite!](images/ITC-Franklin-1980-738x1024.jpg)
+![Cover of U & LC Magazine: An Illuminating, Often Profound Dissertation on the Versatility of ITC Franklin Gothic -Oh wow!- And its eponym, Benjamin Frainklin. Dynamite!](/img/post-images/ITC-Franklin-1980-738x1024.jpg)
 
 <figcaption>
 
@@ -60,9 +54,9 @@ Years before digital typesetting, here's how ITC Franklin Gothic was marketed in
 
 That said, there are some subtle differences between these different versions. The ITC version of Franklin Gothic "Helvetica-ized" the transitions between stems and arches, whereas Benton's original design for ATF featured more contrast and sharper transitions. The _ear_ in the lowercase **g** in ITC version is bigger and more pronounced.
 
-![HEX Franklin compared to ITC Franklin Pro. The ear on the lowercase g is bigger in the ITC version.](images/26Days-F-Franklin-Raged-1024x576.png)
+![HEX Franklin compared to ITC Franklin Pro. The ear on the lowercase g is bigger in the ITC version.](/img/post-images/26Days-F-Franklin-Raged-1024x576.png)
 
-![HEX Franklin compared to Libre Franklin. Libre is quite soft and round compared to HEX](images/26Days-F-Franklin-Glyphic-1024x576.png)
+![HEX Franklin compared to Libre Franklin. Libre is quite soft and round compared to HEX](/img/post-images/26Days-F-Franklin-Glyphic-1024x576.png)
 
 The [Libre Franklin](https://fonts.google.com/specimen/Libre+Franklin) version is a bit softer and more rounded than any of the other versions listed above, almost as if a rounded stroke was applied to the letterforms. Once you see it, its kind of hard to unsee. If you must use this free version, I'm sure it's OK at text sizes. But out of respect for Mr. Benton, use something else at 24px and above.
 
@@ -70,11 +64,9 @@ The [Libre Franklin](https://fonts.google.com/specimen/Libre+Franklin) version i
 
 Franklin is a quintessentially American typeface. As I mentioned earlier, MoMA uses this font, their own proprietary version. So does _The New York Times_. Franklin was used extensively through the 20th century American visual landscape for a variety of uses. Looks great in all caps, or with tight letterspacing, or both. It's a pretty rugged and utilitarian sans-serif, but versatile too. It rarely looks dated. One type designer has compared Franklin to blue jeans, in that way.
 
-![The Ramones self titled album used Franklin Gothic in huge type with tight letterspacing.](images/Franklin-Ramones.jpg)
+![The Ramones self titled album used Franklin Gothic in huge type with tight letterspacing.](/img/post-images/Franklin-Ramones.jpg)
 
 If you can't get enough Franklin and type history, make sure you don't miss Nick Sherman's talk, [Franklin Gothic Goes On Forever](https://coopertype.org/events/franklin_gothic_goes_on_forever). Sherman is the designer behind [HEX Franklin](https://hex.xyz/HEX_Franklin/), and a self-proclaimed "Franklin Gothic Monster".
-
-https://vimeo.com/775813402
 
 ## Some related faces
 

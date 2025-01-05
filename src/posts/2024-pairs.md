@@ -8,7 +8,7 @@ tags:
 coverImage: "26Days-P-Pairs.png"
 ---
 
-![Day 16: Pairing Typefaces](images/26Days-P-Pairs-1024x576.png)
+![Day 16: Pairing Typefaces](/img/post-images/26Days-P-Pairs-1024x576.png)
 
 **Disclaimer: You don't always need to pair typefaces.** You can launch a revolution with one font. [Martin Luther's 95 theses](https://en.wikipedia.org/wiki/Ninety-five_Theses#/media/File:Luther_95_Thesen.png) and [Tim Berners-Lee's first website](https://info.cern.ch/hypertext/WWW/TheProject.html) only used a single typeface. These days you can totally get away with a minimalist design, and use one typeface at one size, with an italic style for emphasis, and maybe a bold weight for headings for your entire document or project.
 
@@ -72,9 +72,12 @@ Sometimes marvelous things happen. I paired two Google fonts for an earlier iter
 
 I never contemplated using four or more typefaces in a single design until I read this wonderful [article by Bethany Heck eight years ago](https://web.archive.org/web/20180508123213/https://medium.com/s/about-face/the-value-of-multi-typeface-design-ccd67227b0ee).
 
-> Don’t design for other designers, design for your audience. Using multiple families can mean you have to make fewer compromises, and it gives you an opportunity to create rich, distinctive palettes. Every typeface you add makes your visual language more nuanced, which can aid, instead of hinder, clarity for your audience and establish an aesthetic that is unique.
-> 
-> Bethany Heck
+<figure>
+ <blockquote>
+  <p>Don’t design for other designers, design for your audience. Using multiple families can mean you have to make fewer compromises, and it gives you an opportunity to create rich, distinctive palettes. Every typeface you add makes your visual language more nuanced, which can aid, instead of hinder, clarity for your audience and establish an aesthetic that is unique.</p>
+ </blockquote>
+ <figcaption><cite>Bethany Heck</cite></figcaption>
+</figure>
 
 The key rule for using more than two typefaces in a design is to make sure you are picking each font for a single purpose and using it consistently: One typeface for body text; One typeface, one weight for headlines; One typeface, one weight for sub-headings; One typeface, one weight for captions; One typeface, one weight for block quotes; One ([monospaced](https://nicksimson.com/posts/monospaced/)) typeface for code samples, etc.
 

@@ -8,15 +8,15 @@ tags:
 coverImage: "26Days-T-Transitional.png"
 ---
 
-![Day 20: Transitional](images/26Days-T-Transitional-1024x576.png)
+![Day 20: Transitional](/img/post-images/26Days-T-Transitional-1024x576.png)
 
-We covered [Old Style serifs](https://nicksimson.com/posts/old-style/) already, in which we learned the difference between Old Style, Transitional, and Modern/Didone. Now let's dig deeper into [Transitional serif typefaces](https://ilovetypography.com/2008/01/17/type-terms-transitional-type/).
+We covered [Old Style serifs](/posts/2024-old-style/) already, in which we learned the difference between Old Style, Transitional, and Modern/Didone. Now let's dig deeper into [Transitional serif typefaces](https://ilovetypography.com/2008/01/17/type-terms-transitional-type/).
 
 Transitional typefaces were pioneered in the late 18th century and remain popular today for newspaper and book printing. Compared to Old Style serifs, Transitionals typically feature taller x-heights, more contrast between strokes, and a more upright stress axis on rounded characters like the **o**. The default numerals in these fonts are usually lining figures, which means they sit at the same baseline and are the same height. I used to have a hard time classifying certain fonts as either Old Style or Transitional, but the key characters I pay attention to are the **a**, **e**, **o**, and **t**.
 
 <figure>
 
-![Plantin compared to Times New Roman](images/26Days-T-Transitional-Plantin-Times-1024x576.png)
+![Plantin compared to Times New Roman](/img/post-images/26Days-T-Transitional-Plantin-Times-1024x576.png)
 
 <figcaption>
 
@@ -28,7 +28,7 @@ Times New Roman is a Transitional serif based off Plantin, which in turn was bas
 
 <figure>
 
-![Plantin and Times New Roman Italics](images/26Days-T-Transitional-Plantin-Times-Italic-1024x576.png)
+![Plantin and Times New Roman Italics](/img/post-images/26Days-T-Transitional-Plantin-Times-Italic-1024x576.png)
 
 <figcaption>
 
@@ -50,7 +50,7 @@ Matthew Carter has long been one of my favorite type designers, and his three se
 
 <figure>
 
-![Charter, Georgia, and Miller samples.](images/26Days-T-Transitional-Carter-1024x576.png)
+![Charter, Georgia, and Miller samples.](/img/post-images/26Days-T-Transitional-Carter-1024x576.png)
 
 <figcaption>
 
@@ -64,7 +64,7 @@ In this sample, you can see three designs by Matthew Carter, all with similar x-
 
 <figure>
 
-![Charter, Georgia and Miller italics](images/26Days-T-Transitional-Carter-Italic-1024x576.png)
+![Charter, Georgia and Miller italics](/img/post-images/26Days-T-Transitional-Carter-Italic-1024x576.png)
 
 <figcaption>
 

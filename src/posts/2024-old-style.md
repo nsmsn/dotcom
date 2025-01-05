@@ -8,7 +8,7 @@ tags:
 coverImage: "26Days-O-15-Oldstyle.png"
 ---
 
-![Day 15: Old style serifs](images/26Days-O-15-Oldstyle-1024x576.png)
+![Day 15: Old style serifs](/img/post-images/26Days-O-15-Oldstyle-1024x576.png)
 
 Not talking about a [beer label](https://www.beeradvocate.com/beer/profile/447/1727/) today, but a type classification for fonts like Garamond.
 
@@ -26,7 +26,7 @@ With [26 Days of Type](https://nicksimson.com/26-days-of-type/) I spent a lot of
 
 <figure>
 
-![Jenson, Times New Roman, and Bodoni compared.](images/26Days-O-Oldstyle-compared-to-Transitional-Modern-1024x987.png)
+![Jenson, Times New Roman, and Bodoni compared.](/img/post-images/26Days-O-Oldstyle-compared-to-Transitional-Modern-1024x987.png)
 
 <figcaption>
 
@@ -40,7 +40,7 @@ Old styles can be characterized by a number of features. They tend to have lower
 
 <figure>
 
-![Four lines of text in different italic fonts](images/26Days-O-Oldstyle-Italics-1024x576.png)
+![Four lines of text in different italic fonts](/img/post-images/26Days-O-Oldstyle-Italics-1024x576.png)
 
 <figcaption>
 
@@ -54,7 +54,7 @@ With the term _old style_, I should also mention numbers. Oldstyle figures are o
 
 <figure>
 
-![oldstyle figures compared to lining figures.](images/26Days-O-Oldstyle-numerals.png)
+![oldstyle figures compared to lining figures.](/img/post-images/26Days-O-Oldstyle-numerals.png)
 
 <figcaption>
 

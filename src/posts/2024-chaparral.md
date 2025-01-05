@@ -8,7 +8,7 @@ tags:
 coverImage: "26Days-C-Chaparral.png"
 ---
 
-![The alphabet, numbers and punctuation in Chaparral Pro](images/26Days-C-Chaparral-1024x576.png)
+![The alphabet, numbers and punctuation in Chaparral Pro](/img/post-images/26Days-C-Chaparral-1024x576.png)
 
 Before [Adobe Fonts](https://fonts.adobe.com/) and Creative Cloud, there was [Adobe Font Folio](https://en.wikipedia.org/wiki/Adobe_Font_Folio), back when software was still sold in boxes. There was an education version of this product, and that's surely how I encountered (and came to love) [Chaparral](https://fonts.adobe.com/fonts/chaparral) as an undergraduate design student.
 
@@ -22,7 +22,7 @@ I believe the 'Pro' in 'Chaparral Pro' comes from the fact that there are 32 wei
 
 <figure>
 
-![](images/26Days-C-Chaparral-sample-1024x576.png)
+![](/img/post-images/26Days-C-Chaparral-sample-1024x576.png)
 
 <figcaption>
 
@@ -42,7 +42,7 @@ I believe the 'Pro' in 'Chaparral Pro' comes from the fact that there are 32 wei
 
 <figure>
 
-![A spread of a book featuring an Albrecht Durer book design](images/IMG_3626-1024x768.jpeg)
+![A spread of a book featuring an Albrecht Durer book design](/img/post-images/IMG_3626-1024x768.jpeg)
 
 <figcaption>
 
@@ -59,29 +59,20 @@ Chaparral was available early on in the Typekit service (now Adobe Fonts), but i
 ## Where to use Chaparral
 
 - Books, poetry, and publications
-
 - Universities, museums, and other academic institutions
-
 - Writing about contemporary California or the American Southwest.
 
 ## Chaparral in use
 
 - [fray.com](https://fray.com/issue3/), the web’s original storytelling magazine.
-
 - [A Working Library](https://aworkinglibrary.com/), personal blog of Mandy Brown.
-
 - [Chaparral on Fonts in Use](https://fontsinuse.com/typefaces/28/chaparral)
-
 - [Chaparral on Typewolf](https://www.typewolf.com/chaparral)
 
 ## Typefaces with a similar feel
 
 - [Bitter](https://fonts.google.com/specimen/Bitter) on Google Fonts
-
 - [FF Tisa](https://fonts.adobe.com/fonts/ff-tisa) on Adobe Fonts
-
 - [Foro](https://www.fontspring.com/fonts/hoftype/foro) on Fontspring
-
 - [Ratio](https://fonts.adobe.com/fonts/ratio) on Adobe Fonts (a sans serif with similar proportions)
-
 - [Skolar](https://fonts.adobe.com/fonts/skolar) on Adobe Fonts

@@ -8,7 +8,7 @@ tags:
 coverImage: "26Days-28.png"
 ---
 
-![Day 28: Bonus Day!](images/26Days-28-1024x576.png)
+![Day 28: Bonus Day!](/img/post-images/26Days-28-1024x576.png)
 
 My spouse was reading an older book set in [ITC Korinna](https://www.myfonts.com/collections/korinna-font-itc), a very 1970s/80s design. [If you've watched Jeopardy!, you've seen this font](https://fontsinuse.com/uses/5507/jeopardy-game-show), or at least the uppercase letters.
 

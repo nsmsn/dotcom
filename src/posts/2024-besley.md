@@ -8,7 +8,7 @@ tags:
 coverImage: "26Days-B-Besley.png"
 ---
 
-![sample of Besley Medium Italic](images/26Days-B-Besley-1024x576.png)
+![sample of Besley Medium Italic](/img/post-images/26Days-B-Besley-1024x576.png)
 
 Welcome to day two of [#26DaysOfType](https://nicksimson.com/tags/26daysoftype/). Today's featured font is [Besley\*](https://indestructibletype.com/Besley.html). Owen Earl, the typeface designer behind Besley\* puts an asterisk next to his font names as a kind of branding or distinction for designs released under his foundry, [Indestructible Type](https://indestructibletype.com/Home.html).
 
@@ -20,7 +20,7 @@ Besley\* is a revival of a design called Clarendon. It is also the font I chose 
 > 
 > [Typedia.com entry for Clarendon (archived)](https://web.archive.org/web/20200926083631/https://typedia.com/explore/typeface/clarendon/)
 
-![Where Do We Go From Here? Chaos or Community? By Martin Luther King Jr.](images/26Days-B-Besley-Sample-MLK-1024x576.png)
+![Where Do We Go From Here? Chaos or Community? By Martin Luther King Jr.](/img/post-images/26Days-B-Besley-Sample-MLK-1024x576.png)
 
 With Besley\*, Owen Earl set out to create a version of Clarendon to fit the needs of 21st century typesetting. Besley\* looks great on screens and in print and features beautiful original italics drawn from the ground up.
 
@@ -34,7 +34,7 @@ When it comes to typeface classification, this type of font is called a _slab-se
 
 <figure>
 
-![](images/26Days-B-Besley-QA-1024x576.png)
+![](/img/post-images/26Days-B-Besley-QA-1024x576.png)
 
 <figcaption>
 

@@ -18,7 +18,7 @@ A typeface's x-height can influence it's legibility: typefaces with shorter x-he
 
 <figure>
 
-![Mrs Eaves and Mr Eaves Sans compared to the XL versions.](images/26Days-X-x-height-Mr-Mrs-Eaves-1024x576.png)
+![Mrs Eaves and Mr Eaves Sans compared to the XL versions.](/img/post-images/26Days-X-x-height-Mr-Mrs-Eaves-1024x576.png)
 
 <figcaption>
 
@@ -32,7 +32,7 @@ X-height is one of the first things I look for when choosing type for a project.
 
 <figure>
 
-![x-heights compared between three different Old Style fonts.](images/26Days-X-x-height-OldStyle-1024x576.png)
+![x-heights compared between three different Old Style fonts.](/img/post-images/26Days-X-x-height-OldStyle-1024x576.png)
 
 <figcaption>
 

@@ -8,7 +8,7 @@ tags:
 coverImage: "26Days-L-Licensing.png"
 ---
 
-![Day 12: Licensing](images/26Days-L-Licensing-1024x576.png)
+![Day 12: Licensing](/img/post-images/26Days-L-Licensing-1024x576.png)
 
 What follows isn't legal advice. If you do need legal advice, please find a lawyer. I am not a lawyer, nor do I play one on the internet.
 
