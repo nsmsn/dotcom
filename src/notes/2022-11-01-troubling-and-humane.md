@@ -2,7 +2,7 @@
 title: "The New York Times: The Troubling and Humane ..."
 date: "2022-11-01T22:55:10.000Z"
 tags: 
-  - "photography"
+  - "Photography"
 ---
 
 The New York Times: [The Troubling and Humane Photography of Baldwin Lee](https://www.nytimes.com/2022/10/31/opinion/baldwin-lee-photography-black-america.html)

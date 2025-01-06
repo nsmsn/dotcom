@@ -1,9 +1,9 @@
 ---
-title: "Bookmarked Security Checklist by by Brian Lovin. Just ..."
+title: "Bookmarked Security Checklist by by Brian Lovin."
 date: "2022-07-23T03:38:10.000Z"
 tags: 
-  - "bookmarks"
-  - "technology"
+  - "Bookmarks"
+  - "Technology"
 ---
 
 _Bookmarked [Security Checklist](https://brianlovin.com/security) by by Brian Lovin._

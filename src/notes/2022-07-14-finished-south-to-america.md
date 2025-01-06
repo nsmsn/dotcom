@@ -2,7 +2,7 @@
 title: "Finished reading South to America: A Journey Below ..."
 date: "2022-07-14T17:24:10.000Z"
 tags: 
-  - "books"
+  - "Books"
 ---
 
 Finished reading [South to America: A Journey Below the Mason-Dixon to Understand the Soul of a Nation](https://micro.blog/books/9780062977380) by Imani Perry 📚

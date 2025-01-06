@@ -2,7 +2,7 @@
 title: "Jason Lengstorf: Intention vs. Drift — Let’s Learn ..."
 date: "2022-07-27T20:48:37.000Z"
 tags: 
-  - "design-systems"
+  - "Design Systems"
 ---
 
 Jason Lengstorf: [Intention vs. Drift — Let’s Learn Design Systems, Part 1](https://www.netlify.com/blog/2020/05/11/intention-vs.-drift-lets-learn-design-systems-part-1/)

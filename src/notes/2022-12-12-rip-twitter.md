@@ -2,7 +2,7 @@
 title: "I’m no longer syndicating my microblog to Twitter. ..."
 date: "2022-12-12T19:33:10.000Z"
 tags: 
-  - "social-media"
+  - "Social Media"
 ---
 
 I'm no longer syndicating my microblog to Twitter. Also removed links to Twitter from my personal website.

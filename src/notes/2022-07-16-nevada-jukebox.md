@@ -1,8 +1,8 @@
 ---
-title: "Listening to Nevada Jukebox by 60,000,000 Buffalo🎵 A ..."
+title: "Nevada Jukebox"
 date: "2022-07-17T01:57:10.000Z"
 tags: 
-  - "music"
+  - "Music"
 ---
 
 Listening to [Nevada Jukebox by 60,000,000 Buffalo](https://www.discogs.com/master/726600-60000000-Buffalo-Nevada-Jukebox)🎵

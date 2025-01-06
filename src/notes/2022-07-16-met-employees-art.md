@@ -1,8 +1,8 @@
 ---
-title: "Hyper allergic: The Met Hosts an Exhibition of ..."
+title: "Exhibition of Employees’ Art"
 date: "2022-07-16T07:22:10.000Z"
 tags: 
-  - "art"
+  - "Art"
 ---
 
 Hyper allergic: [The Met Hosts an Exhibition of Employees’ Art, Open to the Public for the First Time](https://hyperallergic.com/738071/the-met-hosts-an-exhibition-of-employees-art-open-to-the-public-for-the-first-time/)

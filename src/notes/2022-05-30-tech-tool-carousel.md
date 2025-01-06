@@ -1,6 +1,8 @@
 ---
 title: "Likes The tech tool carousel by Andy Bell. ..."
 date: "2022-05-30T15:29:10.000Z"
+tags: 
+  - "Likes"
 ---
 
 _Likes [The tech tool carousel](https://andy-bell.co.uk/the-tech-tool-carousel/) by Andy Bell._

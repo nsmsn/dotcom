@@ -2,8 +2,8 @@
 title: "Bookmarked How to use Firefox for accessibility testing ..."
 date: "2022-08-03T16:10:10.000Z"
 tags: 
-  - "accessibility"
-  - "bookmarks"
+  - "Accessibility"
+  - "Bookmarks"
 ---
 
 _Bookmarked [How to use Firefox for accessibility testing](https://www.a11yproject.com/posts/using-firefox-for-accessibility-testing/) by Todd Libby._

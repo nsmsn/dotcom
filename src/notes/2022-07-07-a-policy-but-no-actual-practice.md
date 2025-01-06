@@ -1,6 +1,8 @@
 ---
 title: "Likes So You’ve Decided to Bungle Your Company’s ..."
 date: "2022-07-08T02:06:10.000Z"
+tags: 
+  - "Likes"
 ---
 
 _Likes [So You've Decided to Bungle Your Company's Flexible Work Plan](https://annehelen.substack.com/p/so-youve-decided-to-bungle-your-companys) by Anne Helen Petersen._

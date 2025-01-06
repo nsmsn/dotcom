@@ -2,8 +2,8 @@
 title: "Bookmarked Text Cleaner. When you copy text from ..."
 date: "2022-10-01T01:12:30.000Z"
 tags: 
-  - "bookmarks"
-  - "tools"
+  - "Bookmarks"
+  - "Tools"
 ---
 
 _Bookmarked [Text Cleaner](https://textcleaner.net/)._

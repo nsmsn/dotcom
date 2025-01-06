@@ -31,6 +31,7 @@ Here are links to my other projects and profiles around the World Wide Web.
 
 ## Miscellaneous
 
+- [Bandcamp](https://bandcamp.com/nsmsn)
 - [Bookshop](https://bookshop.org/shop/nsmsn) (buy a 📕 from me!)
 - [Huffduffer](https://huffduffer.com/nsmsn)
 - [IndieWeb.org](https://indieweb.org/User:Nicksimson.com)

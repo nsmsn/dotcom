@@ -2,7 +2,7 @@
 title: "Emily McCrary-Ruiz-Esparza: Generation Amazing!!! How We’re Draining Language ..."
 date: "2022-10-14T21:56:10.000Z"
 tags: 
-  - "language"
+  - "Language"
 ---
 
 Emily McCrary-Ruiz-Esparza: [Generation Amazing!!! How We’re Draining Language of Its Power](https://lithub.com/generation-amazing-how-were-draining-language-of-its-power/)

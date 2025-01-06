@@ -1,5 +1,5 @@
 ---
-title: "My mom is visiting this week. She asked ..."
+title: "A case for a QR code"
 date: "2022-06-22T05:18:10.000Z"
 ---
 

@@ -2,7 +2,7 @@
 title: "Dwayne Monroe: How to Interpret Tech Propaganda (the ..."
 date: "2022-07-22T01:49:10.000Z"
 tags: 
-  - "technology"
+  - "Technology"
 ---
 
 Dwayne Monroe: [How to Interpret Tech Propaganda (the case of the machine gun toting robot dog) – Computational Impacts](https://monroelab.net/how-to-interpret-tech-propaganda-the-case-of-the-machine-gun-toting-robot-dog)

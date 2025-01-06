@@ -2,7 +2,7 @@
 title: "Lara Aigmüller: How to transfigure wireframes into HTML ..."
 date: "2022-12-01T14:13:10.000Z"
 tags: 
-  - "html"
+  - "HTML"
 ---
 
 Lara Aigmüller: [How to transfigure wireframes into HTML](https://www.htmhell.dev/adventcalendar/2022/1/)

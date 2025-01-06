@@ -2,7 +2,7 @@
 title: "Started reading: Severance by Ling Ma 📚 Digging ..."
 date: "2022-09-20T07:03:10.000Z"
 tags: 
-  - "books"
+  - "Books"
 ---
 
 Started reading: [Severance](https://micro.blog/books/9780374717117) by Ling Ma 📚

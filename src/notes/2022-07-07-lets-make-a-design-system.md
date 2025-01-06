@@ -2,7 +2,8 @@
 title: "Likes Let’s Make a Design System!. I bookmarked ..."
 date: "2022-07-07T12:11:00.000Z"
 tags: 
-  - "design-systems"
+  - "Design Systems"
+  - "Likes"
 ---
 
 _Likes [Let's Make a Design System!](https://frontend.horse/episode/lets-make-a-design-system/)._

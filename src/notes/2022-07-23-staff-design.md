@@ -1,6 +1,9 @@
 ---
 title: "Likes Staff Design. There seems to be an ..."
 date: "2022-07-23T07:33:32.000Z"
+tags: 
+  - "Design"
+  - "Likes"
 ---
 
 _Likes [Staff Design](https://staff.design/)._

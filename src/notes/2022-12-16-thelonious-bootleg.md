@@ -5,7 +5,7 @@ tags:
   - "Music"
 ---
 
-Found an excellent remastered bootleg of [Thelonious Monk and his band at Maison De La Radio, Paris, France](https://yewtu.be/al697st1oeU) from February 1964. 🎵🎶
+Found an excellent remastered bootleg of [Thelonious Monk and his band at Maison De La Radio, Paris, France](https://www.youtube.com/watch?v=jD3I99vxGZw) from February 1964. 🎵🎶
 
 Lineup:
 

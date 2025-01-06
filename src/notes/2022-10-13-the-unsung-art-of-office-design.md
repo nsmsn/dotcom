@@ -2,7 +2,7 @@
 title: "Bloomberg: The Unsung Art of Office Design An ..."
 date: "2022-10-13T17:04:10.000Z"
 tags: 
-  - "architecture"
+  - "Architecture"
 ---
 
 Bloomberg: [The Unsung Art of Office Design](https://www.bloomberg.com/news/features/2022-10-04/the-unsung-art-of-office-design)

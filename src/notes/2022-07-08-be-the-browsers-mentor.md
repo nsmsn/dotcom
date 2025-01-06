@@ -1,6 +1,9 @@
 ---
 title: "Likes Be the browser’s mentor, not its micromanager ..."
 date: "2022-07-08T18:03:10.000Z"
+tags: 
+  - "Likes"
+  - "Websites"
 ---
 
 _Likes [Be the browser’s mentor, not its micromanager](https://heypresents.com/talks/be-the-browser-s-mentor-not-its-micromanager) by Andy Bell._

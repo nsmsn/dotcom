@@ -2,8 +2,8 @@
 title: "The Checkup is a promising new email newsletter ..."
 date: "2022-09-15T21:47:10.000Z"
 tags: 
-  - "health"
-  - "newsletter"
+  - "Health"
+  - "Newsletter"
 ---
 
 [The Checkup](https://forms.technologyreview.com/newsletters/biotech-the-checkup/) is a promising new email newsletter from MIT Technology Review.

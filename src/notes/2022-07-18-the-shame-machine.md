@@ -2,7 +2,7 @@
 title: "Currently reading: The Shame Machine by Cathy O’Neil ..."
 date: "2022-07-18T07:26:10.000Z"
 tags: 
-  - "books"
+  - "Books"
 ---
 
 Currently reading: [The Shame Machine](https://micro.blog/books/9781802060324) by Cathy O’Neil 📚

@@ -2,10 +2,8 @@
 title: "No Depression: Sam Bush performs John Hartford’s ‘In ..."
 date: "2022-11-21T17:00:10.000Z"
 tags: 
-  - "music"
+  - "Music"
 ---
-
-https://www.youtube.com/watch?v=GTuwHEz1jKg
 
 No Depression: [Sam Bush performs John Hartford’s ‘In Tall Buildings’](https://www.nodepression.com/spotlight-towering-memories-inspire-sam-bushs-version-of-john-hartfords-in-tall-buildings-video/) 🎵📺
 

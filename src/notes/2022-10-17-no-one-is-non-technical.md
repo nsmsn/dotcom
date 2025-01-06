@@ -1,6 +1,8 @@
 ---
 title: "Likes No one is “non-technical”. When we talk ..."
 date: "2022-10-17T15:22:10.000Z"
+tags: 
+  - "Likes"
 ---
 
 _Likes [No one is “non-technical”](https://everythingchanges.us/blog/no-one-is-non-technical/)._

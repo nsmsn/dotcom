@@ -1,5 +1,5 @@
 ---
-title: "Looking back at how Watergate progressed, it remains ..."
+title: "Looking back at how Watergate progressed..."
 date: "2022-06-17T14:51:00.000Z"
 tags: 
   - "History"
