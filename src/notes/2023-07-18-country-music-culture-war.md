@@ -2,9 +2,9 @@
 title: "Likes Country Music’s Culture Wars and the Remaking ..."
 date: "2023-07-19T00:59:43.000Z"
 tags: 
-  - "music"
-  - "nashville"
-  - "politics"
+  - "Music"
+  - "Nashville"
+  - "Politics"
 ---
 
 _Likes [Country Music’s Culture Wars and the Remaking of Nashville](https://www.newyorker.com/magazine/2023/07/24/country-musics-culture-wars-and-the-remaking-of-nashville)._

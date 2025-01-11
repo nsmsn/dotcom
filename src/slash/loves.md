@@ -32,7 +32,7 @@ I also follow the New York Liberty in WNBA, and Syracuse University for NCAA. My
 While I still have my CD collection, these days I am acquiring new and old vinyl. And I use Apple Music and Bandcamp to stream stuff too.
 
 Some of my favorite artists are:
-ABBA, The Band, Big Star, Blackalicious, David Bowie, Calexico, Califone, Johnny Cash, John Coltrane, Sam Cooke, Miles Davis, DEVO, Bob Dylan, John Fahey, Flamin’ Groovies, Woody Guthrie, Funkadelic, Ghost, Guided By Voices, The Kinks, Fela Kuti, Cate Le Bon, MF Doom, Minutemen, Thelonius Monk, Willie Nelson, New Order, Jim O’Rourke, Parliament, Pearls Before Swine, Wilson Pickett, Pixies, Prince, John Prine, R.E.M., Ratboys, Otis Redding, Run the Jewels, Patti Smith, Sly and the Family Stone, Smog, Sonic Youth, Mavis Staples, Talking Heads, Television, A Tribe Called Quest, Sharon Van Etten, Velvet Underground, XTC, Yo La Tengo, Neil&nbsp;Young.
+ABBA, The Band, Big Star, Blackalicious, David Bowie, Calexico, Califone, Johnny Cash, John Coltrane, Sam Cooke, Miles Davis, DEVO, Bob Dylan, John Fahey, Flamin' Groovies, Funkadelic, Ghost, Guided By Voices, Woody Guthrie, John Hartford, The Kinks, Fela Kuti, Cate Le Bon, MF Doom, Minutemen, Thelonius Monk, Willie Nelson, New Order, Jim O'Rourke, Parliament, Pearls Before Swine, Wilson Pickett, Pixies, Prince, John Prine, R.E.M., Otis Redding, Run the Jewels, Patti Smith, Sly and the Family Stone, Smog, Sonic Youth, Mavis Staples, Talking Heads, Television, A Tribe Called Quest, Sharon Van Etten, Velvet Underground, XTC, Yo La Tengo, Neil&nbsp;Young.
 Plus plenty of others I don’t have room to mention.
 
 &nbsp;

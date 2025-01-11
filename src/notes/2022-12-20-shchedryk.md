@@ -1,8 +1,10 @@
 ---
-title: "Rice University: ‘Carol of the Bells’ wasn’t originally ..."
+title: "‘Carol of the Bells’ wasn’t originally a Christmas song"
 date: "2022-12-21T00:25:10.000Z"
-tags: 
-  - "music"
+tags:
+  - "History" 
+  - "Holidays" 
+  - "Music"
 ---
 
 Rice University: [‘Carol of the Bells’ wasn’t originally a Christmas song](https://news.rice.edu/news/2004/carol-bells-wasnt-originally-christmas-song)🎵

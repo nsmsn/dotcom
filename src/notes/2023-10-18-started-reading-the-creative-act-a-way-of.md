@@ -2,7 +2,7 @@
 title: "Started reading The Creative Act: A Way of ..."
 date: "2023-10-18T14:25:03.000Z"
 tags: 
-  - "books"
+  - "Books"
 ---
 
 Started reading [_The Creative Act: A Way of Being_](https://micro.blog/books/9780593653425) by Rick Rubin. ISBN: 9780593653425 📚

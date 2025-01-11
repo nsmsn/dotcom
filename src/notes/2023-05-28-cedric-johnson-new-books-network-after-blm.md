@@ -2,7 +2,9 @@
 title: "Want to read After Black Lives Matter by ..."
 date: "2023-05-28T05:31:17.000Z"
 tags: 
-  - "books"
+  - "Books"
+  - "Podcast"
+  - "Scholars"
 ---
 
 Want to read [After Black Lives Matter](https://micro.blog/books/9781804291672) by Cedric Johnson 📚

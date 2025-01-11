@@ -2,9 +2,10 @@
 title: "Likes html energy. Today I discovered html.energy: a ..."
 date: "2023-02-14T05:36:10.000Z"
 tags: 
-  - "html"
-  - "podcast"
-  - "web-platform"
+  - "HTML"
+  - "Podcast"
+  - "Likes"
+  - "Web Platform"
 ---
 
 _Likes [html energy](https://html.energy/index.html)._

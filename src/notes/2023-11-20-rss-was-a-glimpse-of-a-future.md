@@ -2,8 +2,9 @@
 title: "RSS was a glimpse of a future"
 date: "2023-11-20T18:06:21.000Z"
 tags: 
-  - "technology"
-  - "web-platform"
+  - "Likes"
+  - "Technology"
+  - "Web Platform"
 ---
 
 _Likes [RSS was a glimpse of a future](https://www.tommyp.org/blog/rss-was-a-glimpse-of-a-future) by Tommy Palmer._

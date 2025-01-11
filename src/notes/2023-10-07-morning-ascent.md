@@ -2,13 +2,13 @@
 title: "Morning ascent in Albuquerque, NM. We got up ..."
 date: "2023-10-07T13:57:55.000Z"
 categories: 
-  - "places"
+  - "Places"
 tags: 
-  - "albuquerque"
-  - "new-mexico"
+  - "Albuquerque"
+  - "New Mexico"
 ---
 
-![Dozens of hot air balloons in the sky over Albuquerque New Mexico](images/IMG_3211-1024x768.jpeg)
+![Dozens of hot air balloons in the sky over Albuquerque New Mexico](/img/note-images/IMG_3211-1024x768.jpeg)
 
 Morning ascent in Albuquerque, NM.
 

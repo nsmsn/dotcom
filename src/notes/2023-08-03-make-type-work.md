@@ -2,7 +2,8 @@
 title: "Likes Make Type Work by Jake Giltsoff. So ..."
 date: "2023-08-04T03:01:08.000Z"
 tags: 
-  - "type"
+  - "Likes"
+  - "Type"
 ---
 
 _Likes [Make Type Work](https://maketypework.com/) by Jake Giltsoff._

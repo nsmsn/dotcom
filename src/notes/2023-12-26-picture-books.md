@@ -2,8 +2,8 @@
 title: "Kid-tested picture books"
 date: "2023-12-27T02:21:44.000Z"
 tags: 
-  - "books"
-  - "parenting"
+  - "Books"
+  - "Parenting"
 ---
 
 Today I started compiling a [list of kid-tested picture books](https://bookshop.org/lists/kid-tested-picture-books) on Bookshop.org.

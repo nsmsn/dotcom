@@ -2,12 +2,12 @@
 title: "More balloons."
 date: "2022-12-28T03:43:10.000Z"
 categories: 
-  - "places"
+  - "Places"
 tags: 
-  - "albuquerque"
-  - "new-mexico"
+  - "Albuquerque"
+  - "New Mexico"
 ---
 
 More balloons.
 
-![a man carries a baby in a colorful sweater atop his shoulders. there are hot air baloons floating in the sky behind them](images/5f225dee01.jpg)
+![a man carries a baby in a colorful sweater atop his shoulders. there are hot air baloons floating in the sky behind them](/img/note-images/5f225dee01.jpg)

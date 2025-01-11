@@ -2,7 +2,7 @@
 title: "Want to read The Neoliberal Deluge, a critical ..."
 date: "2023-08-14T01:35:02.000Z"
 tags: 
-  - "books"
+  - "Books"
 ---
 
 Want to read [The Neoliberal Deluge](https://micro.blog/books/9781452932873), a critical collection on the politics of disaster and reconstruction in New Orleans, edited by Cedric Johnson 📚

@@ -2,7 +2,7 @@
 title: "Finished reading Sea of Tranquility by Emily St. ..."
 date: "2023-09-02T21:56:11.000Z"
 tags: 
-  - "books"
+  - "Books"
 ---
 
 Finished reading [Sea of Tranquility](https://micro.blog/books/9780593321454) by Emily St. John Mandel 📚

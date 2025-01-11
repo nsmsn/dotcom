@@ -2,8 +2,8 @@
 title: "Bookmarked How to prep, pack and transport vinyl ..."
 date: "2023-04-30T01:55:26.000Z"
 tags: 
-  - "bookmarks"
-  - "music"
+  - "Bookmarks"
+  - "Music"
 ---
 
 _Bookmarked [How to prep, pack and transport vinyl records the right way](https://yewtu.be/watch?v=WDqLvQ1saG0)._

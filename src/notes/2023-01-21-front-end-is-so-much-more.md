@@ -1,6 +1,8 @@
 ---
 title: "Likes Front-end is so much more than building ..."
 date: "2023-01-21T15:27:10.000Z"
+tags: 
+  - "Likes"
 ---
 
 _Likes [Front-end is so much more than building designs](https://andy-bell.co.uk/front-end-is-so-much-more-than-building-designs/) by Andy Bell._

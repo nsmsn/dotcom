@@ -1,8 +1,9 @@
 ---
-title: "To add insult to injury, last fall, AT&T ..."
+title: "broadband disparity"
 date: "2023-05-28T19:34:49.000Z"
 tags: 
-  - "inequality"
+  - "Inequality"
+  - "Technology"
 ---
 
 > To add insult to injury, last fall, AT&T internet service across Hope Village \[in Detroit\] went down for 45 days before being restored.

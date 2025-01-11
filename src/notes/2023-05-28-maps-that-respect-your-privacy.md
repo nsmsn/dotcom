@@ -2,9 +2,10 @@
 title: "Likes Our Maps Don’t Know Where You Are ..."
 date: "2023-05-28T18:21:50.000Z"
 tags: 
-  - "dataviz"
-  - "maps"
-  - "privacy"
+  - "Dataviz"
+  - "Likes"
+  - "Maps"
+  - "Privacy"
 ---
 
 _Likes [Our Maps Don’t Know Where You Are – The Markup](https://themarkup.org/hello-world/2023/05/27/our-maps-dont-know-where-you-are)._

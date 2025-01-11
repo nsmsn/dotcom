@@ -2,8 +2,9 @@
 title: "Likes Systems of Harm by Amy Hupe. Amy ..."
 date: "2023-05-31T19:10:10.000Z"
 tags: 
-  - "design-systems"
-  - "podcast"
+  - "Design Systems"
+  - "Likes"
+  - "Podcast"
 ---
 
 _Likes [Systems of Harm](https://systems-of-harm.fireside.fm/) by Amy Hupe._

@@ -2,8 +2,8 @@
 title: "Betty Bean: Tim, please stop this foolishness Yes, ..."
 date: "2023-03-31T21:07:16.000Z"
 tags: 
-  - "knoxville"
-  - "politics"
+  - "Knoxville"
+  - "Politics"
 ---
 
 Betty Bean: [Tim, please stop this foolishness](https://www.knoxtntoday.com/tim-please-stop-this-foolishness/)

@@ -2,8 +2,9 @@
 title: "Likes Inclusive Sans. Inclusive Sans is a text ..."
 date: "2023-09-27T03:55:21.000Z"
 tags: 
-  - "accessibility"
-  - "type"
+  - "Accessibility"
+  - "Likes"
+  - "Type"
 ---
 
 _Likes [Inclusive Sans](https://github.com/LivKing/Inclusive-Sans)._

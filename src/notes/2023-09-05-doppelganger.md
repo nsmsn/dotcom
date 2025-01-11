@@ -2,7 +2,8 @@
 title: "Likes Pluralistic: Naomi Klein’s “Doppelganger” (05 September 2023) ..."
 date: "2023-09-06T01:49:03.000Z"
 tags: 
-  - "books"
+  - "Books"
+  - "Likes"
 ---
 
 _Likes [Pluralistic: Naomi Klein’s “Doppelganger” (05 September 2023) – Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/2023/09/05/not-that-naomi/#if-the-naomi-be-klein-youre-doing-just-fine)._

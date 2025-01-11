@@ -2,8 +2,8 @@
 title: "New NPR fonts"
 date: "2023-11-20T03:47:50.000Z"
 tags: 
-  - "design"
-  - "type"
+  - "Design"
+  - "Type"
 ---
 
 I noticed the typography on the [NPR website](https://www.npr.org/) was a bit different. Looks like they recently switched from open source fonts to something new.

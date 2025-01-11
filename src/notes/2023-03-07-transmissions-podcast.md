@@ -2,8 +2,8 @@
 title: "Started listening to Transmissions (the podcast) this week ..."
 date: "2023-03-07T17:34:10.000Z"
 tags: 
-  - "music"
-  - "podcast"
+  - "Music"
+  - "Podcast"
 ---
 
 Started listening to [Transmissions (the podcast)](https://art19.com/shows/transmissions) this week 🎙️.

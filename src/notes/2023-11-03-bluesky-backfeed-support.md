@@ -2,7 +2,8 @@
 title: "Likes Bluesky backfeed support in Bridgy by Joel ..."
 date: "2023-11-03T17:29:05.000Z"
 tags: 
-  - "indieweb"
+  - "IndieWeb"
+  - "Likes"
 ---
 
 _Likes [Bluesky backfeed support in Bridgy](https://www.joelotter.com/posts/2023/10/bridgy-bluesky/) by Joel Auterson._
