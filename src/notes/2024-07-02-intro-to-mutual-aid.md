@@ -2,7 +2,7 @@
 title: "Mutual aid"
 date: "2024-07-02T14:58:30.000Z"
 tags: 
-  - "society"
+  - "Society"
 ---
 
 _Likes [https://gregorlove.com/2024/03/mutual-aid/](https://gregorlove.com/2024/03/mutual-aid/) by gRegor Morrill._

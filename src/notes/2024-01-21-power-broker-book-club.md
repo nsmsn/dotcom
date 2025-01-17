@@ -2,10 +2,10 @@
 title: "Power Broker book club"
 date: "2024-01-21T23:15:17.000Z"
 tags: 
-  - "books"
-  - "nyc"
-  - "podcast"
-  - "urbanism"
+  - "Books"
+  - "NYC"
+  - "Podcast"
+  - "Urbanism"
 ---
 
 The 99% Invisible podcast is doing a yearlong book club for Robert A. Caro's The _Power Broker_. The [first episode in the series](https://99percentinvisible.org/episode/power-broker-01-robert-caro/), on the Introduction and first 100 or so pages came out a couple days ago, and features Mr. Caro himself as a guest.
