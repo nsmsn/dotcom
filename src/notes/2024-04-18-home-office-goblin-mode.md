@@ -2,7 +2,7 @@
 title: "home office goblin mode"
 date: "2024-04-18T19:50:00.000Z"
 tags: 
-  - "personal"
+  - "Personal"
 ---
 
 I'm in [goblin mode](https://en.wikipedia.org/wiki/Goblin_mode), at least when it comes to my home office.
@@ -15,6 +15,6 @@ I have un-hung artwork, various small electronics, boxes of books and records ag
 
 I'm too embarrassed to share a photo of my setup right now, but here's Steve Jobs in his home office in 2004, if you're looking for an approximation:
 
-![Steve Jobs stands in the middle of a room with cluttered bookshelves, a messy desk full of technology.](images/jobs-home-office-1024x683.jpg)
+![Steve Jobs stands in the middle of a room with cluttered bookshelves, a messy desk full of technology.](/img/note-images/jobs-home-office-1024x683.jpg)
 
 Thank goodness for background blur mode in Zoom and Microsoft Teams.

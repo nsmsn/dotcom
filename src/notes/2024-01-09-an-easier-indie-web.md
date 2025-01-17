@@ -2,8 +2,9 @@
 title: "An easier indie web (& IndieWeb)"
 date: "2024-01-09T21:56:41.000Z"
 tags: 
-  - "indieweb"
-  - "websites"
+  - "IndieWeb"
+  - "Likes"
+  - "Websites"
 ---
 
 _Likes [gilest.org: Make the indie web easier](https://gilest.org/indie-easy.html)._

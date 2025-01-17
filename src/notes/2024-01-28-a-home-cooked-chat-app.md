@@ -1,8 +1,9 @@
 ---
 title: "A home-cooked chat app"
 date: "2024-01-28T20:01:37.000Z"
-tags: 
-  - "software"
+tags:
+  - "Likes" 
+  - "Software"
 ---
 
 _Likes [Building our own private Discord knockoff](https://blakewatson.com/journal/building-our-own-private-discord-knockoff/) by Blake Watson._

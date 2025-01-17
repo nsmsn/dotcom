@@ -2,8 +2,9 @@
 title: "Emoji Painting Gallery"
 date: "2024-04-30T18:46:36.000Z"
 tags: 
-  - "art"
-  - "technology"
+  - "Art"
+  - "Likes"
+  - "Technology"
 ---
 
 _Likes [Famous Paintings Recreated with Emoji in Instagram Stories](https://www.imfineimfine.com/p/bonus-emoji-painting-gallery) by ND Stevenson._

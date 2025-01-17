@@ -2,7 +2,7 @@
 title: "how to make a website by hand"
 date: "2024-04-09T18:34:52.000Z"
 tags: 
-  - "websites"
+  - "Websites"
 ---
 
 _Likes [How to Make a Damn Website](https://lmnt.me/blog/how-to-make-a-damn-website.html) by Louie._

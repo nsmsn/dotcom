@@ -2,10 +2,10 @@
 title: "Pika (and Micro.blog)"
 date: "2024-02-17T21:00:54.000Z"
 tags: 
-  - "websites"
+  - "Websites"
 ---
 
-Following up on [my last note](https://nicksimson.com/notes/realnice/), I'd probably recommend [Pika](https://pika.page/) to my pals who want to start their own blogs, but don't want to download or install anything, mess with plugins, etc. Just write.
+Following up on [my last note](/notes/2024-02-17-realnice.html), I'd probably recommend [Pika](https://pika.page/) to my pals who want to start their own blogs, but don't want to download or install anything, mess with plugins, etc. Just write.
 
 Pika offers unlimited blog posts and pages on their $6 a month plan, which also includes some [simple theming](https://pika.pika.page/posts/themes-are-back-and-better-than-ever) (and custom CSS), image uploads, etc.
 

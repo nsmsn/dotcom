@@ -2,8 +2,8 @@
 title: "Record Club: First Impressions"
 date: "2024-05-07T15:57:48.000Z"
 tags: 
-  - "music"
-  - "social-media"
+  - "Music"
+  - "Social Media"
 ---
 
 Another day, another new social network. [Record Club](https://record.club/) wants to be the Goodreads or Letterboxd for recorded music. The platform is in invite-only non-public beta and its underlying data comes from [MusicBrainz](https://musicbrainz.org/). You can follow artists and labels and other users, create lists, and review the albums you listen to. A lot of these features are things that Last.fm lacks, keeping that platform from feeling "social."

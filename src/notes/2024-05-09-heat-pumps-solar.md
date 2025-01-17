@@ -2,7 +2,7 @@
 title: "Greening the home"
 date: "2024-05-09T20:22:26.000Z"
 tags: 
-  - "climate"
+  - "Climate"
 ---
 
 I found this [WIRED story about heat pumps](https://www.wired.com/story/heat-pump-worker-shortage/) pretty fascinating:

@@ -2,7 +2,7 @@
 title: "An accessibility chat about forms"
 date: "2024-07-10T20:08:16.000Z"
 tags: 
-  - "accessibility"
+  - "Accessibility"
 ---
 
 I really enjoyed this month's accessibility discussion hosted by [WPCampus](https://wpcampus.org/). Today's event featured [Brian DeConinck](https://www.briandeconinck.com/) discussing forms and accessibility in government services and higher education.

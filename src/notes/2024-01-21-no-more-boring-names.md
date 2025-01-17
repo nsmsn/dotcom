@@ -2,8 +2,8 @@
 title: "No more boring names"
 date: "2024-01-21T20:41:12.000Z"
 tags: 
-  - "books"
-  - "brand-identity"
+  - "Books"
+  - "Brand Identity"
 ---
 
 Just finished reading _[Don't Call It That: A Naming Workbook](https://micro.blog/books/9781734248302)_ by Eli Altman, ISBN: 9781734248302 📚

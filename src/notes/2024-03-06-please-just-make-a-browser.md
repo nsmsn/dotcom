@@ -2,9 +2,9 @@
 title: "Please just make a browser"
 date: "2024-03-07T01:50:42.000Z"
 tags: 
-  - "bookmarks"
-  - "technology"
-  - "web-platform"
+  - "Pookmarks"
+  - "Technology"
+  - "Web Platform"
 ---
 
 _Bookmarked [Mozilla lays off 60 people, wants to build AI into Firefox](https://arstechnica.com/gadgets/2024/02/mozilla-lays-off-60-people-wants-to-build-ai-into-firefox/) by Ron Amadeo._

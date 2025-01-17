@@ -5,8 +5,8 @@ tags:
   - "Music"
 ---
 
-\[Duty\] Now, more than ever:
+\[Duty\] Now, more than ever.
 
-https://www.youtube.com/watch?v=VKvYRDhPt\_0
+[DEVO: Tiny Desk Concert](https://www.youtube.com/watch?v=VKvYRDhPt\_0)
 
 I don't think these spuds have played the Tiny Desk venue before... it's about time!

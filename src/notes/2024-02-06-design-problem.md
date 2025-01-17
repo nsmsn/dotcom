@@ -2,7 +2,8 @@
 title: "Design Problem"
 date: "2024-02-06T18:12:42.000Z"
 tags: 
-  - "design"
+  - "Design"
+  - "Likes"
 ---
 
 _Likes [Design Problem](https://www.breakfastletters.com/design-problem)._
