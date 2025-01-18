@@ -3,11 +3,14 @@
   @text: `
     <h1>Tagged '${ tag }'</h1>
     
-    <ol reversed>
+    <ol reversed class="list-unstyled posts-list">
 
     ${ map(items, (item,filename) => `
       <li>
-        <a href="${ item/path }">${ item/title }</a>
+      <article class="item-single outline">
+        ${ item/@text }
+        <small class="timestamp"><a href="${ item/path }">${ date.ori(item/date) }</a></small>
+      </article>  
       </li>
     `) }
 
