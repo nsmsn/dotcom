@@ -13,7 +13,6 @@ Here are links to my other projects and profiles around the World Wide Web.
 <ul class="list-multi-col list-social">
     <li><a href="https://www.are.na/nick-simson/channels">Are.na</a></li>
     <li><a href="https://bsky.app/profile/nicksimson.com">Bluesky</a></li>
-    <li><a href="https://read.cv/nsmsn">CV</a></li>
     <li><a href="https://dribbble.com/nsmsn/">Dribbble</a></li>
     <li><a href="https://github.com/nsmsn">GitHub</a></li>
     <li><a href="https://www.last.fm/user/nsmsn">Last.fm</a></li>
@@ -23,7 +22,6 @@ Here are links to my other projects and profiles around the World Wide Web.
     <li><a href="https://literal.club/nsmsn">Literal</a></li>
     <li><a href="https://social.lol/@nsmsn">Mastodon</a></li>
     <li><a href="https://micro.blog/nsmsn">Micro.blog</a></li>
-    <li><a href="https://posts.cv/nsmsn">Posts</a></li>
     <li><a href="https://record.club/nsmsn">Record Club</a></li>
 </ul>
 

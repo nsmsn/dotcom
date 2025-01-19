@@ -19,5 +19,3 @@ Things that make my life easier or more enjoyable.
 - Wallet: I like both the elastic and canvas ones made by [Crabby Gear](https://crabbygear.com/)
 - Guitars: 1990s Epiphone T-310; 1980s Alvarez Artist Series; 1970s Martin D12-20
 - Shoes: Clarks desert boots; Converse Jack Purcells
-
-

@@ -3,7 +3,7 @@
   @text: `
     <div class="container-med">
     <h1>${ post/title }</h1>
-    <small class="timestamp">Published <time datetime="${ post/date }" class="dt-published"><a class="u-url" href="${ post/path }">${ date.ori(post/date) }</a></time> by <a rel="author" class="p-author h-card" href="/about.html">Nick</a></small>
+    <small class="timestamp">Published by <a rel="author" class="p-author h-card" href="/about.html">Nick</a> at <time datetime="${ post/date }" class="dt-published"><a class="u-url" href="${ post/path }">${ date.ori(post/date) }</a></time></small>
     
     ${ post/@text }
 
