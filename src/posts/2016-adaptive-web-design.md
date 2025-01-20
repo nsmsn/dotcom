@@ -1,7 +1,7 @@
 ---
 title: JavaScript is not your interface.
 description: My review of Adaptive Web Design by Aaron Gustafson.
-date: 2016-09-10
+date: 2016-09-10T10:47:00-06:00
 tags:
   - Books
 ---

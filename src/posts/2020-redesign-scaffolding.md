@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 description: Setting up a structure for the cascade.
-date: 2020-12-30
+date: 2020-12-31T04:39:00.000Z
 tags:
   - Redesign
 ---

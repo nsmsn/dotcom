@@ -1,7 +1,7 @@
 ---
 title: Gridlessness and modern CSS
 description: There’s never been a better time to learn (or re-learn) CSS.
-date: 2021-07-21
+date: 2021-07-22T01:55:00.000Z
 tags:
   - Learning
 ---

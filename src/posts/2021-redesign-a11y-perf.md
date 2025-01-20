@@ -1,7 +1,7 @@
 ---
 title: Accessibility and Performance
 description: A few handy code snippets and more. 
-date: 2021-02-07
+date: 2021-02-07T17:55:00.000Z
 tags:
   - Accessibility
   - Redesign

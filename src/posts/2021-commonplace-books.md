@@ -1,7 +1,7 @@
 ---
 title: Commonplace books, gardens, and streams
 description: An antique concept gets a digital upgrade.
-date: 2021-09-04
+date: 2021-09-04T22:22:00.000Z
 tags:
   - Websites
 ---

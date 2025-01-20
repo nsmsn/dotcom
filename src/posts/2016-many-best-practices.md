@@ -1,7 +1,7 @@
 ---
 title: Many best practices
 description: There’s more than one way to skin a website.
-date: 2016-06-11
+date: 2016-06-11T18:19:00.000Z
 tags:
   - Design
 ---

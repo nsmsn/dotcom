@@ -1,7 +1,7 @@
 ---
 title: Design Justice Principles
 description: Thinking about co-creation as a force for good.
-date: 2021-01-30
+date: 2021-01-30T15:19:00.000Z
 tags:
   - Design
 ---

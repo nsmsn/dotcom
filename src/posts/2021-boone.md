@@ -1,7 +1,7 @@
 ---
 title: Boone
 description: Goodbye, Dad.
-date: 2021-11-09
+date: 2021-11-10T06:31:00.000Z
 tags:
   - Personal
 ---

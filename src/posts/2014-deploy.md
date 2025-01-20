@@ -2,7 +2,7 @@
 title: Deploy
 id: 001
 description: An obligatory first blog post.
-date: 2014-11-29
+date: 2014-11-29T12:00:00-07:00
 tags:
   - Personal
 ---

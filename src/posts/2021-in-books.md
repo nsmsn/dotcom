@@ -1,7 +1,7 @@
 ---
 title: Books finished in 2021
 description: I finished 7,449 pages and 20 books.
-date: 2022-01-02
+date: 2022-01-01T13:54:00.000Z
 tags:
   - Books
 ---

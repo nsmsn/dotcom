@@ -1,7 +1,7 @@
 ---
 title: Books finished in 2020
 description: I finished 12,237 pages and 39 books.
-date: 2020-12-31
+date: 2021-01-01T06:59:00.000Z
 tags:
   - Books
 ---

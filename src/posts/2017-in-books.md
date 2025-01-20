@@ -1,7 +1,7 @@
 ---
 title: Books finished in 2017
 description: I finished 12,457 pages and 39 books.
-date: 2018-01-01
+date: 2018-01-01T23:30:00.000Z
 tags:
   - Books
 ---

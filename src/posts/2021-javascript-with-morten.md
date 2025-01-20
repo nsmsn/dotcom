@@ -1,7 +1,7 @@
 ---
 title: Learn JavaScript with Morten Rand-Hendriksen
 description: Learn the web’s scripting language in 10 chapters.
-date: 2021-02-21
+date: 2021-02-21T20:56:00.000Z
 tags:
   - Learning
 ---

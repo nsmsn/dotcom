@@ -1,7 +1,7 @@
 ---
 title: Everyday developers
 description: On specialization, generalization, and being no stranger to change.
-date: 2015-08-31
+date: 2015-08-31T22:17:00-06:00
 tags:
   - Design
 ---

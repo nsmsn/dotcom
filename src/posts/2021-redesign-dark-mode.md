@@ -1,12 +1,12 @@
 ---
 title: Now with dark mode
 description:  Adding a new feature to this site’s design.
-date: 2021-10-10
+date: 2021-10-10T19:22:00.000Z
 tags:
   - Redesign
 ---
 
-If your device supports a dark mode, and you’ve set this as your preference, you can now view my website in a darker color scheme. I worked on it this weekend during an [IndieWeb Create Day](https://events.indieweb.org/2021/10/indieweb-create-day-ZKw5v2nFDu6f)&mdash;one day dedicated to working on our personal websites or various IndieWeb projects out in the open.
+If your device supports a dark mode, and you’ve set this as your preference, you can now view my website in a darker color scheme. I worked on it this weekend during an IndieWeb Create Day&mdash;one day dedicated to working on our personal websites or various IndieWeb projects out in the open.
 
 <figure>
     <img src="/img/post-images/2021-10-lightmode-darkmode.jpg" class="panel"

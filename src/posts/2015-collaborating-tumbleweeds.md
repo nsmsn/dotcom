@@ -4,7 +4,7 @@ id: 002
 description:
   Communication, prototyping, and tools to build a simple, beautiful site that
   works everywhere.
-date: 2015-03-07
+date: 2015-03-07T11:18:00-07:00
 tags:
   - Process
 ---

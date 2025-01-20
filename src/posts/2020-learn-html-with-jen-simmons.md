@@ -1,7 +1,7 @@
 ---
 title: Learn HTML with Jen Simmons
 description: In less time than an “Avengers” movie, you can learn the fundamental language of the web.
-date: 2020-12-18
+date: 2020-12-19T02:34:00.000Z
 tags:
   - Learning
 ---

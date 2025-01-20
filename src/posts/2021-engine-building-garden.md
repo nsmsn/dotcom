@@ -1,7 +1,7 @@
 ---
 title: An engine, a building, a garden 
 description: Thoughts on personal websites, including this one.
-date: 2021-02-17
+date: 2021-02-18T03:17:00.000Z
 tags:
   - Redesign
   - This site

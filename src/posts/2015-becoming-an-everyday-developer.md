@@ -2,7 +2,7 @@
 title: Becoming an everyday developer
 id: 002
 description: What to learn, how to learn it, and what to learn next.
-date: 2015-09-07
+date: 2015-09-07T18:18:00-06:00
 tags:
   - Learning
 ---

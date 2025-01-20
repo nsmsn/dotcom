@@ -2,7 +2,7 @@
 title: Reading is hazardous
 id: 003
 description: Mary Ruefle’s writing is a blow to the skull and a balm to the soul.
-date: 2015-05-17
+date: 2015-05-17T13:34:00-06:00
 tags:
   - Books
 ---
