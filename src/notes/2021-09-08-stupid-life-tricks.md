@@ -3,7 +3,7 @@ title: Stupid Life Tricks
 date: 2021-09-08T13:32:23-06:00
 tags:
   - Likes
-  - Social media
+  - Social Media
 ---
 
 <div class="u-like-of h-cite"><p><i>Likes <a class="u-url p-name" href="https://craigmod.com/roden/059/">Stupid Life Tricks</a> by <span class="p-author">Craig Mod</span>.</i></p></div>
