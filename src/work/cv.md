@@ -4,8 +4,8 @@ title: CV (or résumé)
 
 # Nick Simson
 Graphic and interaction designer.
-Albuquerque, NM USA
-nick@nicksimson.com
+📍 Albuquerque, NM USA
+📫 nick@nicksimson.com
 
 ## Work Experience
 
