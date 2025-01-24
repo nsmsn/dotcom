@@ -4,7 +4,7 @@ date: "2024-03-28T18:35:02.000Z"
 tags: 
   - "Bookmarks"
   - "Design"
-  - "UIs"
+  - "UI"
 ---
 
 _Bookmarked [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)._

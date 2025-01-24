@@ -18,6 +18,12 @@ title: Now
 
 &nbsp;
 
+## 📍 Where?
+
+Living in Albuquerque, New Mexico since 2023.
+
+&nbsp;
+
 ## 📚 Reading
 
 <div id="literal-widget" handle="nsmsn" status="IS_READING" layout="list"></div>
@@ -37,7 +43,7 @@ I use [Literal](https://literal.club/nsmsn/is-reading) to keep track of my readi
 
 <small>
 This page uses some third-party widgets to display my current status, books, and music.<br />
-<em>Last manually updated January 18, 2025.</em>
+<em>Last manually updated January 24, 2025.</em>
 </small>
 
 &nbsp;

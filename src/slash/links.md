@@ -21,7 +21,6 @@ Here are links to my other projects and profiles around the World Wide Web.
     <li><a href="https://www.linkedin.com/in/nsmsn/">LinkedIn</a></li>
     <li><a href="https://literal.club/nsmsn">Literal</a></li>
     <li><a href="https://social.lol/@nsmsn">Mastodon</a></li>
-    <li><a href="https://micro.blog/nsmsn">Micro.blog</a></li>
     <li><a href="https://record.club/nsmsn">Record Club</a></li>
 </ul>
 

@@ -38,3 +38,7 @@ As of this afternoon, it looks like there’s been an update to the [community g
 This language is a step in the right direction, but frankly I hope to see action on Manton’s part. So far there has been a lot of deflection. I used to enthusiastically recommend Micro.blog; now I would only do so with a pretty huge caveat: take a look around, look at the small team, and look at how they handled this instance of criticism. Ask if your queer and trans pals would feel safe and welcome here.
 
 Since fall 2023, I am no longer paying for a Micro.blog account. I did remove one cross-posting feature I was using with M.b. yesterday. I don’t know how long I’ll continue to syndicate there. In the same way WordPress introduced me to open source and I developed the skills to not rely on WP forever, I’m thankful to Manton and Micro.blog for introducing me to short-form microblogging, and finding ways to do that on my own.
+
+&nbsp;
+
+**2025-01-23 Update:** I’m no longer syndicating my RSS to Micro.blog or linking to that platform. You should read [Hollie’s post](https://eilloh.net/2025/01/23/my-husband-asked-me-tonight.html). It’s much more articulate than anything else I can add right now. 

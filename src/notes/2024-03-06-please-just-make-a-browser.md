@@ -2,7 +2,7 @@
 title: "Please just make a browser"
 date: "2024-03-07T01:50:42.000Z"
 tags: 
-  - "Pookmarks"
+  - "Bookmarks"
   - "Technology"
   - "Web Platform"
 ---
