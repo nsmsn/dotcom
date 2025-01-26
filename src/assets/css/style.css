@@ -172,6 +172,11 @@ blockquote {
   border-left: 4px solid var(--color-fg);
 }
 
+mark {
+  background-color: khaki;
+  color: #151e25;
+}
+
 .site-footer {
   background: rgba(0, 0, 0, 0.125);
   line-height: 1.75;
@@ -516,6 +521,19 @@ a.control:active {
       height: 8em;
       width: auto;
       border: 1px solid rgba(0, 0, 0, 0.0185);
+    }
+
+    /* Heads up */
+    .heads-up {
+      background-color: khaki;
+      color: #151e25;
+      margin-top: 1em;
+      padding: .125em .75em;
+
+    }
+
+    .heads-up h2 {
+      font-size: 1.25em;
     }
 
     /* Third-Party */ 

@@ -12,7 +12,7 @@ For a while I have proudly displayed the following statement on my about page:
 <strong>This website does not track you.</strong> There are no third-party cookies here, and your data isn’t collected when using this site.
 </blockquote>
 
-As of this writing, I can feel more confident in this statement: [I switched from using the Google Fonts API](https://github.com/nsmsn/nicksimsondotcom/commit/38d338c633451909fbbbdfd8437084fb15158a1c#diff-f934e43e0f8ddbcd51317189e847c41f190ec983462fc3bd7169b8d7f1a99cf6) to hosting my font files on this domain.
+As of this writing, I can feel more confident in this statement: I switched from using the Google Fonts API to hosting my font files on this domain.
 
 While I was catching up on some recent WordPress news, I learned that the themes team is now [recommending WordPress theme authors to bundle Google fonts](https://make.wordpress.org/themes/2022/06/18/complying-with-gdpr-when-using-google-fonts/) with the theme files. The impetus for this announcement was a German court ruling (earlier this year) that [Google-hosted webfonts violate Europe's General Data Protection Regulation (GDPR)](https://wptavern.com/german-court-fines-website-owner-for-violating-the-gdpr-by-using-google-hosted-fonts). 
 

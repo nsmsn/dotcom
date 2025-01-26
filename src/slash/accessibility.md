@@ -44,7 +44,7 @@ I can’t guarantee that all content linked to or embedded on this site is fully
 
 ## Share Feedback
 
-I am personally committed to educating myself on digital accessibility, sharing what I learn, and putting it into practice. That said, if you encounter any difficulty using my site, please let me know! You may email me directly. I take these issues very seriously and welcome your feedback and suggestions.
+I am personally committed to educating myself on digital accessibility, sharing what I learn, and putting it into practice. That said, if you encounter any difficulty using my site, please let me know! You may <a href="mailto:nick@nicksimson.com">email me directly</a>. I take these issues very seriously and welcome your feedback and suggestions.
 
 <small>This page is heavily influenced by (and borrows liberally from) statements by Eric Bailey, Carie Fisher, Ethan Marcotte, and Marcy Sutton. You should check out their work and writing.</small>
 

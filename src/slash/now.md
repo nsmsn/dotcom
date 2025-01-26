@@ -22,6 +22,9 @@ title: Now
 
 Living in Albuquerque, New Mexico since 2023.
 
+<small>This is where I might put a [weather](https://forecast7.com/en/35d09n106d61/albuquerque/?unit=us) widget if I could code one.</small>
+
+
 &nbsp;
 
 ## 📚 Reading

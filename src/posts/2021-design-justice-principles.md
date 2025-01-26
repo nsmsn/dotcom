@@ -20,52 +20,31 @@ I was definitely thinking about this idea while revisiting the [Cedric Johnson l
     <blockquote cite="https://designjustice.org/read-the-principles">
    <ol>
    
-   <li>We use design to <strong>sustain, heal, and empower</strong> our communities, as well as to seek liberation from exploitative and oppressive systems.
-
-   &nbsp;
-   </li>
+   <li>We use design to <strong>sustain, heal, and empower</strong> our communities, as well as to seek liberation from exploitative and oppressive systems.</li>
    
-   <li>We <strong>center the voices of those who are directly impacted</strong> by the outcomes of the design process.
-
-   &nbsp;
-   </li>
+   <li>We <strong>center the voices of those who are directly impacted</strong> by the outcomes of the design process.</li>
    
-   <li>We <strong>prioritize design’s impact on the community</strong> over the intentions of the designer.
-
-   &nbsp;
-   </li>
+   <li>We <strong>prioritize design’s impact on the community</strong> over the intentions of the designer.</li>
    
    <li>We view <strong>change as emergent from an accountable, accessible, and collaborative process</strong>, rather than as a point at the end of a process.
-
-   &nbsp;
    </li>
    
    <li>We see the role of the <strong>designer as a facilitator rather than an expert</strong>.
-
-   &nbsp;
    </li>
    
    <li>We believe that <strong>everyone is an expert based on their own lived experience</strong>, and that we all have unique and brilliant contributions to bring to a design process.
-
-   &nbsp;
    </li>
    
    <li>We <strong>share design knowledge and tools</strong> with our communities.
-   &nbsp;
    </li>
    
    <li>We work towards <strong>sustainable, community-led and -controlled</strong> outcomes.
-
-   &nbsp;
    </li>
 
    <li>We work towards <strong>non-exploitative solutions</strong> that reconnect us to the earth and to each other.
-
-   &nbsp;
    </li>
    
    <li>Before seeking new design solutions, <strong>we look for what is already working</strong> at the community level. We honor and uplift traditional, indigenous, and local knowledge and practices.</li>
-
    </ol>
        </blockquote>
     <figcaption><cite><a href="https://designjustice.org/read-the-principles">Design Justice Network Principles</a> (published under a Creative Commons Attribution-NoDerivatives License)</cite></figcaption>
