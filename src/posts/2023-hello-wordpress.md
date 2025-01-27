@@ -15,7 +15,7 @@ tags:
 
 With the latest version of my site, and this latest post, I'm announcing that I am now running on WordPress.
 
-The last version of my site was built with [Eleventy](https://11ty.dev/), a tool I still love, and will be using plenty of in the future. [My goals for my site](https://nicksimson.com/posts/2023-newwwyear-itches/) just were not aligning with my current technical limitations. As much as I love to tinker, I'd like to spend more time writing and designing than figuring out how to implement Webmentions on Netlify, for example. And since this site is mainly a blog these days, why not run it on the [most popluar blogging engine around](https://kinsta.com/blog/wordpress-statistics/)?
+The last version of my site was built with [Eleventy](https://11ty.dev/), a tool I still love, and will be using plenty of in the future. [My goals for my site](/posts/2023-newwwyear-itches.html) just were not aligning with my current technical limitations. As much as I love to tinker, I'd like to spend more time writing and designing than figuring out how to implement Webmentions on Netlify, for example. And since this site is mainly a blog these days, why not run it on the [most popluar blogging engine around](https://kinsta.com/blog/wordpress-statistics/)?
 
 I first downloaded WordPress in fall 2007, which was version 2.3 (Dexter Gordon) or 2.3.1. I began using WordPress as a _professional_ around version 3.3 and I have followed the software through its many iterations ever since. I never tried running my own site on WordPress before this year, but came close a number of times.
 

@@ -21,7 +21,7 @@ I stumbled on Piper’s site after seeing the work she did on [Gemma Copeland’
 <figcaption><footer>- Bec Worth, <cite>"<a href="https://log.becworth.info/what-could-a-commonplace-book-feel-like-on-the-web/">What could a Commonplace Book feel like on the web?</a>"</cite></footer></figcaption>
 </figure>
 
-[I’m a big fan of personal websites](https://nicksimson.com/posts/2021-engine-building-garden/) and the creative expression and quality of <em>thinking in public</em> they have always brought to the web. So I was delighted to discover a historical thread&mdash;a centuries-old practice being made digital with the added power of metadata and URLs! 
+[I’m a big fan of personal websites](/posts/2021-engine-building-garden.html) and the creative expression and quality of <em>thinking in public</em> they have always brought to the web. So I was delighted to discover a historical thread&mdash;a centuries-old practice being made digital with the added power of metadata and URLs! 
 
 Other longtime Homebrew attendees were quick to point out that IndieWeb community members have widely [embraced the term](https://indieweb.org/commonplace_book#IndieWeb_examples). Someone mentioned [Chris Aldrich](https://boffosocko.com/), who refers to his site as a commonplace book and uses a [commonplace books tag](https://boffosocko.com/tag/commonplace-books/), with more historical and contemporary examples. As it turns out there is an [IndieWeb wiki entry on the commonplace book](https://indieweb.org/commonplace_book), where Piper Haywood herself is quoted:
 

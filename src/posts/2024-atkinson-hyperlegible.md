@@ -10,7 +10,7 @@ coverImage: "26Days-A-Atkinson.png"
 
 ![](/img/post-images/26Days-A-Atkinson-1024x576.png)
 
-I am trying out something new for the month of February. Each day I'm going to explore a different typeface or topic related to typography. I'm calling it [26 Days of Type](https://nicksimson.com/tags/26daysoftype/).
+I am trying out something new for the month of February. Each day I'm going to explore a different typeface or topic related to typography. I'm calling it [26 Days of Type](/26-days-of-type.html).
 
 The first featured font is Atkinson Hyperlegible. This is a sans serif typeface created in partnership with the [Braille Institute](https://brailleinstitute.org/), designed "specifically to increase legibility for readers with low vision, and to improve reading comprehension." It is also the web font I chose for most of the type on this very website.
 

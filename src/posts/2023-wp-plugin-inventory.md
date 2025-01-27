@@ -120,7 +120,7 @@ I automatically syndicate new posts and notes to my Micro.blog, Bluesky and Mast
 
 ## Travelers' Map
 
-I'm using [Travelers' Map](https://wordpress.org/plugins/travelers-map/) by Camille Verrier to add location data to [select entries](/tags/places/) and add them as points to an [interactive map](https://nicksimson.com/map/).
+I'm using [Travelers' Map](https://wordpress.org/plugins/travelers-map/) by Camille Verrier to add location data to [select entries](/tags/places/) and add them as points to an [interactive map](/map.html).
 
 ## Two Factor
 

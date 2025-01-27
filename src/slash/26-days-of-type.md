@@ -2,7 +2,9 @@
 title: 26 Days of Type
 ---
 
-# 26 Days of Type
+<h1 class="vis-hidden">26 Days of Type</h1>
+
+&nbsp;
 
 <img src="/img/post-images/26DaysOfType.png" alt="" />
 

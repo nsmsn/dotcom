@@ -1,6 +1,5 @@
 ---
 title: Deploy
-id: 001
 description: An obligatory first blog post.
 date: 2014-11-29T12:00:00-07:00
 tags:
@@ -37,18 +36,6 @@ Who reads these things? I thought about my interests and topics and narrowed it 
 
 ## Content
 
-I've drafted or am in the process of writing several blog posts to be published after this one. Before I started designing this site, I brainstormed a list of titles for the kinds of posts I eventually want to write. Most are aspirational. Some are satirical. A few are in need of a professional editor. Here are the ones I'm most excited about:
+I've drafted or am in the process of writing several blog posts to be published after this one. Before I started designing this site, I brainstormed a list of titles for the kinds of posts I eventually want to write. Most are aspirational. Some are satirical. A few are in need of a professional editor. From time to time, I may also publish a review of a book or video on this blog.
 
-- Chasing imperfectionism
-- Content strategist by accident
-- Designing for others vs. designing in a vaccuum
-- Fear of the command line
-- Managing content in the future
-- More top-level domains you weren't asking for
-- Resume writing tips for designers (really)
-- Stupid branding tricks
-- Unsexy design projects
-
-I'll come back to this list and add a hyperlink once I've exhausted a topic. From time to time, I may also publish a review of a book or video on this blog.
-
-If any of this interests or intrigues you, I invite you to stick around and come back often for more. Here's an [RSS feed](https://nicksimson.com/feed/feed.xml) you can grab, and a [low-volume mailing list](https://tinyletter.com/nsmsn) you can sign up for, if you are interested in getting an email from me every 4-6 months. Thank for reading all the way to here, and more importantly, thank you for resisting the temptation to correct my grammar.
+If any of this interests or intrigues you, I invite you to stick around and come back often for more. Here's an [RSS feed](https://nicksimson.com/feed.xml) you can grab<strike>, and a [low-volume mailing list](https://tinyletter.com/nsmsn) you can sign up for, if you are interested in getting an email from me every 4-6 months</strike>. Thank for reading all the way to here, and more importantly, thank you for resisting the temptation to correct my grammar.

@@ -1,6 +1,5 @@
 ---
 title: Collaborating on the new Tumbleweeds site
-id: 002
 description:
   Communication, prototyping, and tools to build a simple, beautiful site that
   works everywhere.

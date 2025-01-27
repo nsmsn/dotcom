@@ -10,7 +10,7 @@ coverImage: "26Days-27.png"
 
 ![Day 27: Bonus Day!](/img/post-images/26Days-27-1024x576.png)
 
-In planning, researching, writing and designing my [26 Days of Type](https://nicksimson.com/26-days-of-type/) series, I wanted to cover a diverse array of typefaces and topics in an accessible way. I'm proud of the work I was able to do on my blog this month, but a personal project from one person's perspective has its limitations.
+In planning, researching, writing and designing my [26 Days of Type](/26-days-of-type.html) series, I wanted to cover a diverse array of typefaces and topics in an accessible way. I'm proud of the work I was able to do on my blog this month, but a personal project from one person's perspective has its limitations.
 
 Retrospectively, I wished I called the series 26 Days of \[Latin\] Type. At one point during my brainstorming and planning, I thought it would be interesting at some point to write about non-Latin alphabets. But I quickly realized I am not the person to write such a blog post. I have no experience speaking or reading Arabic, Greek, Hebrew, Japanese, Korean, or any language that doesn't use the Latin alphabet.
 

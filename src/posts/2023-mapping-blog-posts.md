@@ -9,7 +9,7 @@ tags:
 
 _Bookmarked [Travelers' Map](https://wordpress.org/plugins/travelers-map/) by Camille Verrier._
 
-Travelers' Map looks like a nifty [WordPress plugin](https://wordpress.org/plugins/travelers-map/). I've been interested in adding some location-based functionality to my site, mainly with my posts and notes that are using location based [tags](https://nicksimson.com/tags/), or the [Places](/topics/places/) category.
+Travelers' Map looks like a nifty [WordPress plugin](https://wordpress.org/plugins/travelers-map/). I've been interested in adding some location-based functionality to my site, mainly with my posts and notes that are using location based [tags](/tags/), or the Places category.
 
 Now that it is not terribly hot in the Southwest, I'm itchy to travel a bit locally and explore our new home some more. We got back from Arizona this past weekend, and travel with a toddler is not much fun at all. But long term, I'd like to document more of my travels and discoveries with my blog. I've especially been thinking of ways to showcase my "place posts" on an interactive map, and this could be one possible solution.
 

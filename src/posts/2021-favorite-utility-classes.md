@@ -3,7 +3,7 @@ title: My six favorite utility classes
 description: Bits of CSS I re-use in almost every project.
 date: 2021-08-07T22:41:00.000Z
 tags:
-  - Redesign
+  - CSS
 ---
 
 My approach to writing CSS these days lays somewhere in between Andy Bell’s [CUBE CSS](https://cube.fyi/) and Harry Roberts’ [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/). I prefer Andy’s definition of a utility class from the CUBE CSS docs:
@@ -108,6 +108,6 @@ Another one you may recognize from Bootstrap. Sometimes you may need to remove t
 </code>
 </pre>
 
-Helpful for displaying long lists of short words or terms. Think of a donor wall at a museum for a real-life example. I’ve used this pattern on [advocacy.tennessee.edu](https://advocacy.tennessee.edu/ut-impact/) and [data.tennessee.edu](https://data.tennessee.edu/impact-by-county/).
+Helpful for displaying long lists of short words or terms. Think of a donor wall at a museum for a real-life example. I’ve used this pattern on tennessee.edu.
 
 In fact, I’ve found these so useful, all six of these utilities (plus a few more) have made their way into the [nicksimson.com codebase](https://github.com/nsmsn/nicksimsondotcom/tree/master/src/sass).

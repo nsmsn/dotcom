@@ -18,103 +18,105 @@ Guide:
 📱 Read as ebook or PDF  
 🎧 Listened to audiobook
 
+&nbsp;
+
 1. _Trick Mirror_  
     by Jia Tolentino  
     📱 Finished on January 7  
     320 pages
     
 
-3. _The Dawn of Everything: A New History of Humanity_ ⭐  
+2. _The Dawn of Everything: A New History of Humanity_ ⭐  
     by David Graeber and David Wengrow  
     🎧 Finished on January 12  
     704 pages  
     
 
-5. _Station Eleven_  
+3. _Station Eleven_  
     by Emily St. John Mandel  
     🎧 Finished on January 18  
     320 pages  
     
 
-7. _Tenth of December_ ⭐  
+4. _Tenth of December_ ⭐  
     by George Saunders  
     🎧 Finished on January 31  
     288 pages  
     
 
-9. _The Emigrants_ ⭐  
+5. _The Emigrants_ ⭐  
     by W. G. Sebald  
     📖 Finished on March 15  
     237 pages  
     
 
-11. _I Must Resist: Bayard Rustin's Life in Letters_  
+6. _I Must Resist: Bayard Rustin's Life in Letters_  
     by Bayard Rustin  
     📖 Finished on March 28  
     516 pages
     
 
-13. _The Glass Hotel_  
+7. _The Glass Hotel_  
     by Emily St. John Mandel  
     🎧 Finished on March 31  
     302 pages  
     
 
-15. _Virtue Hoarders: The Case against the Professional Managerial Class_  
+8. _Virtue Hoarders: The Case against the Professional Managerial Class_  
     by Catherine Liu  
     📱 Finished on May 17  
     90 pages  
     
 
-17. _Girl in a Band_  
+9. _Girl in a Band_  
     by Kim Gordon  
     🎧 Finished on July 13  
     288 pages  
     
 
-19. _Atlas of AI_ ⭐  
+10. _Atlas of AI_ ⭐  
     by Kate Crawford  
     📱 Finished on August 13  
     327 pages  
     
 
-21. _Free Speech: A History from Socrates to Social Media_  
+11. _Free Speech: A History from Socrates to Social Media_  
     by Jacob Mchangama  
     🎧 Finished on August 20  
     514 pages  
     
 
-23. _Austerlitz_ ⭐  
+12. _Austerlitz_ ⭐  
     by W.G. Sebald  
     📖 Finished on August 24  
     298 pages  
     
 
-25. _Sea of Tranquility_  
+13. _Sea of Tranquility_  
     by Emily St. John Mandel  
     🎧 Finished on August 31  
     255 pages  
     
 
-27. _The Family: The Secret Fundamentalism at the Heart of American Power_  
+14. _The Family: The Secret Fundamentalism at the Heart of American Power_  
     by Jeff Sharlet  
     🎧 Finished on September 24  
     464 pages  
     
 
-29. _The Undertow: Scenes from a Slow Civil War_  
+15. _The Undertow: Scenes from a Slow Civil War_  
     by Jeff Sharlet  
     📱 Finished on October 16  
     352 pages  
     
 
-31. _Doppelganger: A Trip into the Mirror World_ ⭐  
+16. _Doppelganger: A Trip into the Mirror World_ ⭐  
     by Naomi Klein  
     🎧 Finished on November 5  
     416 pages  
     
 
-33. _Killing the Buddha: A Heretic’s Bible_  
+17. _Killing the Buddha: A Heretic’s Bible_  
     by Peter Manseau and Jeff Sharlet  
     📖 Finished on November 11  
     292 pages

@@ -10,7 +10,7 @@ Finished reading: _[Doppelganger: A Trip into the Mirror World](https://bookshop
 
 What would you do if you were constantly being mistaken for someone else? And that someone else started developing more paranoid, dangerous, poisonous views diametrically opposed to your own?
 
-I spend a considerable amount of time thinking about identity, as someone who has multiple domains registered under my first and last name. I'm maintaining a [fragmented online presence across several networks](https://nicksimson.com/links/), trying to be in control of my own narrative. I even have a graphic mark (a _logo_ or _brand_) representing myself in the top left corner of this website.
+I spend a considerable amount of time thinking about identity, as someone who has multiple domains registered under my first and last name. I'm maintaining a [fragmented online presence across several networks](/links.html), trying to be in control of my own narrative. I even have a graphic mark (a _logo_ or _brand_) representing myself in the top left corner of this website.
 
 25 years after publishing a [book on corporate identity](https://naomiklein.org/no-logo/), it only seems appropriate that Naomi Klein would eventually tackle the complicated facets of our personal identities. This is indeed Klein's most personal work to date, but _Doppelganger_ is much more than a memoir.
 

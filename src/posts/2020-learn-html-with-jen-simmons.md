@@ -6,10 +6,6 @@ tags:
   - Learning
 ---
 
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zZCSTAR-4w0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 I’ve learned a ton from [Jen Simmons](https://jensimmons.com/) over the past several years. 
 
 I just finished watching her latest offering, the redesigned [HTML Essential Training](https://www.linkedin.com/learning/html-essential-training-4) course, for LinkedInLearning. Simmons' mastery of the fundamentals of the web (HTML, CSS, JavaScript) is impeccable. 

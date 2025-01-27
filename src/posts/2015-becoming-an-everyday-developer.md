@@ -1,13 +1,12 @@
 ---
 title: Becoming an everyday developer
-id: 002
 description: What to learn, how to learn it, and what to learn next.
 date: 2015-09-07T18:18:00-06:00
 tags:
   - Learning
 ---
 
-A week ago [I shared a few highlights and my impressions](http://nicksimson.com/everyday-developers/) from a recent Web Ahead discussion about "everyday developers". I made the point that web development is not a monolith: There are a lot of different kinds of websites, there are a ton of different tools and ways to deploy a site, and noone should be expected to know everything.
+A week ago [I shared a few highlights and my impressions](/posts/2015-everyday-developers.html) from a recent Web Ahead discussion about "everyday developers". I made the point that web development is not a monolith: There are a lot of different kinds of websites, there are a ton of different tools and ways to deploy a site, and noone should be expected to know everything.
 
 I wanted to write a follow-up entry with more details about the learning path toward becoming a web designer or developer, and I had a beginner in mind as I started drafting this post. It can be difficult to know where to start learning. It can be diffciult to figure out what to learn next. This isn't a prescriptive or definitive career guide, just what I think the core compenties are, other skills that can come in handy, and the best order to learn them in. I will not recommend any specific frameworks, software, or tools, save for two books and a handful of reference websites.
 
