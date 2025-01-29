@@ -12,7 +12,7 @@ coverImage: "26Days-C-Chaparral.png"
 
 Before [Adobe Fonts](https://fonts.adobe.com/) and Creative Cloud, there was [Adobe Font Folio](https://en.wikipedia.org/wiki/Adobe_Font_Folio), back when software was still sold in boxes. There was an education version of this product, and that's surely how I encountered (and came to love) [Chaparral](https://fonts.adobe.com/fonts/chaparral) as an undergraduate design student.
 
-This is the third installment of [26 Days of Type](https://nicksimson.com/tags/26daysoftype/), and my second [slab-serif](https://nicksimson.com/posts/besley/) feature in a row. Each day during the month of February, I'm attempting to research, write, and publish a new blog post on type. I'm aware there are more than 26 days in February, and I'm giving myself grace to miss a day or two on this schedule. But if I'm successful, there may be a few bonus days of typographic content.
+This is the third installment of [26 Days of Type](/26-days-of-type.html), and my second [slab-serif](/posts/2024-besley.html) feature in a row. Each day during the month of February, I'm attempting to research, write, and publish a new blog post on type. I'm aware there are more than 26 days in February, and I'm giving myself grace to miss a day or two on this schedule. But if I'm successful, there may be a few bonus days of typographic content.
 
 I believe the 'Pro' in 'Chaparral Pro' comes from the fact that there are 32 weights and styles, including Caption, Display and Subhead optical sizes. Combine that versatility with a unique design, and you have a book designer's dream.
 

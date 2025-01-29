@@ -10,19 +10,47 @@ title: Now
 
 &nbsp;
 
-❄️ I am currently:
+I am currently:
 
-- working as a UI designer with an awesome Digital Experience team.
+- working as a UI designer with an awesome digital experience team.
 - raising a preschooler with [Eleanor](https://eleanoraldrich.com).
 - challenging myself to write and publish often.
 
 &nbsp;
 
-## 📍 Where?
+## 📍 ABQ NM USA
+<script>
+  const apiKey = '1b98106d1e9ae98f5a526a0f18b73062';
+  const cityId = '5454711';
+  const apiUrl = `https://api.openweathermap.org/data/2.5/weather?id=${cityId}&appid=${apiKey}&units=imperial`;
 
-Living in Albuquerque, New Mexico since 2023.
+  fetch(apiUrl)
+    .then(response => response.json())
+    .then(data => {
+      const temp = Math.round(data.main.temp); // Round temperature to nearest whole number
+      const description = data.weather[0].description;
+      const city = data.name;
+      // Determine the icon
+            let icon = '';
+            if (description.includes('sun') || description.includes('clear')) {
+                icon = '☀️';
+            } else if (description.includes('cloud')) {
+                icon = '☁️';
+            } else if (description.includes('snow')) {
+                icon = '❄️'; 
+            } else if (description.includes('fog')) {
+                icon = '🌫️';        
+            } else if (description.includes('rain') || description.includes('shower')) {
+                icon = '🌧️';
+            }
+      document.getElementById('weather').innerHTML = `${icon} <strong>Weather in ${city}:</strong> ${temp}°F, ${description}`;
+    })
+    .catch(error => console.error('Error fetching weather data:', error));
+</script>
+<div id="weather"></div>
+<small><a href="https://openweathermap.org/city/5454711">Forecast by OpenWeather</a></small>
 
-<small>This is where I might put a [weather](https://forecast7.com/en/35d09n106d61/albuquerque/?unit=us) widget if I could code one.</small>
+Been living in the [Duke City](https://en.wikipedia.org/wiki/Albuquerque%2C_New_Mexico) since 2023. 
 
 
 &nbsp;
@@ -45,7 +73,7 @@ I use [Literal](https://literal.club/nsmsn/is-reading) to keep track of my readi
 &nbsp;
 
 <small>
-This page uses some third-party widgets to display my current status, books, and music.<br />
+This page uses a few third-party widgets and APIs to display my current status, weather, books, and music.<br />
 <em>Last manually updated January 24, 2025.</em>
 </small>
 

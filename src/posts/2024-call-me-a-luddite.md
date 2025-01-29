@@ -14,9 +14,12 @@ I first encountered the term "Luddite" in the late 1990s or ealy 2000s. It was t
 
 The true story of the Luddites, as told in Brian Merchant's illuminating book _[Blood in the Machine](https://bookshop.org/a/21729/9780316487740)_ is that they weren't against every machine or labor-saving device. They didn't smash their own hand looms, which they themselves had mastered and perfected over time. Automation wasn't an abstraction coming for their jobs or their way of life. It was the tool of entrepreneurs to make their livelihood obsolete in favor of cheaper labor and cheaper textile goods.
 
-> If a workman disliked a machine, it was because of the use to which they were being put, not because they were machines or because they were new.
-> 
-> Brian Merchant, _Blood in the Machine_
+<figure>
+ <blockquote>
+  <p>If a workman disliked a machine, it was because of the use to which they were being put, not because they were machines or because they were new.</p>
+ </blockquote>
+ <figcaption>Brian Merchant, <cite>Blood in the Machine</cite></figcaption>
+</figure>
 
 The invention of the cotton gin exacerbated slavery in North America, even as its inventor imagined it might bring an end to that cruel system. It was automation and the factory system that created child labor, and the Luddites were trying to warn everyone else that they were going to be the next to be exploited. Before they became Luddites and turned to property destruction, the weavers tried to negotiate with Parliament and the industrialists to phase in the technology over time, offering progressive reformist ideas like profit sharing, or a tax on the machines which would provide for the workers displaced. In turn, the state made organizing illegal. Eventually, machine destruction was punishable by death.
 
