@@ -5,7 +5,7 @@ title: Now
 # Now
 
 <div class="container-small">
-<script src="https://status.lol/nsmsn.js?time&link&fluent&pretty"></script>
+<script src="https://status.lol/nsmsn.js?"></script>
 </div>
 
 &nbsp;

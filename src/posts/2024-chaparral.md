@@ -16,9 +16,12 @@ This is the third installment of [26 Days of Type](/26-days-of-type.html), and m
 
 I believe the 'Pro' in 'Chaparral Pro' comes from the fact that there are 32 weights and styles, including Caption, Display and Subhead optical sizes. Combine that versatility with a unique design, and you have a book designer's dream.
 
-> Created by Adobe type designer Carol Twombly, Chaparral combines the legibility of slab serif designs popularized in the 19th century with the grace of 16th-century roman book lettering. The result is a versatile, hybrid slab-serif design, a unique addition to the Adobe Originals family of typefaces. Unlike “geometric” slab serif designs, Chaparral has varying letter proportions that give it an accessible and friendly appearance in all weights from light to bold. And because it’s a multiple master typeface with an optical axis (ranging from 7 to 72 points), Chaparral is clear and readable at smaller text settings while remaining subtle and lively at display sizes. Like the drought-resistant brush that blooms on the arid coastal range near Twombly’s California home, Chaparral’s highly functional design is surprisingly beautiful, the perfect choice for correspondence, as well as book, poster, and newsletter design.
-> 
-> [Adobe Fonts page for Chaparral](https://fonts.adobe.com/fonts/chaparral#about-section)
+<figure>
+ <blockquote>
+  <p>Created by Adobe type designer Carol Twombly, Chaparral combines the legibility of slab serif designs popularized in the 19th century with the grace of 16th-century roman book lettering. The result is a versatile, hybrid slab-serif design, a unique addition to the Adobe Originals family of typefaces. Unlike “geometric” slab serif designs, Chaparral has varying letter proportions that give it an accessible and friendly appearance in all weights from light to bold. And because it’s a multiple master typeface with an optical axis (ranging from 7 to 72 points), Chaparral is clear and readable at smaller text settings while remaining subtle and lively at display sizes. Like the drought-resistant brush that blooms on the arid coastal range near Twombly’s California home, Chaparral’s highly functional design is surprisingly beautiful, the perfect choice for correspondence, as well as book, poster, and newsletter design.</p>
+ </blockquote>
+ <figcaption><cite><a href="https://fonts.adobe.com/fonts/chaparral#about-section">Adobe Fonts page for Chaparral</a></cite></figcaption>
+</figure>
 
 <figure>
 
@@ -34,11 +37,13 @@ I believe the 'Pro' in 'Chaparral Pro' comes from the fact that there are 32 wei
 
 **It can't just be the name.** There is _something_ very West Coast or Southwest seeming about the slab-serifs to me. At the same time, this one you can safely use Chaparral without venturing into 'Wanted' poster territory. The classical proportions also give off a bookish, academic feel. I rarely reach for the [Adobe Originals](https://fonts.adobe.com/foundries/adobe) these days, but I'd make an exception for Chaparral. This is a design I just _love_ using, since early in my career. And I still relish moments when I see it in the wild, either in print or digital.
 
-> Conventional wisdom says to avoid hybrids; often, in trying to do multiple things, a hybrid will miss the mark at _everything_. Unlike your old TV/VCR combo, however, Chaparral is a wonderful exception to this rule. It combines the legibility of a nice roman serif with the distinctive authority of a slab serif, and does so with a grace that most typefaces can’t touch.
-> 
-> The key to Chaparral’s beauty is in its combination of flowing curves and powerful angularity. While some slabs can feel a bit more beefy and boxy, Chaparral takes a cue from book types of yore by keeping the contrast low; as a result, it works exceptionally well in running text, by varying the stroke widths only when necessary.
-> 
-> Jason Santa Maria, [writing about Chaparral in 2011](https://blog.typekit.com/2011/08/15/about-face-chaparral/).
+<figure>
+ <blockquote>
+  <p>Conventional wisdom says to avoid hybrids; often, in trying to do multiple things, a hybrid will miss the mark at <em>everything</em>. Unlike your old TV/VCR combo, however, Chaparral is a wonderful exception to this rule. It combines the legibility of a nice roman serif with the distinctive authority of a slab serif, and does so with a grace that most typefaces can’t touch.</p>
+  <p>The key to Chaparral’s beauty is in its combination of flowing curves and powerful angularity. While some slabs can feel a bit more beefy and boxy, Chaparral takes a cue from book types of yore by keeping the contrast low; as a result, it works exceptionally well in running text, by varying the stroke widths only when necessary.</p>
+ </blockquote>
+ <figcaption>Jason Santa Maria, <cite><a href="https://blog.typekit.com/2011/08/15/about-face-chaparral/">2011 Typekit blog post on Chaparral</a></cite>.</figcaption>
+</figure>
 
 <figure>
 
