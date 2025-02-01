@@ -60,7 +60,7 @@ Been living in the [Duke City](https://en.wikipedia.org/wiki/Albuquerque%2C_New_
 <div id="literal-widget" handle="nsmsn" status="IS_READING" layout="list"></div>
 <script src="https://literal.club/js/widget.js"></script>
 
-I use [Literal](https://literal.club/nsmsn/is-reading) to keep track of my reading.
+I use [Literal](https://literal.club/nsmsn/is-reading) and [The StoryGraph](https://app.thestorygraph.com/profile/nsmsn) to keep track of my reading.
 
 &nbsp;
 

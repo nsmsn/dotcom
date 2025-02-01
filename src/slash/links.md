@@ -22,6 +22,7 @@ Here are links to my other projects and profiles around the World Wide Web.
     <li><a href="https://literal.club/nsmsn">Literal</a></li>
     <li><a href="https://social.lol/@nsmsn">Mastodon</a></li>
     <li><a href="https://record.club/nsmsn">Record Club</a></li>
+    <li><a href="https://spacehey.com/nsmsn">SpaceHey</a></li>
 </ul>
 
 &nbsp;
@@ -35,3 +36,4 @@ Here are links to my other projects and profiles around the World Wide Web.
 - [Ko-fi](https://ko-fi.com/nsmsn) (buy me a ☕!)
 - [omg.lol](https://nsmsn.co/)
 - [status.lol](https://nsmsn.status.lol/)
+- [The StoryGraph](https://app.thestorygraph.com/profile/nsmsn)

@@ -483,6 +483,10 @@ a.control:active {
       padding-bottom: 1.666rem;
     }
 
+    .posts-list article > ul {
+      list-style-type: disc;
+    }
+
     .timestamp {
       font-family: var(--font-server);
     }
