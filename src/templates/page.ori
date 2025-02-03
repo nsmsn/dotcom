@@ -5,14 +5,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>${ page/title }</title>
-    <link rel="stylesheet" href="/assets/css/style.css" />
+    <link rel="stylesheet" href="/assets/css/no-style.css" />
     <link rel="icon" href="/favicon.ico" sizes="any">
     <link rel="icon" type="image/svg+xml" href="/img/meta/favicon.svg">
-
   </head>
   <body>
   <div class="canvas">
     ${ header.html }
+    ${ navigation.html }
     <main id="main-content">
     <div class="container">
     ${ page/@text }
@@ -21,9 +21,7 @@
   
 
     ${ footer.html }
- </div>   
-    ${ navigation.html }
-  <script src="/assets/js/offcanvas.js"></script>  
+ </div>
   </body>
 </html>
 `

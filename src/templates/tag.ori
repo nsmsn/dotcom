@@ -8,7 +8,20 @@
     ${ map(items, (item,filename) => `
       <li>
       <article class="item-single outline">
-        ${ item/@text }
+        ${
+          item/type === "post"
+
+          // Post
+          ? `
+            <a href="${ item/path }">
+              <h2>${ item/title }</h2>
+            </a>
+            <p>${ item/description }</p>
+          `
+
+          // Note
+          : item/@text
+        }
         <small class="timestamp"><a href="${ item/path }">${ date.ori(item/date) }</a></small>
       </article>  
       </li>
