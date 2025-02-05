@@ -29,7 +29,7 @@
     <p>${ firstPost/description }</p>
     <small class="timestamp">${ date.ori(firstPost/date) }</small>
 
-    <a href="/posts/index.html">Posts Archive &rarr;</a>
+    <p><a href="/posts/index.html">Posts Archive &rarr;</a></p>
 
     <h2>Latest notes</h2>
     <ol reversed class="list-unstyled posts-list">
