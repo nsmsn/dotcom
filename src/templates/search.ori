@@ -4,10 +4,11 @@
 
   // Boilerplate UI from https://pagefind.app/docs/ui-usage/
   @text: indent`
-    <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+    <!--<link href="/pagefind/pagefind-ui.css" rel="stylesheet">-->
     <script src="/pagefind/pagefind-ui.js"></script>
 
-    <h1>Search</h2>
+    <div class="container-med">
+    <h1>Search</h1>
     <p>The search on this site is powered by <a href="https://pagefind.app">PageFind</a>, which requires JavaScript.</p> 
     <p>Alternatively, you can try to use the search filter <code>site:nicksimson.com</code> using <a href="https://duckduckgo.com/?t=h_&q=site%3Anicksimson.com&ia=web">DuckDuckGo</a> or something similar.</p>
     <div id="search"></div>
@@ -20,6 +21,7 @@
           showSubResults: true,
         });
       });
-    </script>    
+    </script>
+    </div>    
   `
 })

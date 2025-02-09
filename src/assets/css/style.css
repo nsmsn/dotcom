@@ -67,11 +67,11 @@
 	--color-gray-medium: #B8B8B8;
 	--color-gray-light: #e5e5e5;
 	--color-gray-lighter: #f7f7f7;
-  --color-ivory: #f6f2eb;
+	--color-ivory: #f6f2eb;
 	/* Fonts */
 	--font-primary: 'Hanken Grotesk', system-ui, "Helvetica Neue", Arial, sans-serif;
 	--font-monospace: Menlo, Monaco, "Courier New", monospace;
-  --font-server: 'Server Mono', monospace;
+	--font-server: 'Server Mono', monospace;
 	/* Sizes */
 	--font-size: 125%;
 	--spacing: 1.6em;
@@ -110,13 +110,14 @@ summary {
 
 /**
  * 1. Force scrollbar display to prevent jumping on pages.
- * 2. Prevent iOS text size adjust after orientation change, without disabling
- *    user zoom.
+ * 2. Prevents font size inflation.
  */
 html {
 	overflow-y: scroll;
 	/* 1 */
-	text-size-adjust: 100%;
+	-moz-text-size-adjust: none;
+	-webkit-text-size-adjust: none;
+	text-size-adjust: none;
 	/* 2 */
 }
 
@@ -314,6 +315,10 @@ body {
 
 p {
 	margin: 0 0 var(--spacing);
+}
+
+p, li, blockquote, small {
+	max-width: 70ch;
 }
 
 /**
@@ -1081,9 +1086,13 @@ img {
 }
 
 .site-footer {
-  background: rgba(0, 0, 0, 0.125);
-  margin-top: 2.5rem;
-  padding-top: 1.5rem;
+	background: rgba(0, 0, 0, 0.125);
+	margin-top: 2.5rem;
+	padding-top: 1.5rem;
+}
+
+.site-footer p {
+	max-width: 120ch;
 }
 
 

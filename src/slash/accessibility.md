@@ -17,20 +17,23 @@ I want as many people as possible to be able to use my website. For example, tha
 
 ## Standards and Testing
 
-The Web Content Accessibility Guidelines (WCAG) defines requirements for designers and developers to make web content more accessible to people with disabilities (and user friendly for everyone). My site is partially conformant with WCAG 2.2 level AA.
+The [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) defines requirements for designers and developers to make web content more accessible to people with disabilities (and user friendly for everyone). My site stives to conform to **WCAG 2.2 level AA**.
 
-I use standards-compliant HTML, CSS, and JavaScript throughout this website. Anyone using a web browser that honors these standards should be capable of navigating this site.
+I use [standards-compliant HTML, CSS, and JavaScript](https://www.w3.org/standards/) throughout this website. Anyone using a web browser that honors these standards should be capable of navigating this site.
 
-In addition to being tested on the latest versions of Chrome, Edge, Firefox, and Safari, this site has been manually checked for ease of use with a keyboard and the VoiceOver screen reader. I also periodically audit the site using WAVE, a browser-based testing service.
-Features
+In addition to being tested on the latest versions of Chrome, Edge, Firefox, and Safari, this site has been manually checked for ease of use with a keyboard and the VoiceOver screen reader. I also periodically audit the site using [WAVE](https://wave.webaim.org/), a browser-based testing service.
 
-Pages are structured with semantic elements like header, nav, main, and footer, which may help you move around more quickly. The main content area of each page is marked with a h1 (heading level 1), and each page’s structure should follow a logical heading order from there.
+&nbsp;
+
+## Features
+
+Pages are structured with semantic elements like <code>header</code>, <code>nav</code>, <code>main</code>, and <code>footer</code>, which may help you move around more quickly. The main content area of each page is marked with a <code>h1</code> (heading level 1), and each page’s structure should follow a logical heading order from there.
 
 Each page on this website has a “skip to content” link at the top, and a “back to top” link at the very bottom.
 
-Images are described with text alternatives, using the alt attribute. This website’s colors were chosen to ensure there is sufficient color contrast between elements on each page. My site has been coded to honor user device preferences whenever possible.
+Images are described with [text alternatives](https://www.a11yproject.com/posts/alt-text/), using the<code>alt</code> attribute. This website’s colors were chosen to ensure there is sufficient color contrast between elements on each page. My site has been coded to honor user device preferences whenever possible.
 
-I strive to use plain language throughout this site and use a readability checker to test my content and improve my writing.
+I strive to use inclusive, plain language throughout this site and use a readability checker to test my content and improve my writing.
 
 &nbsp;
 
@@ -46,7 +49,7 @@ I can’t guarantee that all content linked to or embedded on this site is fully
 
 I am personally committed to educating myself on digital accessibility, sharing what I learn, and putting it into practice. That said, if you encounter any difficulty using my site, please let me know! You may <a href="mailto:nick@nicksimson.com">email me directly</a>. I take these issues very seriously and welcome your feedback and suggestions.
 
-<small>This page is heavily influenced by (and borrows liberally from) statements by Eric Bailey, Carie Fisher, Ethan Marcotte, and Marcy Sutton. You should check out their work and writing.</small>
+<small>This page is heavily influenced by (and borrows liberally from) statements by <a href="https://ericwbailey.website/accessibility-statement/">Eric Bailey</a>, <a href="https://cariefisher.com/accessibility/">Carie Fisher</a>, <a href="https://ethanmarcotte.com/accessibility/">Ethan Marcotte</a>, and <a href="https://marcysutton.com/accessibility/">Marcy Sutton</a>. You should check out their work and writing.</small>
 
 &nbsp;
 
@@ -54,14 +57,14 @@ I am personally committed to educating myself on digital accessibility, sharing 
 
 The links below have helped me in my ongoing accessibility education. Most of these are beginner-friendly entry points to what can be a broad and sometimes complex topic. There are many more resources out there, but these are a few of my favorites.
 
-- The A11y Project
-- WebAIM.org
-- Accessibility Myths
-- Inclusive Design Principles
-- Overlay Factsheet
-- DataViz Accessibility Advocacy and Advisory Group
-- Accessibility Weekly (email newsletter)
-- A11y Talks (virtual meetup)
-- WordPress Accessibility Meetup (virtual meetup)
+- [The A11y Project](https://www.a11yproject.com/)
+- [WebAIM.org](https://webaim.org/)
+- [Accessibility Myths](https://a11ymyths.com/)
+- [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
+- [Overlay Factsheet](https://overlayfactsheet.com/)
+- [DataViz Accessibility Advocacy and Advisory Group](https://github.com/dataviza11y/Why-We-Exist)
+- [Accessibility Weekly](https://a11yweekly.com/) (email newsletter)
+- [A11y Talks](https://a11ytalks.com/) (virtual meetup)
+- [WordPress Accessibility Meetup](https://equalizedigital.com/wordpress-accessibility-meetup/) (virtual meetup)
 
 <small>* <strong>A11y</strong> is a compact abbreviation for <em>accessibility</em> with <strong>11</strong> (eleven) representing the count of letters between the letter <strong>a</strong> and the letter <strong>y</strong>.</small>
