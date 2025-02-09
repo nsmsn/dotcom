@@ -18,7 +18,7 @@ Once in a while you come across a message that reminds you that you are not alon
  <figcaption><cite><a href="https://front-end.social/@SaraSoueidan/112769147677219641">Sara Soueidan</a></cite></figcaption>
 </figure>
 
-I am approximately 78% satisfied with my website right now. That approximate amount of happiness motivates me to update it on a regular basis. I like what my website gives me: quality interactions; a space to think in the open and develop my ideas over time; a digital mirror that may reflect a facet of who I am at any given time. My website is a tool for these things. The 22% dissatisfaction leads me to develop new features, chase [redesigns](https://nicksimson.com/tags/redesign/), or consider starting from scratch and re-platforming _everything_.
+I am approximately 78% satisfied with my website right now. That approximate amount of happiness motivates me to update it on a regular basis. I like what my website gives me: quality interactions; a space to think in the open and develop my ideas over time; a digital mirror that may reflect a facet of who I am at any given time. My website is a tool for these things. The 22% dissatisfaction leads me to develop new features, chase [redesigns](/tags/redesign.html), or consider starting from scratch and re-platforming _everything_.
 
 ## A personal history of tooling
 
@@ -62,7 +62,7 @@ I've avoided _the c word_ up to this point, but it is hard to write about tools 
 
 As I've learned new tools, I've discarded old ones no longer needed. The goal has long been to learn the _materials_, and become a better craftsperson. I'm so glad I started learning the raw materials (HTML and CSS) first. I learn more every time I write in these languages.
 
-As much as I have some fatigue with tooling, that small bit of dissatisfaction today motivates me to build better things and find a better way tomorrow. The materials, [CSS in particular](https://nicksimson.com/posts/the-most-powerful-design-tool-for-the-web/), are becoming more powerful tools themselves. The fact we _might_ get the HTML partials imports [Sara is longing for](https://front-end.social/@SaraSoueidan/112769147677219641) (someday) gives me great hope for my future tool kit, too.
+As much as I have some fatigue with tooling, that small bit of dissatisfaction today motivates me to build better things and find a better way tomorrow. The materials, [CSS in particular](/posts/2024-the-most-powerful-design-tool-for-the-web.html), are becoming more powerful tools themselves. The fact we _might_ get the HTML partials imports [Sara is longing for](https://front-end.social/@SaraSoueidan/112769147677219641) (someday) gives me great hope for my future tool kit, too.
 
 &nbsp;
 

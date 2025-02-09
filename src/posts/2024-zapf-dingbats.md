@@ -14,7 +14,7 @@ _Really?_ This is how he chose to end it?
 
 You might not think I'm serious, but I really did want to close my alphabetical series on type with [Hermann Zapf](https://www.dezeen.com/2015/06/17/beyond-dingbats-typographic-legacy-of-hermann-zapf/) and his eponymous dingbat font.
 
-A dingbat, of course, is a typographic glyph that is not a letter, number, or form of punctuation[1](#dd2e1735-d051-4fdc-9aa9-becc393d4ed2). They're often pictograms, sometimes ornaments or borders, and can either be extra symbols in a font, or a complete symbol font itself.
+A dingbat, of course, is a typographic glyph that is not a letter, number, or form of punctuation<sup><a href="#fn1">1</a></sup>(#dd2e1735-d051-4fdc-9aa9-becc393d4ed2). They're often pictograms, sometimes ornaments or borders, and can either be extra symbols in a font, or a complete symbol font itself.
 
 Zapf Dingbats itself was drawn by Hermann Zapf in the 1970s and released by the International Typeface Corporation in 1977. 360 symbols were grouped into three sets of 120 glyphs (ITC-100, ITC-200, and ITC-300).
 
@@ -68,3 +68,11 @@ Manicules (plus snowflakes and emoji) in Scala, SwingKing, and Covik Sans
 My current favorite dingbat of all time is the hedgehog in Work Sans (above). I only learned about it from visiting the [GitHub page](https://github.com/weiweihuanghuang/Work-Sans) recently, and unraveling the mystery behind it is my current obsession. _Why a hedgehog? Why are there few other dingbats in Work Sans?_ I need to find out more.
 
 Stay tuned. For the rest of February, I have a few bonus posts up my sleeve.
+
+&nbsp;
+
+<small>
+<ol>
+<li id="fn1"><a href="https://fonts.google.com/knowledge/glossary/dingbat">Google Fonts Knowledge: Dingbat</a></li>
+</ol>
+</small>

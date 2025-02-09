@@ -17,7 +17,7 @@ tags:
 
 About a week ago, I noticed that my posts from my website stopped showing up on my fediverse profile **`@nick@nicksimson.com`**. This account is powered by the incredible [ActivityPub plugin](https://wordpress.org/plugins/activitypub/) developed by [Matthias Pfefferle](https://profiles.wordpress.org/pfefferle/). (I also syndicate most posts and notes automatically to [a Mastodon account](https://mastodon.design/@nsmsn) via [Micro.blog](https://micro.blog/about), and this service was running as expected. Two different accounts, slightly different purposes and plumbing.)
 
-Here's what happened: when I [updated a bunch of categories to tags last week](https://nicksimson.com/posts/short-ramble-on-categories-and-tags/), I inadvertently created a huge amount of cron events and I think it overwhelmed my website. I found this out through a support ticket with my hosting provider:
+Here's what happened: when I [updated a bunch of categories to tags last week](/posts/2024-short-ramble-on-categories-and-tags.html), I inadvertently created a huge amount of cron events and I think it overwhelmed my website. I found this out through a support ticket with my hosting provider:
 
 > There are at least `3,500` cron jobs tied to the site, with the vast majority stemming from ActivityPub, such as (in the format of `cron event name: approx number of cron events`):
 > 

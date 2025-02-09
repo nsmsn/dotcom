@@ -61,7 +61,7 @@ If that isn't enough, there are other projects promising interoperability. Ryan 
 
 > If you're on one of these networks, you can use Bridgy Fed to follow people on other networks, see their posts, and reply and like and repost them. Likewise, they'll be able to see you and your posts too.
 
-Maybe that's more of the kind of interoperability I am looking for. I'm already using [Bridgy](https://brid.gy/) on this site to enable commenting from Bluesky and Mastodon. What if I didn't need [all these accounts](https://nicksimson.com/links/)? _What if I could just do this from my website?_
+Maybe that's more of the kind of interoperability I am looking for. I'm already using [Bridgy](https://brid.gy/) on this site to enable commenting from Bluesky and Mastodon. What if I didn't need [all these accounts](/links.html)? _What if I could just do this from my website?_
 
 The web already works pretty well at allowing interactions between different entities—it's most powerful feature is the hyperlink. And more recently, think of the phrase, "wherever you find your podcasts." The reason you can use whatever podcast player you want to listen to most of your shows is because nearly every podcast feed uses the same [RSS standard](https://en.wikipedia.org/wiki/RSS).
 

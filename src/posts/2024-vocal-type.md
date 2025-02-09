@@ -58,6 +58,6 @@ Mike Monteiro uses [VTC James](https://www.vocaltype.co/history-of/james) for th
 
 ![Mike's Version: Design is a Job by Mike Monteiro](/img/post-images/IMG_3683-768x1024.jpeg)
 
-As always, [Fonts in Use features some excellent design work](https://fontsinuse.com/type_designers/6335/tre-seals) using Vocal Type fonts. I've noticed a few designs combining Seals' display type with [Halyard](https://nicksimson.com/posts/halyard/), Dapifer, and other typefaces by [Joshua Darden](https://www.dardenstudio.com/), another contemporary Black type designer.
+As always, [Fonts in Use features some excellent design work](https://fontsinuse.com/type_designers/6335/tre-seals) using Vocal Type fonts. I've noticed a few designs combining Seals' display type with [Halyard](/posts/2024-halyard.html), Dapifer, and other typefaces by [Joshua Darden](https://www.dardenstudio.com/), another contemporary Black type designer.
 
 More of Seals' design work, including the latest [redesign of _The Nation_](https://www.treseals.com/overview/the-nation), can be found at [treseals.com](https://www.treseals.com).

@@ -4,7 +4,13 @@ description: Making social media work for me (not the billionaires).
 date: 	2022-05-01T20:18:23Z
 tags:
   - Websites
+  - Micro.blog
 ---
+
+<div class="heads-up">
+<h2>👋 Hey there!</h2>
+<p>This is an old post, which no longer reflects my views on Micro.blog. I have harsher things to say about Elon Musk, too. Proceed with caution!</p>
+</div>
 
 In a 2014 essay called [Ditching Twitter](http://incisive.nu/2014/ditching-twitter/), Erin Kissane wrote about her personal dissatisfaction with the social network. The issues with the platform she diagnosed seven-plus years ago are still there. I keep coming back to this essay since it is about making something imperfect, broken even, work somehow for you.
 

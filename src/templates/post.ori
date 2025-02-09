@@ -7,10 +7,10 @@
     
     ${ post/@text }
 
-    <ul class="list-unstyled mt-2rem">
+    <ul class="list-unstyled list-inline margin-top">
 
     ${ map(post/tags, (tagname) => `
-      <li class="list-item-inline">
+      <li class="">
         <a href="/tags/${ slug(tagname) }.html" class="tagged-item">${ tagname }</a>
       </li>
     `) }

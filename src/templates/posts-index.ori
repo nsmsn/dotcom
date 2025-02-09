@@ -8,7 +8,7 @@
     <ol reversed class="list-unstyled posts-list">
 
     ${ map(posts, (post) => `
-      <li>
+      <li class="margin-bottom">
         <a href="${ post/path }" class="text-large text-bold">${ post/title }</a><br/>
         <small class="timestamp">${ date.ori(post/date) }</small>
       </li>

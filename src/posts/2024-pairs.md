@@ -79,6 +79,6 @@ I never contemplated using four or more typefaces in a single design until I rea
  <figcaption><cite>Bethany Heck</cite></figcaption>
 </figure>
 
-The key rule for using more than two typefaces in a design is to make sure you are picking each font for a single purpose and using it consistently: One typeface for body text; One typeface, one weight for headlines; One typeface, one weight for sub-headings; One typeface, one weight for captions; One typeface, one weight for block quotes; One ([monospaced](https://nicksimson.com/posts/monospaced/)) typeface for code samples, etc.
+The key rule for using more than two typefaces in a design is to make sure you are picking each font for a single purpose and using it consistently: One typeface for body text; One typeface, one weight for headlines; One typeface, one weight for sub-headings; One typeface, one weight for captions; One typeface, one weight for block quotes; One ([monospaced](/posts/2024-monospaced.html)) typeface for code samples, etc.
 
 You can use a completely separate set of typefaces for a book jacket versus the interior of a book (often its two different designers in two different departments working on these). I always find it satisfying when there is a typographic connection to the inside of a book with it's cover.

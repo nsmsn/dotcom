@@ -1,6 +1,7 @@
 ---
-title: the politics of accessibility
-date: 2025-02-03T09:24:17-07:00
+title: "the politics of accessibility"
+date: 2025-02-03T09:24:58-07:00
+tags:
   - "Accessibility"
   - "Politics"
 ---

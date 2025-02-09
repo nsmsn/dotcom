@@ -38,7 +38,7 @@ Ink traps are features from metal typesetting, especially at small sizes, that p
 
 <figcaption>
 
-At large sizes and bold weights, [Halyard Micro](https://nicksimson.com/posts/halyard/)'s numbers take on an expressive appearance.
+At large sizes and bold weights, [Halyard Micro](/posts/2024-halyard.html)'s numbers take on an expressive appearance.
 
 </figcaption>
 
@@ -46,7 +46,7 @@ At large sizes and bold weights, [Halyard Micro](https://nicksimson.com/posts/ha
 
 A digital type designer might employ ink traps into their design if they are designing for small [optical sizes](https://fonts.google.com/knowledge/glossary/optical_sizes). Check out [Retina by Tobias Frere-Jones](https://frerejones.com/families/retina) for an excellent example. If a newer typeface is referencing historical designs, ink traps might come into play, as with [Bricolage Grotesque](https://ateliertriay.github.io/bricolage/), one of my new favorite libre web fonts. Or the ink traps might take on a life of their own, as in [Dinamo's Whyte Inktrap](https://abcdinamo.com/news/typeface-release-abc-whyte-inktrap), and [Type Forward's Oddvall](https://www.typeforward.com/blog/ink-traps-and-ovals-the-story-of-oddval). Who says a sans-serif can't be decorative?
 
-I wrote about the [Halyard family](https://nicksimson.com/posts/halyard/) in yesterday's edition of [26 Days of Type](https://nicksimson.com/26-days-of-type/), and I want to spend a little more time examining the Micro version. In the samples below, I showcase the Micro weights and italic styles at large sizes (240 pt in my Illustrator file) to demonstrate how changes in weights alter the appearance of the ink traps and the characters themselves. I especially wanted to highlight the **8** in this example:
+I wrote about the [Halyard family](/posts/2024-halyard.html) in yesterday's edition of [26 Days of Type](/26-days-of-type.html), and I want to spend a little more time examining the Micro version. In the samples below, I showcase the Micro weights and italic styles at large sizes (240 pt in my Illustrator file) to demonstrate how changes in weights alter the appearance of the ink traps and the characters themselves. I especially wanted to highlight the **8** in this example:
 
 <figure>
 
@@ -78,4 +78,12 @@ That lowercase **x** though...
 
 ## Don't fall into a trap
 
-I think it's a bit trendy right now to use ink trap fonts at exaggerated sizes. So like all trends, this might look dated in a few years. I also have my own unanswered questions about the legibility/readability of certain characters at various sizes. Remember that these little details may be forgiving in one area, and a nightmare in other places. I would avoid ink traps in anything embroidered or screen-printed, unless you are a fan of "happy accidents"[1](#4260bfa1-ee6f-4c83-860d-6584c813b7c3). But if you truly are printing small type on cheap paper, ink traps have not worn out their utility.
+I think it's a bit trendy right now to use ink trap fonts at exaggerated sizes. So like all trends, this might look dated in a few years. I also have my own unanswered questions about the legibility/readability of certain characters at various sizes. Remember that these little details may be forgiving in one area, and a nightmare in other places. I would avoid ink traps in anything embroidered or screen-printed, unless you are a fan of "happy accidents"<sup><a href="#fn1">1</a></sup>. But if you truly are printing small type on cheap paper, ink traps have not worn out their utility.
+
+&nbsp;
+
+<small>
+<ol>
+<li id="fn1">A low-contrast sans serif is always a safer option in embroidery and screen-printing.</li>
+</ol>
+</small>

@@ -10,7 +10,7 @@ coverImage: "26Days-J-Journal.png"
 
 ![Day 10: Journal](/img/post-images/26Days-J-Journal-1024x576.png)
 
-When I started planning out [26 Days of Type](https://nicksimson.com/26-days-of-type/), I had a sense I would be writing about my design school education, when I _really_ started taking notice of visual culture, or was at least developing the vocabulary for it. And this would mean I'd be risking nostalgia.
+When I started planning out [26 Days of Type](/26-days-of-type.html), I had a sense I would be writing about my design school education, when I _really_ started taking notice of visual culture, or was at least developing the vocabulary for it. And this would mean I'd be risking nostalgia.
 
 Realizing this risk, I knew I wanted to wrote about [Emigre](https://en.wikipedia.org/wiki/Emigre_Fonts) and [Zuzana Licko](https://fonts.adobe.com/designers/zuzana-licko). Emigre, Inc. is the type foundry run by Licko and her husband Rudy VanderLans in Berkeley, California. Licko designed most of the fonts for _Emigre_, the magazine VanderLans edited and art directed. The mid-1980s to early '90s a time where desktop publishing was on the rise, but few people were designing and making digital fonts for personal computers. Licko was pushing the limits of the digital type production tools available and created unique faces like [Matrix](https://www.emigre.com/Fonts/Matrix-II), [Triplex](https://www.emigre.com/Fonts/Triplex), and [Citizen](https://www.emigre.com/Fonts/Citizen).
 
@@ -89,6 +89,6 @@ All of these (and more) are [available in the Adobe Fonts library](https://fonts
 Emigre's history is full of rich, expressive visual material. To spend more time with the output of Licko, VanderLans and the crew visit the following links:
 
 - The Letterform Archive has the [full print run of _Emigre_ magazine](https://oa.letterformarchive.org/?dims=Collection&vals0=Emigre%20Collection&_ga=2.17628729.1884723703.1677710247-1453205240.1677710247&sortby=collection) digitized, which you can access online.
-- Emigre's [vibrant type specimens are all available in PDF form](https://www.emigre.com/TypeSpecimens) on emigre.com, and you can sign up to get the new ones in the mail! Like I said, I'm a fan: [I've been getting these mailed to me](https://nicksimson.com/notes/emigre-specimens/) since 2007 or so.
+- Emigre's [vibrant type specimens are all available in PDF form](https://www.emigre.com/TypeSpecimens) on emigre.com, and you can sign up to get the new ones in the mail! Like I said, I'm a fan: [I've been getting these mailed to me](/notes/2022-05-10-emigre-specimens.html) since 2007 or so.
 - As always, [Fonts in Use comes through](https://fontsinuse.com/foundry/28/emigre) with a showcase of design from the 1990s and 2000s using Emigre fonts.
 - There's plenty of [essays and stuff from Emigre's history](https://www.emigre.com/Essays) to read on their website that may be relevant if you are interested in type or graphic design.

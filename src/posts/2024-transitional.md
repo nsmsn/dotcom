@@ -10,7 +10,7 @@ coverImage: "26Days-T-Transitional.png"
 
 ![Day 20: Transitional](/img/post-images/26Days-T-Transitional-1024x576.png)
 
-We covered [Old Style serifs](/posts/2024-old-style/) already, in which we learned the difference between Old Style, Transitional, and Modern/Didone. Now let's dig deeper into [Transitional serif typefaces](https://ilovetypography.com/2008/01/17/type-terms-transitional-type/).
+We covered [Old Style serifs](/posts/2024-old-style.html) already, in which we learned the difference between Old Style, Transitional, and Modern/Didone. Now let's dig deeper into [Transitional serif typefaces](https://ilovetypography.com/2008/01/17/type-terms-transitional-type/).
 
 Transitional typefaces were pioneered in the late 18th century and remain popular today for newspaper and book printing. Compared to Old Style serifs, Transitionals typically feature taller x-heights, more contrast between strokes, and a more upright stress axis on rounded characters like the **o**. The default numerals in these fonts are usually lining figures, which means they sit at the same baseline and are the same height. I used to have a hard time classifying certain fonts as either Old Style or Transitional, but the key characters I pay attention to are the **a**, **e**, **o**, and **t**.
 
@@ -20,7 +20,7 @@ Transitional typefaces were pioneered in the late 18th century and remain popula
 
 <figcaption>
 
-Times New Roman is a Transitional serif based off Plantin, which in turn was based off an older Old style called Gros Cicero[1](#7686645a-2ed4-4fac-b507-8f4494dd2fa2).
+Times New Roman is a Transitional serif based off Plantin, which in turn was based off an older Old style called Gros Cicero<sup><a href="#fn1">1</a></sup>.
 
 </figcaption>
 
@@ -77,9 +77,14 @@ Italic styles for Charter, Georgia and Miller.
 ## More Transitionals
 
 - [Financier](https://klim.co.nz/collections/financier/), a typeface drawn for the 2014 redesign of the _Financial Times_, released by Klim Type Foundy.
-
 - [Harriet](https://okaytype.com/typefaces/harriet), by Okay Type. "It’s sort-of a contemporary reimagining of Baskerville with a dash of Scotch Roman."
-
 - [Nimbus Roman](https://fonts.adobe.com/fonts/nimbus-roman) by URW.
-
 - [PS Fournier](https://typofonderie.com/en/fonts/ps-fournier/details) by Typofonderie. A tribute to the typefaces of Pierre Simon Fournier, prolific French type designer in the 18th century.
+
+&nbsp;
+
+<small>
+<ol>
+<li id="fn1">Source: <a href="https://www.nypl.org/blog/2014/12/09/times-new-roman">Where Did Times New Roman Come From?</a> by Meredith Mann, New York Public Library.</li>
+</ol>
+</small>

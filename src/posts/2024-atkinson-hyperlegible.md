@@ -44,9 +44,7 @@ I don't think Atkinson is exaggerated to the point of disrupting the reading exp
 ## See it in action
 
 - Atkinson Hyperlegible is the brand typeface for the [Braille Institute](https://brailleinstitute.org/). Check out their website and the work that they do.
-
 - Andy Bell's website [Piccallili](https://piccalil.li/) is one of the first places online I remember encountering this unique font.
-
 - Atkinson Hyperlegible has a page on [Fonts in Use](https://fontsinuse.com/typefaces/219519/atkinson-hyperlegible).
 
 ## Other decent UI fonts on Google Fonts

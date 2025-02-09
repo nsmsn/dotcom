@@ -3,6 +3,10 @@
   @text: `
     <h1>Tagged '${ tag }'</h1>
     
+    <p>(<a href="/tags/index.html">View all tags</a>)</p>
+
+    &nbsp;
+
     <ol reversed class="list-unstyled posts-list">
 
     ${ map(items, (item,filename) => `

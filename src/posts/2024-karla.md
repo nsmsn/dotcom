@@ -41,11 +41,8 @@ Oh, a music player UI. Isn't that cute.
 Karla was forked into a [project called Karmilla](https://github.com/ms-studio/karmilla) to support more languages. Because this is an open source design that has been around for a while, you're likely to find Karla in a lot of templates and free WordPress themes, etc. If you're looking for something with a similar vibe (and better kerning), try one of these:
 
 - [Basic Sans](https://fonts.adobe.com/fonts/basic-sans) by Latinotype.
-
 - [Maple](https://fonts.adobe.com/fonts/maple) by Process Type Foundry.
-
 - [Roc Grotesk](https://fonts.adobe.com/fonts/roc-grotesk) by Kostić Type Foundry.
-
 - [Work Sans](https://fonts.adobe.com/fonts/work-sans) by Wei Huang.
 
 ## Pairs well with...
@@ -53,9 +50,6 @@ Karla was forked into a [project called Karmilla](https://github.com/ms-studio/k
 I think Karla is better off as a text face supporting a funky (or chunky) headline. With this sans-serif, you have a lot of options.
 
 - Heaver weights of [Windsor](https://www.myfonts.com/collections/windsor-font-urw), [Cooper](https://fonts.adobe.com/fonts/new-kansas), [Fraunces](https://fraunces.undercase.xyz/), etc.
-
 - High contrast serifs like [Gloock](https://fonts.google.com/specimen/Gloock) or [Noe Display](https://www.schick-toikka.com/noe-display).
-
 - Weird monospaced fonts like [Martian Mono](https://evilmartians.com/products/martian-mono) or [Space Mono](https://fonts.google.com/specimen/Space+Mono).
-
 - Big condensed sans-serifs (in all caps), like [League Gothic](https://www.theleagueofmoveabletype.com/league-gothic), [Druk](https://commercialtype.com/catalog/druk), or [Knockout](https://www.typography.com/fonts/knockout/overview).

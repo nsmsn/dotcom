@@ -1,11 +1,12 @@
 // Main page template
-(page) => `<!DOCTYPE html>
+(page) => `
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>${ page/title }</title>
-    <link rel="stylesheet" href="/assets/css/no-style.css" />
+    <link rel="stylesheet" href="/assets/css/style.css" />
     <link rel="icon" href="/favicon.ico" sizes="any">
     <link rel="icon" type="image/svg+xml" href="/img/meta/favicon.svg">
   </head>
@@ -13,12 +14,12 @@
   <div class="canvas">
     ${ header.html }
     ${ navigation.html }
+
     <main id="main-content">
     <div class="container">
     ${ page/@text }
     </div>
     </main>
-  
 
     ${ footer.html }
  </div>

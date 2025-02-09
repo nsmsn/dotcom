@@ -10,7 +10,7 @@ coverImage: "26Days-R-Recursive.png"
 
 ![Day 18. Recursive](/img/post-images/26Days-R-Recursive-1024x576.png)
 
-I vaguely remember mentioning a variable font or two earlier in [this blogging series](https://nicksimson.com/26-days-of-type/), without elaborating on the topic much further. I knew it was something I wanted to dig in deeper down the road.
+I vaguely remember mentioning a variable font or two earlier in [this blogging series](/26-days-of-type.html), without elaborating on the topic much further. I knew it was something I wanted to dig in deeper down the road.
 
 Variable fonts typically contain one or more axes (as in the plural of axis, not ax) like _weight_, _optical size_, _width_, etc. in a single font file, allowing for a variety of styles and expression without requiring multiple fonts for each variety. Nick Sherman maintains an excellent [website called v-fonts.com](https://v-fonts.com/) where you can try out a variety of variable fonts.
 
@@ -37,7 +37,7 @@ The inspiration behind Recursive is a vernacular form of sign-painting called si
  <figcaption>Stephen Nixon, from the <cite><a href="https://www.recursive.design/assets/arrowtype-recursive-sansmono-specimen-230407.pdf">Recursive type specimen (PDF)</a></cite></figcaption>
 </figure>
 
-Nixon's initial idea was to explore what a single-stroke casual [monospaced](https://nicksimson.com/posts/monospaced/) font could look like in a programming context. The result ended up becoming an ambitious project with an astounding variety of visual expression on five variable axes:
+Nixon's initial idea was to explore what a single-stroke casual [monospaced](/posts/2024-monospaced.html) font could look like in a programming context. The result ended up becoming an ambitious project with an astounding variety of visual expression on five variable axes:
 
 - `mono`: a range from Proportional (0) to Monospaced (1) with _semi-proportioned_ and _semi-monospaced_ characters in-between
 

@@ -28,7 +28,7 @@ I’m married to Eleanor, who makes paintings. We live in New Mexico with our pr
 
 &nbsp;
 
-<h2 id="contact">>Get in touch</h2>
+<h2 id="contact">Get in touch</h2>
 
 Send me email: <a href="mailto:nick@nicksimson.com">nick@nicksimson.com</a>. This is the quickest way to reach me.
 

@@ -10,17 +10,20 @@ coverImage: "26Days-Q-Questa.png"
 
 ![Day 17: The Questa Project](/img/post-images/26Days-Q-Questa-1024x576.png)
 
-In [yesterday's post](/posts/2024-pairs/) I wrote about combining type and brought up the concept of a superfamily: a collection of fonts in different classifications (usually at least a serif and a sans) sharing a name and similar design features. Today I want to explore one superfamily a little further.
+In [yesterday's post](/posts/2024-pairs.html) I wrote about combining type and brought up the concept of a superfamily: a collection of fonts in different classifications (usually at least a serif and a sans) sharing a name and similar design features. Today I want to explore one superfamily a little further.
 
-> The Questa Project is a type design adventure by Dutch type designers [Jos Buivenga](https://www.exljbris.com/) and [Martin Majoor](https://www.martinmajoor.com). Their collaboration began in 2010 using Buivenga's initial sketch for a squarish Didot-like display typeface as a starting point. It was a perfect base on which to apply Majoor's type design philosophy that a serif typeface is a logical starting point for creating a sans serif version and not the other way around. The extensive Questa family includes serif, sans, slab and display typefaces.
-> 
-> Intro to the Quest Project specimen, available to [download from thequestaproject.com](https://thequestaproject.com/free.html)
+<figure>
+ <blockquote>
+  <p>The Questa Project is a type design adventure by Dutch type designers <a href="https://www.exljbris.com/">Jos Buivenga</a> and <a href="https://www.martinmajoor.com">Martin Majoor</a>. Their collaboration began in 2010 using Buivenga's initial sketch for a squarish Didot-like display typeface as a starting point. It was a perfect base on which to apply Majoor's type design philosophy that <mark>a serif typeface is a logical starting point for creating a sans serif version and not the other way around.</mark> The extensive Questa family includes serif, sans, slab and display typefaces.</p>
+ </blockquote>
+ <figcaption><cite>Intro to the Questa Project specimen</cite>, available to <a href="https://thequestaproject.com/free.html">download from thequestaproject.com</a></figcaption>
+</figure>
 
 I highlighted that bit in the blockquote, because yesterday I also linked to the examples of Meta/Meta Serif and Proxima Nova/Proxima Sera, two examples of serif faces designed and released _after_ their sans-serif counterparts. Intuitively, I think of basing a serif typeface on a sans-serif _skeleton_ form, but I've never properly designed a typeface myself.
 
 ## The serif
 
-Twenty years after entering graphic design school, certain type classifications still throw me off. I wrote recently about [Old Style serifs](https://nicksimson.com/posts/old-style/), and I understand what makes them different from [Transitional](https://fonts.google.com/knowledge/glossary/transitional_neo_classical) serif faces, but I struggle to accurately slot certain fonts into either category. The type specimen states that Questa belongs to a group of _neoclassicist_ typefaces, but I'm more used to seeing these called Modern or Didone.
+Twenty years after entering graphic design school, certain type classifications still throw me off. I wrote recently about [Old Style serifs](/posts/2024-old-style.html), and I understand what makes them different from [Transitional](https://fonts.google.com/knowledge/glossary/transitional_neo_classical) serif faces, but I struggle to accurately slot certain fonts into either category. The type specimen states that Questa belongs to a group of _neoclassicist_ typefaces, but I'm more used to seeing these called Modern or Didone.
 
 The Questa text face is the foundation for the three other designs in the superfamily. The high-contrast faces Didot (1784), Bodoni (1796) and Walbaum were reviewed for the design, but Questa is not a revival—it is an original design. The contrast between strokes is a bit lower from what you might see in digital revivals of Bodoni, for example.
 

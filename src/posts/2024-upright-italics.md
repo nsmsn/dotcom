@@ -10,7 +10,7 @@ coverImage: "26Days-U-Upright-Italics.png"
 
 ![Day 21: Upright Italics](/img/post-images/26Days-U-Upright-Italics-1024x576.png)
 
-I've been attempting to show italic and oblique styles for most of the type I'm featuring in the [26 Days of Type](https://nicksimson.com/26-days-of-type/) series this month. [Italic type](https://en.wikipedia.org/wiki/Italic_type) was historically influenced by cursive and calligraphic script, and began to be widely used in the sixteenth century. Owing to the influence of calligraphy, most italic forms slant toward the right and often take on a more condensed appearance from their upright Roman counterparts.
+I've been attempting to show italic and oblique styles for most of the type I'm featuring in the [26 Days of Type](/26-days-of-type.html) series this month. [Italic type](https://en.wikipedia.org/wiki/Italic_type) was historically influenced by cursive and calligraphic script, and began to be widely used in the sixteenth century. Owing to the influence of calligraphy, most italic forms slant toward the right and often take on a more condensed appearance from their upright Roman counterparts.
 
 <figure>
  <blockquote>
@@ -42,7 +42,7 @@ Literata (below) is recognizable in its upright italic form, compared to the mor
  <figcaption><cite><a href="https://www.type-together.com/literata-book">TypeTogether: Literata Book</a></cite></figcaption>
 </figure>
 
-I particularly love the texture Literata's italic makes with that repeating slope found in letters like **a**, **g**, **h**, **n**, **m**, **r**, and **u**. [I used it on my website from 2020-2023](https://nicksimson.com/posts/2020-redesign-webfonts-html/) and previously described this italic form as the font's "killer feature."
+I particularly love the texture Literata's italic makes with that repeating slope found in letters like **a**, **g**, **h**, **n**, **m**, **r**, and **u**. [I used it on my website from 2020-2023](/posts/2020-redesign-webfonts-html.html) and previously described this italic form as the font's "killer feature."
 
 ![Seria family italics compared to Scala family italics.](/img/post-images/26Days-U-Upright-Italics-Majoor-1024x576.png)
 

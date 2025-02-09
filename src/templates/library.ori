@@ -8,8 +8,8 @@
     ${ map(books, (book) => `
       <li class="lib-item">
         <a href="${ book/url }" class="lib-title"> <img class="lib-cover" src="/img/library/${ book/cover }" alt="" width="" height="128" loading="lazy" />
-          ${ book/title }
-        </a><br />
+        <span class="lib-title">${ book/title }</span>
+        </a>
         <span class="lib-author">by ${ book/author }</span>
       </li>
     `) }

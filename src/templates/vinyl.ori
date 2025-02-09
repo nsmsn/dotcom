@@ -12,8 +12,8 @@
     ${ map(vinyls, (vinyl) => `
       <li class="lib-item">
         <a href="${ vinyl/url }"> <img src="/img/vinyl/${ vinyl/cover }" alt="" width="128" height="128" loading="lazy" />
-          ${ vinyl/title }
-        </a><br />
+        <span class="lib-title">${ vinyl/title }</span>
+        </a>
         <span class="artist">${ vinyl/artist }</span><br />
         <span class="date">${ vinyl/year }</span>
       </li>

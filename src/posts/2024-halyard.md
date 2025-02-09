@@ -45,7 +45,7 @@ Rather than being a revival of any particular 19th or 20th century grotesque, Ha
 
 </figure>
 
-The Display family comes in nice, tight letterspacing, especially in the heavier weights. You'll get that [NYC Subway Helvetica](https://mitpress.mit.edu/9780262015486/helvetica-and-the-new-york-city-subway-system/) look, without it being Helvetica. If you are putting together a book or similar typographic system, you could use Halyard throughout, in the correct optical sizes, and you'd be in great shape. But things get interesting once you start breaking the rules. And Halyard Micro's [ink traps](https://fonts.google.com/knowledge/glossary/ink_trap) (especially the numerals) lend themselves to some expressive shapes at larger sizes.[1](#a5411328-f9d2-4c2e-974b-316fee7e432f)
+The Display family comes in nice, tight letterspacing, especially in the heavier weights. You'll get that [NYC Subway Helvetica](https://mitpress.mit.edu/9780262015486/helvetica-and-the-new-york-city-subway-system/) look, without it being Helvetica. If you are putting together a book or similar typographic system, you could use Halyard throughout, in the correct optical sizes, and you'd be in great shape. But things get interesting once you start breaking the rules. And Halyard Micro's [ink traps](https://fonts.google.com/knowledge/glossary/ink_trap) (especially the numerals) lend themselves to some expressive shapes at larger sizes.<sup><a href="#fn1">1</a></sup>
 
 <figure>
 
@@ -59,9 +59,11 @@ Halyard Micro was built for small text sizes, but does some surprising things wh
 
 </figure>
 
-> Halyard communicates a clear vision of — and a strong opinion about — how to design for optical sizes in the twenty-first century. Appearing to balance effortlessly between utility and expressiveness, combining usefulness with quirkiness, is, I guess, every type designer’s ultimate goal.
-> 
-> Ellmer Stefan, [reviewing Halyard for Typographica](https://typographica.org/typeface-reviews/halyard/).
+<figure>
+<blockquote><p>Halyard communicates a clear vision of — and a strong opinion about — how to design for optical sizes in the twenty-first century. Appearing to balance effortlessly between utility and expressiveness, combining usefulness with quirkiness, is, I guess, every type designer’s ultimate goal.</p>
+</blockquote>
+<figcaption>Ellmer Stefan, <a href="https://typographica.org/typeface-reviews/halyard/">reviewing Halyard for Typographica</a>.</figcaption>
+</figure>
 
 Sadly, I haven't used Halyard much before putting together the images for this blog post today. And that's a shame. I'm enjoying the family's character, and I want to spend much more time with it.
 
@@ -69,7 +71,7 @@ There's been a glut of [products using Windsor](https://www.typewolf.com/windsor
 
 ## Pair this with...
 
-[Jubilat](https://www.dardenstudio.com/typefaces/jubilat) or [Freight Text](https://freightcollection.com/freight-text/), both by Joshua Darden. It's never lazy to pair two fonts by the same designer. I'd use Jubilat for headings (by now you know how much I love a slab serif) with Halyard Text. Or Halyard Display with Freight Text[2](#03cbd74e-3ca9-48cb-9b1e-72919ddeea2e). And if you're developing an extensive type system, you could get _extra freaky_ combining Halyard Micro with [Freight Micro](https://freightcollection.com/freight-micro/). If you're paying for Adobe Creative Cloud, you're already getting all these fonts. Put them to use!
+[Jubilat](https://www.dardenstudio.com/typefaces/jubilat) or [Freight Text](https://freightcollection.com/freight-text/), both by Joshua Darden. It's never lazy to pair two fonts by the same designer. I'd use Jubilat for headings (by now you know how much I love a slab serif) with Halyard Text. Or Halyard Display with Freight Text<sup><a href="#fn2">2</a></sup>. And if you're developing an extensive type system, you could get _extra freaky_ combining Halyard Micro with [Freight Micro](https://freightcollection.com/freight-micro/). If you're paying for Adobe Creative Cloud, you're already getting all these fonts. Put them to use!
 
 ## See Halyard in use
 
@@ -80,3 +82,12 @@ There's been a glut of [products using Windsor](https://www.typewolf.com/windsor
 - Harvard University uses Halyard for headings on the [African American Design Nexus](https://aadn.gsd.harvard.edu/) website.
 
 - **Fonts in Use** features some great examples of Halyard in [Display](https://fontsinuse.com/typefaces/45671/halyard-display), [Text](https://fontsinuse.com/typefaces/46366/halyard-text), and [Micro](https://fontsinuse.com/typefaces/46367/halyard-micro) styles in action. Check out the [slides and presentation by Antonio Cavedoni](https://fontsinuse.com/uses/17416/pacioli-presentation-kerning-2017), where all three optical sizes shine.
+
+&nbsp;
+
+<small>
+<ol>
+<li id="fn1">Come back to the blog tomorrow for more on ink traps!</li>
+<li id="fn2">I know there’s already a Freight Sans. But Halyard and Freight make a wonderful pair.</li>
+</ol>
+</small>

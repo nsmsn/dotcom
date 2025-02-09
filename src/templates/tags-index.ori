@@ -3,10 +3,10 @@
   @text: `
     <h1>Tags</h1>
 
-    <ul class="list-unstyled">
+    <ul class="list-unstyled list-inline">
 
     ${ map(tags, (posts,tagname) => `
-      <li>
+      <li class="margin-bottom-small">
         <a href="/tags/${ slug(tagname) }.html" class="tagged-item">${ tagname }</a> <span class="tagged-count">(${ length(posts) })</span>
       </li>
     `) }

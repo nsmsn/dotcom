@@ -10,7 +10,7 @@ coverImage: "26Days-E-Epilogue.png"
 
 ![Day 5: Epilogue](/img/post-images/26Days-E-Epilogue-1024x576.png)
 
-Welcome to the fifth consecutive post in my [26 Days of Type](https://nicksimson.com/26-days-of-type/) series. My goal for this series is to highlight typography in an accessible way, and part of that is including several free and open-source fonts.
+Welcome to the fifth consecutive post in my [26 Days of Type](/26-days-of-type.html) series. My goal for this series is to highlight typography in an accessible way, and part of that is including several free and open-source fonts.
 
 [Epilogue](https://etceteratype.co/epilogue) falls into that free and open-source category, and I'm highlighting it for a few reasons. It's a pretty high-quality and versatile font. Epilogue features alternate characters, small caps, both proportional and tabular numerals, fractions, arrows, and a wide range of currency, punctuation, and other symbols.
 

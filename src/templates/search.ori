@@ -8,6 +8,8 @@
     <script src="/pagefind/pagefind-ui.js"></script>
 
     <h1>Search</h2>
+    <p>The search on this site is powered by <a href="https://pagefind.app">PageFind</a>, which requires JavaScript.</p> 
+    <p>Alternatively, you can try to use the search filter <code>site:nicksimson.com</code> using <a href="https://duckduckgo.com/?t=h_&q=site%3Anicksimson.com&ia=web">DuckDuckGo</a> or something similar.</p>
     <div id="search"></div>
     <script>
       window.addEventListener('DOMContentLoaded', (event) => {

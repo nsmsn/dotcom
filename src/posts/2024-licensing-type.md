@@ -12,7 +12,7 @@ coverImage: "26Days-L-Licensing.png"
 
 What follows isn't legal advice. If you do need legal advice, please find a lawyer. I am not a lawyer, nor do I play one on the internet.
 
-With that out of the way, I am ready to tackle what is probably the most challenging topic in [this series](https://nicksimson.com/26-days-of-type/) so far: Licensing fonts. And this might be my longest post in the series to date, clocking in at nearly 1,600 words. After researching this topic and reading a dozen or so End User Licensing Agreements (EULA), I completely understand why so many organizations large and small default to using Google Fonts.
+With that out of the way, I am ready to tackle what is probably the most challenging topic in [this series](/26-days-of-type.html) so far: Licensing fonts. And this might be my longest post in the series to date, clocking in at nearly 1,600 words. After researching this topic and reading a dozen or so End User Licensing Agreements (EULA), I completely understand why so many organizations large and small default to using Google Fonts.
 
 This is not an exhaustive list of every option out there. Rather, I wanted to highlight a few specific licenses and a few creative models out there for licensing type.
 
@@ -20,13 +20,13 @@ Reading this article is not a substitute for reading the license(s) when you dow
 
 ## The difference between personal and commercial use
 
-If you haven’t noticed already, most of the fonts I’ve featured in my [26 Days of Type](https://nicksimson.com/26-days-of-type/) series are available in the Google Fonts or Adobe Fonts libraries. These are both popular sources for typography, and the terms and conditions in both services generously cover both personal and commercial use. I wanted to keep this series accessible to a wide audience, and so that is why I spend so much time talking about Google and Adobe Fonts.
+If you haven’t noticed already, most of the fonts I’ve featured in my [26 Days of Type](/26-days-of-type.html) series are available in the Google Fonts or Adobe Fonts libraries. These are both popular sources for typography, and the terms and conditions in both services generously cover both personal and commercial use. I wanted to keep this series accessible to a wide audience, and so that is why I spend so much time talking about Google and Adobe Fonts.
 
-Personal use usually means you are using a font to try it and evaluate it on your own, or you're working on a student project. Commercial use could mean using a font to create a logo for a client, or designing a T-shirt to be sold on an online marketplace, or developing a website for a fundraising purpose. Oliver at Pimp My Type has written a [great explainer on personal vs. commercial use](https://pimpmytype.com/personal-vs-commercial-use/):
+Personal use usually means you are using a font to try it and evaluate it on your own, or you're working on a student project. Commercial use could mean using a font to create a logo for a client, or designing a T-shirt to be sold on an online marketplace, or developing a website for a fundraising purpose. 
+
+Oliver at Pimp My Type has written a [great explainer on personal vs. commercial use](https://pimpmytype.com/personal-vs-commercial-use/):
 
 > Personal is basically anything that is not intended to make any money in a **direct** or an **indirect** way. If it’s not personal, it’s commercial.
-> 
-> Oliver Schöndorfer
 
 Years ago, I heard the story of an intern who cost their agency thousands of dollars by using a trial or personal use font in a client project that went to production. I understand that is not a life or death scenario; just an example that there are risks to ignoring the different kinds of licenses out there on the web.
 
@@ -46,11 +46,11 @@ If you are a Creative Cloud subscriber, you have access to thousands of fonts th
 
 It's a generous license, but here's the caveat: **If you are creating something for a client** to modify and use on their own (an InDesign template for a menu for example), they must have their own Creative Cloud subscription. Similarly, you can't host the webfonts for a client's website in your own Adobe account: Your client will need their own Creative Cloud subscription.
 
+Here's more detail from the [Adobe FAQ page for font licensing](https://helpx.adobe.com/fonts/using/font-licensing.html#web-client):
+
 > The [Terms of Use](https://www.adobe.com/go/adobe-fonts-terms) do not permit reselling beyond December 31, 2019. After that time, the client's website must load Adobe Fonts from their own Creative Cloud subscription to ensure that there isn't any interruption to the font licensing or web font hosting.  
 > 
 > Please refer to the full [Terms of Use](https://www.adobe.com/go/adobe-fonts-terms) for more information on what reselling the service means, and related definitions.
-> 
-> [Adobe FAQ page for font licensing](https://helpx.adobe.com/fonts/using/font-licensing.html#web-client)
 
 Oliver from Pimp My Type again has a helpful article for freelancers on this topic, last updated in 2021: [With Adobe Fonts it gets harder to use web fonts for client websites](https://pimpmytype.com/adobe-fonts-web-fonts/). Depending on the fonts, the [type foundry](https://fonts.google.com/knowledge/glossary/type_foundry), and the project, it may end up being worthwhile to buy and license the web fonts directly from the type foundry, and self-host. Oliver also links to an article by Donny Trương about [moving off from Adobe Fonts for his book projects](https://visualgui.com/2019/02/19/moving-off-adobe-fonts/).
 
@@ -87,13 +87,9 @@ One thing I've noticed about most smaller foundries is that they are pretty open
 I'm highlighting [MyFonts.com](https://www.myfonts.com/) only because they are one of the bigger players in retail fonts and owned by [Monotype Imaging](https://en.wikipedia.org/wiki/Monotype_Imaging), the juggernaut of type companies. With most fonts on MyFonts, there is a separate EULA for each of the following:
 
 - App
-
 - Electronic Doc (including PDFs)
-
 - Digital Ad/Email
-
 - Webfonts ("MyFonts offers three types of webfont licenses: Annual, Pay Once, and Pay As You Go. Only one of these three would be available for a given webfont.")
-
 - Desktop (one user per license)
 
 Monotype also sells a number of [subscription-based type products](https://www.monotypefonts.com/a/content/plans) for creative agencies, freelancers, and large brands.

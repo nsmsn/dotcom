@@ -44,13 +44,9 @@ If you are interested in trying out some different monospaced fonts for code, th
 ## Some fine programming fonts on GitHub
 
 - [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono/) by Philipp Nurullin and Konstantin Bulenkov.
-
 - [Martian Mono](https://github.com/evilmartians/mono) by Evil Martians.
-
 - [Monaspace](https://github.com/githubnext/monaspace), a family of variable fonts designed by Lettermatic.
-
 - [RedHat Mono](https://github.com/RedHatOfficial/RedHatFont) by Jeremy Mickel
-
 - [Twilio Sans Mono](https://github.com/twilio/twilio-sans-mono) by Sharp Type
 
 ## Other uses for a mono
@@ -75,19 +71,11 @@ The [Good Enough website](https://goodenough.us/) is quite minimal, and uses the
 ## Several more favorites
 
 - [Akkurat Mono](https://lineto.com/typefaces/akkurat-mono) by Lineto
-
 - [DM Mono](https://fonts.google.com/specimen/DM+Mono) by Colophon Foundry
-
 - [Drafting Mono](https://indestructibletype.com/Drafting/) by Indestructible Type\*
-
 - [Overpass Mono](https://fonts.google.com/specimen/Overpass+Mono) by Delve Fonts
-
 - [Pitch](https://klim.co.nz/retail-fonts/pitch/) by Klim Type
-
 - [Relative Mono](https://www.colophon-foundry.org/typefaces/relative-mono/opentype) by Colophon Foundry
-
 - [Söhne Mono](https://klim.co.nz/retail-fonts/soehne-mono/) by Klim Type
-
 - [Sometype Mono](https://monospacedfont.com/) by Dharma Type
-
 - [Victor Mono](https://rubjo.github.io/victor-mono/) by Rune B (I love the cursive looking italics for code comments!)

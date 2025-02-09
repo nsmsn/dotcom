@@ -12,7 +12,7 @@ coverImage: "26Days-O-15-Oldstyle.png"
 
 Not talking about a [beer label](https://www.beeradvocate.com/beer/profile/447/1727/) today, but a type classification for fonts like Garamond.
 
-With [26 Days of Type](https://nicksimson.com/26-days-of-type/) I spent a lot of time talking about grotesques and slab serifs so far, and wanted to make sure I did not overlook the old style serif. Old style serif typefaces are based on designs popular between the 15th and 18th centuries for book printing. Some of these designs include:
+With [26 Days of Type](/26-days-of-type.html) I spent a lot of time talking about grotesques and slab serifs so far, and wanted to make sure I did not overlook the old style serif. Old style serif typefaces are based on designs popular between the 15th and 18th centuries for book printing. Some of these designs include:
 
 - [Bembo](https://en.wikipedia.org/wiki/Bembo), a typeface based on 15th century Italian Renaissance printing.
 

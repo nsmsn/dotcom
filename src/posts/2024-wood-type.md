@@ -20,7 +20,7 @@ coverImage: "26Days-W-Wood-Type.png"
 
 </figure>
 
-In letterpress printing, moveable type made from wood originated in China in the 9th century, along with clay moveable type. In the early nineteenth century, mass production made wood a popular material for type because of its lightness and cost, especially for large letters for broadside printing[1](#ea042760-4e56-4b2c-936f-989b76f6ecae).
+In letterpress printing, moveable type made from wood originated in China in the 9th century, along with clay moveable type. In the early nineteenth century, mass production made wood a popular material for type because of its lightness and cost, especially for large letters for broadside printing<sup><a href="#fn1">1</a></sup>.
 
 <figure>
 
@@ -60,3 +60,11 @@ If you're looking to replicate the wood type look digitally, Adobe Fonts feature
 - [David Wolske](https://davidwolske.xyz/bio)
 - [Julia Humfress](https://www.woodwordsletterpress.com/woodwords-originaletterpressart)
 - [Rachel Dugan](https://racheldugan.com/work/)
+
+&nbsp;
+
+<small>
+<ol>
+<li id="fn1">Source: <a href="https://woodtype.org/pages/what-is-wood-type">What is Wood Type?</a> The Hamilton Wood Type & Printing Museum.</li>
+</ol>
+</small>

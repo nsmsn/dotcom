@@ -10,14 +10,14 @@ coverImage: "26Days-N-NeoGrotesque.png"
 
 ![Day 14: Neo-Grotesque](/img/post-images/26Days-N-NeoGrotesque-1024x576.png)
 
-Welcome to the 14th installment of [26 Days of Type](https://nicksimson.com/26-days-of-type/). And Happy Valentine's Day! I thought it might be appropriate today to open with a sonnet, and who better to write a love poem to this "coldest", most "sterile" of typeface genres, than ChatGPT?
+Welcome to the 14th installment of [26 Days of Type](/26-days-of-type.html). And Happy Valentine's Day! I thought it might be appropriate today to open with a sonnet, and who better to write a love poem to this "coldest", most "sterile" of typeface genres, than ChatGPT?
 
 <figure>
- <blockquote>
-  <p>In fonts austere, their love does thrive,<br/>
-  Neo-Grotesque, where clean lines strive.<br/>
-  In Helvetica's grip, Univers does jive,<br/>
-  Their bond serene, in typographic hive.</p>
+<blockquote>
+<p>In fonts austere, their love does thrive,<br/>
+Neo-Grotesque, where clean lines strive.<br/>
+In Helvetica's grip, Univers does jive,<br/>
+Their bond serene, in typographic hive.</p>
 
 <p>No ornamentation, no extravagant hue,<br/>
 Each character precise, in its rigid milieu.<br/>
@@ -37,7 +37,7 @@ In fonts austere, their love they bear.</p>
 
 🤢
 
-I've featured a number of Grotesque typefaces so far in this series, including [Epilogue](https://nicksimson.com/posts/epilogue/), [Franklin Gothic](https://nicksimson.com/posts/franklin/), [Halyard](https://nicksimson.com/posts/halyard/), and [Karla](https://nicksimson.com/posts/karla/). Today I'm taking a look at a sub-classification of this genre, the Neo-Grotesque.
+I've featured a number of Grotesque typefaces so far in this series, including [Epilogue](/posts/2024-epilogue.html), [Franklin Gothic](/posts/2024-franklin.html), [Halyard](/posts/2024-halyard.html), and [Karla](/posts/2024-karla.html). Today I'm taking a look at a sub-classification of this genre, the Neo-Grotesque.
 
 The most famous example is [Helvetica](https://en.wikipedia.org/wiki/Helvetica), which you might recognize from the [NYC Subway system](https://mitpress.mit.edu/9780262015486/helvetica-and-the-new-york-city-subway-system/), Target, Jeep, Toyota, Knoll, Crate&Barrel, JCPenney, [U.S. Federal tax forms](https://www.irs.gov/pub/irs-pdf/i1040gi.pdf), the [U.S. National Park System](https://www.nps.gov/parkhistory/online_books/brochures/unigrid/index.htm), [Chuck Klosterman's book covers](https://literal.club/author/chuck-klosterman-uzzfo), and a [2007 documentary film](https://www.imdb.com/title/tt0847817/) of the same name.
 

@@ -21,15 +21,10 @@ Most of our modern formal script fonts (think formal cursive invitations) are de
 Casual scripts were popularized in the 20th century, and the letterforms look as though they were executed by a brush, or sometimes a chiseled felt marker. There's a lot of variety in this sub-genre of script. A few notable examples:
 
 - [Beverly Drive Right](https://fonts.adobe.com/fonts/beverly-drive-right) by Amy Hood
-
 - [Cortado](https://fonts.adobe.com/fonts/cortado) by XYZ Type
-
 - [Lakeside](https://fonts.adobe.com/fonts/lakeside) by Mark Simonson
-
 - [Learning Curve](https://fonts.adobe.com/fonts/learning-curve) by Jess Latham
-
 - [Relation](https://fonts.adobe.com/fonts/relation) by Jess Latham
-
 - [Voltage](https://fonts.adobe.com/fonts/voltage) by Laura Worthington
 
 There's a lot more variety than these examples. Once again, I'm only scratching the surface in this post. One of my favorite sub-sub-genres is the baseball script, a kind of display script you usually see on athletic uniforms, usually with a decorative swash underlining the city or team name.

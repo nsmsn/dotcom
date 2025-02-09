@@ -49,9 +49,7 @@ Besley\* is free to download and use on the web or in print under the [SIL Open 
 ## Where to use Besley\*
 
 - Branding for something outdoorsy; this has big U.S. National Park vibes.
-
 - Anywhere you want to appear warm, timeless, understated.
-
 - Large headings and blockquotes evocative of mid 20th century jazz albums and paperback covers.
 
 ## See it in action
@@ -61,7 +59,5 @@ The best example of Besley\* I've seen so far is the [specimen web page](https:/
 ## Other Clarendons
 
 - [Clarendon Text](https://fonts.adobe.com/fonts/clarendon-text) by Canada Type on Adobe Fonts
-
 - [Clarendon URW](https://fonts.adobe.com/fonts/clarendon-urw) on Adobe Fonts
-
 - [Sentinel](https://www.typography.com/fonts/sentinel/overview) by Hoefler & Co.

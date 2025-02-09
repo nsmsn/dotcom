@@ -6,7 +6,7 @@
 
     ${ map(noteSet/items, (note) => `
       <li>
-      <article class="note-single outline">
+      <article class="note-single container-med margin-bottom-large outline">
         ${ note/@text }
         <small class="timestamp"><a href="${ note/path }">${ date.ori(note/date) }</a></small>
       </article>  

@@ -50,6 +50,7 @@ Artists, designers, developers, educators, illustrators, writers, and others.
 <li><a href="https://elanaschlenker.com/">Elana Schlenker</a></li>
 <li><a href="https://laurelschwulst.com/">Laurel Schwulst</a></li>
 <li><a href="https://ishadeed.com/">Ahmad Shadeed</a></li>
+<li><a href="https://dansinker.com/">Dan Sinker</a></li>
 <li><a href="https://www.robinsloan.com/">Robin Sloan</a></li>
 <li><a href="https://cattsmall.com/">Catt Small</a></li>
 <li><a href="https://davesmyth.com/">Dave Smyth</a></li>
