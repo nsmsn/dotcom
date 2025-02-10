@@ -4,6 +4,10 @@ date: "2023-11-26T13:19:08.000Z"
 description: "On Friday we stopped at Aztec Ruins National Monument, near Aztec, NM."
 tags: 
   - "New Mexico"
+  - "Places"
+  
+latitude: "36.83559"
+longitude: "-108.00165"
 ---
 
 On Friday we stopped at [Aztec Ruins National Monument](https://www.nps.gov/azru/index.htm) on our way home from Thanksgiving. This is a 900 year old site that was part of an Ancestral Pueblo migration journey, near what it is today the town of Aztec, NM.

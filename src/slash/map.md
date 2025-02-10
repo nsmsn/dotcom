@@ -6,4 +6,4 @@ title: Map
 
 The map is something I'd like to bring back someday.
 
-In the meantime, there is a Places tag you can browse.
+In the meantime, there is a [Places](/tags/places.html) tag you can browse.

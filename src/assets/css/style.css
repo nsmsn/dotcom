@@ -200,7 +200,7 @@ figure {
 /**
  * Grids
  */
-@media (min-width: 40em) {
+@media (min-width: 60em) {
 	.row {
 		display: grid;
 		grid-template-columns: repeat(12, 1fr);
@@ -1093,6 +1093,8 @@ img {
 
 .site-footer p {
 	max-width: 120ch;
+	margin-bottom: 16px;
+
 }
 
 

@@ -3,7 +3,11 @@ title: "Two nights in DC"
 date: "2023-12-15T16:36:18.000Z"
 description: "Had a quick trip to Washington, DC this week..."
 tags: 
+  - "Places"
   - "Washington DC"
+
+latitude: "38.89131"
+longitude: "-77.0199"
 ---
 
 <figure>

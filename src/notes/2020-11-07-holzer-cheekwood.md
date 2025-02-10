@@ -1,10 +1,13 @@
 ---
-title: "Jenny HolzerAmerican, b. 1950 Survival Series: In a ..."
+title: "Jenny Holzer American, b. 1950 Survival Series: In a ..."
 date: "2020-11-07T21:30:10.000Z"
-categories: 
-  - "Places"
 tags: 
   - "Art"
+  - "Nashville"
+  - "Places"
+
+latitude: "36.0885675"
+longitude: "-86.8778344"
 ---
 
 Jenny Holzer  

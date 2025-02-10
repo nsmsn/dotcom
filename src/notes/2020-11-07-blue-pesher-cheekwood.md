@@ -1,10 +1,13 @@
 ---
-title: "James TurrellAmerican, b. 1943 Blue Pesher, 1997-99 Cheekwood ..."
+title: "James Turrell American, b. 1943 Blue Pesher, 1997-99 Cheekwood ..."
 date: "2020-11-08T04:39:10.000Z"
-categories: 
-  - "Places"
 tags: 
   - "Art"
+  - "Nashville"
+  - "Places"
+
+latitude: "36.0883581"
+longitude: "-86.8800488"
 ---
 
 James Turrell  

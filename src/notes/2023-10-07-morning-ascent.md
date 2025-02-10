@@ -1,11 +1,13 @@
 ---
 title: "Morning ascent in Albuquerque, NM. We got up ..."
 date: "2023-10-07T13:57:55.000Z"
-categories: 
-  - "Places"
 tags: 
   - "Albuquerque"
   - "New Mexico"
+  - "Places"
+
+latitude: "35.17866"
+longitude: "-106.56434"
 ---
 
 ![Dozens of hot air balloons in the sky over Albuquerque New Mexico](/img/note-images/IMG_3211-1024x768.jpeg)

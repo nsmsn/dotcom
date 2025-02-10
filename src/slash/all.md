@@ -6,6 +6,7 @@ title: All the Things
 
 (Nearly) everything on this website.
 
+- [/26-days-of-type](/26-days-of-type.html)
 - [/404](/404.html)
 - [/about](/about.html)
 - [/accessibility](/accessibility.html)

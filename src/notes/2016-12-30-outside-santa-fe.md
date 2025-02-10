@@ -1,10 +1,12 @@
 ---
 title: "Wide sky yesterday (Outside Santa Fe, NM)"
 date: "2016-12-31T04:18:10.000Z"
-categories: 
-  - "Places"
 tags: 
   - "New Mexico"
+  - "Places"
+
+latitude: "35.6294625"
+longitude: "-106.0058211"
 ---
 
 Wide sky yesterday (Outside Santa Fe, NM)

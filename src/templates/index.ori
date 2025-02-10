@@ -23,11 +23,11 @@
 
     <div class="row row-gap-xlarge">
     <div class="grid-half">
-    <p class="text-large">Welcome to my little corner of the world wide web.</p>
+    <p class="text-large">Welcome to my little corner of the world wide&nbsp;web.</p>
 
-    <p>I write shorter <a href="/notes/">notes</a> and longer <a href="/posts/">posts</a> on a variety of <a href="/tags/">topics</a>.
-    
-    <p>You can read more <a href="/about.html">about me</a>, dig through my <a href="/vinyl.html">record collection</a>, or see what I'm up to <a href="/now.html">now</a>.
+    <p>My name is <b>Nick Simson</b>. I design digital interfaces, graphic identities, plus artifacts supporting both these practices. You can read more about <a href="/work/index.html">my current work</a>. I also use this space to write shorter <a href="/notes/">notes</a> and longer <a href="/posts/">posts</a>, on a variety of&nbsp;<a href="/tags/">topics</a>.
+
+    <p>You can read more <a href="/about.html">about me</a>, dig through my <a href="/vinyl.html">record collection</a>, or see what I'm up to&nbsp;<a href="/now.html">now</a>.
 
     &nbsp;
 

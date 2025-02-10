@@ -1,11 +1,13 @@
 ---
 title: "More balloons."
 date: "2022-12-28T03:43:10.000Z"
-categories: 
-  - "Places"
 tags: 
   - "Albuquerque"
   - "New Mexico"
+  - "Places"
+
+latitude: "35.1874412"
+longitude: "-106.6914836"
 ---
 
 More balloons.

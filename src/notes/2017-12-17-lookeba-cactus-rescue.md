@@ -1,10 +1,12 @@
 ---
 title: "Lookeba, Oklahoma Cactus Rescue"
 date: "2017-12-17T17:46:10.000Z"
-categories: 
-  - "Places"
 tags: 
   - "Oklahoma"
+  - "Places"
+
+latitude: "35.36279"
+longitude: "-98.36694"
 ---
 
 Lookeba, Oklahoma Cactus Rescue
