@@ -1,4 +1,9 @@
 # Redirects from what the browser requests to what we serve
-/home                /
-/cat/words           /posts/
-/cat/places          /tags/places.html
+/home                   /
+/feed                   /feed.xml
+/posts/feed             /posts/feed.xml
+/notes/feed             /notes/feed.xml
+/likes                  /tags/likes.html
+/cat/words              /posts/
+/cat/places             /tags/places.html
+/son                    /about.html

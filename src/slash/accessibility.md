@@ -17,9 +17,9 @@ I want as many people as possible to be able to use my website. For example, tha
 
 ## Standards and Testing
 
-The [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) defines requirements for designers and developers to make web content more accessible to people with disabilities (and user friendly for everyone). My site stives to conform to **WCAG 2.2 level AA**.
+The [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) defines requirements for designers and developers to make web content more accessible to people with disabilities. My site stives to conform to **WCAG 2.2 level&nbsp;AA**.
 
-I use [standards-compliant HTML, CSS, and JavaScript](https://www.w3.org/standards/) throughout this website. Anyone using a web browser that honors these standards should be capable of navigating this site.
+I use [standards-compliant HTML, CSS, and JavaScript](https://www.w3.org/standards/) throughout this website. Anyone using a web browser that honors these standards should be capable of navigating this&nbsp;site.
 
 In addition to being tested on the latest versions of Chrome, Edge, Firefox, and Safari, this site has been manually checked for ease of use with a keyboard and the VoiceOver screen reader. I also periodically audit the site using [WAVE](https://wave.webaim.org/), a browser-based testing service.
 
@@ -39,7 +39,7 @@ I strive to use inclusive, plain language throughout this site and use a readabi
 
 ## Known Issues
 
-Any known issues will be listed or described here, as they are reported or as I discover them.
+Any known issues will be listed or described here, as they are reported or as I discover&nbsp;them.
 
 I can’t guarantee that all content linked to or embedded on this site is fully accessible, though I will do my best to link to accessible and inclusive sites whenever possible.
 
@@ -47,7 +47,7 @@ I can’t guarantee that all content linked to or embedded on this site is fully
 
 ## Share Feedback
 
-I am personally committed to educating myself on digital accessibility, sharing what I learn, and putting it into practice. That said, if you encounter any difficulty using my site, please let me know! You may <a href="mailto:nick@nicksimson.com">email me directly</a>. I take these issues very seriously and welcome your feedback and suggestions.
+I am personally committed to educating myself on digital accessibility, sharing what I learn, and putting it into practice. That said, if you encounter any difficulty using my site, please let me know! You may [file an issue on GitHub](https://github.com/nsmsn/dotcom/issues) or <a href="mailto:nick@nicksimson.com">email me directly</a>. I take these issues very seriously and welcome your feedback and suggestions.
 
 <small>This page is heavily influenced by (and borrows liberally from) statements by <a href="https://ericwbailey.website/accessibility-statement/">Eric Bailey</a>, <a href="https://cariefisher.com/accessibility/">Carie Fisher</a>, <a href="https://ethanmarcotte.com/accessibility/">Ethan Marcotte</a>, and <a href="https://marcysutton.com/accessibility/">Marcy Sutton</a>. You should check out their work and writing.</small>
 

@@ -33,13 +33,16 @@ The [search functionality](/search.html) is powered by [Pagefind](https://pagefi
 
 The primary typeface is [Hanken Grotesk](https://hanken.co/products/hanken-grotesk), with <code>code samples</code> set in TK, and supporting text set in [Server Mono](https://blazetype.eu/case-studies/server-mono).
 
+**This website does not track you.** While some pages may contain third-party code for additional functionality, to my best knowledge and efforts there are **no cookies** anywhere on this website.
+
 &nbsp;
 
 ## Previous versions
-
-- 2023 – 2025: WordPress powered and hosted on Flywheel
-- 2021 – 2023: Blog mostly, built with Eleventy and hosted on Netlify
-- 2014 – 2020: Blog and portfolio built with Jekyll and hosted on GitHub Pages
-- 2012 – 2014: Experimental responsive landing page, hosted on Dropbox
-- 2008 – 2011: Graphic design portfolio, powered by Squarespace
+<ol reversed class="list-unstyled text-small">
+<li>2023 – 2025: WordPress powered and hosted on Flywheel</li>
+<li>2021 – 2023: Blog mostly, built with Eleventy and hosted on Netlify</li>
+<li>2014 – 2020: Blog and portfolio built with Jekyll and hosted on GitHub Pages</li>
+<li>2012 – 2014: Experimental responsive landing page, hosted on Dropbox</li>
+<li>2008 – 2011: Graphic design portfolio, powered by Squarespace</li>
+</ol>
 
