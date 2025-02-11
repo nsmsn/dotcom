@@ -200,7 +200,7 @@ figure {
 /**
  * Grids
  */
-@media (min-width: 60em) {
+@media (min-width: 64em) {
 	.row {
 		display: grid;
 		grid-template-columns: repeat(12, 1fr);
@@ -317,8 +317,12 @@ p {
 	margin: 0 0 var(--spacing);
 }
 
-p, li, blockquote, small {
-	max-width: 70ch;
+p, small {
+	max-width: 72ch;
+}
+
+li, blockquote {
+	max-width: 64ch;
 }
 
 /**
@@ -346,7 +350,7 @@ ul ul,
 ul ol,
 ol ol,
 ol ul {
-	margin-bottom: 0;
+	margin-bottom: var(--spacing);
 }
 
 dl,
@@ -1118,12 +1122,20 @@ img {
     margin-bottom: var(--spacing);
   }
 
+  @media (min-width: 36em) {
+	.tagged-list-index > li {
+		display: inline-block;
+		margin-right: 16px;
+	}
+  }
+
   .tagged-item {
+	display: inline-block;
     background: rgba(0, 0, 0, 0.125);
     border-radius: 8px;
     font-family: var(--font-server);
     font-size: 0.8em;
-    padding: .375em .5em;
+    padding: .2em .5em 0px .5em;
     text-decoration: none;
   }
 
@@ -1233,3 +1245,57 @@ a.site-logo:hover {
   font-family: var(--font-server);
   font-weight: 400;
 }
+
+.img-multiply {
+    mix-blend-mode: multiply;
+}
+
+/* Animated color cycle */
+
+.bg-color-cycle {
+    -webkit-animation: gradient 60s infinite alternate linear;
+    animation: gradient 60s infinite alternate linear;
+    background: hsl(1.7,100%,86.3%);
+	}
+  	
+	@-webkit-keyframes gradient {
+    25% {
+    	background: hsl(282.7,91.7%,85.9%);
+    	}
+    50% {
+    	background: hsl(180,69%,74.7%);
+    	}
+    75% {
+      	background: hsl(48.2,98.6%,72.7%);
+    	}
+  	}
+  
+	@keyframes gradient {
+    25% {
+        background: hsl(282.7,91.7%,85.9%);
+      	}
+    50% {
+        background: hsl(180,69%,74.7%);
+    	}
+    75% {
+        background: hsl(48.2,98.6%,72.7%);
+      	}
+  	}
+
+/* Third Party */
+
+.literal-book-item a {
+	text-decoration: none;
+	}
+	
+#literal-widget .literal-book-item__title{
+	color: var(--color-black)!important;
+	}
+	
+#literal-widget .literal-book-item__authors {
+	color: var(--color-gray-darker)!important;
+	}
+	
+#literal-widget .literal-book-item__image_cover__outer img {
+	border: 1px solid rgba(0,0,0,0.125)!important;
+	}

@@ -21,22 +21,55 @@
       }
     </script>
 
-    <div class="row row-gap-xlarge">
-    <div class="grid-half">
     <p class="text-large">Welcome to my little corner of the world wide&nbsp;web.</p>
 
-    <p>My name is <b>Nick Simson</b>. I design digital interfaces, graphic identities, plus artifacts supporting both these practices. You can read more about <a href="/work/index.html">my current work</a>. I also use this space to write shorter <a href="/notes/">notes</a> and longer <a href="/posts/">posts</a>, on a variety of&nbsp;<a href="/tags/">topics</a>.
+    <div class="row row-gap-xlarge">
+    <div class="grid-half">
+    <p>My name is <b>Nick Simson</b>. I design digital interfaces, graphic identities, plus artifacts supporting both these practices. You can read more about <a href="/work/index.html">my current work</a>. I also use this space to write shorter <a href="/notes/">notes</a> and longer <a href="/posts/">posts</a>, on a variety of topics...explore the&nbsp;<a href="/tags/">tags</a>!
 
-    <p>You can read more <a href="/about.html">about me</a>, dig through my <a href="/vinyl.html">record collection</a>, or see what I'm up to&nbsp;<a href="/now.html">now</a>.
+    <p>You can read more <a href="/about.html">about me</a>, or see what I'm up to&nbsp;<a href="/now.html">now</a>.
 
     &nbsp;
+
+    <div class="bg-color-cycle img-circle" style="width: 128px; height: 128px">
+    <img src="/img/meta/victory-grain.png" alt="a hand with two extended fingers flashing the V for Victory or peace sign" width="128" height="128" class="img-circle img-multiply"/>
+    </div>
+
+    &nbsp;
+
+    <div class="row">
+
+      <div class="grid-half">
+      <h2 class="text-small text-uppercase text-secondary">Lists</h2>
+      <ul class="list-unstyled">
+      <li><a href="/links.html">Links</a></li>
+      <li><a href="/loves.html">Loves</a></li>
+      <li><a href="/uses.html">Uses</a></li>
+      <li><a href="/radio.html">Radio</a></li>
+      <li><a href="/library.html">Library</a></li>
+      <li><a href="/vinyl.html">Vinyl collection</a></li>
+      </ul>
+      </div>
+
+      <div class="grid-half">
+      <h2 class="text-small text-uppercase text-secondary">Meta</h2>
+      <ul class="list-unstyled">
+      <li><a href="/accessibility.html">Accessibility statement</a></li>
+      <li><a href="/feeds.html">Feeds</a></li>
+      <li><a href="/search.html">Search</a></li>
+      <li><a href="/tags/index.html">Tags</a></li>
+      <li><a href="/this-site.html">How this site works</a></li>
+      </ul>
+      </div>
+
+    </div>
 
     &nbsp;
 
     </div>
     
     <div class="grid-half">
-    <h2 class="text-small text-uppercase text-secondary">Latest post</h2>
+    <h2 class="text-small text-uppercase text-secondary no-padding-top">Latest post</h2>
 
     <a href="${ firstPost/path }" class="text-large text-bold">${ firstPost/title }</a><br/>
     <p>${ firstPost/description }</p>

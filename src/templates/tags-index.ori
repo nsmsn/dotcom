@@ -3,7 +3,7 @@
   @text: `
     <h1>Tags</h1>
 
-    <ul class="list-unstyled list-inline">
+    <ul class="list-unstyled tagged-list-index">
 
     ${ map(tags, (posts,tagname) => `
       <li class="margin-bottom-small">

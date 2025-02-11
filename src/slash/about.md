@@ -38,8 +38,8 @@ I’m also on [Bluesky](https://bsky.app/profile/nicksimson.com), [Mastodon](htt
 
 ## This website
 
-This is the sixth major version of nicksimson.com, a URL I registered in 2008. This is a static site, built with [Web Origami](https://weborigami.org/) and hosted with [Netlify](https://netlify.com).
+This is the sixth major version of <code>nicksimson.com</code>, a URL I registered in 2008.
 
-The primary typeface is Hanken Grotesk, with <code>code samples</code> set in TK, and supporting text set in Server Mono.
+My page titled "[How this site works](/this-site.html)" details my approach, technology, and tools I use to work on and maintain this site.
 
-Accessibility is very important to me, and I am working to make this site as performant and accessible as I know how.
+[Accessibility](/accessibility.html) is very important to me, and I am working to make this site as performant and accessible as I know how.

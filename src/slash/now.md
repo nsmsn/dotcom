@@ -48,9 +48,9 @@ I am currently:
     .catch(error => console.error('Error fetching weather data:', error));
 </script>
 <div id="weather"></div>
-<small><a href="https://openweathermap.org/city/5454711">Forecast by OpenWeather</a></small>
+<small>(<a href="https://openweathermap.org/city/5454711">Forecast by OpenWeather</a>)</small>
 
-Been living in the [Duke City](https://en.wikipedia.org/wiki/Albuquerque%2C_New_Mexico) since 2023. 
+<p class="padding-top">Been living in the <a href="https://en.wikipedia.org/wiki/Albuquerque%2C_New_Mexico)">Duke City</a> since 2023.</p> 
 
 
 &nbsp;

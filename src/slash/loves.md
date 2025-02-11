@@ -23,7 +23,7 @@ Comics were a huge part of developing visual literacy for me. My most beloved co
 
 🏈 Bills, 🏀 Knicks, ⚾ Mets, 🏒 Sabres. These are the teams I picked as a kid. If anyone knows of a ⚽ team that can break my heart in equal measure, contact me.
 
-I also follow the New York Liberty in WNBA, and Syracuse University for NCAA. My Nippon Professional Baseball team is Hiroshima Toyo Carp. And because I’m local and grew up on The Simpsons, I cheer on the Albuquerque Isotopes.
+I also follow the New York Liberty in WNBA, and Syracuse University for NCAA. My Nippon Professional Baseball team is Hiroshima Toyo Carp. And because I’m local and grew up on _The Simpsons_, I cheer on the Albuquerque Isotopes.
 
 &nbsp;
 
