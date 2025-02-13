@@ -1,8 +1,9 @@
 (firstPost, notes) => page.ori({
   title: "Hello, I'm Nick Simson"
+  description: "I'm a graphic and interaction designer in New Mexico. This is my personal website."
   @text: `
     <h1 id="greeting" class="home-heading">Hello.</h1>
-    <script language="JavaScript">
+    <script>
       var myDate = new Date();
       var greeting;
       if (myDate.getHours() >= 5 && myDate.getHours() < 12) {

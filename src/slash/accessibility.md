@@ -1,5 +1,6 @@
 ---
 title: Accessibility Statement
+description: The web is meant for everyone, and I am committed to designing useful, usable, and inclusive experiences.
 ---
 
 # Accessibility Statement
@@ -41,7 +42,8 @@ I strive to use inclusive, plain language throughout this site and use a readabi
 
 Any known issues will be listed or described here, as they are reported or as I discover&nbsp;them.
 
-I can’t guarantee that all content linked to or embedded on this site is fully accessible, though I will do my best to link to accessible and inclusive sites whenever possible.
+- The [Search](/search.html) page uses Pagefind UI and API, which is missing a <code>label</code> on the form.
+- I can’t guarantee that all content linked to or embedded on this site is fully accessible, though I will do my best to link to accessible and inclusive sites whenever possible.
 
 &nbsp;
 

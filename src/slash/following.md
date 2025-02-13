@@ -1,5 +1,6 @@
 ---
 title: Following
+description: A directory of interesting people and collectives to follow.
 ---
 
 # Following

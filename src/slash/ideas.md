@@ -1,5 +1,6 @@
 ---
 title: Ideas
+description: A small collection of things I am ruminating about.
 ---
 
 # Ideas

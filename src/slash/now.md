@@ -1,5 +1,6 @@
 ---
 title: Now
+description: Current status, activity, weather, books, and music.
 ---
 
 # Now

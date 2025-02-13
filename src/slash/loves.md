@@ -1,5 +1,6 @@
 ---
 title: Loves
+description: Lists of things I love.
 ---
 
 # Loves

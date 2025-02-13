@@ -1,5 +1,6 @@
 ---
 title: Support this site
+description: If you like what I'm doing, here's some ways to send me money.
 ---
 
 # Support this site

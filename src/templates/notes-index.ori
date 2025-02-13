@@ -1,5 +1,6 @@
 (noteSet) => page.ori({
   title: "Notes"
+  description: "Shorter entries without a title, written by yours truly."
   @text: `
     <h1>${ title }</h1>
     <ol reversed class="list-unstyled posts-list">

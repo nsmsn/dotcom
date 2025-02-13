@@ -14,4 +14,4 @@ _Bookmarked [Bookmarklets for testing your website](https://adactio.com/journal/
 
 What a handy collection. Added all these to my Firefox toolbar.
 
-![Firefox browser bookmark toolbar folder: Website Testing: Validate HTML, Calculate Carbon, WAVE, PageSpeed, SSL Report, Security Headers](images/bookmarklets.png)
+![Firefox browser bookmark toolbar folder: Website Testing: Validate HTML, Calculate Carbon, WAVE, PageSpeed, SSL Report, Security Headers](/img/note-images/bookmarklets.png)

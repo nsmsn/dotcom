@@ -1,5 +1,6 @@
 ---
 title: Feeds
+description: How you can subscribe to updates from this website.
 ---
 
 # Feeds

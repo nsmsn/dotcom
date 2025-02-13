@@ -1,5 +1,6 @@
 (post) => page.ori({
   title: post/title
+  description: post/description
   @text: `
     <div class="container-med">
     <h1>${ post/title }</h1>

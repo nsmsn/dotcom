@@ -1,5 +1,6 @@
 ---
 title: About
+description: A little bit about Nick Simson. Designer, blogger, internet nobody.
 ---
 
 # About

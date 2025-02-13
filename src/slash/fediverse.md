@@ -1,5 +1,6 @@
 ---
 title: Fediverse
+description: This website used to have a fediverse profile, but no longer.
 ---
 
 # Fediverse

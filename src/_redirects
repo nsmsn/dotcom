@@ -1,4 +1,5 @@
 # Netlify-specific: Redirects from what the browser requests to what we serve
+
 /home                                                   /
 /feed                                                   /feed.xml
 /feed/feed.xml                                          /feed.xml
@@ -13,7 +14,8 @@
 /daughter                                               /2022-03-04-im-a-dad.html
 /archive                                                /posts/
 /info                                                   /about.html
-/recommends                                             /uses.html  
+/recommends                                             /uses.html
+/friends                                                /following.html  
 
 /posts/deploy/                                          /posts/2014-deploy.html
 /posts/books-finished-in-2022                           /posts/2022-in-books.html
@@ -90,3 +92,17 @@
 /posts/blogtober/	                                    /posts/2023-blogtober.html
 
 /wordpress-fall-2021/                                   /notes/2021-09-11-my-first-theme-json.html
+/likes/1e88a68f6a/                                      /notes/2023-10-07-highedweb-pantheon.html
+/notes/3eb95fd8b5/                                      /notes/2024-03-11-bookmarklets.html
+
+/b/V4                                                   /notes/2023-10-07-highedweb-pantheon.html
+/b/1Mb                                                  /posts/2024-upright-italics.html
+/b/1Me                                                  /posts/2024-vocal-type.html
+/b/1NZ                                                  /posts/2024-wood-type.html
+/b/71G                                                  /notes/2024-07-02-posse-2024.html
+/b/71R                                                  /notes/2024-07-08-railroad-type.html
+/b/72E                                                  /posts/2024-tool-u-want.html
+/b/733                                                  /posts/2024-fifteen-books.html
+/b/74C                                                  /posts/2024-baseball-comfort-watch.html
+/b/783                                                  /posts/2024-rubber-stamped.html
+/b/78k                                                  /posts/2024-the-future-of-this-website.html

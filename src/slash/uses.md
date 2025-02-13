@@ -1,5 +1,6 @@
 ---
 title: Uses
+description: Things that make my life easier or more enjoyable.
 ---
 
 # Uses

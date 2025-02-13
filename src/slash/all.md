@@ -1,5 +1,6 @@
 ---
 title: All the Things
+description: (Almost) every page or directory on this website, in alphabetical order.
 ---
 
 # All the Things

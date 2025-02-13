@@ -1,5 +1,6 @@
 ---
 title: CV (or résumé)
+description: My work experience.
 ---
 
 # Nick Simson

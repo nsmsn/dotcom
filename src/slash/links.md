@@ -1,5 +1,6 @@
 ---
 title: Links
+description: Here are links to my other projects and profiles around the World Wide Web.
 ---
 
 # Links

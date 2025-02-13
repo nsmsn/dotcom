@@ -1,5 +1,6 @@
 ---
 title: How this site works
+description: Everything I can think of that you might want to know about this website under the hood.
 ---
 
 # How this site works

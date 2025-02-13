@@ -1,5 +1,6 @@
 ---
 title: HTML (all the elements)
+description: All the HTML elements on one page.
 ---
 
 <h1 id="headings">Headings</h1>

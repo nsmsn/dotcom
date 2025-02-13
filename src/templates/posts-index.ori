@@ -1,5 +1,6 @@
 (posts) => page.ori({
   title: "Posts"
+  description: "Longer journal entries, written by yours truly."
   @text: `
     <link rel="alternate" type="application/rss+xml" title="${ siteInfo.yaml/description }" href="feed-posts.xml">
     <link rel="alternate" type="application/json" title="${ siteInfo.yaml/description }" href="feed-posts.json">

@@ -1,5 +1,6 @@
 ---
 title: Work
+description: What I do.
 ---
 
 # Work
