@@ -25,7 +25,7 @@
 
     <div class="row row-gap-xlarge">
     <div class="grid-half">
-    <p>My name is <b>Nick Simson</b>. I design digital interfaces, graphic identities, plus artifacts supporting both these practices. You can read more about <a href="/work/index.html">my current work</a>. I also use this space to write shorter <a href="/notes/">notes</a> and longer <a href="/posts/">posts</a>, on a variety of topics...explore the&nbsp;<a href="/tags/">tags</a>!
+    <p>My name is <b>Nick Simson</b>. I design digital interfaces, graphic identities, plus the artifacts supporting these practices. You can read more about <a href="/work/index.html">my current work</a>. I also use this space to write shorter <a href="/notes/">notes</a> and longer <a href="/posts/">posts</a>, on a variety of topics...explore the&nbsp;<a href="/tags/">tags</a>!
 
     <p>You can read more <a href="/about.html">about me</a>, or see what I'm up to&nbsp;<a href="/now.html">now</a>.
 
@@ -42,11 +42,12 @@
       <div class="grid-half">
       <h2 class="text-small text-uppercase text-secondary">Lists</h2>
       <ul class="list-unstyled">
+      <li><a href="/following.html">Following</a></li>
+      <li><a href="/library.html">Library</a></li>
       <li><a href="/links.html">Links</a></li>
       <li><a href="/loves.html">Loves</a></li>
-      <li><a href="/uses.html">Uses</a></li>
       <li><a href="/radio.html">Radio</a></li>
-      <li><a href="/library.html">Library</a></li>
+      <li><a href="/uses.html">Uses</a></li>
       <li><a href="/vinyl.html">Vinyl collection</a></li>
       </ul>
       </div>
@@ -56,9 +57,9 @@
       <ul class="list-unstyled">
       <li><a href="/accessibility.html">Accessibility statement</a></li>
       <li><a href="/feeds.html">Feeds</a></li>
+      <li><a href="/this-site.html">How this site works</a></li>
       <li><a href="/search.html">Search</a></li>
       <li><a href="/tags/index.html">Tags</a></li>
-      <li><a href="/this-site.html">How this site works</a></li>
       </ul>
       </div>
 

@@ -1284,6 +1284,10 @@ a.site-logo:hover {
 
 /* Third Party */
 
+.statuslol_emoji_container {
+	font-size: 2em;
+}
+
 .literal-book-item a {
 	text-decoration: none;
 	}

@@ -6,7 +6,7 @@ tags:
   - "Type"
 ---
 
-The [tools](https://nicksimson.com/posts/plugin-inventory-2023/) I use on my website make it a little too easy to constantly switch up the design, including typefaces.
+The [tools](/posts/2023-wp-plugin-inventory.html) I use on my website make it a little too easy to constantly switch up the design, including typefaces.
 
 Right now I'm kind of digging this combo: Headings in [Besley](https://indestructibletype.com/Besley.html), and [Atkinson Hyperlegible](https://brailleinstitute.org/freefont) for everything else.
 

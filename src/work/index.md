@@ -12,4 +12,4 @@ Previously, I was a web designer at a flagship state university. During my time 
 
 Before that, I trained as a graphic designer. I used to do a lot more traditional print work (packaging, posters, publications, etc.) and I have the x-acto scars to prove it.
 
-I have a [CV](/work/cv.html) and a [LinkedIn](https://www.linkedin.com/in/nsmsn/) profile.
+Check out [my LinkedIn profile](https://www.linkedin.com/in/nsmsn/) for more professional details.

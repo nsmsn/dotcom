@@ -12,4 +12,4 @@ _Likes [Moderate people, not code](https://snarfed.org/2024-01-21_moderate-peopl
 
 > When you choose who to federate with or block or mute, don’t look at protocols, or networks, or software. Look at users, and communities, and their behavior. At the end of the day, those are probably what you really care about anyway.
 
-Plenty to think about (and plenty of links to click through) in Ryan's recent post. Mulling over his thoughts on _norms_ and desire for _threat modeling_ as I continue to form my own thoughts on [blogs, replies, and federation](https://nicksimson.com/posts/blogs-replies-and-federation/).
+Plenty to think about (and plenty of links to click through) in Ryan's recent post. Mulling over his thoughts on _norms_ and desire for _threat modeling_ as I continue to form my own thoughts on [blogs, replies, and federation](/posts/2024-blogs-replies-and-federation.html).

@@ -5,7 +5,7 @@ tags:
   - "Accessibility"
 ---
 
-I spent a little time this weekend adding an [accessibility statement](https://nicksimson.com/accessibility/) to my personal website. This is important to me for a few reasons.
+I spent a little time this weekend adding an [accessibility statement](/accessibility.html) to my personal website. This is important to me for a few reasons.
 
 - I tried to make all the features and content on my site as accessible as I know how to do. I want my users to know I care about them.
     

@@ -6,7 +6,7 @@ title: Following
 
 Here’s my attempt to create a directory of interesting people and collectives I follow via RSS, newsletters, social media, etc.
 
-If you want your name and link removed for any reason, just email me and I’ll take it down as soon as possible. Sorry for being weird.
+If you want your name and link removed for any reason, just email me and I’ll take it down as soon as possible. <small>Sorry for being weird.</small>
 
 ## People
 
@@ -45,6 +45,7 @@ Artists, designers, developers, educators, illustrators, writers, and others.
 <li><a href="https://crystalprestonwatson.com/">Crystal Preston-Watson</a></li>
 <li><a href="https://ryanputn.am/">Ryan Putnam</a></li>
 <li><a href="https://melanie-richards.com/">Melanie Richards</a></li>
+<li><a href="https://www.susanjeanrobertson.com/">Susan Jean Robertson</a></li>
 <li><a href="https://dryan.com/">Daniel Ryan</a></li>
 <li><a href="https://justmarkup.com/">Michael Scharnagl</a></li>
 <li><a href="https://elanaschlenker.com/">Elana Schlenker</a></li>

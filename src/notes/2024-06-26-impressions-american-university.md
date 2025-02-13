@@ -4,6 +4,7 @@ date: "2024-06-26T15:02:34.000Z"
 tags: 
   - "Education"
   - "Likes"
+  - "Scholars"
 ---
 
 _Likes [American impressions: Elon University](https://cennydd.com/writing/american-impressions-elon-university) by Cennydd Bowles._
