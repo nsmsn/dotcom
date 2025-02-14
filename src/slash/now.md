@@ -15,7 +15,7 @@ I am currently:
 
 - working as a UI designer with an awesome digital experience team.
 - raising a preschooler with [Eleanor](https://eleanoraldrich.com).
-- challenging myself to write and publish often.
+- challenging myself to write and publish more.
 
 &nbsp;
 
@@ -75,7 +75,7 @@ I use [Literal](https://literal.club/nsmsn/is-reading) and [The StoryGraph](http
 
 <small>
 This page uses a few third-party widgets and APIs to display my current status, weather, books, and music.<br />
-<em>Last manually updated January 24, 2025.</em>
+<em>Last manually updated Feb 14, 2025.</em>
 </small>
 
 &nbsp;

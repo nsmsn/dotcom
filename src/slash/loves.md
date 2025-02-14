@@ -41,7 +41,7 @@ Plus plenty of others I don’t have room to mention.
 ## Misc.
 
 - If you’re looking for books, check out [my library](/library.html).
-- I love Scrabble, and it is one of the only hashtags I follow on Mastodon. I also play Wordvoyance, an ad-free, screen reader accessible version on my phone.
+- I love Scrabble, and it is one of the only hashtags I follow on Mastodon. I also play [Wordvoyance](http://www.themisgames.com/wordvoyance/), an ad-free, screen reader accessible version on my phone.
 - Cake vs. Pie: Cobbler.
 - Hot sauce: Huy Fong Siriracha will always have a special place in my heart.
 - New Mexican food: too many great things to list. This is a great place to live, visit, and eat.
