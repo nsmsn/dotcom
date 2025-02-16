@@ -8,7 +8,7 @@
     
     ${ post/@text }
 
-    <ul class="list-unstyled list-inline margin-top">
+    <ul class="list-unstyled list-inline margin-top-xlarge">
 
     ${ map(post/tags, (tagname) => `
       <li class="">

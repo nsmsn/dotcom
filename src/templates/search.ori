@@ -10,8 +10,8 @@
 
     <div class="container-med">
     <h1>Search</h1>
-    <p>The search on this site is powered by <a href="https://pagefind.app">PageFind</a>, which requires JavaScript.</p> 
-    <p>Alternatively, you can try to use the search filter <code>site:nicksimson.com</code> using <a href="https://duckduckgo.com/?t=h_&q=site%3Anicksimson.com&ia=web">DuckDuckGo</a> or something similar.</p>
+    <p>The search on this site is powered by <a href="https://pagefind.app">PageFind</a>, which requires JavaScript. I also implemented a no-JS fallback using <a href="https://duckduckgo.com/?t=h_&q=site%3Anicksimson.com&ia=web">DuckDuckGo search</a> with the search filter <code>site:nicksimson.com</code>.</p> 
+  
     <div id="search"></div>
     <script>
       window.addEventListener('DOMContentLoaded', (event) => {
@@ -23,6 +23,13 @@
         });
       });
     </script>
+    <noscript>
+      <form action="https://duckduckgo.com">
+      <input type="text" name="q" placeholder="Search" />
+      <input type="hidden" name="sites" value="nicksimson.com" />
+      <button type="submit">Search</button>
+      </form>
+    </noscript>
     </div>    
   `
 })

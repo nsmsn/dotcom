@@ -18,6 +18,7 @@
 /friends                                                /following.html  
 
 /posts/deploy/                                          /posts/2014-deploy.html
+/posts/hello-world/                                     /posts/2014-deploy.html
 /posts/books-finished-in-2022                           /posts/2022-in-books.html
 /posts/books-finished-in-2021                           /posts/2021-in-books.html
 /posts/books-finished-in-2020                           /posts/2020-in-books.html
@@ -27,7 +28,7 @@
 /posts/books-finished-in-2016                           /posts/2016-in-books.html
 /posts/mmxx/                                            /posts/2020-mmxx.html
 /posts/javascript-is-not-your-interface/                /posts/2016-adaptive-web-design.html
-/posts/thank-you-knoxville                              /posts/2023-thank-you-knoxville.html
+/posts/thank-you-knoxville/                             /posts/2023-thank-you-knoxville.html
 /posts/simple-sites-and-html-energy/                    /posts/2023-simple-sites-html-energy.html
 /posts/boone/                                           /posts/2021-boone.html
 /posts/ditch-twitter-and-instagram-and-goodreads/       /posts/2022-ditch-twitter.html
@@ -90,6 +91,39 @@
 /posts/that-happened-in-2023/	                        /posts/2023-that-happened.html
 /posts/december-indieweb-carnival/	                    /posts/2023-december-indieweb-carnival.html
 /posts/blogtober/	                                    /posts/2023-blogtober.html
+/posts/a-vexillological-moment/                         /posts/2023-a-vexillological-moment.html
+/posts/adding-an-accessibility-statement/               /posts/2022-writing-a11y-statement.html
+/posts/aztec-ruins/                                     /posts/2023-aztec-ruins.html
+/posts/becoming-an-everyday-developer/                  /posts/2015-becoming-an-everyday-developer.html
+/posts/cedric-johnson-policing-education-inequality/    /posts/2021-cedric-johnson-policing-education-inequality.html
+/posts/collaborating-on-the-new-tumbleweeds-site/       /posts/2015-collaborating-tumbleweeds.html
+/posts/commonplace-books-gardens-and-streams/           /posts/2021-commonplace-books.html
+/posts/covid/covid-vaccine-under-3/                     /posts/2023-covid-vaccine-under-3.html
+/posts/covid/design-justice-principles/                 /posts/2021-design-justice-principles.html   
+/posts/covid/different-realities/                       /posts/2021-different-realities.html
+/posts/ditch-twitter-and-instagram-and-goodreads/       /posts/2022-ditch-twitter.html
+/posts/doubles-and-shadow-lands/                        /posts/2023-doubles-and-shadow-lands.html
+/posts/engine-building-garden/                          /posts/2021-engine-building-garden.html
+/posts/everyday-developers/                             /posts/2015-everyday-developers.html
+/posts/giving-tuesday/                                  /posts/2022-giving-tuesday.html
+/posts/gridlessness-and-modern-css/                     /posts/2021-gridless-modern-css.html
+/posts/hello-wordpress/                                 /posts/2023-hello-wordpress.html
+/posts/learn-html-with-jen-simmons/                     /posts/2020-learn-html-with-jen-simmons.html
+/posts/learn-javascript-with-morten-rand-hendriksen/    /posts/2021-javascript-with-morten.html
+/posts/lullabies/                                       /posts/2022-lullabies.html
+/posts/many-best-practices/                             /posts/2016-many-best-practices.html
+/posts/mapping-blog-posts/                              /posts/2023-mapping-blog-posts.html
+/posts/my-six-favorite-utility-classes/                 /posts/2021-favorite-utility-classes.html
+/posts/never/                                           /posts/2022-never.html
+/posts/plugin-inventory-2023/                           /posts/2023-wp-plugin-inventory.html
+/posts/re-books-im-reading-october/                     /posts/2023-re-books-im-reading-october.html
+/posts/reading-is-hazardous/                            /posts/2015-reading-is-hazardous.html                         
+/posts/the-ordinary-things/                             /posts/2021-the-ordinary-things.html
+/posts/these-webfonts-do-not-track-you/                 /posts/2022-these-webfonts-do-not-track-you.html
+/posts/two-nights-in-dc/                                /posts/2023-two-nights-in-dc.html               
+/posts/what-its-like-to-be-the-target-of-a-covid-conspiracy/    /posts/2021-what-its-like-to-be-the-target-of-a-covid-conspiracy.html
+/posts/working-from-gnome/                              /posts/2022-working-from-gnome.html
+/posts/youre-not-so-terrific-and-thats-ok/              /posts/2021-youre-not-so-terrific-and-thats-ok.html
 
 /wordpress-fall-2021/                                   /notes/2021-09-11-my-first-theme-json.html
 /likes/1e88a68f6a/                                      /notes/2023-10-07-highedweb-pantheon.html
