@@ -1,10 +1,11 @@
 (posts) => page.ori({
   title: "Posts"
   description: "Longer journal entries, written by yours truly."
-  @text: `
-    <link rel="alternate" type="application/rss+xml" title="${ siteInfo.yaml/description }" href="feed-posts.xml">
-    <link rel="alternate" type="application/json" title="${ siteInfo.yaml/description }" href="feed-posts.json">
-    
+  head: `
+    <link rel="alternate" type="application/rss+xml" title="Posts from ${ siteInfo.yaml/title }" href="/posts/feed.xml">
+    <link rel="alternate" type="application/json" title="Posts from ${ siteInfo.yaml/title }" href="/posts/feed.json">
+  `
+  @text: `    
     <h1>${ title }</h1>
     <ol reversed class="list-unstyled posts-list">
 
