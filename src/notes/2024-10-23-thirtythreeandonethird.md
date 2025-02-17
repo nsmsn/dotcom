@@ -8,7 +8,7 @@ tags:
 
 <figure>
 
-![Receipt from Charley’s on Menaul Blvd. Three used records totaling $33.33 after tax](images/IMG_4600-768x1024.jpeg)
+![Receipt from Charley’s on Menaul Blvd. Three used records totaling $33.33 after tax](/img/note-images/IMG_4600-768x1024.jpeg)
 
 <figcaption>
 

@@ -15,7 +15,7 @@ Through my design practice I’ve been lucky to work with some wonderful artists
 
 See what I’m up to [now](/now.html).
 
-I’m married to Eleanor, who makes paintings. We live in New Mexico with our preschooler and a small dog.
+I’m married to [Eleanor](https://eleanoraldrich.com), who makes paintings. We live in New Mexico with our preschooler and a [small dog](/tags/zelda.html).
 
 <details>
   <summary>Places I’ve lived</summary>

@@ -89,7 +89,7 @@
     <ol reversed class="list-unstyled posts-list">
     ${ map(notes, (note) => `
       <li>
-      <article class="note-single outline margin-bottom">
+      <article class="note-single outline margin-bottom-xlarge">
         ${ note/@text }
         <small class="timestamp"><a href="${ note/path }">${ date.ori(note/date) }</a></small>
       </article>  

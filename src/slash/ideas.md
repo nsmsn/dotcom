@@ -7,8 +7,6 @@ description: A small collection of things I am ruminating about.
 
 Hey, you found my <code>/ideas</code> page. Here's a few things I’m currently ruminating about.
 
-&nbsp;
-
 1. **Democracy, etc**: Yes, immediately we must absolutely resist [the fascist threat](/notes/2024-03-17-fascist-threat.html) and protect voting rights and public goods. My longer term focus is on the worker's movement and rebuilding civil society.
 
 2. **Arts and Crafts Movement for the 21st Century**: Thinking about reclaiming _craft_ in the digital age, when we designers have already industrialized our own profession and maybe paved the way for the current AI hype cycle, too.
@@ -19,4 +17,4 @@ Hey, you found my <code>/ideas</code> page. Here's a few things I’m currently 
 
 &nbsp;
 
-<small>Updated February 10, 2025</small>
+<small>Updated February 17, 2025</small>
