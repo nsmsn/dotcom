@@ -42,6 +42,16 @@
 
     &nbsp;
 
+    <h2 class="text-small text-uppercase text-secondary">Latest post</h2>
+
+    <a href="${ firstPost/path }" class="text-large text-bold">${ firstPost/title }</a><br/>
+    <p>${ firstPost/description }</p>
+    <small class="timestamp">${ date.ori(firstPost/date) }</small>
+
+    <p><a href="/posts/index.html">Posts Archive <span class="text-secondary">&rarr;</span></a></p>
+
+    &nbsp;
+
     <div class="row">
 
       <div class="grid-half">
@@ -75,17 +85,7 @@
     </div>
     
     <div class="grid-half">
-    <h2 class="text-small text-uppercase text-secondary no-padding-top">Latest post</h2>
-
-    <a href="${ firstPost/path }" class="text-large text-bold">${ firstPost/title }</a><br/>
-    <p>${ firstPost/description }</p>
-    <small class="timestamp">${ date.ori(firstPost/date) }</small>
-
-    <p><a href="/posts/index.html">Posts Archive <span class="text-secondary">&rarr;</span></a></p>
-
-    &nbsp;
-
-    <h2 class="text-small text-uppercase text-secondary">Latest notes</h2>
+    <h2 class="text-small text-uppercase text-secondary no-padding-top">Latest notes</h2>
     <ol reversed class="list-unstyled posts-list">
     ${ map(notes, (note) => `
       <li>
