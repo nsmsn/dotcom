@@ -15,6 +15,7 @@ description: (Almost) every page or directory on this website, in alphabetical o
 - [/blank](/blank.html)
 - [/feeds](/feeds.html)
 - [/following](/following.html)
+- [/guest-posts](/guest-posts.html)
 - [/html](/html.html)
 - [/humans.txt](/humans.txt)
 - [/library](/library.html)
