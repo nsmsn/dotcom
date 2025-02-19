@@ -38,6 +38,12 @@ The primary typeface is [Hanken Grotesk](https://hanken.co/products/hanken-grote
 
 &nbsp;
 
+## Guest posts?
+
+[Nope](/guest-posts.html)!
+
+&nbsp;
+
 ## Previous versions
 <ol reversed class="list-unstyled text-small">
 <li>2023 – 2025: Reluctantly powered by WordPress and hosted on Flywheel.</li>

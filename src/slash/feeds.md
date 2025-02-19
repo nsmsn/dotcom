@@ -1,6 +1,6 @@
 ---
 title: Feeds
-description: How you can subscribe to updates from this website.
+description: RSS is best. Here's how you can subscribe to updates from this website.
 ---
 
 # Feeds

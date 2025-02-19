@@ -44,3 +44,5 @@ This is the sixth major version of <code>nicksimson.com</code>, a URL I register
 My page titled "[How this site works](/this-site.html)" details my approach, technology, and tools I use to work on and maintain this site.
 
 [Accessibility](/accessibility.html) is very important to me, and I am working to make this site as performant and accessible as I know how.
+
+Lastly, [I don't accept guest posts](/guest-posts.html).
