@@ -6,14 +6,14 @@ description: Current status, activity, weather, books, and music.
 # Now
 
 <div class="container-small">
-<script src="https://status.lol/nsmsn.js?"></script>
+<script src="https://status.lol/nsmsn.js?time&link"></script>
 </div>
 
 &nbsp;
 
 I am currently:
 
-- working as a UI designer with an awesome digital experience team.
+- working with an awesome digital experience team.
 - raising a preschooler with [Eleanor](https://eleanoraldrich.com).
 - challenging myself to write and publish more.
 
@@ -75,7 +75,7 @@ I use [Literal](https://literal.club/nsmsn/is-reading) and [The StoryGraph](http
 
 <small>
 This page uses a few third-party widgets and APIs to display my current status, weather, books, and music.<br />
-<em>Last manually updated Feb 14, 2025.</em>
+<em>Last manually updated Feb 21, 2025.</em>
 </small>
 
 &nbsp;

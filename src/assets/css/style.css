@@ -1305,6 +1305,14 @@ a.site-logo:hover {
 	font-size: 2em;
 }
 
+.statuslol_content p {
+	margin-bottom: 16px;
+}
+
+.statuslol_time {
+	font-size: 0.8em;
+}
+
 .literal-book-item a {
 	text-decoration: none;
 	}
