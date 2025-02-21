@@ -1,6 +1,6 @@
 ---
 title: Hiding in plain audio
-date: 2025-02-21T21:32:30.798-07:00
+date: 2025-02-21T21:43:30.798Z
 tags:
   - "Music"
 ---
