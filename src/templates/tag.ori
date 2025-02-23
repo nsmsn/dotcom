@@ -11,7 +11,7 @@
 
     ${ map(items, (item,filename) => `
       <li>
-      <article class="item-single outline">
+      <article class="item-single margin-bottom-xlarge">
         ${
           item/type === "post"
 

@@ -75,7 +75,7 @@ I use [Literal](https://literal.club/nsmsn/is-reading) and [The StoryGraph](http
 
 <small>
 This page uses a few third-party widgets and APIs to display my current status, weather, books, and music.<br />
-<em>Last manually updated Feb 21, 2025.</em>
+<em>Last manually updated Feb 23, 2025.</em>
 </small>
 
 &nbsp;

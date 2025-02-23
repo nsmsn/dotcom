@@ -1,7 +1,7 @@
 ---
 title: "Pueblo League baseball teams"
 date: "2024-06-20T20:13:59.000Z"
-description: "words here"
+description: "It was interesting to see the gloves, bats, jerseys, and the tournament schedules from the various Pueblo teams, historical and contemporary."
 tags: 
   - "History"
   - "New Mexico"

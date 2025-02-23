@@ -12,5 +12,5 @@ If you like what I’m doing and want to support my blogging habit, there are a 
 <ul>
     <li><a href="https://bookshop.org/shop/nsmsn">Buy a book from me</a>. I’m an affiliate of Bookshop.org and any purchases made using my links will earn me (and bookstores!) a small commission.</li>
     <li><a href="https://ko-fi.com/nsmsn">Buy me a coffee</a>. This website is powered by caffeine, and more coffee is always appreciated.</li>
-    <li>Share one of my posts! Although few of us are paid in links, the humble hyperlink is the beating heart of the world wide web.</li>
+    <li>Share one of my posts! Although few of us are paid in links, the humble hyperlink is still the beating heart of the world wide&nbsp;web.</li>
 </ul>

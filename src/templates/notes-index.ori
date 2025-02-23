@@ -11,7 +11,7 @@
 
     ${ map(noteSet/items, (note) => `
       <li>
-      <article class="note-single container-med margin-bottom-xlarge outline">
+      <article class="note-single container-med margin-bottom-xlarge">
         ${ note/@text }
         <small class="timestamp"><a href="${ note/path }">${ date.ori(note/date) }</a></small>
       </article>  
