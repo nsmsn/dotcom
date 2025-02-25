@@ -23,7 +23,9 @@ Or subscribe to certain post types:
 
 ## Other feeds
 
-- [Nickipedia](https://nsmsn.weblog.lol/rss.xml): Every time I look up something on Wikipedia, it gets logged here.
+- [nickipedia](https://nsmsn.weblog.lol/rss.xml): Every time I look up something on Wikipedia, it gets logged here.
 - [statuslog](https://nsmsn.status.lol/feed): just some short ephemeral status updates posted throughout the week.
 - [nsmsn on huffduffer](https://huffduffer.com/nsmsn/rss): an audio feed (podcast) of stuff from all over the World Wide Web.
 - [nick-simson on are.na](https://www.are.na/nick-simson/feed/rss): Stuff I've saved to Are.na, an "internet memory palace".
+- [my Bluesky account](https://bsky.app/profile/did:plc:34426v334rdehfd2rapmaapr/rss) has a RSS feed.
+- [my Mastodon account](https://social.lol/@nsmsn.rss) has one too.

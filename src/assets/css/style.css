@@ -1218,6 +1218,10 @@ a.site-logo:hover {
   border-radius: 50%;
 }
 
+.img-pixel {
+	image-rendering: pixelated;
+}
+
 .list-multi-col{
   column-width: 12em;
   column-gap: 2em;
