@@ -53,3 +53,21 @@ The primary typeface is [Hanken Grotesk](https://hanken.co/products/hanken-grote
 <li>2008 – 2011: Graphic design portfolio, powered by Squarespace and type that was probably way too small.</li>
 </ol>
 
+&nbsp;
+
+## Misc, etc.
+
+<figure>
+<img src="/img/meta/website-badge-88x31.svg" class="img-pixel" style="border: 1px solid #525252" width="88" height="31" alt="" loading="lazy">
+<figcaption>88 × 31 pixel badge</figcaption>
+</figure>
+
+<figure>
+<img src="/img/meta/website-badge-80x15.svg" class="img-pixel" style="border: 1px solid #525252" width="80" height="15" alt="" loading="lazy">
+<figcaption>80 × 15 pixel badge</figcaption>
+</figure>
+
+<small>I try to run a clean website. View this page's [Website Carbon score](https://www.websitecarbon.com/website/nicksimson-com-this-site/).</small>
+
+&nbsp;
+
