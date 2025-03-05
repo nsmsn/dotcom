@@ -17,7 +17,7 @@ Artists, designers, developers, educators, illustrators, writers, and others.
 <li><a href="https://eleanoraldrich.com/">Eleanor Aldrich</a></li>
 <li><a href="https://maggieappleton.com/">Maggie Appleton</a></li>
 <li><a href="https://ericwbailey.website/">Eric Bailey</a></li>
-<li><a href="https://www.ronbronson.design/">Ron Bronson</a></li>
+<li><a href="https://tensilefutures.com/">Ron Bronson</a></li>
 <li><a href="https://emilycampbell.co/">Emily Campbell</a></li>
 <li><a href="https://www.jackcheng.com/">Jack Cheng</a></li>
 <li><a href="https://rachelcherry.me/">Rachel Cherry</a></li>
