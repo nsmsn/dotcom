@@ -7,7 +7,7 @@ tags:
 
 My current obsession is a number of newer type designs which take their inspiration from [Venus](https://fontsinuse.com/typefaces/16/venus), a sans-serif grotesque introduced by the Bauer Type Foundry in 1907:
 
-Inga Plönnigs' [Zetkin](https://www.futurefonts.xyz/inga-plonnigs/zetkin) is a typeface design in progress that emphasizes a lot of the weird proportions of Venus and features some arresting charactrs like the capital **G** and numeral **4**.
+Inga Plönnigs' [Zetkin](https://www.futurefonts.xyz/inga-plonnigs/zetkin) is a typeface design in progress that emphasizes a lot of the weird proportions of Venus and features some arresting characters like the capital **G** and numeral **4**.
 
 [Isola](https://www.luzi-type.ch/isola) by Luzi Gantenbein is a faithful revival with Backslanted, monospaced, and SemiMono variants. Gantenbein
 based the design from of scans of the hot metal type in 12pt. The [Isola design notes](https://www.luzi-type.ch/notes-isola) are worth reading to compare the early Bauer specimens with the digital revival.
