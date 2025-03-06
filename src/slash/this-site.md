@@ -45,12 +45,12 @@ The primary typeface is [Hanken Grotesk](https://hanken.co/products/hanken-grote
 &nbsp;
 
 ## Previous versions
-<ol reversed class="list-unstyled text-small">
-<li>2023 – 2025: Reluctantly powered by WordPress and hosted on Flywheel.</li>
-<li>2021 – 2023: A blog mostly, built with Eleventy and hosted on Netlify.</li>
-<li>2014 – 2020: Blog and portfolio built with Jekyll and hosted on GitHub Pages.</li>
-<li>2012 – 2014: Experimental responsive landing page, hosted on Dropbox.</li>
-<li>2008 – 2011: Graphic design portfolio, powered by Squarespace and type that was probably way too small.</li>
+<ol reversed class="list-unstyled">
+<li><b>2023 – 2025</b>: Reluctantly powered by WordPress and hosted on Flywheel.</li>
+<li><b>2021 – 2023</b>: A blog mostly, built with Eleventy and hosted on Netlify.</li>
+<li><b>2014 – 2020</b>: Blog and portfolio built with Jekyll and hosted on GitHub Pages.</li>
+<li><b>2012 – 2014</b>: Experimental responsive landing page, hosted on Dropbox.</li>
+<li><b>2008 – 2011</b>: Graphic design portfolio, powered by Squarespace and type that was probably way too small.</li>
 </ol>
 
 &nbsp;

@@ -1195,9 +1195,9 @@ a.site-logo {
 	}
 
 a.site-logo:hover {
-  	background-color: rgba(0, 0, 0, 0.075);
 	background-color: #fff;
 	}
+
 
 /* Heads up */
 .heads-up {
