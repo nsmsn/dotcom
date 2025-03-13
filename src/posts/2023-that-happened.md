@@ -40,7 +40,7 @@ I wasn't planning to write a year in review post, but having blogged all year lo
 - Celebrated one year at my current job.
 - [Carved a pumpkin](https://nicksimson.com/notes/halloween-2023/).
 - Saw the [O'Keefe and Moore](https://nicksimson.com/notes/okeefe-moore/) exhibit.
-- Kicked off a micro trend of [WordPress plugin inventory](/posts/2023-plugin-inventory.html) posts.
+- Kicked off a micro trend of [WordPress plugin inventory](/posts/2023-wp-plugin-inventory.html) posts.
 - Joined [Wiggle Work](https://wiggle.work/), an online community for remote tech workers.
 - [Washington, DC trip](/posts/2023-two-nights-in-dc.html).
 

@@ -65,6 +65,6 @@ Maybe that's more of the kind of interoperability I am looking for. I'm already 
 
 The web already works pretty well at allowing interactions between different entities—it's most powerful feature is the hyperlink. And more recently, think of the phrase, "wherever you find your podcasts." The reason you can use whatever podcast player you want to listen to most of your shows is because nearly every podcast feed uses the same [RSS standard](https://en.wikipedia.org/wiki/RSS).
 
-I have pals on Bluesky, Mastodon, and Micro.blog, but very few that are on all three. Some of my friends are still on Twit-er, I mean X, and some are only on LinkedIn. Most of these folks don't care what _protocols_ these platforms are built on. They're there for the people, quality interactions, the jokes, shitposts, and the pics.
+I have pals on Bluesky, Mastodon, and Micro.blog, but very few that are on all three. Some of my friends are still on Twit&mdash;er, I mean X&mdash;and some are only on LinkedIn. Most of these folks don't care what _protocols_ these platforms are built on. They're there for the people, quality interactions, the jokes, shitposts, and the pics.
 
 I'm glad we're getting closer to the promise of interoperability in the middle of this particular decade of the social media era. I'm tired of walled gardens. Lastly, if you happen to be someone building these kind of tools, please use standards, document your own stuff, and focus on delivering a great user experience.

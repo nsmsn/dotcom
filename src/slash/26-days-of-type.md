@@ -9,7 +9,7 @@ description: A monthlong exploration of typography, from February 2024.
 
 <img src="/img/post-images/26DaysOfType.png" alt="" />
 
-<p>In February 2024 I set out to publish a new long-form blog post every day. I had to double-up on one day, and successfully published 29 posts in 29 days. Really, I should have called this blogging series 26 Days of [Latin] Type, because I mostly focused on Latin alphabets and writing systems. <a href="/posts/a-font-is-a-personal-thing.html">There are limitations to personal projects</a>. This page captures all posts from this series in chronlogical order.</p>
+<p>In February 2024 I set out to publish a new long-form blog post every day. I had to double-up on one day, and successfully published 29 posts in 29 days. Really, I should have called this blogging series 26 Days of [Latin] Type, because I mostly focused on Latin alphabets and writing systems. <a href="/posts/2024-a-font-is-a-personal-thing.html">There are limitations to personal projects</a>. This page captures all posts from this series in chronlogical order.</p>
 
 1. [A is for Atkinson Hyperlegible](/posts/2024-atkinson-hyperlegible.html)
 

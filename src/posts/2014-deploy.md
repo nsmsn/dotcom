@@ -24,7 +24,7 @@ I don't fancy myself a professional writer, but I use writing as a way to organi
 
 Finally, I am planning to play and experiment with the design and code of this site a lot. I have been interested in learning to use GitHub, and the free hosting on GitHub pages seemed like a logical choice. I'm keeping the site's content and structure simple by design, so the presentation can evolve as the site evolves.
 
-The flexibility of the templating software (Jekyll and Liquid) will allow for little one-off designs and side projects to be hosted from this main domain. As a designer, nearly all the code I write is simple HTML, CSS and Javascript, and this approach frees me from having to worry or check up on databases and server-side stuff. If you are interested in how this site is put together, I am curating a [resources page](/info/resources/) with more information about the tech and tools I am using.
+The flexibility of the templating software (Jekyll and Liquid) will allow for little one-off designs and side projects to be hosted from this main domain. As a designer, nearly all the code I write is simple HTML, CSS and Javascript, and this approach frees me from having to worry or check up on databases and server-side stuff. If you are interested in how this site is put together, I am curating a [resources page](https://github.com/nsmsn/personal-site-v1/blob/master/resources.md) with more information about the tech and tools I am using.
 
 ## Audience
 

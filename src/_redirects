@@ -15,7 +15,8 @@
 /archive                                                /posts/
 /info                                                   /about.html
 /recommends                                             /uses.html
-/friends                                                /following.html  
+/friends                                                /following.html
+/type/                                                  /tags/type.html
 
 /posts/deploy/                                          /posts/2014-deploy.html
 /posts/hello-world/                                     /posts/2014-deploy.html
@@ -115,6 +116,7 @@
 /posts/mapping-blog-posts/                              /posts/2023-mapping-blog-posts.html
 /posts/my-six-favorite-utility-classes/                 /posts/2021-favorite-utility-classes.html
 /posts/never/                                           /posts/2022-never.html
+/posts/newww-year/                                      /posts/2020-newww-year.html
 /posts/plugin-inventory-2023/                           /posts/2023-wp-plugin-inventory.html
 /posts/re-books-im-reading-october/                     /posts/2023-re-books-im-reading-october.html
 /posts/reading-is-hazardous/                            /posts/2015-reading-is-hazardous.html                         
@@ -239,7 +241,11 @@
 /notes/635c4bd20d/                                      /notes/2024-10-26-cthulhu-chihuly.html
 
 /notes/2026-02-08-design-engineering.html               /notes/2025-02-08-design-engineering.html
-
+/notes/rss-license-plate/                               /notes/2023-08-03-rss-license-plate.html
+/notes/halloween-2023/                                  /notes/2023-10-31-halloween-2023.html
+/notes/okeefe-moore/                                    /notes/2023-11-05-okeefe-moore.html
+/notes/killing-the-buddha/                              /notes/2023-08-25-killing-the-buddha.html
+/notes/sesame-futura/                                   /notes/2024-02-09-sesame-futura.html
 
 /@nick                                                  /fediverse.html
 /b/V4                                                   /notes/2023-10-07-highedweb-pantheon.html

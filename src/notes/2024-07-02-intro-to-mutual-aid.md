@@ -11,6 +11,6 @@ _Likes [https://gregorlove.com/2024/03/mutual-aid/](https://gregorlove.com/2024/
 
 I've been thinking more and more about [this video](https://www.youtube.com/watch?v=rYPgTZeF5Z0) gRegor shared earlier this year. Also, [his post about the mutual aid group](https://gregorlove.com/2024/03/weekly-roundup/) he volunteers with. I love their name and slogan: "[We All We Got](https://www.weallwegotsd.com/)".
 
-Instead of falling into a cycle of despair and [doomscrolling](https://en.wikipedia.org/wiki/Doomscrolling) when it comes to Supreme Court rulings and other events I can hardly control, I'd like to open my heart a bit more, get to know my neighbors and community, and [opt-in](https://nicksimson.com/wp-content/uploads/2024/07/Opt-In-poster.jpg).
+Instead of falling into a cycle of despair and [doomscrolling](https://en.wikipedia.org/wiki/Doomscrolling) when it comes to Supreme Court rulings and other events I can hardly control, I'd like to open my heart a bit more, get to know my neighbors and community, and [opt-in](/img/note-images/Opt-In-poster.jpg).
 
 No judgement to anyone who feels the need to either doomscroll or avoid news altogether. When I find myself troubled, the one thing that helps me feel better is to orient myself towards action.
