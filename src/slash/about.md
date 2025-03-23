@@ -5,7 +5,7 @@ description: A little bit about Nick Simson. Designer, blogger, internet nobody.
 
 # About
 
-<img src="/img/static/farmington.jpg" alt="A man takes a photo with a smart phone of a cloudy orange and pink sky at sundown" width="600" height="338" />
+<img src="/img/note-images/2025-whitesands-kite-02.jpg" alt="a man flies a kite against a bright blue sky and white sand dunes" width="600" height="512">
 
 My name is Nick, short for *Nicholas* which means “[victory of the people](https://www.behindthename.com/name/nicholas).”
 

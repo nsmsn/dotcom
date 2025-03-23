@@ -178,6 +178,20 @@
         "url": "https://www.discogs.com/master/1811009-Sam-Cooke-The-Legendary"
       },
       {
+        "title": "My Aim Is True",
+        "artist": "Elvis Costello",
+        "cover": "costello-myaim-1977.jpg",
+        "year": "1977",
+        "url": "https://www.discogs.com/release/2343062-Elvis-Costello-My-Aim-Is-True"
+      },
+      {
+        "title": "This Year’s Model",
+        "artist": "Elvis Costello & The Attractions",
+        "cover": "costello-thisyears-1978.jpg",
+        "year": "1978",
+        "url": "https://www.discogs.com/master/455505-Elvis-Costello-The-Attractions-This-Years-Model"
+      },
+      {
         "title": "Last Date",
         "artist": "Floyd Cramer",
         "cover": "floyd-cramer-last-date.jpeg",
@@ -496,6 +510,13 @@
         "url": "https://www.discogs.com/release/2195833-David-Grisman-Quintet-The-David-Grisman-Quintet"
       },
       {
+        "title": "Under the Bushes Under the Stars",
+        "artist": "Guided By Voices",
+        "cover": "gbv-under-1996.jpg",
+        "year": "1996",
+        "url": "https://www.discogs.com/master/125525-Guided-By-Voices-Under-The-Bushes-Under-The-Stars"
+      },
+      {
         "title": "Tim Hardin 3 Live In Concert",
         "artist": "Tim Hardin",
         "cover": "hardin-3-1968.jpg",
@@ -810,6 +831,13 @@
         "url": "https://www.discogs.com/master/534548-Charley-Pride-Country-Charley-Pride"
       },
       {
+        "title": "Reckoning",
+        "artist": "R.E.M.",
+        "cover": "rem-reckoning-1984.jpg",
+        "year": "1984",
+        "url": "https://www.discogs.com/master/14562-REM-Reckoning"
+      },
+      {
         "title": "Document",
         "artist": "R.E.M.",
         "cover": "rem-document-1987.jpg",
@@ -906,6 +934,13 @@
         "cover": "smog-knock-knock-1999.jpg",
         "year": "1999",
         "url": "https://www.discogs.com/master/9707-Smog-Knock-Knock"
+      },
+      {
+        "title": "Sing Mary Sing",
+        "artist": "Sport of Kings",
+        "cover": "sportofkings-singmary-1982.jpg",
+        "year": "1982",
+        "url": "https://www.discogs.com/release/1996274-Sport-Of-Kings-Sing-Mary-Sing"
       },
       {
         "title": "Born To Run",
