@@ -41,6 +41,8 @@ I am currently:
                 icon = '❄️'; 
             } else if (description.includes('fog')) {
                 icon = '🌫️';        
+            } else if (description.includes('wind')) {
+                icon = '🪁';
             } else if (description.includes('rain') || description.includes('shower')) {
                 icon = '🌧️';
             }
