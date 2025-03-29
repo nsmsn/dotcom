@@ -15,7 +15,7 @@ I am currently:
 
 - working with an awesome digital experience team.
 - raising a preschooler with [Eleanor](https://eleanoraldrich.com).
-- challenging myself to write and publish more.
+- watching and listening to the Amazin' Mets ⚾ broadcasts.
 
 &nbsp;
 
@@ -77,7 +77,7 @@ I use [Literal](https://literal.club/nsmsn/is-reading) and [The StoryGraph](http
 
 <small>
 This page uses a few third-party widgets and APIs to display my current status, weather, books, and music.<br />
-<em>Last manually updated Feb 23, 2025.</em>
+<em>Last manually updated March 29, 2025.</em>
 </small>
 
 &nbsp;
