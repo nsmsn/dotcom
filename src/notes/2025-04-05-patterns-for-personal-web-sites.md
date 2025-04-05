@@ -11,5 +11,5 @@ tags:
 </div>
 
 <div class="e-content">
-<blockquote><p>Last upddated 8 July 2003</p></blockquote>
+<blockquote><p>Last updated 8 July 2003</p></blockquote>
 </div>
