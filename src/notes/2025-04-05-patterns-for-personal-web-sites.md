@@ -12,4 +12,7 @@ tags:
 
 <div class="e-content">
 <blockquote><p>Last updated 8 July 2003</p></blockquote>
+
+<p>Link via <a href="https://joeldueck.com/newsletter.html">Joel Dueck's "Port Watchers" newsletter</a>. It's a good newsletter.</p>
+
 </div>
