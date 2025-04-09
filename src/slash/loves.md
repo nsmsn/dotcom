@@ -13,18 +13,18 @@ This is an attempt to capture and highlight a few things that have meant a lot t
 
 Comics were a huge part of developing visual literacy for me. My most beloved comic strips are:
 
-- Calvin and Hobbes by Bill Watterson. Just a beautiful and imaginative artistic statement. I love the strips of Calvin careening through the woods in his red wagon with his imaginary friend.
-- Krazy Kat by George Herriman. Discovered this incredible strip through a collection of old newspaper comics at the public library when I was in grade school. Later I ended up living in the real Coconino County after moving to Arizona.
-- Peanuts by Charles Schulz. Peanuts was finishing its last decades in the newspaper when I was getting into the comics pages. Charlie Brown is one of the ultimate underdogs.
-- Pogo by Walt Kelly. Great political satire and charming characters. I have a small vintage collection of Pogo books and memorabilia.
+- <i>Calvin and Hobbes</i> by Bill Watterson. Just a beautiful and imaginative artistic statement. I love the strips of Calvin careening through the woods in his red wagon with his imaginary friend.
+- <i>Krazy Kat</i> by George Herriman. Discovered this incredible strip through a collection of old newspaper comics at the public library when I was in grade school. Later I ended up living in the real Coconino County after moving to Arizona.
+- <i>Peanuts</i> by Charles Schulz. Peanuts was finishing its last decades in the newspaper when I was getting into the comics pages. Charlie Brown is one of the ultimate underdogs.
+- <i>Pogo</i> by Walt Kelly. Great political satire and charming characters. I have a small vintage collection of Pogo books and memorabilia.
 
 &nbsp;
 
 ## Sports
 
-🏈 Bills, 🏀 Knicks, ⚾ Mets, 🏒 Sabres. These are the teams I picked as a kid. If anyone knows of a ⚽ team that can break my heart in equal measure, contact me.
+🏈 Bills, 🏀 Knicks, ⚾ Mets, 🏒 Sabres. These are the teams I picked as a kid.
 
-I also follow the New York Liberty in WNBA, and Syracuse University for NCAA. My Nippon Professional Baseball team is Hiroshima Toyo Carp. And because I’m local and grew up on _The Simpsons_, I cheer on the Albuquerque Isotopes.
+New York Liberty for WNBA. Syracuse Orange and Tennessee Volunteers for NCAA. In Nippon Professional Baseball, I like the Hiroshima Toyo Carp. Locally, I cheer on the Albuquerque Isotopes and NM United ⚽.
 
 &nbsp;
 
