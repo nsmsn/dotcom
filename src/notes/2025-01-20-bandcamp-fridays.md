@@ -7,7 +7,7 @@ tags:
 ---
 
 <div class="u-bookmark-of h-cite">
-<p><i>Bookmarked <a class="u-url p-name" href="https://daily.bandcamp.com/features/bandcamp-fridays-in-2024">California Wildfire Relief Fundraiser and Bandcamp Fridays in 2025</a>.</i></p>
+<p><i>Bookmarked <a class="u-url p-name" href="https://daily.bandcamp.com/features/bandcamp-fridays">California Wildfire Relief Fundraiser and Bandcamp Fridays in 2025</a>.</i></p>
 </div>
 
 <div class="e-content">
