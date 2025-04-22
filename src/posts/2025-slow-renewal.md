@@ -22,3 +22,7 @@ While I am not adverse to writing about [current events](/tags/currents.html) fr
 I've been hitting the books a bit more lately. Trying to get to the meaty, meaningful stuff that's been on my to-read list for a while, and do some deeper, critical reading. It's been a while since I did a book report post on my site, and I'd like to get back to doing that again. The last book I finished was <i>Acid West</i>, a series of essays by Joshua Wheeler about Southern New Mexico, a marginalized and often overlooked place. Soon I will be finishing <i>Society of the Spectacle</i>, a work of critical theory by Guy Debord. I'd love to share my reading notes with you, dear reader.
 
 My website has felt at its most healthy (that's to say I've felt at my healthiest) when I'm writing and publishing one or two longer form posts per month, and three or four shorter notes per week. As I slowly get back to this cadence, my renewed focus is making my writing more independent and humane. If you're a student of the the D&D alignment chart, that is [chaotic good](https://easydamus.com/chaoticgood.html).
+
+&nbsp;
+
+<em>This is an entry for the April 2025 <a href="https://indieweb.org/IndieWeb_Carnival">IndieWeb Blogging Carnival</a>. The theme this month is <a href="https://www.thingelstad.com/2025/03/27/renewal-indieweb-carnival.html">Renewal</a>.</em>
