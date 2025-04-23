@@ -2,8 +2,8 @@
   "name": "origami-start",
   "type": "module",
   "dependencies": {
-    "@weborigami/origami": "0.2.5",
-    "@weborigami/pagefind": "0.0.4"
+    "@weborigami/origami": "0.3.1",
+    "@weborigami/pagefind": "0.0.5"
   },
   "scripts": {
     "build": "ori copy src/site.ori, clear files:build",
