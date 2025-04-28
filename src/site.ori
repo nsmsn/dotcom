@@ -36,12 +36,13 @@
 
   vinyl.html = templates/vinyl.ori(data/vinyl.json)
 
-  work/ = map(map(work, mdHtml), templates/page.ori)
+  work/ = map(map(./work, mdHtml), templates/page.ori)
 
   index.html = templates/index.ori(
     first(data/posts.ori)
     take(data/notes.ori, 3)
   )
+
   ...map(map(slash, mdHtml), templates/page.ori)
 
   feed.json = json(feed.ori(data/combined.ori))
