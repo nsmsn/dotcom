@@ -18,8 +18,8 @@ And run across the long green vinyl booth</p>
 You seem to enjoy your grilled cheese sandwich<br/>
 We split the carrots and celery sticks</p>
 
-<p>A little later “Marquee Moon” starts playing<br/>
-Tom Verlaine would never approve of this place<br/>
+<p>A little later “Marquee Moon” starts playing&mdash;<br/>
+Tom Verlaine would never approve of this place&mdash;<br/>
 I glimpse one or two workers in the kitchen and try to make eye contact<br/>
 Bending my glance around the thick white tile</p>
 

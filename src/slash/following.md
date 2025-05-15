@@ -73,6 +73,7 @@ Artists, designers, developers, educators, illustrators, writers, and others.
 Nonprofits I actively support or donate to when I can.
 
 <ul class="list-unstyled">
+<li><a href="https://www.casaq.org">Casa Q</a> (NM)</li>
 <li><a href="https://www.chicagofreedomschool.org/">Chicago Freedom School</a> (IL)</li>
 <li><a href="https://djdinstitute.org/">Debs-Jones-Douglass Institute</a> (DC)</li>
 <li><a href="https://firrp.org/">The Florence Project</a> (AZ)</li>
