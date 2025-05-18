@@ -69,5 +69,7 @@ The primary typeface is [Hanken Grotesk](https://hanken.co/products/hanken-grote
 
 <small>I try to run a clean website. View this page's [Website Carbon score](https://www.websitecarbon.com/website/nicksimson-com-this-site/).</small>
 
+<small>You can find this site listed in the [Internet Phone Book](https://internetphonebook.net/). [Try dialing **521**](https://internetphonebook.net/dial/).</small>
+
 &nbsp;
 
