@@ -75,9 +75,6 @@ Nonprofits I actively support or donate to when I can.
 
 <ul class="list-unstyled">
 <li><a href="https://www.casaq.org">Casa Q</a> <small>(NM)</small></li>
-<li><a href="https://www.chicagofreedomschool.org/">Chicago Freedom School</a> <small>(IL)</small></li>
-<li><a href="https://djdinstitute.org/">Debs-Jones-Douglass Institute</a> <small>(DC)</small></li>
-<li><a href="https://firrp.org/">The Florence Project</a> <small>(AZ)</small></li>
 <li><a href="https://highlandercenter.org/">Highlander Center</a> <small>(TN)</small></li>
 <li><a href="https://nomoredeaths.org/en/">No More Deaths</a> <small>(AZ)</small></li>
 <li><a href="https://www.wjcny.org/">Worker Justice Center</a> <small>(NY)</small></li>
