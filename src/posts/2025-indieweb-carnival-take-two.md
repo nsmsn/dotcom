@@ -31,3 +31,10 @@ I look forward to hearing from you, and how you choose to interpret this theme. 
 Email me a link to your entry published on your personal website: <a href="mailto:nick@nicksimson.com">nick@nicksimson.com</a>. I also have a [contact form](/contact.html) you can use. You may also reply to me on [Mastodon](https://social.lol/@nsmsn/114606170114272686) or [Bluesky](https://bsky.app/profile/nicksimson.com/post/3lqjfnh76xk2x), if you prefer. Please note: **I do not currently have comments or [webmentions](https://indieweb.org/Webmention) enabled** on my site, so I can't receive&nbsp;those.
 
 Since this is an IndieWeb community activity, please follow the [Code of Conduct](https://indieweb.org/code-of-conduct). I will attempt to keep this post updated with links to each submission as I get them through June, and I'll be back around July 1 with a roundup post of my&nbsp;own.
+
+&nbsp;
+
+## Submissions recieved
+
+1. odonnellweb.com: [Would You Take the Do-over](https://odonnellweb.com/pelican/do-over.html) <small>(originally published July 2022)</small>
+2. sarahgebauer.com: [No take two](https://www.sarahgebauer.com/desk/no-take-two/)
