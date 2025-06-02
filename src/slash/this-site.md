@@ -26,7 +26,7 @@ I keep many static pages serving various purposes. I try to keep a sprawling ind
 
 <figure>
 <img src="/img/meta/indieweb.svg" width="160" height="125" alt="indie web" loading="lazy">
-<figcaption>I am inspired by the <a href="https://indieweb.org">indie web</a> movement of having your own website and owning your own data.</figcaption>
+<figcaption>I am inspired by the <a href="https://indieweb.org">indie web</a> ethos: have your own website and own your own data.</figcaption>
 </figure>
 
 &nbsp;
