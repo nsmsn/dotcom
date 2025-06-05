@@ -14,7 +14,7 @@ Ever wish for a do-over? "Take two!" (or three, four, etc.) might be shouted by 
 
 Or maybe you've been blogging for a long time and there's old stuff on your blog you may no longer fully agree with anymore. Would you write an update to that older post?
 
-Also, [time travel is a popular trope](https://tvtropes.org/pmwiki/pmwiki.php/Main/TimeTravelTropes) in books, film, and television. I don't know if that has been explored in an IndieWeb Carnival before... Here's an opportunity to revisit the past: not to relive it (or repeat it), but to do something... interesting with it.
+Also, [time travel is a popular trope](https://tvtropes.org/pmwiki/pmwiki.php/Main/TimeTravelTropes) in books, film, and television. I don't know if that has been explored in an IndieWeb Carnival before. Here's an opportunity to revisit the past: not to relive it (or repeat it), but to do something... interesting with it.
 
 I invite you to think about the phrase "take two" and use your personal site to publish a&nbsp;response.
 
@@ -34,8 +34,14 @@ Since this is an IndieWeb community activity, please follow the [Code of Conduct
 
 &nbsp;
 
-## Submissions recieved
+## This month's submissions
+
+These are displayed in a list, in the order I received them.
 
 1. odonnellweb.com: [Would You Take the Do-over](https://odonnellweb.com/pelican/do-over.html) <small><em>(originally published July 2022)</em></small>
+
 2. sarahgebauer.com: [No take two](https://www.sarahgebauer.com/desk/no-take-two/) 
+
 3. christiantietze.de: [Emacs Carnival: Take Two](https://christiantietze.de/posts/2025/06/emacs-carnival-2025-06-take-two/) <small><em>This is an additional Carnival for members of the Emacs community spun off of my IndieWeb topic. Emacs bloggers are welcome to submit their posts to both blog carnivals.</em>🕸️</small>
+
+4. 🫵 You??? 
