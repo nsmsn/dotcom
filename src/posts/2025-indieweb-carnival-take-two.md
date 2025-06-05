@@ -36,5 +36,6 @@ Since this is an IndieWeb community activity, please follow the [Code of Conduct
 
 ## Submissions recieved
 
-1. odonnellweb.com: [Would You Take the Do-over](https://odonnellweb.com/pelican/do-over.html) <small>(originally published July 2022)</small>
-2. sarahgebauer.com: [No take two](https://www.sarahgebauer.com/desk/no-take-two/)
+1. odonnellweb.com: [Would You Take the Do-over](https://odonnellweb.com/pelican/do-over.html) <small><em>(originally published July 2022)</em></small>
+2. sarahgebauer.com: [No take two](https://www.sarahgebauer.com/desk/no-take-two/) 
+3. christiantietze.de: [Emacs Carnival: Take Two](https://christiantietze.de/posts/2025/06/emacs-carnival-2025-06-take-two/) <small><em>This is an additional Carnival for members of the Emacs community spun off of my IndieWeb topic. Emacs bloggers are welcome to submit their posts to both blog carnivals.</em>🕸️</small>
