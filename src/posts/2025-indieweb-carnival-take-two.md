@@ -20,7 +20,7 @@ I invite you to think about the phrase "take two" and use your personal site to 
 
 ## Participating in this month's Carnival
 
-I look forward to hearing from you, and how you choose to interpret this theme. If you're stuck, here's some prompts to get you going:
+I look forward to hearing from you&mdash;**especially if you've never done one of these before**&mdash;and how you choose to interpret this theme. If you're stuck, here's some prompts to get you going:
 
 - What is an old "take" you no longer have, or can no longer endorse?
 - If there was a moment in time you could travel back to, would you change the course of history if you had the opportunity to act?

@@ -42,3 +42,5 @@ Since fall 2023, I am no longer paying for a Micro.blog account. I did remove on
 &nbsp;
 
 **2025-01-23 Update:** I’m no longer syndicating my RSS to Micro.blog or linking to that platform. You should read [Hollie’s post](https://eilloh.net/2025/01/23/my-husband-asked-me-tonight.html). It’s much more articulate than anything else I can add right now. 
+
+**2025-06-06 Update:** Happy Pride Month. I wish I had updated this post earlier in the year with a link to the post from Coyote Tracks, called "[The pressure to stay genteel](https://coyotetracks.org/blog/pressure-to-stay-genteel/)" too. It's a good read. Clearly, I'm still thinking about this situation from earlier this year. And from what I can see, literally nothing has changed much on the community management front over at M.b.
