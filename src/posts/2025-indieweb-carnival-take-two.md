@@ -46,4 +46,6 @@ These are displayed in a list, in the order I received them.
 
 4. blog.darylsun.page: [Special Edition — Take Two](https://blog.darylsun.page/2025/06/07/se-13-indieweb-carnival-june-2025)
 
-5. 🫵 You??? 
+5. yordi.me: [Take Two at the Harbor](https://yordi.me/take-two-at-the-harbor/)
+
+6. 🫵 You??? 
