@@ -44,4 +44,6 @@ These are displayed in a list, in the order I received them.
 
 3. christiantietze.de: [Emacs Carnival: Take Two](https://christiantietze.de/posts/2025/06/emacs-carnival-2025-06-take-two/) <small><em>This is an additional Carnival for members of the Emacs community spun off of my IndieWeb topic. Emacs bloggers are welcome to submit their posts to both blog carnivals.</em>🕸️</small>
 
-4. 🫵 You??? 
+4. blog.darylsun.page: [Special Edition — Take Two](https://blog.darylsun.page/2025/06/07/se-13-indieweb-carnival-june-2025)
+
+5. 🫵 You??? 
