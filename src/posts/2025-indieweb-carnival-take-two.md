@@ -38,16 +38,19 @@ Since this is an IndieWeb community activity, please follow the [Code of Conduct
 
 These are displayed in a list, in the order I received them.
 
-1. odonnellweb.com: [Would You Take the Do-over](https://odonnellweb.com/pelican/do-over.html) <small><em>(originally published July 2022)</em></small>
+1. odonnellweb.com: [Would You Take the Do-over](https://odonnellweb.com/pelican/do-over.html). <small><em>(originally published July 2022)</em></small>
 
-2. sarahgebauer.com: [No take two](https://www.sarahgebauer.com/desk/no-take-two/) 
+2. sarahgebauer.com: [No take two](https://www.sarahgebauer.com/desk/no-take-two/). 
 
-3. christiantietze.de: [Emacs Carnival: Take Two](https://christiantietze.de/posts/2025/06/emacs-carnival-2025-06-take-two/) <small><em>This is an additional Carnival for members of the Emacs community spun off of my IndieWeb topic. Emacs bloggers are welcome to submit their posts to both blog carnivals.</em>🕸️</small>
+3. christiantietze.de: [Emacs Carnival: Take Two](https://christiantietze.de/posts/2025/06/emacs-carnival-2025-06-take-two/). <small><em>This is an additional Carnival for members of the Emacs community spun off of my IndieWeb topic. Emacs bloggers are welcome to submit their posts to both blog carnivals.</em>🕸️</small>
 
-4. blog.darylsun.page: [Special Edition — Take Two](https://blog.darylsun.page/2025/06/07/se-13-indieweb-carnival-june-2025)
+4. blog.darylsun.page: [Special Edition — Take Two](https://blog.darylsun.page/2025/06/07/se-13-indieweb-carnival-june-2025).
 
-5. yordi.me: [Take Two at the Harbor](https://yordi.me/take-two-at-the-harbor/)
+5. yordi.me: [Take Two at the Harbor](https://yordi.me/take-two-at-the-harbor/).
 
-6. thefrugalgamer.net: [Take Two: Customizing My Spaces](https://www.thefrugalgamer.net/blog/2025/06/07/take-two-customizing-my-spaces/)
+6. thefrugalgamer.net: [Take Two: Customizing My Spaces](https://www.thefrugalgamer.net/blog/2025/06/07/take-two-customizing-my-spaces/).
 
-7. 🫵 You??? 
+7. andrei.xyz: [Take Two? No Takesies Backies](https://andrei.xyz/post/take-two-no-takesies-backsies/). <small><em>Be sure to read Andrei's followup, "<a href="https://andrei.xyz/post/five-years-and-twelve-minutes/">Five Years and Twelve Minutes</a>."</em></small>
+
+
+8. 🫵 You??? 
