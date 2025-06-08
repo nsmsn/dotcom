@@ -5,13 +5,13 @@ description: A directory of interesting people and collectives to follow.
 
 # Following
 
-Here’s my attempt to create a directory of interesting people and collectives I follow via RSS, newsletters, social media, etc.
+Here’s my attempt to create a directory of interesting people and collectives I follow via RSS, newsletters, social media,&nbsp;etc.
 
-If you want your name and link removed for any reason, just email me and I’ll take it down as soon as possible. <small>Sorry for being weird.</small>
+If you want your name and link removed for any reason, just email me and I’ll take it down as soon as possible. <small>Sorry for being&nbsp;weird.</small>
 
 ## People
 
-Artists, designers, developers, educators, illustrators, writers, and others.
+Artists, designers, developers, educators, illustrators, writers, and&nbsp;others.
 
 <ul class="list-unstyled list-multi-col">
 <li><a href="https://eleanoraldrich.com/">Eleanor Aldrich</a></li>
@@ -65,6 +65,23 @@ Artists, designers, developers, educators, illustrators, writers, and others.
 <li><a href="https://jessamyn.com/">Jessamyn West</a></li>
 <li><a href="https://www.mollywhite.net/">Molly White</a></li>
 <li><a href="https://kayserifserif.place">Katherine Yang</a></li>
+</ul>
+
+&nbsp;
+
+## Blogroll
+
+<ul class="list-unstyled">
+<li><a href="https://artlung.com/">artlung.com</a></li>
+<li><a href="https://benji.dog/">benji.dog</a></li>
+<li><a href="https://fromjason.xyz/">fromjason.xyz</a></li>
+<li><a href="https://jamesg.blog/">jamesg.blog</a></li>
+<li><a href="https://krrd.ing/">krrd.ing</a></li>
+<li><a href="https://livelaugh.blog/">livelaugh.blog</a></li>
+<li><a href="https://notes.neatnik.net/">notes.neatnik.net</a></li>
+<li><a href="https://olu.online/">olu.online</a></li>
+<li><a href="https://starrwulfe.xyz/">starrwulfe.xyz</a></li>
+<li><a href="https://www.thisdaysportion.com/">thisdaysportion.com</a></li>
 </ul>
 
 &nbsp;

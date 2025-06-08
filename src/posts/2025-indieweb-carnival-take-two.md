@@ -48,4 +48,6 @@ These are displayed in a list, in the order I received them.
 
 5. yordi.me: [Take Two at the Harbor](https://yordi.me/take-two-at-the-harbor/)
 
-6. 🫵 You??? 
+6. thefrugalgamer.net: [Take Two: Customizing My Spaces](https://www.thefrugalgamer.net/blog/2025/06/07/take-two-customizing-my-spaces/)
+
+7. 🫵 You??? 

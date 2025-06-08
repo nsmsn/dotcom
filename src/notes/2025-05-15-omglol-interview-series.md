@@ -6,4 +6,4 @@ tags:
   - "Websites"
 ---
 
-[Brandon interviewed me](https://krrd.ing/posts/nick-simson-omglol-interview-series-8/) for his ongoing series about the various personalities in the [omg.lol](https://omg.lol) community. I was happy to participate! I talked a bit about mental health, sopapillas, and the importance of financially supporting the things you like to see on the&nbsp;web.
+[Brandon interviewed me](https://krrd.ing/blog/omglol-interview-series-nick/) for his ongoing series about the various personalities in the [omg.lol](https://omg.lol) community. I was happy to participate! I talked a bit about mental health, sopapillas, and the importance of financially supporting the things you like to see on the&nbsp;web.

@@ -18,12 +18,24 @@ See what I’m up to [now](/now.html).
 I’m married to [Eleanor](https://eleanoraldrich.com), who makes paintings. We live in New Mexico with our preschooler and a [small dog](/tags/zelda.html).
 
 <details>
-  <summary>Places I’ve lived</summary>
+  <summary class="h5">Places I’ve lived</summary>
   <ul>
     <li>Central New York (1987-2003)</li>
     <li>Arizona (2004-2009)</li>
     <li>Tennessee (2010-2022)</li>
     <li>New Mexico (2023-???)</li>
+  </ul>
+</details>
+
+<details>
+  <summary class="h5">Selected features, honors, interviews, press</summary>
+  <ul>
+    <li><a href="https://bookshop.org/a/21729/9783836518567">Taschen Books</a></li>
+    <li>Tennessee College Public Relations Association Awards</li>
+    <li>PRSA Volunteer Chapter V Awards</li>
+    <li><small>I was also a judge once for a graphic design/advertising awards competition. I can't even remember what year this was except I drove to Asheville, NC and spent an entire afternoon&nbsp;there.</small></li>
+    <li><a href="https://krrd.ing/blog/omglol-interview-series-nick/">krrd.ing</a></li>
+    <li><a href="https://internetphonebook.net/">Internet Phone Book</a></li>
   </ul>
 </details>
 

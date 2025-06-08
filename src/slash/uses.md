@@ -20,3 +20,12 @@ Things that make my life easier or more enjoyable.
 - Wallet: I like both the elastic and canvas ones made by [Crabby Gear](https://crabbygear.com/)
 - Guitars: 1990s Epiphone T-310; 1980s Alvarez Artist Series; 1970s Martin D12-20
 - Shoes: Clarks desert boots; Converse Jack Purcells
+
+&nbsp;
+
+## A few other things I happily pay for
+
+- [Are.na](https://www.are.na/) <small>($70/year)</small>: I might be able to cobble together a self-hosted visual bookmarking service, but it wouldn't be as cool or&nbsp;fun.
+- [Crucial Tracks](https://www.crucialtracks.org/) <small>($40/year)</small>: Music blog and journaling app.
+- [Defector](https://defector.com/) <small>($79/year)</small>:  The last good website. Worker-owned sports and culture commentary.
+- [omg.lol](https://home.omg.lol/referred-by/nsmsn) <small>($20/year)</small>: Powers my Mastodon presence, has some fun features and a great community.
