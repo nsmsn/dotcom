@@ -39,6 +39,7 @@ Artists, designers, developers, educators, illustrators, writers, and&nbsp;other
 <li><a href="https://erinkissane.com/">Erin Kissane</a></li>
 <li><a href="https://toddl.dev/">Todd Libby</a></li>
 <li><a href="https://paulrobertlloyd.com/">Paul Robert Lloyd</a></li>
+<li><a href="https://lmnt.me/">Louie Mantia</a></li>
 <li><a href="https://jan.miksovsky.com/">Jan Miksovsky</a></li>
 <li><a href="https://lifeofpablo.com/">Pablo Morales</a></li>
 <li><a href="https://mrmrs.cc/">Adam Morse</a></li>
@@ -72,9 +73,13 @@ Artists, designers, developers, educators, illustrators, writers, and&nbsp;other
 ## Blogroll
 
 <ul class="list-unstyled">
+<li><a href="https://anniemueller.com/">anniemueller.com</a></li>
 <li><a href="https://artlung.com/">artlung.com</a></li>
+<li><a href="https://aworkinglibrary.com/">aworkinglibrary.com</a></li>
 <li><a href="https://benji.dog/">benji.dog</a></li>
+<li><a href="https://everythingchanges.us/">everythingchanges.us</a></li>
 <li><a href="https://fromjason.xyz/">fromjason.xyz</a></li>
+<li><a href="https://gkeenan.co/avgb/">gkeenan.co</a></li>
 <li><a href="https://jamesg.blog/">jamesg.blog</a></li>
 <li><a href="https://krrd.ing/">krrd.ing</a></li>
 <li><a href="https://livelaugh.blog/">livelaugh.blog</a></li>

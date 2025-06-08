@@ -30,8 +30,6 @@ In addition to being tested on the latest versions of Chrome, Edge, Firefox, and
 
 Pages are structured with semantic elements like <code>header</code>, <code>nav</code>, <code>main</code>, and <code>footer</code>, which may help you move around more quickly. The main content area of each page is marked with a <code>h1</code> (heading level 1), and each page’s structure should follow a logical heading order from there.
 
-Each page on this website has a “skip to content” link at the top, and a “back to top” link at the very bottom.
-
 Images are described with [text alternatives](https://www.a11yproject.com/posts/alt-text/), using the <code>alt</code> attribute. This website’s colors were chosen to ensure there is sufficient color contrast between elements on each page. My site has been coded to honor user device preferences whenever possible.
 
 I strive to use inclusive, plain language throughout this site and use a readability checker to test my content and improve my writing.
