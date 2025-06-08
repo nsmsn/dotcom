@@ -50,7 +50,8 @@ These are displayed in a list, in the order I received them.
 
 6. thefrugalgamer.net: [Take Two: Customizing My Spaces](https://www.thefrugalgamer.net/blog/2025/06/07/take-two-customizing-my-spaces/).
 
-7. andrei.xyz: [Take Two? No Takesies Backies](https://andrei.xyz/post/take-two-no-takesies-backsies/). <small><em>Be sure to read Andrei's followup, "<a href="https://andrei.xyz/post/five-years-and-twelve-minutes/">Five Years and Twelve Minutes</a>."</em></small>
+7. andrei.xyz: [Take Two? No Takesies Backies](https://andrei.xyz/post/take-two-no-takesies-backsies/). <small><em>Be sure to read Andrei's followup, "<a href="https://andrei.xyz/post/five-years-and-twelve-minutes/">Five Years and Twelve Minutes</a>" too.</em></small>
 
+8. dahlstrand.net: [My Experimental June](https://dahlstrand.net/2025/06/08/my-experimental-june.html).
 
-8. 🫵 You??? 
+9. 🫵 You??? 
