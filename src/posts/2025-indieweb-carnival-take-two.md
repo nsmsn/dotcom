@@ -54,4 +54,6 @@ These are displayed in a list, in the order I received them.
 
 8. dahlstrand.net: [My Experimental June](https://dahlstrand.net/2025/06/08/my-experimental-june.html).
 
-9. 🫵 You??? 
+9. flirora.xyz: [Reflections on “Pointed and pointfree glossing”](https://flirora.xyz/posts/reflections-pointfree.html)
+
+10. 🫵 You??? 
