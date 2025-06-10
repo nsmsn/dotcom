@@ -3,13 +3,7 @@
 
   assets
 
-  img: {
-    ...img
-    maps: {
-      notes: cache(maps.ori(data/notes.ori), files:cache/notes)
-      posts: cache(maps.ori(data/posts.ori), files:cache/posts)
-    }
-  }
+  img
 
   library.html = templates/library.ori(data/library.json)
 

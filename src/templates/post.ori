@@ -7,7 +7,7 @@
     <small class="timestamp">Published by <a rel="author" class="p-author h-card" href="/about.html">Nick</a> at <time datetime="${ post/date }" class="dt-published"><a class="u-url" href="${ post/path }">${ date.ori(post/date) }</a></time></small>
     
     ${ post/longitude !== undefined && post/latitude !== undefined
-      ? `<img class="map" src="/img/maps/posts/${ basename(key) }.png">`
+      ? `<img class="map" src="/img/post-maps/${ basename(key) }.png">`
       : ''
     }
 
