@@ -57,6 +57,7 @@ Artists, designers, developers, educators, illustrators, writers, and&nbsp;other
 <li><a href="https://www.robinsloan.com/">Robin Sloan</a></li>
 <li><a href="https://cattsmall.com/">Catt Small</a></li>
 <li><a href="https://davesmyth.com/">Dave Smyth</a></li>
+<li><a href="https://reillyspitzfaden.com/">Reilly Spitzfaden</a></li>
 <li><a href="https://mattstein.com/">Matt Stein</a></li>
 <li><a href="https://donnytruong.com/">Donny Trương</a></li>
 <li><a href="https://jonitrythall.com/">Joni Trythall</a></li>

@@ -60,4 +60,6 @@ These are displayed in a list, in the order I received them.
 
 11. rishikeshs.com: [The Hobby I Forgot I Had](https://rishikeshs.com/the-hobby-i-forgot/). 
 
-12. 🫵 You??? 
+12. notes.neatnik.net: [The space between](https://notes.neatnik.net/2025/06/the-space-between)
+
+13. 🫵 You??? 
