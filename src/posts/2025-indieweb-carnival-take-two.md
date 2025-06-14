@@ -64,4 +64,6 @@ These are displayed in a list, in the order I received them.
 
 13. skippy.net: [Take Two](https://skippy.net/take-two)
 
-14. 🫵 You??? 
+14. esgeroth.org: [Take Two](https://www.esgeroth.org/log/entry/2760)
+
+15. 🫵 You??? 
