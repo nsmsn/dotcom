@@ -66,4 +66,8 @@ These are displayed in a list, in the order I received them.
 
 14. esgeroth.org: [Take Two](https://www.esgeroth.org/log/entry/2760)
 
-15. 🫵 You??? 
+15. thoughts.uncountable.uk: [Take Two](https://thoughts.uncountable.uk/take-two/)
+
+16. marisabel.nl: [Take Two - Starting Over Again and Again](https://marisabel.nl/public/blog/Take_Two_-_Starting_Over_Again_and_Again)
+
+17. 🫵 You??? 
