@@ -62,4 +62,6 @@ These are displayed in a list, in the order I received them.
 
 12. notes.neatnik.net: [The space between](https://notes.neatnik.net/2025/06/the-space-between)
 
-13. 🫵 You??? 
+13. skippy.net: [Take Two](https://skippy.net/take-two)
+
+14. 🫵 You??? 
