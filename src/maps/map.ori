@@ -1,0 +1,12 @@
+// Calls the MapBox Static Images API to show a small map with a pin.
+// See https://docs.mapbox.com/api/maps/static-images/
+//
+// This depends upon a Mapbox access stored in a file named `mapbox-token.txt`
+
+(long, lat) =>
+  // Construct a URL for the Mapbox static image API. The location is used
+  // twice: once for the pin and once for the center of the map.
+  `https://api.mapbox.com/styles/v1/mapbox/streets-v12/static/pin-s+ff0000(${long},${lat})/${long},${lat},8/400x400@2x?access_token=${ mapbox-token.txt }`
+
+  // Fetch the image from the constructed URL
+  -> fetch
