@@ -13,6 +13,7 @@ description: Current status, activity, weather, books, and music.
 
 I am currently:
 
+- hosting the [IndieWeb Carnival during June](/posts/2025-indieweb-carnival-take-two.html) (and you should contribute)!
 - working with an awesome digital experience team.
 - raising a preschooler with [Eleanor](https://eleanoraldrich.com).
 - watching and listening to the Amazin' Mets ⚾ broadcasts.
@@ -77,7 +78,7 @@ I use [Literal](https://literal.club/nsmsn/is-reading) and [The StoryGraph](http
 
 <small>
 This page uses a few third-party widgets and APIs to display my current status, weather, books, and music.<br />
-<em>Last manually updated March 29, 2025.</em>
+<em>Last manually updated June 13, 2025.</em>
 </small>
 
 &nbsp;

@@ -4,6 +4,12 @@
   @text: `
     <h1>${ title }</h1>
 
+    <p>A collection of books I’ve found enjoyable, instructive, useful, challenging, and&nbsp;inspired.</p>
+
+    <small>Most titles link to my <a href="https://bookshop.org/shop/nsmsn">Bookshop.org affiliate store</a>. Purchases made there will earn me a small&nbsp;commission.</small>
+
+    <p>&nbsp;</p>
+
     <ul class="list-unstyled auto-grid">
 
     ${ map(books, (book) => `
