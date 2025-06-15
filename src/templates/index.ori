@@ -1,5 +1,5 @@
 (firstPost, notes) => page.ori({
-  title: "Hello, I'm Nick Simson"
+  title: "Nick Simson, Internet Nobody."
   description: "I'm a graphic and interaction designer in New Mexico. This is my personal website."
     head: `
     <link rel="alternate" type="application/rss+xml" title="${ siteInfo.yaml/description }" href="/feed.xml">
