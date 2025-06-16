@@ -60,14 +60,16 @@ These are displayed in a list, in the order I received them.
 
 11. rishikeshs.com: [The Hobby I Forgot I Had](https://rishikeshs.com/the-hobby-i-forgot/). 
 
-12. notes.neatnik.net: [The space between](https://notes.neatnik.net/2025/06/the-space-between)
+12. notes.neatnik.net: [The space between](https://notes.neatnik.net/2025/06/the-space-between).
 
-13. skippy.net: [Take Two](https://skippy.net/take-two)
+13. skippy.net: [Take Two](https://skippy.net/take-two).
 
-14. esgeroth.org: [Take Two](https://www.esgeroth.org/log/entry/2760)
+14. esgeroth.org: [Take Two](https://www.esgeroth.org/log/entry/2760).
 
-15. thoughts.uncountable.uk: [Take Two](https://thoughts.uncountable.uk/take-two/)
+15. thoughts.uncountable.uk: [Take Two](https://thoughts.uncountable.uk/take-two/).
 
-16. marisabel.nl: [Take Two - Starting Over Again and Again](https://marisabel.nl/public/blog/Take_Two_-_Starting_Over_Again_and_Again)
+16. marisabel.nl: [Take Two - Starting Over Again and Again](https://marisabel.nl/public/blog/Take_Two_-_Starting_Over_Again_and_Again).
 
-17. 🫵 You??? 
+17. readbeanicecream.surge.sh: [Take Two](https://readbeanicecream.surge.sh/2025/06/16/take-two/).
+
+18. 🫵 You??? 
