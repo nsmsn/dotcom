@@ -2,7 +2,7 @@
   "name": "origami-start",
   "type": "module",
   "dependencies": {
-    "@weborigami/origami": "0.3.1",
+    "@weborigami/origami": "0.3.2",
     "@weborigami/pagefind": "0.0.5"
   },
   "scripts": {
