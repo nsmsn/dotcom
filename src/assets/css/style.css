@@ -1216,6 +1216,11 @@ a.site-logo:hover {
     font-size: 1.25em;
     }
 
+/* Maps */
+.map {
+	margin-bottom: 4em;
+}
+
 /* Utility Classes */
 
 .img-circle {

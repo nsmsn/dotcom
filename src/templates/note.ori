@@ -1,4 +1,4 @@
-(note) => page.ori({
+(note, key) => page.ori({
   title: note/title
   description: note/description
   @text: `
@@ -7,6 +7,12 @@
   <div class="pre-note-meta">
   <small class="timestamp">Published <time datetime="${ note/date }" class="dt-published">${ date.ori(note/date) }</time> by <a rel="author" class="p-author h-card" href="/about.html">Nick</a></small>
   </div>
+
+  ${ note/longitude !== undefined && note/latitude !== undefined
+      ? `<img class="map" src="/img/note-maps/${ basename(key) }.png" width="360" height="360" alt="">`
+      : ''
+    }
+
   ${ note/@text }
 
       <ul class="list-unstyled list-inline margin-top-xlarge">
