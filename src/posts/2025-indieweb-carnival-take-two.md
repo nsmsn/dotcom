@@ -72,4 +72,6 @@ These are displayed in a list, in the order I received them.
 
 17. readbeanicecream.surge.sh: [Take Two](https://readbeanicecream.surge.sh/2025/06/16/take-two/).
 
-18. 🫵 You??? 
+18. sentfrom.me: [June 2025 IndieWeb Carnival, "Take Two:" The Spokane Option](https://sentfrom.me/june-2025-indieweb-carnival-take-two-the-spokane-option/).
+
+19. 🫵 You??? 
