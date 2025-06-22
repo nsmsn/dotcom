@@ -74,4 +74,8 @@ These are displayed in a list, in the order I received them.
 
 18. sentfrom.me: [June 2025 IndieWeb Carnival, "Take Two:" The Spokane Option](https://sentfrom.me/june-2025-indieweb-carnival-take-two-the-spokane-option/).
 
-19. 🫵 You??? 
+19. sachachua.com: [Thinking about time travel with the Emacs text editor, Org Mode, and backups](https://sachachua.com/blog/2025/06/thinking-about-time-travel-with-the-emacs-text-editor-and-org-mode/).
+
+20. artlung.com: [“Take Two” as in Television Production](https://artlung.com/blog/2025/06/21/take-two-tv/).
+
+21. 🫵 You??? 
