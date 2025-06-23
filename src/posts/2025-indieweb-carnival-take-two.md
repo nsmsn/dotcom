@@ -78,4 +78,6 @@ These are displayed in a list, in the order I received them.
 
 20. artlung.com: [“Take Two” as in Television Production](https://artlung.com/blog/2025/06/21/take-two-tv/).
 
-21. 🫵 You??? 
+21. sachachua.com: [The wobble is not the obstacle, it's the way](https://sachachua.com/blog/2025/06/the-wobble-is-not-the-obstacle-it-s-the-way/).
+
+22. 🫵 You??? 
