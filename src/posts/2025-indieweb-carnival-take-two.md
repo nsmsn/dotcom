@@ -80,4 +80,6 @@ These are displayed in a list, in the order I received them.
 
 21. sachachua.com: [The wobble is not the obstacle, it's the way](https://sachachua.com/blog/2025/06/the-wobble-is-not-the-obstacle-it-s-the-way/).
 
-22. 🫵 You??? 
+22. reillyspitzfaden.com: [IndieWeb Carnival: Take Two](https://reillyspitzfaden.com/posts/2025/06/indieweb-carnival-take-two/).
+
+23. 🫵 You??? 
