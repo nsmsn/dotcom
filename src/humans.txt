@@ -24,9 +24,11 @@ https://nicksimson.com
   - JavaScript (https://www.javascript.com/)
 
 - Components
-  - Web Origami (https://weborigami.org/)
+  - Origami (https://weborigami.org/)
   - Node.js (https://nodejs.org/en/)
   - Git (https://git-scm.com/)
   - GitHub (https://github.com/)
   - Netlify (https://www.netlify.com/)
+  - Pagefind (https://pagefind.app/)
+  - MapBox (https://www.mapbox.com/)
 
