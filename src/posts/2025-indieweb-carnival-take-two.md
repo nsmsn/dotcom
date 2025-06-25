@@ -82,4 +82,6 @@ These are displayed in a list, in the order I received them.
 
 22. reillyspitzfaden.com: [IndieWeb Carnival: Take Two](https://reillyspitzfaden.com/posts/2025/06/indieweb-carnival-take-two/).
 
-23. 🫵 You??? 
+23. krrd.ing: [take two - nairobi](https://krrd.ing/blog/take-two-nairobi/).
+
+24. 🫵 You??? 
