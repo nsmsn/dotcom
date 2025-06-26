@@ -84,4 +84,6 @@ These are displayed in a list, in the order I received them.
 
 23. krrd.ing: [take two - nairobi](https://krrd.ing/blog/take-two-nairobi/).
 
-24. 🫵 You??? 
+24. winther.sysctl.dk: [Take two: rewriting a system from scratch](https://winther.sysctl.dk/take-two-rewriting-a-system-from-scratch/).
+
+25. 🫵 You??? 

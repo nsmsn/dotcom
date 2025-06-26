@@ -28,12 +28,21 @@ I’m married to [Eleanor](https://eleanoraldrich.com), who makes paintings. We 
 </details>
 
 <details>
+  <summary class="h5">Strengths</summary>
+  <ol>
+    <li>Connectedness</li>
+    <li>Learner</li>
+    <li>Responsibility</li>
+    <li>Adaptability</li>
+    <li>Strategic</li>
+  </ol>
+</details>
+
+<details>
   <summary class="h5">Selected features, honors, interviews, press</summary>
   <ul>
     <li><a href="https://bookshop.org/a/21729/9783836518567">Taschen Books</a></li>
     <li>Tennessee College Public Relations Association Awards</li>
-    <li>PRSA Volunteer Chapter V Awards</li>
-    <li><small>I was also a judge once for a graphic design/advertising awards competition. I can't even remember what year this was except I drove to Asheville, NC and spent an entire afternoon&nbsp;there.</small></li>
     <li><a href="https://krrd.ing/blog/omglol-interview-series-nick/">krrd.ing</a></li>
     <li><a href="https://internetphonebook.net/">Internet Phone Book</a></li>
   </ul>
