@@ -86,4 +86,6 @@ These are displayed in a list, in the order I received them.
 
 24. winther.sysctl.dk: [Take two: rewriting a system from scratch](https://winther.sysctl.dk/take-two-rewriting-a-system-from-scratch/).
 
-25. 🫵 You??? 
+25. blog.helenchong.omg.lol: [Take Two: Rediscovering Web Design](https://blog.helenchong.omg.lol/en/posts/2025-06-26-indieweb-carnival-take-two/).
+
+26. 🫵 You??? 
