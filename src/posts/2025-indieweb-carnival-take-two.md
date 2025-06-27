@@ -88,4 +88,8 @@ These are displayed in a list, in the order I received them.
 
 25. blog.helenchong.omg.lol: [Take Two: Rediscovering Web Design](https://blog.helenchong.omg.lol/en/posts/2025-06-26-indieweb-carnival-take-two/).
 
-26. 🫵 You??? 
+26. rossabaker.com: [Take Two: An Infinite Series](https://rossabaker.com/blog/take-two-an-infinite-series/).
+
+27. britthub.co.uk: [Take Two](https://britthub.co.uk/take-two/).
+
+28. 🫵 You??? 
