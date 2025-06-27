@@ -94,4 +94,6 @@ These are displayed in a list, in the order I received them.
 
 28. starbreaker.org: [No Remorse, No Regrets, and No Need for Second Chances](https://starbreaker.org/grimoire/entries/no-second-chances/index.html).
 
-29. 🫵 You??? 
+29. mike.hostetlerhome.com: [Emacs: Take 2](https://mike.hostetlerhome.com/emacs-take-2)
+
+30. 🫵 You??? 
