@@ -96,4 +96,6 @@ These are displayed in a list, in the order I received them.
 
 29. mike.hostetlerhome.com: [Emacs: Take 2](https://mike.hostetlerhome.com/emacs-take-2)
 
-30. 🫵 You??? 
+30. martinhaagen.se: [The Trip From Rome](https://www.martinhaagen.se/posts/the-trip-from-rome/)
+
+31. 🫵 You??? 
