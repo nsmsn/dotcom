@@ -106,4 +106,6 @@ These are displayed in a list, in the order I received them.
 
 34. cosmicflow.space: [Take Two - A new Start](https://cosmicflow.space/take-two-a-new-start/).
 
-35. 🫵 You??? 
+35. gregnewman.io: [Emacs Take Two (Eglot)](https://gregnewman.io/blog/emacs-take-two/).
+
+36. 🫵 You??? 
