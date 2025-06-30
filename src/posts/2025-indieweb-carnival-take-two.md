@@ -94,8 +94,14 @@ These are displayed in a list, in the order I received them.
 
 28. starbreaker.org: [No Remorse, No Regrets, and No Need for Second Chances](https://starbreaker.org/grimoire/entries/no-second-chances/index.html).
 
-29. mike.hostetlerhome.com: [Emacs: Take 2](https://mike.hostetlerhome.com/emacs-take-2)
+29. mike.hostetlerhome.com: [Emacs: Take 2](https://mike.hostetlerhome.com/emacs-take-2).
 
-30. martinhaagen.se: [The Trip From Rome](https://www.martinhaagen.se/posts/the-trip-from-rome/)
+30. martinhaagen.se: [The Trip From Rome](https://www.martinhaagen.se/posts/the-trip-from-rome/).
 
-31. 🫵 You??? 
+31. tangiblelife.net: [Take Two](https://tangiblelife.net/take-two).
+
+32. sarajaksa.eu: [IndieWeb Carnival June 2025: No Take Two](https://sarajaksa.eu/2025/06/indieweb-carnival-june-2025-no-take-two/).
+
+33. manuelmoreale.com: [IndieWeb Carnival: Take Two](https://manuelmoreale.com/indieweb-carnival-take-two).
+
+34. 🫵 You??? 
