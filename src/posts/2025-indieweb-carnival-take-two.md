@@ -108,4 +108,4 @@ These are displayed in a list, in the order I received them.
 
 35. gregnewman.io: [Emacs Take Two (Eglot)](https://gregnewman.io/blog/emacs-take-two/).
 
-36. 🫵 You??? 
+36. davidized.com: [IndieWeb Carnival: Take Two](https://davidized.com/2025/06/30/take-two/).
