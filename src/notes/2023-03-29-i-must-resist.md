@@ -6,4 +6,4 @@ tags:
   - "History"
 ---
 
-Finished reading [I Must Resist](https://micro.blog/books/9780872865785), Bayard Rustin’s Life in Letters 📚
+Finished reading [I Must Resist](https://bookshop.org/a/21729/9780872865785), Bayard Rustin’s Life in Letters 📚

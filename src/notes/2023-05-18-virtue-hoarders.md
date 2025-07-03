@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Finished reading [Virtue Hoarders](https://micro.blog/books/9781452966045) by Catherine Liu 📚
+Finished reading [Virtue Hoarders](https://bookshop.org/a/21729/9781517912253) by Catherine Liu 📚

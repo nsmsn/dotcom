@@ -6,4 +6,4 @@ tags:
   - "Music"
 ---
 
-Started reading: [Citizen Cash: The Political Life and Times of Johnny Cash](https://micro.blog/books/9781541699564) by Michael Stewart Foley 📚
+Started reading: [Citizen Cash: The Political Life and Times of Johnny Cash](https://bookshop.org/a/21729/9781541699571) by Michael Stewart Foley 📚

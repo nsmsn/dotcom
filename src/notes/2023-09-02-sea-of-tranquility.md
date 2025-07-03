@@ -5,6 +5,6 @@ tags:
   - "Books"
 ---
 
-Finished reading [Sea of Tranquility](https://micro.blog/books/9780593321454) by Emily St. John Mandel 📚
+Finished reading [Sea of Tranquility](https://bookshop.org/a/21729/9780593466735) by Emily St. John Mandel 📚
 
 I didn’t realize there would be pandemic themes going into this one, but it was interesting to see characters and settings from the earlier book, The Glass Hotel. Overall, I enjoyed the plot, pacing, and time travel elements.

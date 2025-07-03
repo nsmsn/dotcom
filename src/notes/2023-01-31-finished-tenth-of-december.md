@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Finished reading: [Tenth of December](https://micro.blog/books/9780812993813) by George Saunders 📚
+Finished reading: [Tenth of December](https://bookshop.org/a/21729/9780812984255) by George Saunders 📚

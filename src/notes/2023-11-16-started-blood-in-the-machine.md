@@ -7,6 +7,6 @@ tags:
   - "Labor"
 ---
 
-Started reading [Blood in the Machine: The Origins of the Rebellion Against Big Tech](https://micro.blog/books/9780316487733) by Brian Merchant 📚
+Started reading [Blood in the Machine: The Origins of the Rebellion Against Big Tech](https://bookshop.org/a/21729/9780316487740) by Brian Merchant 📚
 
 ISBN: 9780316487733

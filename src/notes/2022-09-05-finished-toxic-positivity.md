@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Finished reading: [Toxic Positivity](https://micro.blog/books/9780593418284) by Whitney Goodman 📚
+Finished reading: [Toxic Positivity](https://bookshop.org/a/21729/9780593542750) by Whitney Goodman 📚

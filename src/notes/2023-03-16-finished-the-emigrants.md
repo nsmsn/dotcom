@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Finished reading: [The Emigrants](https://micro.blog/books/9780811221290) by W. G. Sebald 📚
+Finished reading: [The Emigrants](https://bookshop.org/a/21729/9780811226141) by W. G. Sebald 📚

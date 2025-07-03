@@ -5,7 +5,7 @@ tags:
   - "Books"
 ---
 
-Started reading _[Don't Call It That](https://micro.blog/books/9781734248302): A Naming Workbook_ by Eli Altman, ISBN: 9781734248302 📚
+Started reading _[Don't Call It That](https://nopicnicpress.com/shop/dont-call-it-that): A Naming Workbook_ by Eli Altman, ISBN: 9781734248302 📚
 
 Got this as a gift recently. It goes into the naming and branding process at [A Hundred Monkeys](https://www.ahundredmonkeys.com/) and is full of idea-generating activities.
 

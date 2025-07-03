@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Finished reading: [Bird on Fire: Lessons from the World’s Least Sustainable City](https://micro.blog/books/9780199912292) by Andrew Ross 📚
+Finished reading: [Bird on Fire: Lessons from the World’s Least Sustainable City](https://search.worldcat.org/en/title/763157781) by Andrew Ross 📚

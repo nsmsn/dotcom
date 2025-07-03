@@ -6,6 +6,6 @@ tags:
   - "Music"
 ---
 
-Started reading [Girl in a Band](https://micro.blog/books/9780062295903) by Kim Gordon 📚
+Started reading [Girl in a Band](https://bookshop.org/a/21729/9780062295903) by Kim Gordon 📚
 
 Listening to the audiobook version, read by the author.

@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Started reading: [Station Eleven](https://micro.blog/books/9781443434881) by Emily St. John Mandel 📚
+Started reading: [Station Eleven](https://bookshop.org/a/21729/9780804172448) by Emily St. John Mandel 📚

@@ -1,7 +1,7 @@
 ---
 title: "Take Two: Roundup"
 date: "2025-07-01T10:37:55.489-06:00"
-description: "Looking back at June's IndieWeb Carnival."
+description: "Looking back at June’s IndieWeb Carnival."
 tags: 
   - "IndieWeb"
 ---

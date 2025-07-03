@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Finished reading: [Severance](https://micro.blog/books/9780374717117) by Ling Ma 📚
+Finished reading: [Severance](https://bookshop.org/a/21729/9781250214997) by Ling Ma 📚

@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Finished reading: [Four Thousand Weeks](https://micro.blog/books/9780374715243) by Oliver Burkeman 📚
+Finished reading: [Four Thousand Weeks](https://bookshop.org/a/21729/9781250849359) by Oliver Burkeman 📚

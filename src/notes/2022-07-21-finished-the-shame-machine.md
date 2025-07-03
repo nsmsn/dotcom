@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Finished reading: [The Shame Machine](https://micro.blog/books/9781802060324) by Cathy O’Neil 📚
+Finished reading: [The Shame Machine](https://bookshop.org/a/21729/9781984825452) by Cathy O’Neil 📚

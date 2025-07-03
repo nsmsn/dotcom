@@ -7,6 +7,6 @@ tags:
   - "Labor"
 ---
 
-Started reading [Fight Like Hell: The Untold History of American Labor](https://micro.blog/books/9781982171070) by Kim Kelly📚
+Started reading [Fight Like Hell: The Untold History of American Labor](https://bookshop.org/a/21729/9781982171063) by Kim Kelly📚
 
 ISBN: 9781982171070

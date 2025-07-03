@@ -5,7 +5,7 @@ tags:
   - "Books"
 ---
 
-Finished reading: [Station Eleven](https://micro.blog/books/9781443434881) by Emily St. John Mandel 📚
+Finished reading: [Station Eleven](https://bookshop.org/a/21729/9780804172448) by Emily St. John Mandel 📚
 
 This the second novel about a fictional pandemic (and the immediate collapse of society) I managed to finish recently. The other one was _Severance_ (2018) by Ling Ma. Both books were written and published in the years before the SARS-CoV-2 pandemic.
 

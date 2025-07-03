@@ -6,4 +6,4 @@ tags:
   - "History"
 ---
 
-Started reading: [The Dawn of Everything](https://micro.blog/books/9780771049835) by David Graeber and David Wengrow 📚
+Started reading: [The Dawn of Everything](https://bookshop.org/a/21729/9781250858801) by David Graeber and David Wengrow 📚

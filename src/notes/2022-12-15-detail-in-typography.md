@@ -6,4 +6,4 @@ tags:
   - "Type"
 ---
 
-Finished reading: [Detail In Typography](https://micro.blog/books/9780907259343) by Jost Hochuli 📚
+Finished reading: [Detail In Typography](https://editions-b42.com/en/produit/detail-in-typography/) by Jost Hochuli 📚

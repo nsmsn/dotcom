@@ -5,6 +5,6 @@ tags:
   - "Books"
 ---
 
-Currently reading: [The Shame Machine](https://micro.blog/books/9781802060324) by Cathy O’Neil 📚
+Currently reading: [The Shame Machine](https://bookshop.org/a/21729/9781984825452) by Cathy O’Neil 📚
 
 I picked up O’Neil’s last book ‘Weapons of Math Destruction’ when it came out and it left an impression on me. ‘The Shame Machine’ explores how shame (on a macro level) is used as a way to shift responsibility for social problems from institutions to individuals.

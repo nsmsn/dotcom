@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Started reading [Sea of Tranquility](https://micro.blog/books/9780593321454) by Emily St. John Mandel 📚
+Started reading [Sea of Tranquility](https://bookshop.org/a/21729/9780593466735) by Emily St. John Mandel 📚

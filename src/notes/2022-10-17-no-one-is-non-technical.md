@@ -1,5 +1,5 @@
 ---
-title: "Likes No one is “non-technical”. When we talk ..."
+title: "No one is “non-technical”."
 date: "2022-10-17T15:22:10.000Z"
 tags: 
   - "Likes"

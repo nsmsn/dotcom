@@ -6,7 +6,7 @@ tags:
   - "Religion"
 ---
 
-Finished reading _[Killing the Buddha: A Heretic's Bible by Peter Manseau and Jeff Sharlet](https://micro.blog/books/9780743232777)_. 📚
+Finished reading _[Killing the Buddha: A Heretic's Bible by Peter Manseau and Jeff Sharlet](https://bookshop.org/a/21729/9780743232777)_. 📚
 
 ISBN: 9780743232777
 

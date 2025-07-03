@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Finished reading [The Family](https://micro.blog/books/9780702236945) by Jeff Sharlet 📚
+Finished reading [The Family](https://bookshop.org/a/21729/9780060560058) by Jeff Sharlet 📚

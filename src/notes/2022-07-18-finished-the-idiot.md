@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Finished reading: [The Idiot](https://micro.blog/books/9781101622513) by Elif Batuman 📚
+Finished reading: [The Idiot](https://bookshop.org/a/21729/9780143111061) by Elif Batuman 📚

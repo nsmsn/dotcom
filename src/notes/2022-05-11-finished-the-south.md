@@ -5,6 +5,6 @@ tags:
   - "Books"
 ---
 
-Finished reading: [The South: Jim Crow and its Afterlives](https://micro.blog/books/9781839766299) by Adolph L. Reed, Jr. 📚
+Finished reading: [The South: Jim Crow and its Afterlives](https://bookshop.org/a/21729/9781839766275) by Adolph L. Reed, Jr. 📚
 
 A good, brief book that is memoir, history, and polemic all at once.

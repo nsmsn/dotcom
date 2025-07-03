@@ -1,11 +1,11 @@
 ---
-title: "Want to read The Neoliberal Deluge, a critical ..."
+title: "Want to read The Neoliberal Deluge"
 date: "2023-08-14T01:35:02.000Z"
 tags: 
   - "Books"
 ---
 
-Want to read [The Neoliberal Deluge](https://micro.blog/books/9781452932873), a critical collection on the politics of disaster and reconstruction in New Orleans, edited by Cedric Johnson 📚
+Want to read [The Neoliberal Deluge](https://bookshop.org/a/21729/9780816673254), a critical collection on the politics of disaster and reconstruction in New Orleans, edited by Cedric Johnson 📚
 
 > Katrina was not just a hurricane. The death, destruction, and misery wreaked on New Orleans cannot be blamed on nature's fury alone. This volume of essays locates the root causes of the 2005 disaster squarely in neoliberal restructuring and examines how pro-market reforms are reshaping life, politics, economy, and the built environment in New Orleans.
 

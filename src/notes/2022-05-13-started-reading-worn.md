@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Started reading [Worn: A People’s History of Clothing](https://micro.blog/books/9781524748401) by Sofi Thanhauser 📚
+Started reading [Worn: A People’s History of Clothing](https://bookshop.org/a/21729/9780525566731) by Sofi Thanhauser 📚

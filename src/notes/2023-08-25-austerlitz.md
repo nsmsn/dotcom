@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Finished reading [Austerlitz](https://micro.blog/books/9780679645412) by W.G. Sebald 📚
+Finished reading [Austerlitz](https://bookshop.org/a/21729/9780812982619) by W.G. Sebald 📚

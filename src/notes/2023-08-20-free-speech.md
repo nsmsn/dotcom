@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Finished reading [Free Speech](https://micro.blog/books/9781541600492) by Jacob Mchangama 📚
+Finished reading [Free Speech](https://bookshop.org/a/21729/9781541620346) by Jacob Mchangama 📚

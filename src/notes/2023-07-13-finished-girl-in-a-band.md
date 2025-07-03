@@ -6,4 +6,4 @@ tags:
   - "Music"
 ---
 
-Finished reading [Girl in a Band](https://micro.blog/books/9780062295903) by Kim Gordon 📚
+Finished reading [Girl in a Band](https://bookshop.org/a/21729/9780062295903) by Kim Gordon 📚

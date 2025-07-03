@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Finished reading [The Atlas of AI](https://micro.blog/books/9780300252392) by Kate Crawford 📚
+Finished reading [The Atlas of AI](https://bookshop.org/a/21729/9780300264630) by Kate Crawford 📚

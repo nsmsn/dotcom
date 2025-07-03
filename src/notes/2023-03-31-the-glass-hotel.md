@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Finished reading [The Glass Hotel](https://micro.blog/books/9780525521143) by Emily St. John Mandel 📚
+Finished reading [The Glass Hotel](https://bookshop.org/a/21729/9780525562948) by Emily St. John Mandel 📚

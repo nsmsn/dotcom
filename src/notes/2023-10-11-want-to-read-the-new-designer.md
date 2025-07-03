@@ -7,6 +7,6 @@ tags:
   - "Ethics"
 ---
 
-Want to read _[The New Designer](https://micro.blog/books/9780262047630): Rejecting Myths, Embracing Change_ by Manuel Lima 📚
+Want to read _[The New Designer](https://mitpress.mit.edu/9780262047630/the-new-designer/): Rejecting Myths, Embracing Change_ by Manuel Lima 📚
 
-[MIT Press](https://mitpress.mit.edu/9780262047630/the-new-designer/) ISBN: 9780262047630
+MIT Press ISBN: 9780262047630

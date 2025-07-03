@@ -6,4 +6,4 @@ tags:
   - "History"
 ---
 
-Started reading: [I Must Resist](https://micro.blog/books/9780872865785) by Bayard Rustin 📚
+Started reading: [I Must Resist](https://bookshop.org/a/21729/9780872865785) by Bayard Rustin 📚

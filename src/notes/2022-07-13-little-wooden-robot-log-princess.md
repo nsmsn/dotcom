@@ -5,7 +5,7 @@ tags:
   - "Books"
 ---
 
-A wonderful picture book for kids (and adults too): [The Little Wooden Robot and the Log Princess](https://micro.blog/books/9780823450671) by Tom Gauld.
+A wonderful picture book for kids (and adults too): [The Little Wooden Robot and the Log Princess](https://bookshop.org/a/21729/9780823446988) by Tom Gauld.
 
 ![](/img/note-images/0341b454e8.jpg)
 

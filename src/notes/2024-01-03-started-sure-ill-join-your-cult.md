@@ -5,6 +5,6 @@ tags:
   - "Books"
 ---
 
-Started reading _[Sure, I'll Join Your Cult: A Memoir of Mental Illness and the Quest to Belong Anywhere](https://micro.blog/books/9781982168568)_ 📚 by Maria Bamford, ISBN: 9781982168568
+Started reading _[Sure, I'll Join Your Cult: A Memoir of Mental Illness and the Quest to Belong Anywhere](https://bookshop.org/a/21729/9781982168575)_ 📚 by Maria Bamford, ISBN: 9781982168568
 
 Maria Bamford is known for her hilarious voice talents, so of course I'm listening to the audiobook version.

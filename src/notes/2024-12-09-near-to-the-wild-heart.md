@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Started reading [_Near to the Wild Heart_](https://micro.blog/books/9780811220712), the debut novel by Clarice Lispector 📚
+Started reading [_Near to the Wild Heart_](https://bookshop.org/a/21729/9780811220026), the debut novel by Clarice Lispector 📚

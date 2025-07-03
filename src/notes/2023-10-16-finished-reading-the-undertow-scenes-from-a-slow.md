@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Finished reading _[The Undertow: Scenes from a Slow Civil War](https://micro.blog/books/9781324006497)_ by Jeff Sharlet, ISBN: 9781324006497 📚
+Finished reading _[The Undertow: Scenes from a Slow Civil War](https://bookshop.org/a/21729/9781324074519)_ by Jeff Sharlet, ISBN: 9781324006497 📚

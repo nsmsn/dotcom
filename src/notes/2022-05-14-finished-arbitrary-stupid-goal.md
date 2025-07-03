@@ -6,6 +6,6 @@ tags:
   - "NYC"
 ---
 
-Finished reading: [Arbitrary Stupid Goal](https://micro.blog/books/9780374105860) by Tamara Shopsin 📚
+Finished reading: [Arbitrary Stupid Goal](https://bookshop.org/a/21729/9781250183910) by Tamara Shopsin 📚
 
 I laughed and cringed my way through this memoir of growing up in an eccentric family in a disappearing (or disappeared) NYC.

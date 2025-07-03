@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Finished reading: [They Knew: How a Culture of Conspiracy Keeps America Complacent](https://micro.blog/books/9781250210722) by Sarah Kendzior 📚
+Finished reading: [They Knew: How a Culture of Conspiracy Keeps America Complacent](https://bookshop.org/a/21729/9781250878601) by Sarah Kendzior 📚

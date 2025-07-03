@@ -5,6 +5,6 @@ tags:
   - "Books"
 ---
 
-Want to read [The Radicalism of the American Revolution](https://micro.blog/books/9780307758965) by Gordon S. Wood 📚
+Want to read [The Radicalism of the American Revolution](https://bookshop.org/a/21729/9780679736882) by Gordon S. Wood 📚
 
 Picked up a copy of this Pulitzer winner, as well as few other history titles at a used bookstore yesterday.

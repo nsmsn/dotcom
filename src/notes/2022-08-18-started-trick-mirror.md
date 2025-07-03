@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Started reading: [Trick Mirror: Reflections on Self-Delusion](https://micro.blog/books/9780008294946) by Jia Tolentino 📚
+Started reading: [Trick Mirror: Reflections on Self-Delusion](https://bookshop.org/a/21729/9780525510567) by Jia Tolentino 📚

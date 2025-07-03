@@ -5,7 +5,7 @@ tags:
   - "Books"
 ---
 
-Started reading: [Severance](https://micro.blog/books/9780374717117) by Ling Ma 📚
+Started reading: [Severance](https://bookshop.org/a/21729/9781250214997) by Ling Ma 📚
 
 Digging into this contemporary apocalyptic zombie novel about a mysterious pathogen and a small group of survivors. The book features a project manager as the protagonist: a millennial woman who works for a bible manufacturer facing down a plague of biblical proportions.
 

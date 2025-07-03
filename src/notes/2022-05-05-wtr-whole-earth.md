@@ -5,7 +5,7 @@ tags:
   - "Books"
 ---
 
-Want to read: [Whole Earth: The Many Lives of Stewart Brand](https://micro.blog/books/9780735223943) by John Markoff
+Want to read: [Whole Earth: The Many Lives of Stewart Brand](https://bookshop.org/a/21729/9780735223943) by John Markoff
 
 > Told by one of our greatest chroniclers of technology and society, the definitive biography of iconic serial visionary Stewart Brand, from the Merry Pranksters and the generation-defining Whole Earth Catalog to the marriage of environmental consciousness and hacker capitalism and the rise of a new planetary culture…
 

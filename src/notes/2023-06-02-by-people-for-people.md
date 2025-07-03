@@ -1,5 +1,5 @@
 ---
-title: "Once in a while I still see a ..."
+title: "by people, for people."
 date: "2023-06-02T07:25:19.000Z"
 ---
 

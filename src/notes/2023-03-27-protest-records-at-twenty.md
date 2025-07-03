@@ -5,4 +5,4 @@ tags:
   - "Music"
 ---
 
-Checked and saw that the mp3s and stencils and everything at [protest-records.com](https://www.protest-records.com/mp3/index.html) is still up after all these years (Twenty in fact). 🎵
+Checked and saw that the mp3s and stencils and everything at [protest-records.com](http://www.protest-records.com/mp3/index.html) is still up after all these years (Twenty in fact). 🎵

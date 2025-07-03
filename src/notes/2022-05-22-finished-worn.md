@@ -5,7 +5,7 @@ tags:
   - "Books"
 ---
 
-Finished reading: [Worn: A People’s History of Clothing](https://micro.blog/books/9781524748401) by Sofi Thanhauser 📚
+Finished reading: [Worn: A People’s History of Clothing](https://bookshop.org/a/21729/9780525566731) by Sofi Thanhauser 📚
 
 Fascinating global examination of the social and labor history of clothing production, told through five fabrics: Linen, Cotton, Silk, Synthetics, and Wool.
 

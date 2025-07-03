@@ -5,6 +5,6 @@ tags:
   - "Books"
 ---
 
-Started reading [The Master and Margarita](https://micro.blog/books/9780143108276) by Mikhail Bulgakov 📚
+Started reading [The Master and Margarita](https://bookshop.org/a/21729/9780143108276) by Mikhail Bulgakov 📚
 
 Only really know this book from the Rolling Stones song. Trying to read more classics from the 20th century this year.

@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Want to read _[The Undertow: Scenes from a Slow Civil War](https://micro.blog/books/9781324006503)_ by Jeff Sharlet (author of The _Family_, co-author of _Killing the Buddha_) 📚
+Want to read _[The Undertow: Scenes from a Slow Civil War](https://bookshop.org/a/21729/9781324074519)_ by Jeff Sharlet (author of The _Family_, co-author of _Killing the Buddha_) 📚

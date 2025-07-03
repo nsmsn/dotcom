@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Started reading: [Four Thousand Weeks: Time Management for Mortals](https://micro.blog/books/9780374715243) by Oliver Burkeman 📚
+Started reading: [Four Thousand Weeks: Time Management for Mortals](https://bookshop.org/a/21729/9781250849359) by Oliver Burkeman 📚

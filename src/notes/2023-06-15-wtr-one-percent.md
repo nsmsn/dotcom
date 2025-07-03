@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Want to read: [The One Percent Solution](https://micro.blog/books/9781501708176) by Gordon Lafer 📚
+Want to read: [The One Percent Solution](https://bookshop.org/a/21729/9781501703065) by Gordon Lafer 📚

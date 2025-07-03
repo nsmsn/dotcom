@@ -5,7 +5,7 @@ tags:
   - "Books"
 ---
 
-Finished reading: [The Dawn of Everything: A New History of Humanity](https://micro.blog/books/9780771049835) by David Graeber and David Wengrow 📚
+Finished reading: [The Dawn of Everything: A New History of Humanity](https://bookshop.org/a/21729/9781250858801) by David Graeber and David Wengrow 📚
 
 This book is worth reading, as are the critiques of it, especially the [responses by Chris Knight, Nancy Lindisfarne, and Jonathan Neale](https://climateandcapitalism.com/2021/12/17/the-dawn-of-everything-gets-human-history-wrong/). I would not waste your time with any reviews penned by employees of the American Enterprise Institute.
 

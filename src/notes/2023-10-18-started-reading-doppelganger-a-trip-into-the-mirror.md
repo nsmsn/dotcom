@@ -5,4 +5,4 @@ tags:
   - "Books"
 ---
 
-Started reading _[Doppelganger](https://micro.blog/books/9781039006904)_: _A Trip into the Mirror World_ by Naomi Klein. ISBN: 9781039006904 📚
+Started reading _[Doppelganger](https://bookshop.org/a/21729/9781250338143)_: _A Trip into the Mirror World_ by Naomi Klein. ISBN: 9781039006904 📚

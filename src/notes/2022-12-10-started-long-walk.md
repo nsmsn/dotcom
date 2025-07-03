@@ -6,4 +6,4 @@ tags:
   - "History"
 ---
 
-Started reading [Long Walk to Freedom](https://micro.blog/books/9780759521049), the Autobiography of Nelson Mandela 📚
+Started reading [Long Walk to Freedom](https://bookshop.org/a/21729/9780316548182), the Autobiography of Nelson Mandela 📚
