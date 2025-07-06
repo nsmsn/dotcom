@@ -1,5 +1,5 @@
 ---
-title: People and Blogs No. 97
+title: People and Blogs № 97
 date: 2025-07-04T13:31:03.164-06:00
 ---
 
