@@ -15,7 +15,6 @@
     ${ page/head ?? "" }
   </head>
   <body>
-  <div class="canvas">
     ${ header.html }
     ${ navigation.html }
 
@@ -26,7 +25,6 @@
     </main>
 
     ${ footer.html }
- </div>
  
   </body>
 </html>

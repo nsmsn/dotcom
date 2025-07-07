@@ -1,0 +1,295 @@
+/* Hanken Grotesk */
+@font-face {
+    font-family: "Hanken Grotesk";
+    font-style: normal;
+    font-weight: 400;
+    src: url("/assets/fonts/HankenGrotesk-Regular.woff2") format("woff2");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Hanken Grotesk";
+    font-style: italic;
+    font-weight: 400;
+    src: url("/assets/fonts/HankenGrotesk-Italic.woff2") format("woff2");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Hanken Grotesk";
+    font-style: normal;
+    font-weight: 700;
+    src: url("/assets/fonts/HankenGrotesk-Bold.woff2") format("woff2");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Hanken Grotesk";
+    font-style: italic;
+    font-weight: 700;
+    src: url("/assets/fonts/HankenGrotesk-BoldItalic.woff2") format("woff2");
+    font-display: swap;
+}
+
+/* Server Mono */
+@font-face {
+    font-family: "Server Mono";
+    font-style: normal;
+    font-weight: 400;
+    src: url("/assets/fonts/ServerMono-Regular.woff2") format("woff2");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Server Mono";
+    font-style: italic;
+    font-weight: 400;
+    src: url("/assets/fonts/ServerMono-Regular-Italic.woff2") format("woff2");
+    font-display: swap;
+}
+
+:root {
+    color-scheme: light dark;
+    /* Colors */
+	--color-code: #97082c;
+	--color-highlight: #defa09;
+	--color-text: #272727;
+	--color-bg: #f6f2eb;
+	/* Fonts */
+	--font-primary: 'Hanken Grotesk', system-ui, "Helvetica Neue", Arial, sans-serif;
+	--font-monospace: Menlo, Monaco, "Courier New", monospace;
+	--font-server: 'Server Mono', monospace;
+	/* Sizes */
+	--font-size: 125%;
+	--spacing: 1.6em;
+	--container-width: 88%;
+	--container-max-width: 80em;
+}
+
+a,
+button,
+input,
+select,
+textarea,
+label,
+summary {
+	touch-action: manipulation;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: border-box;
+}
+
+html,body {
+    height: 100%;
+}
+
+html {
+	overflow-y: scroll;
+    scroll-behavior: smooth;
+	-moz-text-size-adjust: none;
+	-webkit-text-size-adjust: none;
+	text-size-adjust: none;
+}
+
+body {
+	margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    padding: 0.5rem 0;
+    flex: 1 0 auto;
+}
+
+footer {
+    flex-shrink: 0;
+}
+
+img,
+video {
+	max-width: 100%;
+	height: auto;
+}
+
+iframe,
+object,
+embed {
+	max-width: 100%;
+}
+
+figure {
+  margin: 0 0;
+  padding: 0 0;
+}
+
+[tabindex="-1"]:focus {
+	outline: none;
+}
+
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: var(--container-max-width);
+	width: var(--container-width);
+}
+
+.container-small {
+  max-width: 32em;
+}
+
+.container-med {
+  max-width: 960px;
+}
+
+/**
+ * @section Grid
+ * Structure and layout
+ */
+/**
+ * Base wrapper class
+ */
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: var(--container-max-width);
+	width: var(--container-width);
+}
+
+.container-small {
+  max-width: 32em;
+}
+
+.container-med {
+  max-width: 960px;
+}
+
+/**
+ * Grids
+ */
+@media (min-width: 64em) {
+	.row {
+		display: grid;
+		grid-template-columns: repeat(12, 1fr);
+		grid-template-rows: 1fr auto;
+		gap: 2%;
+	}
+
+	.row-gap-large {
+		gap: 4%;
+	}
+
+	.row-gap-xlarge {
+		gap: 8%;
+	}
+
+	.row-no-gap {
+		gap: 0;
+	}
+
+	.row-auto {
+		grid-template-columns: repeat(auto-fit, minmax(1em, 1fr));
+	}
+
+	.grid-fourth {
+		grid-column: auto/span 3;
+	}
+
+	.grid-third {
+		grid-column: auto/span 4;
+	}
+
+	.grid-two-thirds {
+		grid-column: auto/span 8;
+	}
+
+	.grid-half {
+		grid-column: auto/span 6;
+	}
+
+	.grid-three-fourths {
+		grid-column: auto/span 9;
+	}
+
+	[class*=grid-start-] {
+		grid-row-start: 1;
+	}
+
+	.grid-start-first {
+		grid-column-start: 1;
+	}
+
+	.grid-start-fourth {
+		grid-column-start: 4;
+	}
+
+	.grid-start-third {
+		grid-column-start: 5;
+	}
+
+	.grid-start-half {
+		grid-column-start: 7;
+	}
+
+	.grid-start-two-thirds {
+		grid-column-start: 9;
+	}
+
+	.grid-start-three-fourths {
+		grid-column-start: 10;
+	}
+}
+
+/* More Grid stuff */    
+
+.auto-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(var(--auto-grid-min-size, 10rem), 2fr));
+	grid-gap: 1.5rem;
+}
+  
+.flexo {
+	display: flex;
+	flex-wrap: wrap;
+	margin: -0.5em;
+}
+	  
+.flexo > * {
+	flex: 1 0 18em;
+	margin: 0.75em;
+}
+
+/**
+ * @section Typography
+ * Sets font styles for entire site
+ */
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	font-family: var(--font-primary);
+	font-size: var(--font-size);
+	line-height: 1.5;
+}
+@media (min-width: 40em) {
+	body {
+		line-height: 1.5625;
+	}
+}
+
+p {
+	margin: 0 0 var(--spacing);
+}
+
+p, small {
+	max-width: 72ch;
+}
+
+li, blockquote {
+	max-width: 64ch;
+}
