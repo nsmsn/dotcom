@@ -12,6 +12,10 @@
     <link rel="icon" type="image/svg+xml" href="/img/meta/favicon.svg">
     <link rel="apple-touch-icon" href="/img/meta/apple-touch-icon.png"><!-- 180×180 -->
 
+    <!--mastodon-->
+    <link rel="me" href="https://social.lol/@nsmsn" />
+    <meta name="fediverse:creator" content="@nsmsn@social.lol" />
+
     ${ page/head ?? "" }
   </head>
   <body>
