@@ -96,6 +96,12 @@ flirora.xyz: [Reflections on “Pointed and pointfree glossing”](https://fliro
 
 <hr />
 
+fractalkitty.com: [Take Two](https://www.fractalkitty.com/take-two-2/)
+
+Fractal Kitty wrote a haiku as well as programming two colorful orbiting bodies, and you have to click on the link to experience this one. ☝️
+
+<hr />
+
 gregnewman.io: [Emacs Take Two (Eglot)](https://gregnewman.io/blog/emacs-take-two/).
 
 > I started using Emacs about 20 years ago. From the start I was heavily involved in the Emacs IRC channel and the Org mode mailing list. I contributed the refresh of the Org mode logo to Dr. Carsten Dominik and the community as a small thank you for such a great package. All my notes were stored in Org mode files, along with my task lists. For development I used Elpy for Python and Webmode for anything HTML and Javascript. Elpy was good enough for me back then. Webmode was just ok but had a lot of problems with javascript. I jumped over to LSP mode pretty early and that solved a lot of problems with Python but it was a pain to configure and broke at the most inconvenient times. I was frustrated a lot of the time I was trying to work.
