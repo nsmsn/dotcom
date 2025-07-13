@@ -1,5 +1,8 @@
 # Netlify-specific file: Redirects from what the browser requests to what we serve
 
+https://www.nicks.im/*                          https://www.nicksimson.com/:splat 301!
+https://nicks.im/*                              https://www.nicksimson.com/:splat 301!
+
 /home                                                   /
 /feed                                                   /feed.xml
 /feed/feed.xml                                          /feed.xml
