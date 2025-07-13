@@ -19,6 +19,7 @@ Things that make my life easier or more enjoyable.
 - Keyboard: [Apple A1234](https://www.ebay.com/sch/33963/i.html?_nkw=apple+a1234&_from=R40) from 2007... still works!
 - Notebooks: [Rhodia wirebound dot grid](https://rhodiapads.com/collections_dot_top_wirebound.php), size A5
 - Wallet: I like both the elastic/canvas ones made by [Crabby Gear](https://crabbygear.com/)
+- Sunscreen: Coppertone Sport Mineral, SPF 50
 - Guitars: 1990s Epiphone T-310; 1980s Alvarez Artist Series; 1970s Martin D12-20
 - Shoes: Clarks desert boots; Converse Jack Purcells
 
