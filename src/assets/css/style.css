@@ -1332,6 +1332,21 @@ a.site-logo:hover {
       	}
   	}
 
+/* Animated Rotating image */
+
+.img-rotate {
+	animation: imgRotate 8s linear infinite;
+}
+
+@keyframes imgRotate {
+ 0%{
+    transform: rotate(0deg);
+   }
+100%{
+    transform: rotate(360deg);
+   }
+}
+
 /* Third Party */
 
 .statuslol_emoji_container {

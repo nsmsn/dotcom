@@ -19,3 +19,5 @@ If you like what I’m doing and want to support my blogging habit, there are a 
 ## Chaos Club supporters
 
 <small>No one yet!</small>
+
+<img src="/img/static/chaos-club-sticker.png" alt="I gave one dollar to join the Chaos Club and all I got was this lousy sticker" width="240" height="240" class="img-circle" loading="lazy">
