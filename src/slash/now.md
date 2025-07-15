@@ -53,7 +53,7 @@ I am currently:
 <div id="weather"></div>
 <small>(<a href="https://openweathermap.org/city/5454711">Forecast by OpenWeather</a>)</small>
 
-<p class="padding-top">The <a href="https://en.wikipedia.org/wiki/Albuquerque%2C_New_Mexico)">Duke City</a> has been home since 2023. I am slowly making more friends here! And among an abundance of breakfast burritos, I’m searching for the best&nbsp;one.</p> 
+<p class="padding-top">The <a href="https://en.wikipedia.org/wiki/Albuquerque%2C_New_Mexico)">Duke City</a> has been home since 2023. I am slowly making more friends&nbsp;here!</p> 
 
 
 &nbsp;
@@ -77,7 +77,7 @@ I use [Literal](https://literal.club/nsmsn/is-reading) and [The StoryGraph](http
 
 <small>
 This page uses a few third-party widgets and APIs to display my current status, weather, books, and music.<br />
-<em>Last manually updated July 11, 2025.</em>
+<em>Last manually updated July 15, 2025.</em>
 </small>
 
 &nbsp;
