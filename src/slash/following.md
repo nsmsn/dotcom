@@ -57,6 +57,7 @@ Artists, designers, developers, educators, illustrators, writers, and&nbsp;other
 <li><a href="https://www.robinsloan.com/">Robin Sloan</a></li>
 <li><a href="https://cattsmall.com/">Catt Small</a></li>
 <li><a href="https://davesmyth.com/">Dave Smyth</a></li>
+<li><a href="https://www.sarasoueidan.com/">Sara Soueidan</a></li>
 <li><a href="https://reillyspitzfaden.com/">Reilly Spitzfaden</a></li>
 <li><a href="https://mattstein.com/">Matt Stein</a></li>
 <li><a href="https://donnytruong.com/">Donny Trương</a></li>
@@ -87,6 +88,7 @@ Artists, designers, developers, educators, illustrators, writers, and&nbsp;other
 <li><a href="https://notes.neatnik.net/">notes.neatnik.net</a></li>
 <li><a href="https://olu.online/">olu.online</a></li>
 <li><a href="https://starrwulfe.xyz/">starrwulfe.xyz</a></li>
+<li><a href="https://thehistoryoftheweb.com/">thehistoryoftheweb.com</a></li>
 <li><a href="https://www.thisdaysportion.com/">thisdaysportion.com</a></li>
 </ul>
 
