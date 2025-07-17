@@ -12,7 +12,7 @@ Things that make my life easier or more enjoyable.
 - Password manager: [Dashlane](https://www.dashlane.com/en/cs/3bba20c3)
 - Cell phone company: [Mint Mobile](http://fbuy.me/uSQoL)
 - Graphics software: [Affinity](https://affinity.serif.com/en-us/) Designer, Photo, and Publisher
-- Web browsers: [Vivaldi](https://vivaldi.com/), [Zen](https://zen-browser.app/) (free!)
+- Web browsers: [Orion](https://kagi.com/orion/), [Vivaldi](https://vivaldi.com/), [Zen](https://zen-browser.app/) (free!)
 - RSS reader: [NetNewsWire](https://netnewswire.com/) (free!)
 - Business cards: [Moo.com](https://refer.moo.com/s/emnqw) (their Printfinity option is way cool)
 - Laser printer: [Brother HL-L2325DW](https://www.brother-usa.com/products/hll2325dw)
@@ -30,4 +30,4 @@ Things that make my life easier or more enjoyable.
 - [Are.na](https://www.are.na/) <small>($70/year)</small>: I might be able to cobble together a self-hosted visual bookmarking service, but it wouldn't be as cool or&nbsp;fun.
 - [Crucial Tracks](https://www.crucialtracks.org/) <small>($40/year)</small>: Music blog and journaling app.
 - [Defector](https://defector.com/) <small>($79/year)</small>:  The last good website. Worker-owned sports and culture commentary.
-- [omg.lol](https://home.omg.lol/referred-by/nsmsn) <small>($20/year)</small>: Powers my Mastodon presence, has some fun features and an awesome [community](https://home.omg.lol/info/community).
+- [omg.lol](https://home.omg.lol/referred-by/nsmsn) <small>($20/year)</small>: Powers my Mastodon presence, packed with fun features and an awesome [community](https://home.omg.lol/info/community).
