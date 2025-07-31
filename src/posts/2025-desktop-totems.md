@@ -24,11 +24,11 @@ First up is this tiny duck decoy, which my wife acquired at a thrift store or ya
 
 My wife also surprised me one year with this green utility truck, similar to the model my grandpa drove and rode in during his postwar years as a lineman for New York Telephone. Somewhere I have a black-and-white photo of him in front of his truck, plus a number of other old Bell System items: a beltbuckle, a drink coaster, and grandpa's lifetime member Communications Workers of America union card, etched in metal.
 
-<img src="/img/post-images/2025-rowdy.jpg" alt="a two-tone white and navy blue baseball with a horse mascot printed on it" width="600" height="600" loading="lazy">
+<img src="/img/post-images/2025-totem-rowdy.jpg" alt="a two-tone white and navy blue baseball with a horse mascot printed on it" width="600" height="600" loading="lazy">
 
 I will probably start collecting baseballs next. This one was sent from a friend who knows I like the Mets. It features Rowdy, the mascot for the AA Binghamton Rumble Ponies.
 
-<img src="/img/post-images/2025-dome.jpg" alt="a small red four-tiered Devo energy dome" width="600" height="600" loading="lazy">
+<img src="/img/post-images/2025-totem-dome.jpg" alt="a small red four-tiered Devo energy dome" width="600" height="600" loading="lazy">
 
 This is not an officially licensed [energy dome](https://en.wikipedia.org/wiki/Energy_dome). This came from someone's 3D printer and was listed for under five bucks on eBay. I also have one in blue.
 
