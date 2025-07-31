@@ -1,6 +1,6 @@
 ---
 title: "Desktop Totems"
-date: "025-07-31T13:07:47.271-06:00"
+date: "2025-07-31T13:07:47.271-06:00"
 description: "Things I keep near me while I am working."
 tags:
   - "Personal"
