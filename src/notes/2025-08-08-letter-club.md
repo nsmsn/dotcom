@@ -1,6 +1,8 @@
 ---
 title: Letter Club
 date: 2025-08-08T08:31:00.336-06:00
+tags:
+  - "Newsletter"
 ---
 
 [Naz Hamid writing about his new project Letter Club](https://nazhamid.com/journal/letter-club/):
