@@ -5,7 +5,7 @@ description: If you like what I'm doing, here's some ways to send me money.
 
 # Support this site
 
-This website is a hobby, and I’m not expecting to replace my day job or income by blogging. That said, it does cost a little money to run a website. My main expenses are web/email hosting each month and domain renewal costs each&nbsp;year.
+This website is a **hobby**, and I’m not expecting to replace my day job or income by blogging. That said, it does cost a little money to run a website. My main expenses are web/email hosting each month and domain renewal costs each&nbsp;year.
 
 If you like what I’m doing and want to support my blogging habit, there are a couple ways you can show your&nbsp;support:
 

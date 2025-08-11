@@ -32,6 +32,7 @@ Here are links to my other projects and profiles around the World Wide Web.
 
 - [Bandcamp](https://bandcamp.com/nsmsn)
 - [Bookshop](https://bookshop.org/shop/nsmsn) (buy a 📕 from me!)
+- [Cotton Bureau](https://cottonbureau.com/people/nick-simson) (buy a 👕 from me!)
 - [Crucial Tracks](https://app.crucialtracks.org/profile/nsmsn)
 - [Huffduffer](https://huffduffer.com/nsmsn)
 - [IndieWeb.org](https://indieweb.org/User:Nicksimson.com)
