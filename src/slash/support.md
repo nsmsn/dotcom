@@ -18,6 +18,7 @@ If you like what I’m doing and want to support my blogging habit, there are a 
 
 ## Chaos Club supporters
 
-<ul class="list-unstyled list-multi-col">
+<ul class="list-unstyled">
 <li><a href="https://rknight.me/">Robb Knight</a></li>
+<li><a href="https://sekhmetdesign.thegeekcartel.com/">SekhmetDesign</a></li>
 </ul>
