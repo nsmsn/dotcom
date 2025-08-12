@@ -29,6 +29,7 @@ description: (Almost) every page or directory on this website, in alphabetical o
 - [/radio](/radio.html)
 - [/robots.txt](/robots.txt)
 - [/search](/search.html)
+- [/shop](/shop.html)
 - [/support](/support.html)
 - [/tags](/tags/)
 - [/this-site](/this-site.html)

@@ -10,11 +10,13 @@ This website is a **hobby**, and I’m not expecting to replace my day job or in
 If you like what I’m doing and want to support my blogging habit, there are a couple ways you can show your&nbsp;support:
 
 <ul>
-    <li>🆕 <a href="https://ko-fi.com/summary/1716455c-164b-4a91-9761-7335be8d0b59">Join the Chaos Club for $1 a month</a> and get your name (and hyperlink) featured on this page.</li>
+    <li>🆕 <a href="https://ko-fi.com/summary/1716455c-164b-4a91-9761-7335be8d0b59">Join the Chaos Club for $1 a month</a> and get your name (and hyperlink) featured on this&nbsp;page.</li>
     <li><a href="https://ko-fi.com/nsmsn">Buy me a coffee</a>. This website is powered by caffeine, and more coffee is always appreciated.</li>
     <li><a href="https://bookshop.org/shop/nsmsn">Buy a book from me</a>. I’m an affiliate of Bookshop.org and any purchases made using my links will earn me (and bookstores!) a small commission.</li>
     <li>Share one of my posts! Although few of us are paid in links, the humble hyperlink is still the beating heart of the world wide&nbsp;web.</li>
 </ul>
+
+[Don't buy anything from my shop](/shop.html), or else you might encourage me to create new&nbsp;swag.
 
 ## Chaos Club supporters
 
