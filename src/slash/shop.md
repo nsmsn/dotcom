@@ -20,6 +20,16 @@ I'm selling these 2-inch wide stickers. Slap 'em on your laptop or other hardwar
 
 &nbsp;
 
+## Embroidered Shirts
+<img src="/img/static/embroidery.png" alt="Two shirts with Webmeister embroidered on them in a medieval blackletter monospaced font" width="828" height="480" loading="lazy">
+
+"Webmeister" set in [Kelmscott Mono](https://github.com/seeddisperser/kelmscott-mono).
+
+- [Webmeister in orange embroidery](https://cottonbureau.com/p/BNDP9J/shirt/webmeister#/29378971/tee-men-premium-lightweight-macchiato-tri-blend-s) $35 USD (Cotton Bureau)
+- [Webmeister in white embroidery](https://cottonbureau.com/p/BSA38W/shirt/webmeister) $35 USD (Cotton Bureau) 
+
+&nbsp;
+
 ## IndieWeb is Metal
 <img src="/img/post-images/2025-indieweb-glowing.jpg" alt="glowing green IndieWeb logo made from tangly thorny tendrils" width="240" height="240" loading="lazy">
 
