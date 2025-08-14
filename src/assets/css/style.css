@@ -1296,6 +1296,10 @@ a.site-logo:hover {
   font-weight: 400;
 }
 
+.text-bold {
+  font-weight: 700;
+}
+
 .img-multiply {
     mix-blend-mode: multiply;
 }
