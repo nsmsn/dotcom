@@ -21,12 +21,13 @@ I'm selling these 2-inch wide stickers. Slap 'em on your laptop or other hardwar
 &nbsp;
 
 ## Embroidered Shirts
-<img src="/img/static/embroidery.png" alt="Two shirts with Webmeister embroidered on them in a medieval blackletter monospaced font" width="828" height="480" loading="lazy">
+<img src="/img/static/embroidery.png" alt="Short and long sleeved shirts with Webmeister embroidered on them in a medieval blackletter monospaced font and a shirt with the HTML strong tag embroidered in a monospaced font" width="1276" height="480" loading="lazy">
 
-"Webmeister" set in [Kelmscott Mono](https://github.com/seeddisperser/kelmscott-mono).
+"Webmeister" set in [Kelmscott Mono](https://github.com/seeddisperser/kelmscott-mono), plus the HTML <code>strong</code> tag set in [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous/).
 
-- [Webmeister in orange embroidery](https://cottonbureau.com/p/BNDP9J/shirt/webmeister#/29378971/tee-men-premium-lightweight-macchiato-tri-blend-s) $35 USD (Cotton Bureau)
-- [Webmeister in white embroidery](https://cottonbureau.com/p/BSA38W/shirt/webmeister) $35 USD (Cotton Bureau) 
+- [Webmeister in white embroidery](https://cottonbureau.com/p/BSA38W/shirt/webmeister) from $35 USD (Cotton Bureau)
+- [Webmeister in orange embroidery](https://cottonbureau.com/p/BNDP9J/shirt/webmeister#/29378971/tee-men-premium-lightweight-macchiato-tri-blend-s) from $35 USD (Cotton Bureau)
+- [Strong Tag in white embroidery](https://cottonbureau.com/p/R595K6/shirt/strong) from $35 USD (Cotton Bureau)
 
 &nbsp;
 
@@ -36,7 +37,7 @@ I'm selling these 2-inch wide stickers. Slap 'em on your laptop or other hardwar
 Having your own website is powerful. The words "IndieWeb" rendered as a heavy metal logo. Money from these products will be donated to the [IndieWeb Open Collective](https://opencollective.com/indieweb).
 
 - [2-pack glow-in-the-dark stickers](https://ko-fi.com/s/a4d98e4503) $12 USD (ko-fi)
-- [Black logo printed on a natural totebag](https://cottonbureau.com/p/476ZPW/tote/indieweb-is-metal) $21 USD (Cotton Bureau)
-- [Purple logo printed on a black totebag](https://cottonbureau.com/p/PK5UV6/tote/indieweb-is-metal-purple-on-black) $21 USD (Cotton Bureau)
-- [Black logo printed on a garment](https://cottonbureau.com/p/2RF754/shirt/indieweb-is-metal) $29 and up (Cotton Bureau)
-- [Purple logo printed on a black garment](https://cottonbureau.com/p/SAGWTG/shirt/indieweb-is-metal-purple-on-black) $29 and up (Cotton Bureau)
+- [Black logo printed on a natural totebag](https://cottonbureau.com/p/476ZPW/tote/indieweb-is-metal) from $21 USD (Cotton Bureau)
+- [Purple logo printed on a black totebag](https://cottonbureau.com/p/PK5UV6/tote/indieweb-is-metal-purple-on-black) from $21 USD (Cotton Bureau)
+- [Black logo printed on a garment](https://cottonbureau.com/p/2RF754/shirt/indieweb-is-metal) from $29 and up (Cotton Bureau)
+- [Purple logo printed on a black garment](https://cottonbureau.com/p/SAGWTG/shirt/indieweb-is-metal-purple-on-black) from $29 and up (Cotton Bureau)

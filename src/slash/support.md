@@ -16,7 +16,7 @@ If you like what I’m doing and want to support my blogging habit, there are a 
     <li>Share one of my posts! Although few of us are paid in links, the humble hyperlink is still the beating heart of the world wide&nbsp;web.</li>
 </ul>
 
-[Don't buy anything from my shop](/shop.html), or else you might encourage me to create new&nbsp;swag.
+[Don't buy anything from my shop](/shop.html). It will only encourage me to create new&nbsp;swag.
 
 ## Chaos Club supporters
 
