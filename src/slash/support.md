@@ -18,9 +18,12 @@ If you like what I’m doing and want to support my blogging habit, there are a 
 
 [Don't buy anything from my shop](/shop.html). It will only encourage me to create new&nbsp;swag.
 
+&nbsp;
+
 ## Chaos Club supporters
 
 <ul class="list-unstyled">
 <li><a href="https://rknight.me/">Robb Knight</a></li>
 <li><a href="https://sekhmetdesign.thegeekcartel.com/">SekhmetDesign</a></li>
+<li><a href="https://mattstein.com/">Matt Stein</a></li>
 </ul>
