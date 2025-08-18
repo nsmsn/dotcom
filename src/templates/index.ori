@@ -5,7 +5,7 @@
     <link rel="alternate" type="application/rss+xml" title="${ siteInfo.yaml/description }" href="/feed.xml">
     <link rel="alternate" type="application/json" title="${ siteInfo.yaml/description }" href="/feed.json">
   `
-  @text: `
+  _body: `
     <h1 id="greeting" class="home-heading">Hello.</h1>
     <script>
       var myDate = new Date();
@@ -89,10 +89,10 @@
     <div class="grid-half">
     <h2 class="text-small text-uppercase text-secondary no-padding-top">Latest notes</h2>
     <ol reversed class="list-unstyled posts-list">
-    ${ map(notes, (note) => `
+    ${ Tree.map(notes, (note) => `
       <li>
       <article class="note-single outline margin-bottom-xlarge">
-        ${ note/@text }
+        ${ note/_body }
         <small class="timestamp"><a href="${ note/path }">${ date.ori(note/date) }</a></small>
       </article>  
       </li>

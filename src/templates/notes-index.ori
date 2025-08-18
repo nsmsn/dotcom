@@ -5,14 +5,14 @@
     <link rel="alternate" type="application/rss+xml" title="Notes from ${ siteInfo.yaml/title }" href="/notes/feed.xml">
     <link rel="alternate" type="application/json" title="Notes from ${ siteInfo.yaml/title }" href="/notes/feed.json">
   `
-  @text: `
+  _body: `
     <h1>${ title }</h1>
     <ol reversed class="list-unstyled posts-list">
 
-    ${ map(noteSet/items, (note) => `
+    ${ Tree.map(noteSet/items, (note) => `
       <li>
       <article class="note-single container-med margin-bottom-xlarge h-entry">
-        ${ note/@text }
+        ${ note/_body }
         <small class="timestamp"><a href="${ note/path }">${ date.ori(note/date) }</a></small>
       </article>  
       </li>
@@ -21,7 +21,7 @@
     </ol>
     <p>
       ${ noteSet/nextPage
-          ? indent`
+          ? Tree.indent`
             <a class="next" href="/notes/pages/${ noteSet/nextPage }.html">
               <strong>Older notes</strong>
             </a>
@@ -30,7 +30,7 @@
           : ""
       }
       ${ noteSet/previousPage
-          ? indent`
+          ? Tree.indent`
             <a class="previous" href="${
               noteSet/previousPage == 1 ? "/notes" : `/notes/pages/${ noteSet/previousPage }.html`
             }">

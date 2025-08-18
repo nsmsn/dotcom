@@ -24,7 +24,7 @@
 
     <main id="main-content">
     <div class="container">
-    ${ page/@text }
+    ${ page/_body }
     </div>
 
     <!-- poisoning the AI well (https://davesmyth.com/poisoning-the-ai-well)-->

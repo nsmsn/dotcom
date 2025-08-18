@@ -8,27 +8,27 @@
   library.html = templates/library.ori(data/library.json)
 
   posts = {
-    ...map(data/posts.ori, templates/post.ori)
+    ...Tree.map(data/posts.ori, templates/post.ori)
     index.html = templates/posts-index.ori(data/posts.ori)
-    feed.json = json(feed-posts.ori(data/posts.ori))
-    feed.xml = rss(feed-posts.ori(data/posts.ori))
+    feed.json = Tree.json(feed-posts.ori(data/posts.ori))
+    feed.xml = Origami.rss(feed-posts.ori(data/posts.ori))
   }
 
   notes = {
-    ...map(data/notes.ori, templates/note.ori)
-    (noteSets) = paginate(data/notes.ori, 10)
-    pages/ = map(noteSets, {
+    ...Tree.map(data/notes.ori, templates/note.ori)
+    (noteSets) = Tree.paginate(data/notes.ori, 10)
+    pages/ = Tree.map(noteSets, {
       extension: "->.html"
       value: templates/notes-index.ori
     })
     index.html = pages/1.html
-    feed.json = json(feed-notes.ori(data/notes.ori))
-    feed.xml = rss(feed-notes.ori(data/notes.ori))
+    feed.json = Tree.json(feed-notes.ori(data/notes.ori))
+    feed.xml = Origami.rss(feed-notes.ori(data/notes.ori))
   }
 
   tags = {
-    ...map(data/tags.ori, {
-      key: (items, tag) => `${ slug(tag) }.html`
+    ...Tree.map(data/tags.ori, {
+      key: (items, tag) => `${ Origami.slug(tag) }.html`
       value: templates/tag.ori
     })
     index.html = templates/tags-index.ori(data/tags.ori)
@@ -36,17 +36,17 @@
 
   vinyl.html = templates/vinyl.ori(data/vinyl.json)
 
-  work/ = map(map(./work, mdHtml), templates/page.ori)
+  work/ = Tree.map(Tree.map(./work, mdHtml), templates/page.ori)
 
   index.html = templates/index.ori(
-    first(data/posts.ori)
-    take(data/notes.ori, 3)
+    Tree.first(data/posts.ori)
+    Tree.take(data/notes.ori, 3)
   )
 
-  ...map(map(slash, mdHtml), templates/page.ori)
+  ...Tree.map(Tree.map(<slash>, mdHtml), templates/page.ori)
 
-  feed.json = json(feed.ori(data/combined.ori))
-  feed.xml = rss(feed.ori(data/combined.ori))
+  feed.json = Tree.json(feed.ori(data/combined.ori))
+  feed.xml = Origami.rss(feed.ori(data/combined.ori))
 
   _redirects
   favicon.ico
@@ -57,10 +57,10 @@
 }
 
 // Only build each page once
-→ (site) => cache(site)
+→ (site) => Tree.cache(site)
 
 // Use the pages to make both the site and the search index
 → (cached) => {
     ...cached
-    pagefind/ = once(=package:@weborigami/pagefind(cached))
+    pagefind/ = Origami.once(=package:@weborigami/pagefind(cached))
   }

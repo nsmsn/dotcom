@@ -1,15 +1,15 @@
 // Turn all the markdown files in `posts` into data ready for templating
 
 // Turn the markdown in each post into HTML
-map(posts, mdHtml)
+Tree.map(posts, Origami.mdHtml)
 
--> (postsHtml) => map(postsHtml, (post, key) => {
+-> (postsHtml) => Tree.map(postsHtml, (post, key) => {
   ...post
-  date: new:Date(post/date)
+  date: new Date(post/date)
   path: `/posts/${ key }`
   type: "post"
 })
 
--> (postsWithDates) => sort(postsWithDates, (post) => post/date)
+-> (postsWithDates) => Tree.sort(postsWithDates, (post) => post/date)
 
--> reverse
+-> Tree.reverse

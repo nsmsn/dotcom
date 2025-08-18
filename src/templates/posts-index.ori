@@ -5,11 +5,11 @@
     <link rel="alternate" type="application/rss+xml" title="Posts from ${ siteInfo.yaml/title }" href="/posts/feed.xml">
     <link rel="alternate" type="application/json" title="Posts from ${ siteInfo.yaml/title }" href="/posts/feed.json">
   `
-  @text: `    
+  _body: `    
     <h1>${ title }</h1>
     <ol reversed class="list-unstyled posts-list">
 
-    ${ map(posts, (post) => `
+    ${ Tree.map(posts, (post) => `
       <li class="margin-bottom">
         <a href="${ post/path }" class="text-large text-bold">${ post/title }</a><br/>
         <small class="timestamp">${ date.ori(post/date) }</small>

@@ -1,6 +1,6 @@
 (items, tag) => page.ori({
   title: tag
-  @text: `
+  _body: `
     <h1>Tagged '${ tag }'</h1>
     
     <p>(<a href="/tags/index.html">View all tags</a>)</p>
@@ -9,7 +9,7 @@
 
     <ol reversed class="list-unstyled posts-list">
 
-    ${ map(items, (item,filename) => `
+    ${ Tree.map(items, (item,filename) => `
       <li>
       <article class="item-single margin-bottom-xlarge">
         ${
@@ -24,7 +24,7 @@
           `
 
           // Note
-          : item/@text
+          : item/_body
         }
         <small class="timestamp"><a href="${ item/path }">${ date.ori(item/date) }</a></small>
       </article>  

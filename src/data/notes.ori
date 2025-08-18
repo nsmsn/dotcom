@@ -1,15 +1,15 @@
 // Turn all the markdown files in `notes` into data ready for templating
 
 // Turn the markdown in each note into HTML
-map(notes, mdHtml)
+Tree.map(notes, Origami.mdHtml)
 
--> (notesHtml) => map(notesHtml, (note, key) => {
+-> (notesHtml) => Tree.map(notesHtml, (note, key) => {
   ...note
-  date: new:Date(note/date)
+  date: new Date(note/date)
   path: `/notes/${ key }`
   type: "note"
 })
 
--> (notesWithDates) => sort(notesWithDates, (note) => note/date)
+-> (notesWithDates) => Tree.sort(notesWithDates, (note) => note/date)
 
--> reverse
+-> Tree.reverse

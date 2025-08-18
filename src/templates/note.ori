@@ -1,7 +1,7 @@
 (note, key) => page.ori({
   title: note/title
   description: note/description
-  @text: `
+_body: `
   <div class="note-single v-centered">
   <article class="container-med h-entry">
   <div class="pre-note-meta">
@@ -9,17 +9,17 @@
   </div>
 
   ${ note/longitude !== undefined && note/latitude !== undefined
-      ? `<img class="map" src="/img/note-maps/${ basename(key) }.png" width="360" height="360" alt="">`
+      ? `<img class="map" src="/img/note-maps/${ Origami.basename(key) }.png" width="360" height="360" alt="">`
       : ''
     }
 
-  ${ note/@text }
+  ${ note/_body }
 
       <ul class="list-unstyled list-inline margin-top-xlarge">
 
-    ${ map(note/tags ?? [], (tagname) => `
+    ${ Tree.map(note/tags ?? [], (tagname) => `
       <li class="">
-        <a href="/tags/${ slug(tagname) }.html" class="tagged-item">${ tagname }</a>
+        <a href="/tags/${ Origami.slug(tagname) }.html" class="tagged-item">${ tagname }</a>
       </li>
     `) }
 

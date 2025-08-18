@@ -1,7 +1,7 @@
 (books) => page.ori({
   title: "Library"
   description: "A collection of books I’ve found enjoyable, instructive, useful, challenging, and inspired."
-  @text: `
+  _body: `
     <h1>${ title }</h1>
 
     <p>A collection of books I’ve found enjoyable, instructive, useful, challenging, and&nbsp;inspired.</p>
@@ -12,7 +12,7 @@
 
     <ul class="list-unstyled auto-grid">
 
-    ${ map(books, (book) => `
+    ${ Tree.map(books, (book) => `
       <li class="lib-item">
         <a href="${ book/url }" class="lib-title"> <img class="lib-cover" src="/img/library/${ book/cover }" alt="" width="" height="128" loading="lazy" />
         <span class="lib-title">${ book/title }</span>

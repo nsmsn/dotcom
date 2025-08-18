@@ -1,6 +1,6 @@
 // Posts and Notes
-merge(posts.ori, notes.ori)
+Tree.merge(posts.ori, notes.ori)
 
--> (combined) => sort(combined, (item) => item/date)
+-> (combined) => Tree.sort(combined, (item) => item/date)
 
--> reverse
+-> Tree.reverse

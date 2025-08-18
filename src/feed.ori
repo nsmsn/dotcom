@@ -7,8 +7,8 @@
   home_page_url: `${ siteInfo.yaml/url }`
   
   // Map the post data to JSON Feed items
-  items: values(map(items, (item, key) => {
-    content_html: item/@text
+  items: Tree.values(Tree.map(items, (item, key) => {
+    content_html: item/_body
     date_published: item/date
     id: `${ siteInfo.yaml/url }/${item/path}`
     title: item/type === "post" ? item/title : undefined

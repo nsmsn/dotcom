@@ -1,7 +1,7 @@
 (vinyls) => page.ori({
   title: "Vinyl Collection"
   description: "A collection of music I’ve accumulated over the years. Organized alphabetically by artist."
-  @text: `
+  _body: `
     <h1>${ title }</h1>
 
     <p>A collection of music I’ve accumulated over the years. I only buy records I intend to listen to, so everything here has been played again and again.</p>
@@ -10,7 +10,7 @@
 
     <ul class="list-unstyled auto-grid">
 
-    ${ map(vinyls, (vinyl) => `
+    ${ Tree.map(vinyls, (vinyl) => `
       <li class="lib-item">
         <a href="${ vinyl/url }"> <img src="/img/vinyl/${ vinyl/cover }" alt="" width="128" height="128" loading="lazy" />
         <span class="lib-title">${ vinyl/title }</span>
