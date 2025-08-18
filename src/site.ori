@@ -53,7 +53,7 @@
   humans.txt
   robots.txt 
 
-  search.html = templates/search.ori()
+  search.html = templates/search.ori/
 }
 
 // Only build each page once
@@ -62,5 +62,5 @@
 // Use the pages to make both the site and the search index
 → (cached) => {
     ...cached
-    pagefind/ = Origami.once(=package:@weborigami/pagefind(cached))
+    pagefind/ = Origami.once(() => package:@weborigami/pagefind(cached))
   }
