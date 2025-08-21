@@ -17,6 +17,8 @@ This list has an unfortunate bias toward places I’ve lived and visited, but id
 
 - [KHFM – Albuquerque/Santa Fe, NM](https://khfm.org/): 95.5 FM. Listener-supported public classical music station.
 
+- [KMUN – Astoria, OR](https://kmun.org/): 91.9 FM. Community radio with eclectic music and some NPR programming.
+
 - [KMRD – Madrid, NM](https://kmrd.fm/): 96.9 FM. Freeform, commercial-free community radio.
 
 - [KNCE – Taos, NM](https://truetaosradio.com/): 93.5 FM. Freeform radio in Taos, NM.
