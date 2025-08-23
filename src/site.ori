@@ -36,14 +36,14 @@
 
   vinyl.html = templates/vinyl.ori(data/vinyl.json)
 
-  work/ = Tree.map(Tree.map(./work, mdHtml), templates/page.ori)
+  work/ = Tree.map(Tree.map(./work, Origami.mdHtml), templates/page.ori)
 
   index.html = templates/index.ori(
     Tree.first(data/posts.ori)
     Tree.take(data/notes.ori, 3)
   )
 
-  ...Tree.map(Tree.map(<slash>, mdHtml), templates/page.ori)
+  ...Tree.map(Tree.map(<slash>, Origami.mdHtml), templates/page.ori)
 
   feed.json = Tree.json(feed.ori(data/combined.ori))
   feed.xml = Origami.rss(feed.ori(data/combined.ori))
