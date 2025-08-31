@@ -10,9 +10,9 @@ tags:
 
 This summer, I came up on a milestone: one year since purchasing an [omg.lol](https://omg.lol) address. I thought it might be fun and helpful to write up how I'm using _almost_ all the fun features of this web service/platform/thingy, but I want to get two important things out of the way:
 
-September is a great time to sign up, since their [annual fundraiser for St. Jude](https://omglol.news/st-jude-2025) is underway. The fundraiser coincides with Childhood Cancer Awarenes Month. Between now and September 30, 50% of every dollar omg.lol earns will be donated to [St. Jude Children's Research Hospital](https://www.stjude.org/).
+September is a great time to sign up, since their [annual fundraiser for St. Jude](https://omglol.news/st-jude-2025) is underway. The fundraiser coincides with Childhood Cancer Awareness Month. Between now and September 30, 50% of every dollar omg.lol earns will be donated to [St. Jude Children's Research Hospital](https://www.stjude.org/).
 
-It is also important to know that **this is not for everybody**. The use of omg.lol services to spread hate and negativity is not tolerated and the owner/operator is not shy about removing users for breaking the [code of conduct](https://home.omg.lol/info/code-of-conduct) or [terms of service](https://home.omg.lol/info/legal) agreements. You can also read the [About our Community page](https://home.omg.lol/info/community) to get a feel for what the community values, priortizes, and prctices. Adam's also created the [People Pledge](https://people.pledge.party/), which is linked in the footer. So as long as you are not acting in a pro-fascist, anti-trans, racist, ableist, ageist, etc. manner, you should be good to go!
+It is also important to know that **this is not for everybody**. The use of omg.lol services to spread hate and negativity is not tolerated and the owner/operator is not shy about removing users for breaking the [code of conduct](https://home.omg.lol/info/code-of-conduct) or [terms of service](https://home.omg.lol/info/legal) agreements. You can also read the [About our Community page](https://home.omg.lol/info/community) to get a feel for what the community values, prioritizes, and practices. Adam's also created the [People Pledge](https://people.pledge.party/), which is linked in the footer. So as long as you are not acting in a pro-fascist, anti-trans, racist, ableist, ageist, etc. manner, you should be good to go!
 
 ## Becoming aware of omg.lol
 
@@ -26,9 +26,9 @@ After stumbling across the [profile directory](https://home.omg.lol/directory), 
 
 <img src="/img/post-images/2025-omglol-weblog.png" alt="a split screen showing a web page in the markdown language on one side and a live web page on the other" width="960" height="636" loading="lazy">
 
-I think of the **Web Page** and **Email** as the two main features of omg.lol. When you create a username, this is what you are paying for and how you are identified on the service. The web page page editor shows a markdown file in one column, and a live preview in another. You can control what your page looks like with a theme, footer branding, and custom CSS. There are also page <code>title</code> and <code>description</code> metadata overrides as well as a field to add additional content to the HTML <code>head</code> elelment of the page. You upload your profile picture and can evencustomize a favicon here as well. Your profile page also sets up a mirroring Tildeverse page: [Here's mine](https://omg.lol/~nsmsn).
+I think of the **Web Page** and **Email** as the two main features of omg.lol. When you create a username, this is what you are paying for and how you are identified on the service. The web page page editor shows a markdown file in one column, and a live preview in another. You can control what your page looks like with a theme, footer branding, and custom CSS. There are also page <code>title</code> and <code>description</code> metadata overrides as well as a field to add additional content to the HTML <code>head</code> element of the page. You upload your profile picture and can even customize a favicon here as well. Your profile page also sets up a mirroring Tildeverse page: [Here's mine](https://omg.lol/~nsmsn).
 
-**Email** is a bit more straightforward. I set up my main personal email as the the forwarding address for <code>nsmsn@omg.lol</code>. There is also 'Recent email activity' that allows you to see what has been recieved by your omg.lol email. There's a Fastmail integration/partnership, which I am currently not using.
+**Email** is a bit more straightforward. I set up my main personal email as the the forwarding address for <code>nsmsn@omg.lol</code>. There is also 'Recent email activity' that allows you to see what has been received by your omg.lol email. There's a Fastmail integration/partnership, which I am currently not using.
 
 The next thing mentioned on the omg.lol home page is **DNS**. I am not currently using this feature, but you can [read all about DNS in the official documentation](https://home.omg.lol/info/dns). 
 
@@ -48,9 +48,9 @@ The **Statuslog** is something I really enjoy using. A status is just a short up
 
 That exhausts the features listed right under the home page hero. There's a lot more!
 
-**Weblog** is a blogging service that comes withyour omg.lol account. My main blog is here at nicksimson.com, but I thought I'd kick the tires on this a bit. I created [Nickipedia](https://nsmsn.weblog.lol/), which is an ongoing log of interesting Wikipedia articles I have looked up. Weblog.lol is a very simple markdown based blogging tool, but it gets the job done. Adam is currently building out [Neato](https://www.neato.pub/), a more fully featured web publishing service.
+**Weblog** is a blogging service that comes with your omg.lol account. My main blog is here at nicksimson.com, but I thought I'd kick the tires on this a bit. I created [Nickipedia](https://nsmsn.weblog.lol/), which is an ongoing log of interesting Wikipedia articles I have looked up. Weblog.lol is a very simple markdown based blogging tool, but it gets the job done. Adam is currently building out [Neato](https://www.neato.pub/), a more fully featured web publishing service.
 
-I am not using omg.lol's **/now page** since I have one on my domain that predates my omg.lol account. But [the way omg.lol does it](https://home.omg.lol/info/now) is quite interesting: it works very simialr to the profile page feature, and integrates with the weblog as well. You can set a periodic reminder to update your /now page. There's also a [/now Garden](https://now.garden/) that updates as users tend to their /now pages.
+I am not using omg.lol's **/now page** since I have one on my domain that predates my omg.lol account. But [the way omg.lol does it](https://home.omg.lol/info/now) is quite interesting: it works very similar to the profile page feature, and integrates with the weblog as well. You can set a periodic reminder to update your /now page. There's also a [/now Garden](https://now.garden/) that updates as users tend to their /now pages.
 
 **Charms** are not available yet (but [coming soon](https://charms.lol/)).
 
