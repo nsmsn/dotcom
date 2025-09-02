@@ -3,18 +3,16 @@ title: Playlist
 description: A WIP playlist of songs
 ---
 
+🚧 This is a work-in-progress demo. I'm going to delete and remove this page&nbsp;soon.
+
 <div class="row row-gap-xlarge">
 
 <div class="grid-half sticky-desktop">
-<div class="">
 <h1>Playlist</h1>
-
-🚧
 
 <p>This page is an attempt to keep a current playlist of all the songs I've featured on <a href="https://app.crucialtracks.org/profile/nsmsn">my Crucial Tracks profile</a>.</p>
 
 <small><a href="https://app.crucialtracks.org/profile/nsmsn/feed">Follow via RSS</a></small>
-</div>
 </div>
 
 <div class="grid-half">
