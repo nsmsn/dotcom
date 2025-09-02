@@ -294,8 +294,7 @@ figure {
 
 	.sticky-desktop {
 		position: sticky;
-		top: 24;
-		background-color: lightsalmon;
+		top: 4px;
 		align-self: start;
 	}
 }
