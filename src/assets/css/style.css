@@ -291,9 +291,17 @@ figure {
 	.grid-start-three-fourths {
 		grid-column-start: 10;
 	}
+
+	.sticky-desktop {
+		align-self: start;
+		position: sticky;
+		top: 24;
+		background-color: lightsalmon;
+		align-self: start;
+	}
 }
 
-/* More Grid stuff */    
+/* More Grid and Flexbox stuff */    
 
 .auto-grid {
 	display: grid;
