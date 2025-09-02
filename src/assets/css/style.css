@@ -293,7 +293,6 @@ figure {
 	}
 
 	.sticky-desktop {
-		align-self: start;
 		position: sticky;
 		top: 24;
 		background-color: lightsalmon;
