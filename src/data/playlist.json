@@ -1,13 +1,213 @@
 [
   {
-    "title": "",
-    "artist": "",
-    "album": "",
-    "artwork": "",
-    "permalink": "",
+    "title": "Nice Day",
+    "artist": "Tommy Womack",
+    "album": "There, I Said It!",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/e4/62/7f/mzi.qkyfgwtc.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250613",
+    "entrydate": "June 13, 2025",
+    "applemusic": "https://music.apple.com/us/album/nice-day/252534417?i=252534737",
+    "songlink": "https://song.link/i/252534737"
+  },
+  {
+    "title": "Gloria: In Excelsis Deo",
+    "artist": "Patti Smith",
+    "album": "Horses",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f4/3c/e7/f43ce7b9-e1fd-6df5-254d-b17212d4fb3d/mzi.nnqudssr.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250611",
+    "entrydate": "June 11, 2025",
+    "applemusic": "https://music.apple.com/us/album/gloria-in-excelsis-deo/266367955?i=266367958",
+    "songlink": "https://song.link/i/266367958"
+  },
+  {
+    "title": "The Guillotine",
+    "artist": "The Coup",
+    "album": "Sorry to Bother You",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7d/fa/17/7dfa1741-d6c4-74d4-1ccd-82b4e31f616b/0045778724468.png/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250607",
+    "entrydate": "June 7, 2025",
+    "applemusic": "https://music.apple.com/us/album/the-guillotine/1485058004?i=1485058024",
+    "songlink": "https://song.link/i/1485058024"
+  },
+  {
+    "title": "Lost Coastlines",
+    "artist": "Okkervil River",
+    "album": "The Stand Ins",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/68/6e/c4/686ec49d-3acb-6ab2-c9fc-1f1233fe5e6d/dj.mddbkxai.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250605",
+    "entrydate": "June 5, 2025",
+    "applemusic": "https://music.apple.com/us/album/lost-coastlines/543561172?i=543561174",
+    "songlink": "https://song.link/i/543561174"
+  },
+  {
+    "title": "Just What I Needed",
+    "artist": "The Cars",
+    "album": "The Cars",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6b/3c/1d/6b3c1d3e-46a3-d0ac-e386-c2e60c8c8f49/mzm.hdqcumzx.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250604",
+    "entrydate": "June 4, 2025",
+    "applemusic": "https://music.apple.com/us/album/just-what-i-needed/1088527349?i=1088527515",
+    "songlink": "https://song.link/i/1088527515"
+  },
+  {
+    "title": "Tom Courtenay (Acoustic Version)",
+    "artist": "Yo La Tengo",
+    "album": "Prisoners of Love: A Smattering of Scintillating Senescent Songs 1985-2003 PLUS A Smattering of Outtakes and Rarities 1986-2002",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/7f/40/ee7f4063-ee7c-48c7-ba00-0bd3325bfd47/744861064558.png/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250603",
+    "entrydate": "June 3, 2025",
+    "applemusic": "https://music.apple.com/us/album/tom-courtenay-acoustic-version/1589273378?i=1589275019",
+    "songlink": "https://song.link/i/1589275019"
+  },
+  {
+    "title": "The Big Beast (feat. Will Johnson)",
+    "artist": "Magnolia & Johnson Electric Co.",
+    "album": "The Big Beast - Single",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/ca/9b/62ca9bf8-af2a-90f9-3915-7d3eb8b3cf6d/54388.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250602",
+    "entrydate": "June 2, 2025",
+    "applemusic": "https://music.apple.com/us/album/the-big-beast-feat-will-johnson/1813969671?i=1813969674",
+    "songlink": "https://song.link/i/1813969674"
+  },
+  {
+    "title": "Roadrunner",
+    "artist": "The Modern Lovers",
+    "album": "The Modern Lovers",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/68/be/11/68be1164-03b3-1b03-01ba-c7a1abefa7d5/5414939481475.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250601",
+    "entrydate": "June 1, 2025",
+    "applemusic": "https://music.apple.com/us/album/roadrunner/1433774364?i=1433775174",
+    "songlink": "https://song.link/i/1433775174"
+  },
+  {
+    "title": "Fantastic Tomb",
+    "artist": "Ty Segall",
+    "album": "Possession",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/e8/be/aae8be6c-cab5-9e5a-8a28-d22f4799986a/781484091523.png/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250531",
+    "entrydate": "May 31, 2025",
+    "applemusic": "https://music.apple.com/us/album/fantastic-tomb/1793833810?i=1793833816",
+    "songlink": "https://song.link/i/1793833816"
+  },
+  {
+    "title": "Let the Rope Hold, Cassie Lee",
+    "artist": "The Minus 5",
+    "album": "Oar On, Penelope!",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/71/14/cb71148a-54cc-3931-3a40-1aea859cfab4/108636.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250530",
+    "entrydate": "May 30, 2025",
+    "applemusic": "https://music.apple.com/us/album/let-the-rope-hold-cassie-lee/1781475930?i=1781475948",
+    "songlink": "https://song.link/i/1781475948"
+  },
+  {
+    "title": "In Care of 8675309",
+    "artist": "Lambchop",
+    "album": "FLOTUS",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/a2/32/47/a2324710-52c7-b2f3-31eb-52ea08f88654/534_Lambchop_FLOTUS_2500px.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250529",
+    "entrydate": "May 29, 2025",
+    "applemusic": "https://music.apple.com/us/album/in-care-of-8675309/1137738020?i=1137738706",
+    "songlink": "https://song.link/i/1137738706"
+  },
+  {
+    "title": "My Little Corner of the World",
+    "artist": "Yo La Tengo",
+    "album": "I Can Hear the Heart Beating As One",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8d/e7/3f/8de73fa0-b828-7c46-87e7-3df1fd89a7e8/744861022237.png/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250528",
+    "entrydate": "May 28, 2025",
+    "applemusic": "https://music.apple.com/us/album/my-little-corner-of-the-world/1589242975?i=1589243269",
+    "songlink": "https://song.link/i/1589243269"
+  },
+  {
+    "title": "Uncontrollable Urge",
+    "artist": "Devo",
+    "album": "Q: Are We Not Men? A: We Are Devo!",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/d4/5a/32d45a67-25eb-0de0-d551-3ff0a555897f/mzi.ejrqyfmb.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250527",
+    "entrydate": "May 27, 2025",
+    "applemusic": "https://music.apple.com/us/album/uncontrollable-urge/337005954?i=337005972",
+    "songlink": "https://song.link/i/337005972"
+  },
+  {
+    "title": "Homeward Bound",
+    "artist": "The Ordinary Things",
+    "album": "Big Machine",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/35/9f/47/359f47dc-f332-800f-d202-e25609f60c07/198002473066.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250526",
+    "entrydate": "May 26, 2025",
+    "applemusic": "https://music.apple.com/us/album/homeward-bound/1592923374?i=1592923375",
+    "songlink": "https://song.link/i/1592923375"
+  },
+  {
+    "title": "Care of Cell 44",
+    "artist": "The Zombies",
+    "album": "Odessey and Oracle",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/04/fb/f9/04fbf987-1a18-5fc3-3a46-75d454325fa7/842108020548.png/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250525",
+    "entrydate": "May 25, 2025",
+    "applemusic": "https://music.apple.com/us/album/care-of-cell-44/1719880807?i=1719880808",
+    "songlink": "https://song.link/i/1719880808"
+  },
+  {
+    "title": "Metronomic Underground",
+    "artist": "Sterolab",
+    "album": "Emperor Tomato Ketchup",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ea/05/73/ea057313-4657-41ee-b4da-9d5c30b9bfef/5060384616094.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250524",
+    "entrydate": "May 24, 2025",
+    "applemusic": "https://music.apple.com/us/album/metronomic-underground/1471003849?i=1471003852",
+    "songlink": "https://song.link/i/1471003852"
+  },
+  {
+    "title": "Patient Zero",
+    "artist": "Aimee Mann",
+    "album": "Mental Illness",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/84/d5/4a/84d54aa8-93a6-1977-fd9c-e6b33e1d31d7/886446299341.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250523",
+    "entrydate": "May 23, 2025",
+    "applemusic": "https://music.apple.com/us/album/patient-zero/1188948781?i=1188948836",
+    "songlink": "https://song.link/i/1188948836"
+  },
+  {
+    "title": "Wreckroom",
+    "artist": "Loose Fur",
+    "album": "Born Again in the USA",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/89/00/9a/89009a13-53ce-42f3-c153-64fbe3562ed3/781484030928.png/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250522",
+    "entrydate": "May 22, 2025",
+    "applemusic": "https://music.apple.com/us/album/wreckroom/995347923?i=995348142",
+    "songlink": "https://song.link/i/995348142"
+  },
+  {
+    "title": "Over Waves",
+    "artist": "Mick Turner",
+    "album": "Don't Tell the Driver",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/41/37/f2/4137f2e4-5017-fdd3-8dad-99d1df0f0816/781484056928.png/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250521",
+    "entrydate": "May 21, 2025",
+    "applemusic": "https://music.apple.com/us/album/over-waves/734482331?i=734482530",
+    "songlink": "https://song.link/i/734482530"
+  },
+  {
+    "title": "I shall Be Released",
+    "artist": "The Brothers and Sisters",
+    "album": "Dylan's Gospel",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1b/54/4d/1b544d94-ea69-c398-1143-16c4761f14f8/192562964576.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250520",
+    "entrydate": "May 20, 2025",
+    "applemusic": "https://music.apple.com/us/album/i-shall-be-released/1436375138?i=1436375354",
+    "songlink": "https://song.link/i/1436375354"
+  },
+  {
+    "title": "Perfect Circle",
+    "artist": "R.E.M.",
+    "album": "Murmur",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6c/e2/c3/6ce2c349-4169-df92-e5ca-2faba4cf087f/09UMGIM13824.rgb.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250519",
     "entrydate": "May 19, 2025",
-    "applemusic": "",
-    "songlink": ""
+    "applemusic": "https://music.apple.com/us/album/perfect-circle/1440872981?i=1440872989",
+    "songlink": "https://song.link/i/1440872989"
   },
   {
     "title": "Images of April",

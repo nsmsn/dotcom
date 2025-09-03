@@ -7,13 +7,18 @@
 <div class="grid-half sticky-desktop">
 <div class="">
 <h1>${ title }</h1>
-   <div class="bg-color-cycle img-circle" style="width: 128px; height: 128px">
-    <img src="/img/static/playlist-sm.gif" alt="" width="128" height="128" class="img-circle img-multiply"/>
-    </div>
-    &nbsp;
-<p>This page is an attempt to keep a current playlist of all the songs I've featured on <a href="https://app.crucialtracks.org/profile/nsmsn">my Crucial Tracks profile</a>.</p>
 
-<small><a href="https://app.crucialtracks.org/profile/nsmsn/feed">Follow via RSS</a></small>
+<div class="bg-color-cycle img-circle" style="width: 128px; height: 128px">
+<picture>
+  <source srcset="/img/static/playlist-01.png" media="(prefers-reduced-motion: reduce)"></source> 
+  <img srcset="/img/static/playlist-sm.gif" alt="various cartoon characters wearing headphones"  width="128" height="128" class="img-circle img-multiply" />
+</picture>
+</div>
+    &nbsp;
+<p>This page is an attempt to keep a current playlist of all the songs I've featured on <a href="https://app.crucialtracks.org/profile/nsmsn">my Crucial Tracks profile</a>.</p> 
+<p>This page might be a few days behind the latest track, as I'm using a somewhat manual process for updating this&nbsp;page.</p>
+
+<small><a href="https://app.crucialtracks.org/profile/nsmsn/feed">Follow via RSS</a> | <a href="https://music.apple.com/us/playlist/playlist/pl.u-06oxDB6uYbJmbj">Listen with Apple&nbsp;Music</a></small> 
 </div>
 </div>
 
@@ -24,7 +29,7 @@ ${ Tree.map(songs, (song) => `
       <img class="float-right" src="${ song/artwork }" width="96" height="96" alt="" loading="lazy" />
       <p>Artist: <span>${ song/artist }</span> <br>
       Album:  <i>${ song/album }</i></p>
-      <small><a href="${ song/permalink }">added ${ song/entrydate }</a> | <a href="${ song/applemusic }">Apple&nbsp;Music</a> | <a href="${ song/songlink }">song.link</a></small>
+      <small><a href="${ song/permalink }">added ${ song/entrydate }</a> | <!--<a href="${ song/applemusic }">Apple&nbsp;Music</a> |--> <a href="${ song/songlink }">song.link</a></small>
     <hr>
 
     `) }
