@@ -1,5 +1,215 @@
 [
   {
+    "title": "",
+    "artist": "",
+    "album": "",
+    "artwork": "",
+    "permalink": "",
+    "entrydate": "July XX, 2025",
+    "applemusic": "",
+    "songlink": ""
+  },
+  {
+    "title": "ABQ",
+    "artist": "The Marías",
+    "album": "Superclean, Vol. II - EP",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/71/5f/fc/715ffc50-c006-500b-ad3e-830a6a6bbc70/artwork.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250723",
+    "entrydate": "July 23, 2025",
+    "applemusic": "https://music.apple.com/us/album/abq/1436703562?i=1436703570",
+    "songlink": "https://song.link/i/1436703570"
+  },
+  {
+    "title": "Paranoid",
+    "artist": "Black Sabbath",
+    "album": "Paranoid",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/be/27/91/be279120-2285-16c6-c7ba-9d6643d4a948/075992732727.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250722",
+    "entrydate": "July 22, 2025",
+    "applemusic": "https://music.apple.com/us/album/paranoid/785232473?i=785232521",
+    "songlink": "https://song.link/i/785232521"
+  },
+  {
+    "title": "Idiot Box",
+    "artist": "Sharon Van Etten",
+    "album": "Sharon Van Etten & The Attachment Theory",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/45/3a/95453a58-bbb3-31be-c4fa-97e94b0b4d0d/48684.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250721",
+    "entrydate": "July 21, 2025",
+    "applemusic": "https://music.apple.com/us/album/idiot-box/1770826874?i=1770827414",
+    "songlink": "https://song.link/i/1770827414"
+  },
+  {
+    "title": "The Land of Make Believe",
+    "artist": "The Moody Blues",
+    "album": "Seventh Sojourn",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/aa/47/6e/aa476e40-2cf9-aef2-c733-59a91d4e3a32/00042284477321.rgb.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250720",
+    "entrydate": "July 20, 2025",
+    "applemusic": "https://music.apple.com/us/album/the-land-of-make-believe/1440656407?i=1440656633",
+    "songlink": "https://song.link/i/1440656633"
+  },
+  {
+    "title": "Hot Guacamole (feat. Doom)",
+    "artist": "MC Paul Barman",
+    "album": "Thought Balloon Mushroom Cloud",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1e/52/15/1e5215f6-682c-45bb-3ac0-4d8ea8b1d2cc/artwork.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250719",
+    "entrydate": "July 19, 2025",
+    "applemusic": "https://music.apple.com/us/album/hot-guacamole-feat-doom/1326577415?i=1326577665",
+    "songlink": "https://song.link/i/1326577665"
+  },
+  {
+    "title": "Alone Again Or",
+    "artist": "The Damned",
+    "album": "Anything (Extended Version)",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b9/d2/d6/b9d2d66c-26e6-a558-df78-2916ba75b58f/00600753162156.rgb.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250718",
+    "entrydate": "July 18, 2025",
+    "applemusic": "https://music.apple.com/us/album/alone-again-or/1452871954?i=1452872328",
+    "songlink": "https://song.link/i/1452872328"
+  },
+  {
+    "title": "Wallet",
+    "artist": "The Via Maris",
+    "album": "The Wilderness Underneath",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/61/67/3c/mzi.knqgqqmc.tif/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250716",
+    "entrydate": "July 16, 2025",
+    "applemusic": "https://music.apple.com/us/album/wallet/253880631?i=253880663",
+    "songlink": "https://song.link/i/253880663"
+  },
+  {
+    "title": "Can't Hardly Wait",
+    "artist": "The Replacements",
+    "album": "Pleased to Meet Me",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/72/b2/a8/72b2a839-6e73-30b2-2733-c8efe0d3157e/081227989965.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250715",
+    "entrydate": "July 15, 2025",
+    "applemusic": "https://music.apple.com/us/album/cant-hardly-wait/698654479?i=698655384",
+    "songlink": "https://song.link/i/698655384"
+  },
+  {
+    "title": "Moby Octopad",
+    "artist": "Yo La Tengo",
+    "album": "I Can Hear the Heart Beating As One",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8d/e7/3f/8de73fa0-b828-7c46-87e7-3df1fd89a7e8/744861022237.png/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250714",
+    "entrydate": "July 14, 2025",
+    "applemusic": "https://music.apple.com/us/album/moby-octopad/1589242975?i=1589243046",
+    "songlink": "https://song.link/i/1589243046"
+  },
+  {
+    "title": "Short Trip Home",
+    "artist": "Mike Marshall, Sam Bush, Joshua Bell & Edgar Meyer",
+    "album": "Short Trip Home",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/83/0b/ac/mzi.zovqhgga.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250713",
+    "entrydate": "July 13, 2025",
+    "applemusic": "https://music.apple.com/us/album/short-trip-home/185585816?i=185585886",
+    "songlink": "https://song.link/i/185585886"
+  },
+  {
+    "title": "This Must Be the Place (Naive Melody)",
+    "artist": "Talking Heads",
+    "album": "Speaking In Tongues",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/70/db/13/mzi.drzsnbgi.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250712",
+    "entrydate": "July 12, 2025",
+    "applemusic": "https://music.apple.com/us/album/this-must-be-the-place-naive-melody/124909783?i=124909258",
+    "songlink": "https://song.link/i/124909258"
+  },
+  {
+    "title": "Me and Jesus Don't Talk Anymore",
+    "artist": "Beulah",
+    "album": "Yoko",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/63/e7/52/63e7524f-a20c-0e41-863a-17a6d618349b/789394301022_cover.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250709",
+    "entrydate": "July 9, 2025",
+    "applemusic": "https://music.apple.com/us/album/me-and-jesus-dont-talk-anymore/43558981?i=43558727",
+    "songlink": "https://song.link/i/43558727"
+  },
+  {
+    "title": "Strangers",
+    "artist": "The Kinks",
+    "album": "Lola Versus Powerman and the Moneygoround, Part One",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/28/af/39/28af39aa-6d9e-61d5-2364-095a7b0d3182/4050538365283.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250628",
+    "entrydate": "June 28, 2025",
+    "applemusic": "https://music.apple.com/us/album/strangers/1439223872?i=1439223874",
+    "songlink": "https://song.link/i/1439223874"
+  },
+  {
+    "title": "Sailing to Philadelphia",
+    "artist": "Mark Knopfler",
+    "album": "Sailing to Philadelphia",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/42/6e/12/426e12ab-115e-5fd2-4085-4d034f9a0606/mzi.eyepmmdz.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250627",
+    "entrydate": "June 27, 2025",
+    "applemusic": "https://music.apple.com/us/album/sailing-to-philadelphia/302302109?i=302302111",
+    "songlink": "https://song.link/i/302302111"
+  },
+  {
+    "title": "What a Day That Was (Live)",
+    "artist": "Talking Heads",
+    "album": "Stop Making Sense",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/c7/f7/9bc7f7d5-fefa-cb5a-6ebb-ccd5e862f215/603497831289.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250624",
+    "entrydate": "June 24, 2025",
+    "applemusic": "https://music.apple.com/us/album/what-a-day-that-was-live-2023-remaster/1694810554?i=1694811315",
+    "songlink": "https://song.link/i/1694811315"
+  },
+  {
+    "title": "Laminated Cat",
+    "artist": "Lauren O'Connell",
+    "album": "Covers Two ",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fd/36/d4/fd36d4bd-6cb0-c769-6339-44bb5bf527ed/artwork.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250621",
+    "entrydate": "June 21, 2025",
+    "applemusic": "https://music.apple.com/us/album/laminated-cat/1526786767?i=1526786772",
+    "songlink": "https://song.link/i/1526786772"
+  },
+  {
+    "title": "Black Earth, WI",
+    "artist": "Ratboys",
+    "album": "The Window",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/26/4d/52/264d52a5-c273-1f8b-e6b4-0338c01cde5f/96981.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250620",
+    "entrydate": "June 20, 2025",
+    "applemusic": "https://music.apple.com/us/album/black-earth-wi/1686488264?i=1686488663",
+    "songlink": "https://song.link/i/1686488663"
+  },
+  {
+    "title": "Nuclear War",
+    "artist": "Sun Ra and His Arkestra",
+    "album": "A Fireside Chat With Lucifer",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c7/4e/3a/c74e3a7b-37a3-5417-3eae-5b73c47df489/dj.eqpomvrv.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250618",
+    "entrydate": "June 18, 2025",
+    "applemusic": "https://music.apple.com/us/album/nuclear-war/939483986?i=939483991",
+    "songlink": "https://song.link/i/939483991"
+  },
+  {
+    "title": "Atlantic City",
+    "artist": "The Band",
+    "album": "Jericho",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/72/31/ec/7231ece1-3c82-62ac-07b0-4a24ab948ce7/00854750001035_Cover.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250615",
+    "entrydate": "June 15, 2025",
+    "applemusic": "https://music.apple.com/us/album/atlantic-city/711853067?i=711853157",
+    "songlink": "https://song.link/i/711853157"
+  },
+  {
+    "title": "Pictures of Adolf Again",
+    "artist": "Bill Fay",
+    "album": "Time of the Last Persecution",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/08/86/b9/0886b9b6-26d8-e6ad-2cc2-ab9841ff0775/00028947596028.rgb.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250614",
+    "entrydate": "June 14, 2025",
+    "applemusic": "https://music.apple.com/us/album/pictures-of-adolf-again/1443852246?i=1443853167",
+    "songlink": "https://song.link/i/1443853167"
+  },
+  {
     "title": "Nice Day",
     "artist": "Tommy Womack",
     "album": "There, I Said It!",

@@ -1310,6 +1310,14 @@ a.site-logo:hover {
     mix-blend-mode: multiply;
 }
 
+@media (max-width: 40em) {
+	.img-playlist {
+		width: 96px;
+		height: 96px;
+		margin-left: 1em;
+	}
+}
+
 /* Animated color cycle */
 
 .bg-color-cycle {
