@@ -1,0 +1,39 @@
+(songs) => page.ori({
+  title: "Playlist"
+  description: "A WIP collection of songs."
+  _body: `
+<div class="row row-gap-xlarge">
+
+<div class="grid-half sticky-desktop">
+<div class="">
+<h1>${ title }</h1>
+   <div class="bg-color-cycle img-circle" style="width: 128px; height: 128px">
+    <img src="/img/static/playlist-sm.gif" alt="" width="128" height="128" class="img-circle img-multiply"/>
+    </div>
+    &nbsp;
+<p>This page is an attempt to keep a current playlist of all the songs I've featured on <a href="https://app.crucialtracks.org/profile/nsmsn">my Crucial Tracks profile</a>.</p>
+
+<small><a href="https://app.crucialtracks.org/profile/nsmsn/feed">Follow via RSS</a></small>
+</div>
+</div>
+
+<div class="grid-half">
+
+${ Tree.map(songs, (song) => `
+      <h2 class="h3">${ song/title }</h2>
+      <img class="float-right" src="${ song/artwork }" width="96" height="96" alt="" loading="lazy" />
+      <p>Artist: <span>${ song/artist }</span> <br>
+      Album:  <i>${ song/album }</i></p>
+      <small><a href="${ song/permalink }">added ${ song/entrydate }</a> | <a href="${ song/applemusic }">Apple&nbsp;Music</a> | <a href="${ song/songlink }">song.link</a></small>
+    <hr>
+
+    `) }
+
+    </ul>
+
+
+</div>
+</div>
+
+  `
+})
