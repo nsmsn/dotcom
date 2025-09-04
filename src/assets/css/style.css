@@ -545,7 +545,7 @@ code {
 }
 
 pre {
-	background-color: var(--color-gray-lighter);
+	background-color: var(--color-gray-darker);
 	display: block;
 	line-height: 1.5;
 	margin-bottom: var(--spacing);
@@ -556,7 +556,7 @@ pre {
 	word-break: break-all;
 }
 pre code {
-	color: inherit;
+	color: var(--color-gray-lighter);
 	font-size: 1em;
 }
 
