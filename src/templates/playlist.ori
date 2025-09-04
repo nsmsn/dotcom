@@ -16,9 +16,11 @@
 </div>
     &nbsp;
 <p>This page is an attempt to keep a current playlist of all the songs I've featured on <a href="https://app.crucialtracks.org/profile/nsmsn">my Crucial Tracks profile</a>.</p> 
-<p>This page might be a few days behind the latest track, as I'm using a somewhat manual process for updating this&nbsp;page.</p>
+<p>This page might be a few days behind the latest track, as I'm using a somewhat manual process for updating.</p>
 
-<small><a href="https://raw.githubusercontent.com/nsmsn/dotcom/refs/heads/main/src/data/playlist.json">JSON</a> | <a href="https://app.crucialtracks.org/profile/nsmsn/feed">Follow via RSS</a> | <a href="https://music.apple.com/us/playlist/playlist/pl.u-06oxDB6uYbJmbj">Listen with Apple&nbsp;Music</a></small> 
+<small><a href="https://music.apple.com/us/playlist/playlist/pl.u-06oxDB6uYbJmbj">Listen with Apple&nbsp;Music</a>
+ | <a href="https://app.crucialtracks.org/profile/nsmsn/feed">Follow via&nbsp;RSS</a> | 
+<a href="https://raw.githubusercontent.com/nsmsn/dotcom/refs/heads/main/src/data/playlist.json">View the&nbsp;JSON</a></small> 
 </div>
 </div>
 
