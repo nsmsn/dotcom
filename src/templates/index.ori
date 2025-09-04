@@ -30,25 +30,15 @@
 
     <div class="row row-gap-xlarge">
     <div class="grid-half">
-    <p>My name is <b>Nick Simson</b>. I design digital interfaces, graphic identities, plus the artifacts supporting these practices. You can read more about <a href="/work/index.html">my current work</a>. I also use this space to write shorter <a href="/notes/">notes</a> and longer <a href="/posts/">posts</a>, on a variety of topics...explore the&nbsp;<a href="/tags/">tags</a>!
-
-    <p>You can read more <a href="/about.html">about me</a>, or see what I'm up to&nbsp;<a href="/now.html">now</a>.
+    <p>My name is <b>Nick Simson</b>. I design digital interfaces, graphic identities, plus the artifacts supporting these practices. I also write a bit. You can read more <a href="/about.html">about me</a>, or see what I'm up to&nbsp;<a href="/now.html">now</a>.
 
     &nbsp;
+
+    <div class="sticky-desktop">
 
     <div class="bg-color-cycle img-circle" style="width: 128px; height: 128px">
     <img src="/img/meta/victory-grain.png" alt="a hand with two extended fingers flashing the V for Victory or peace sign" width="128" height="128" class="img-circle img-multiply"/>
     </div>
-
-    &nbsp;
-
-    <h2 class="text-small text-uppercase text-secondary">Latest post</h2>
-
-    <a href="${ firstPost/path }" class="text-large text-bold">${ firstPost/title }</a><br/>
-    <p>${ firstPost/description }</p>
-    <small class="timestamp">${ date.ori(firstPost/date) }</small>
-
-    <p><a href="/posts/index.html">Posts Archive <span class="text-secondary">&rarr;</span></a></p>
 
     &nbsp;
 
@@ -81,14 +71,26 @@
       </ul>
       </div>
 
-    </div>
+    </div><!--closes grid row-->
 
     &nbsp;
+
+    </div> <!--closes sticky div-->
 
     </div>
     
     <div class="grid-half">
-    <h2 class="text-small text-uppercase text-secondary no-padding-top">Latest notes</h2>
+    <h2 class="text-small text-uppercase text-secondary no-padding-top">Latest post</h2>
+
+    <a href="${ firstPost/path }" class="text-large text-bold">${ firstPost/title }</a><br/>
+    <p>${ firstPost/description }</p>
+    <small class="timestamp">${ date.ori(firstPost/date) }</small>
+
+    <p><a href="/posts/index.html">Posts Archive <span class="text-secondary">&rarr;</span></a></p>
+
+    &nbsp;
+
+    <h2 class="text-small text-uppercase text-secondary">Latest notes</h2>
     <ol reversed class="list-unstyled posts-list">
     ${ Tree.map(notes, (note) => `
       <li>
@@ -101,6 +103,9 @@
     </ol>
 
     <a href="/notes/index.html">Notes Archive <span class="text-secondary">&rarr;</span></a>
+
+    &nbsp;
+
     </div>
     </div>
 

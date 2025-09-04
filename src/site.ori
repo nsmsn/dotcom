@@ -18,7 +18,7 @@
 
   notes = {
     ...Tree.map(data/notes.ori, templates/note.ori)
-    (noteSets) = Tree.paginate(data/notes.ori, 10)
+    (noteSets) = Tree.paginate(data/notes.ori, 16)
     pages/ = Tree.map(noteSets, {
       extension: "->.html"
       value: templates/notes-index.ori
@@ -42,7 +42,7 @@
 
   index.html = templates/index.ori(
     Tree.first(data/posts.ori)
-    Tree.take(data/notes.ori, 3)
+    Tree.take(data/notes.ori, 4)
   )
 
   ...Tree.map(Tree.map(<slash>, Origami.mdHtml), templates/page.ori)
