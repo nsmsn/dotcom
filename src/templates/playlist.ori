@@ -18,7 +18,7 @@
 <p>This page is an attempt to keep a current playlist of all the songs I've featured on <a href="https://app.crucialtracks.org/profile/nsmsn">my Crucial Tracks profile</a>.</p> 
 <p>This page might be a few days behind the latest track, as I'm using a somewhat manual process for updating this&nbsp;page.</p>
 
-<small><a href="https://app.crucialtracks.org/profile/nsmsn/feed">Follow via RSS</a> | <a href="https://music.apple.com/us/playlist/playlist/pl.u-06oxDB6uYbJmbj">Listen with Apple&nbsp;Music</a></small> 
+<small><a href="https://raw.githubusercontent.com/nsmsn/dotcom/refs/heads/main/src/data/playlist.json">JSON</a> | <a href="https://app.crucialtracks.org/profile/nsmsn/feed">Follow via RSS</a> | <a href="https://music.apple.com/us/playlist/playlist/pl.u-06oxDB6uYbJmbj">Listen with Apple&nbsp;Music</a></small> 
 </div>
 </div>
 
@@ -31,11 +31,9 @@ ${ Tree.map(songs, (song) => `
       Album:  <i>${ song/album }</i></p>
       <small><a href="${ song/permalink }">added ${ song/entrydate }</a> | <!--<a href="${ song/applemusic }">Apple&nbsp;Music</a> |--> <a href="${ song/songlink }">song.link</a></small>
     <hr>
-
     `) }
 
-    </ul>
-
+<div class="text-center"><small>That's all, folks! <a href="#top">Back to&nbsp;top</a></small></div>
 
 </div>
 </div>

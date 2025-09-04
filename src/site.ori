@@ -7,6 +7,8 @@
 
   library.html = templates/library.ori(data/library.json)
 
+  playlist.html = templates/playlist.ori(data/playlist.json)
+
   posts = {
     ...Tree.map(data/posts.ori, templates/post.ori)
     index.html = templates/posts-index.ori(data/posts.ori)
