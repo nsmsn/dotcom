@@ -11,7 +11,7 @@ tags:
 
 I signed up and started using the app on May 1 this year, and posted daily for the whole month. The progressive web app (PWA) looks and works great, by the way. I was music blogging from my phone while on vacation in NYC. After a few more weeks, I signed up to be a supporter for $40 a year. [Jason](https://endonend.org/) sent me a Fontaines D.C. record through the mail! You can [view my Crucial Tracks profile here](https://app.crucialtracks.org/profile/nsmsn).
 
-So far I've posted 80 tracks (close to 6 hours of music) and I'm looking forward to hitting 100 soon. I connected to my <del>iTunes</del> Apple Music account, as well as Bluesky and Mastodon. It took me more than 75 posts to figure out how to get my tracks posting automatically to an Apple Music playlist. 
+So far I've posted 80 tracks (close to 6 hours of music) and I'm looking forward to hitting 100 soon. I connected to my Apple Music account, as well as Bluesky and Mastodon. It took me more than 75 posts to figure out how to get my tracks posting automatically to an Apple Music playlist. 
 
 I discovered the experience of listening to this particular playlist is a bit disjointed&mdash;like playing my music library on shuffle. I also learned that Apple Music will in fact let you name a playlist ["Playlist"](https://music.apple.com/us/playlist/playlist/pl.u-06oxDB6uYbJmbj) and that is in fact what I named mine. I even uploaded artwork for my playlist:
 
