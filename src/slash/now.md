@@ -6,7 +6,7 @@ description: Current status, activity, weather, books, and music.
 # Now
 
 <div class="container-small">
-<script src="https://status.lol/nsmsn.js?time&link"></script>
+<script async src="https://status.lol/nsmsn.js?time&link" ></script>
 </div>
 
 &nbsp;
@@ -61,7 +61,7 @@ I am currently:
 ## 📚 Reading
 
 <div id="literal-widget" handle="nsmsn" status="IS_READING" layout="list"></div>
-<script src="https://literal.club/js/widget.js"></script>
+<script async src="https://literal.club/js/widget.js"></script>
 
 I use [Literal](https://literal.club/nsmsn/is-reading) and [The StoryGraph](https://app.thestorygraph.com/profile/nsmsn) to keep track of my reading.
 
@@ -69,7 +69,7 @@ I use [Literal](https://literal.club/nsmsn/is-reading) and [The StoryGraph](http
 
 ## 🎧 Listening
 
-<script src="https://recentfm.rknight.me/now.js?u=nsmsn&e=🎵"></script>
+<script async src="https://recentfm.rknight.me/now.js?u=nsmsn&e=🎵"></script>
 
 [My last.fm account](https://www.last.fm/user/nsmsn) keeps track of music I listen to throughout the day. [Stats are fun](https://lastfmstats.com/user/nsmsn/dataset). I'm also scrobbling to [Libre.fm](https://libre.fm/user/nsmsn) as much as I can.
 
@@ -77,7 +77,7 @@ I use [Literal](https://literal.club/nsmsn/is-reading) and [The StoryGraph](http
 
 <small>
 This page uses a few third-party widgets and APIs to display my current status, weather, books, and music.<br />
-<em>Last manually updated July 15, 2025.</em>
+<em>Last manually updated Sept. 10, 2025.</em>
 </small>
 
 &nbsp;
