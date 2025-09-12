@@ -43,7 +43,7 @@ I’m married to [Eleanor](https://eleanoraldrich.com), who makes paintings. We 
   <ul>
     <li><a href="https://bookshop.org/a/21729/9783836518567">Taschen Books</a></li>
     <li>Tennessee College Public Relations Association Awards</li>
-    <li><a href="https://krrd.ing/blog/omglol-interview-series-nick/">krrd.ing</a></li>
+    <li><a href="https://krrd.ing/nick-simson-omglol-interview-series-8/">krrd.ing</a></li>
     <li><a href="https://internetphonebook.net/">Internet Phone Book</a></li>
     <li><a href="https://manuelmoreale.com/pb-nick-simson">People &amp; Blogs</a></li>
   </ul>
