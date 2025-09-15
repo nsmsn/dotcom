@@ -13,7 +13,6 @@ Things that make my life easier or more enjoyable.
 - Cell phone company: [Mint Mobile](http://fbuy.me/uSQoL)
 - Graphics software: [Affinity](https://affinity.serif.com/en-us/) Designer, Photo, and Publisher
 - Web browsers: [Orion](https://kagi.com/orion/), [Vivaldi](https://vivaldi.com/), [Zen](https://zen-browser.app/) (free!)
-- RSS reader: [NetNewsWire](https://netnewswire.com/) (free!)
 - Business cards: [Moo.com](https://refer.moo.com/s/emnqw) (their Printfinity option is way cool)
 - Laser printer: [Brother HL-L2325DW](https://www.brother-usa.com/products/hll2325dw)
 - Keyboard: [Apple A1234](https://www.ebay.com/sch/33963/i.html?_nkw=apple+a1234&_from=R40) from 2007... still works!
