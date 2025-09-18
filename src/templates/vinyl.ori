@@ -1,5 +1,5 @@
 (vinyls) => page.ori({
-  title: "Vinyl Collection"
+  title: "Vinyl collection"
   description: "A collection of music I’ve accumulated over the years. Organized alphabetically by artist."
   _body: `
     <h1>${ title }</h1>
