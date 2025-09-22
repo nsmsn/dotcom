@@ -81,7 +81,7 @@
     <div class="grid-half">
     <h2 class="text-small text-uppercase text-secondary no-padding-top">Latest post</h2>
 
-    <a href="${ firstPost/path }" class="text-large text-bold">${ firstPost/title }</a><br/>
+    <a href="${ firstPost/path }" class="text-large text-display">${ firstPost/title }</a><br/>
     <p>${ firstPost/description }</p>
     <small class="timestamp">${ date.ori(firstPost/date) }</small>
 

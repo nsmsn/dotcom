@@ -48,6 +48,15 @@
   font-display: swap;
 }
 
+/* Dinger Bold */
+@font-face {
+    font-family: "Dinger";
+    font-style: normal;
+    font-weight: 700;
+    src: url("/assets/fonts/Dinger-Bold.woff2") format("woff2");
+    font-display: swap;
+}
+
 /*! Kraken v13.0.0 | (c) 2021 Chris Ferdinandi | MIT License | http://github.com/cferdinandi/kraken */
 /**
  * Configs
@@ -69,6 +78,7 @@
 	--color-gray-lighter: #f7f7f7;
 	--color-ivory: #f6f4f0;
 	/* Fonts */
+	--font-display: 'Dinger', Rockwell, 'Rockwell Nova', 'Roboto Slab', 'DejaVu Serif', 'Sitka Small', serif;
 	--font-primary: 'Hanken Grotesk', system-ui, "Helvetica Neue", Arial, sans-serif;
 	--font-monospace: Menlo, Monaco, "Courier New", monospace;
 	--font-server: 'Server Mono', monospace;
@@ -457,6 +467,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1,
 .h1 {
+	font-family: var(--font-display);
 	font-size: 1.6em;
 	padding-top: 0.5em;
 	font-weight: 700;
@@ -464,7 +475,7 @@ h1,
 @media (min-width: 40em) {
 	h1,
 .h1 {
-		font-size: 2em;
+		font-size: 2.4em;
 	}
 }
 
@@ -1295,6 +1306,11 @@ a.site-logo:hover {
 .text-uppercase {
   text-transform: uppercase;
   letter-spacing: 1px;
+}
+
+.text-display {
+  font-family: var(--font-display);
+  font-weight: 700;
 }
 
 .text-secondary {

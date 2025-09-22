@@ -48,6 +48,15 @@
     font-display: swap;
 }
 
+/* Dinger Bold */
+@font-face {
+    font-family: "Dinger";
+    font-style: normal;
+    font-weight: 700;
+    src: url("/assets/fonts/Dinger-Bold.woff2") format("woff2");
+    font-display: swap;
+}
+
 :root {
     color-scheme: light dark;
     /* Colors */
@@ -56,6 +65,7 @@
 	--color-text: #272727;
 	--color-bg: #f6f2eb;
 	/* Fonts */
+	--font-display: 'Dinger', Rockwell, 'Rockwell Nova', 'Roboto Slab', 'DejaVu Serif', 'Sitka Small', serif;
 	--font-primary: 'Hanken Grotesk', system-ui, "Helvetica Neue", Arial, sans-serif;
 	--font-monospace: Menlo, Monaco, "Courier New", monospace;
 	--font-server: 'Server Mono', monospace;
@@ -292,4 +302,9 @@ p, small {
 
 li, blockquote {
 	max-width: 64ch;
+}
+
+h1 {
+	font-family: var(--font-display);
+	text-transform: uppercase;
 }

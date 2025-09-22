@@ -20,9 +20,9 @@ If you like what I’m doing and want to support my blogging habit, there are a 
 
 &nbsp;
 
-## Chaos Club supporters
+<h2 class="text-display text-uppercase">Chaos Club supporters</h2>
 
-<ul class="list-unstyled">
+<ul>
 <li><a href="https://rknight.me/">Robb Knight</a></li>
 <li><a href="https://sekhmetdesign.thegeekcartel.com/">SekhmetDesign</a></li>
 <li><a href="https://mattstein.com/">Matt Stein</a></li>

@@ -10,8 +10,9 @@
     <ol reversed class="list-unstyled posts-list">
 
     ${ Tree.map(posts, (post) => `
-      <li class="margin-bottom">
-        <a href="${ post/path }" class="text-large text-bold">${ post/title }</a><br/>
+      <li class="margin-bottom-xlarge">
+        <a href="${ post/path }" class="text-large text-display">${ post/title }</a><br/>
+        <span>${ post/description }</span><br/>
         <small class="timestamp">${ date.ori(post/date) }</small>
       </li>
     `) }

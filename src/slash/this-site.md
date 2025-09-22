@@ -37,7 +37,7 @@ Built with [Web Origami](https://weborigami.org/), a programming language and st
 
 The [search functionality](/search.html) is powered by [Pagefind](https://pagefind.app/), a fully static search library built with JavaScript. 
 
-The primary typeface is [Hanken Grotesk](https://hanken.co/products/hanken-grotesk), with <code>code samples</code> set in TK, and supporting text set in [Server Mono](https://blazetype.eu/case-studies/server-mono).
+The primary typeface is [Hanken Grotesk](https://hanken.co/products/hanken-grotesk), with <code>h1</code> display headings set in [Dinger](https://www.dingbat.xyz/l/dinger). Supporting text set in [Server Mono](https://blazetype.eu/case-studies/server-mono).
 
 **This website does not track you.** While some pages may contain third-party code for additional functionality, to my best knowledge and efforts there are **no cookies** anywhere on this website.
 
