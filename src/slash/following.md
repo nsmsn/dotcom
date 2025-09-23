@@ -43,6 +43,7 @@ Artists, designers, developers, educators, illustrators, writers, and&nbsp;other
 <li><a href="https://jan.miksovsky.com/">Jan Miksovsky</a></li>
 <li><a href="https://lifeofpablo.com/">Pablo Morales</a></li>
 <li><a href="https://mrmrs.cc/">Adam Morse</a></li>
+<li><a href="https://muan.co/">Mu-An Chiou</a></li>
 <li><a href="https://www.adekunleoduye.com/">Adekunle Oduye</a></li>
 <li><a href="https://crystalprestonwatson.com/">Crystal Preston-Watson</a></li>
 <li><a href="https://ryanputn.am/">Ryan Putnam</a></li>

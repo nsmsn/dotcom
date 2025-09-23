@@ -45,7 +45,3 @@ Plus plenty of others I don’t have room to mention.
 - Cake vs. Pie: Cobbler.
 - Hot sauce: Huy Fong Siriracha will always have a special place in my heart.
 - New Mexican food: too many great things to list. This is a great place to live, visit, and eat.
-
-&nbsp;
-
-Loosely inspired by [The Loved List by Ankur Sethi](https://ankursethi.in/the-loved-list/), and anyone else with a similar section on their personal website. 💛

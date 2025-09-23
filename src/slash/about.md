@@ -5,7 +5,7 @@ description: A little bit about Nick Simson. Designer, blogger, internet nobody.
 
 # About
 
-<img src="/img/note-images/2025-whitesands-kite-02.jpg" alt="a man flies a kite against a bright blue sky and white sand dunes" width="600" height="512">
+<img src="/img/note-images/2025-whitesands-kite-02.jpg" alt="a man flies a kite against a bright blue sky and white sand dunes" width="420" height="358">
 
 My name is Nick, short for *Nicholas* which means “[victory of the people](https://www.behindthename.com/name/nicholas).”
 

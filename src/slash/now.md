@@ -11,11 +11,11 @@ description: Current status, activity, weather, books, and music.
 
 &nbsp;
 
-I am currently:
+Currently:
 
 - working with an awesome digital experience team.
 - raising a preschooler with [Eleanor](https://eleanoraldrich.com).
-- watching and listening to the Amazin' Mets ⚾ broadcasts.
+- exploring the desert.
 
 &nbsp;
 
@@ -77,7 +77,7 @@ I use [Literal](https://literal.club/nsmsn/is-reading) and [The StoryGraph](http
 
 <small>
 This page uses a few third-party widgets and APIs to display my current status, weather, books, and music.<br />
-<em>Last manually updated Sept. 10, 2025.</em>
+<em>Last manually updated Sept. 23, 2025.</em>
 </small>
 
 &nbsp;
