@@ -28,7 +28,7 @@
 
 ${ Tree.map(songs, (song) => `
       <h2 class="h3">${ song/title }</h2>
-      <img class="float-right img-playlist" src="${ song/artwork }" width="128" height="128" alt="" loading="lazy" />
+      <img class="float-right img-playlist img-border" src="${ song/artwork }" width="128" height="128" alt="" loading="lazy" />
       <p>Artist: <span>${ song/artist }</span> <br>
       Album:  <i>${ song/album }</i></p>
       <small><a href="${ song/permalink }">added ${ song/entrydate }</a> | <!--<a href="${ song/applemusic }">Apple&nbsp;Music</a> |--> <a href="${ song/songlink }">song.link</a></small>
