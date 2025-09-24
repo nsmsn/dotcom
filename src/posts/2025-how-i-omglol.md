@@ -58,7 +58,7 @@ I am not using omg.lol's **/now page** since I have one on my domain that predat
 
 **Switchboard** is a cool way to manage various domains and addresses. I am using a custom domain ([nsmsn.co](https://nsmsn.co/)) for my omg.lol profile and use the switchboard to redirect [nsmsn.omg.lol/now](https://nsmsn.omg.lol/now) to my pre-existing /now page.
 
-[**Live chat**](https://home.omg.lol/info/chat) is also a thing you can access from the dashboard, in addition to Mastodon. You can set up with IRC, XMPP, or Discord, which is all bridged together. I'm becoming more familiar with IRC, but mainly use Discord. There's a **#design** channel I particularly like to hang out in.
+[**Live chat**](https://home.omg.lol/info/chat) is also a thing you can access from the dashboard, in addition to Mastodon. <del>You can set up with IRC, XMPP, or Discord, which is all bridged together.</del> I'm becoming more familiar with IRC, and mainly hang out in the **#design** channel.
 
 ## Other fun stuff
 
