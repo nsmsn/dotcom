@@ -72,3 +72,5 @@ An omg.lol account unlocks a few other fun things you can play with. [There is a
 That's a lot for $20 a year. The features and fun have only continued to grow in my past year of using this stuff. As I've said elsewhere, I've certainly spent that amount of money in stupider ways.
 
 If you want to be a part of this but can't afford the annual fee for any reason, [there are sponsorships available](https://home.omg.lol/info/sponsorships), too. I'm proudly sponsoring a membership each year, and would love to see you on this fun corner of the web.
+
+**2025-09-26 Update:** Check out "[An IndieWeb Playground](https://macmanx.com/2025/09/25/an-indieweb-playground/)" another community review by MacManX. I totally forgot to mention the [May fundraiser](https://omglol.news/2025/05/01/make-a-difference-in-may), in which omg.lol members raised [$19,000 for some excellent causes](https://home.omg.lol/giving).
