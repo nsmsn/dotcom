@@ -28,4 +28,4 @@ I do not know ‘em</p>
 
 ## About this poem
 
-This is my contribution to the [IndieWeb Blogging Carnival](https://indieweb.org/IndieWeb_Carnival) for September. The phrase "[second person birds](https://toground.link/second-person-birds/)" conjured up the image of [Joseph Cornell](https://en.wikipedia.org/wiki/Joseph_Cornell)'s "[bird boxes](https://birdyrevolution.blogspot.com/2011/02/joseph-cornell-art.html)". Thinking of these assemblages, I thought of creating my own collage of words, some based off fragments of poetic imagery collected in my notebook.
+This is my contribution to the [IndieWeb Blogging Carnival](https://indieweb.org/IndieWeb_Carnival) for September. The phrase "[second person birds](https://toground.link/second-person-birds/)" conjured up the image of [Joseph Cornell](https://en.wikipedia.org/wiki/Joseph_Cornell)'s "[bird boxes](https://birdyrevolution.blogspot.com/2011/02/joseph-cornell-art.html)". Thinking of these art assemblages, I thought of creating my own collage of words, some based off fragments of poetic imagery collected in my notebook.
