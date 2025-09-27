@@ -1,11 +1,21 @@
 [
   {
+    "title": "Mr. Blue",
+    "artist": "The Fleetwoods",
+    "album": "Come Softly to Me: The Very Best of the Fleetwoods",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/05/34/65/0534654e-56af-b88a-2dd6-d563af38e654/00077779883059.jpg/632x632bb.webp",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250927",
+    "entrydate": "Sep 27, 2025",
+    "applemusic": "https://music.apple.com/us/album/mr-blue/724333577?i=724333659",
+    "songlink": "https://song.link/i/724333659"
+  },
+  {
     "title": "Arizona Skies",
     "artist": "Los Lobos",
     "album": "Kiko",
     "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/e7/ed/d3/mzi.oqignhng.jpg/160x160bb.jpg",
     "permalink": "https://app.crucialtracks.org/profile/nsmsn/20250925",
-    "entrydate": "Sep 25, 2025 ",
+    "entrydate": "Sep 25, 2025",
     "applemusic": "https://music.apple.com/us/album/arizona-skies/309581814?i=309581950",
     "songlink": "https://song.link/i/309581950"
   },
