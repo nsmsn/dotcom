@@ -39,6 +39,8 @@ This list has an unfortunate bias toward places I’ve lived and visited, but id
 
 - [WUTK – Knoxville, TN](https://wutkradio.com/) – 90.3 FM. The Rock. Independent, non-commercial college radio station owned by the University of Tennessee (UT) and operated by the UT Department of Journalism and Electronic Media. All music, news, and sports shows are student produced.
 
+- [WWOZ – New Orleans, LA](https://www.wwoz.org/) – 90.7 FM. The worldwide voice, archive, and flag-bearer of New Orleans culture and musical heritage. Check out [Groovapedia](https://www.wwoz.org/groovapedia/).
+
 - [WXNA – Nashville, TN](https://www.wxnafm.org/): 101.5 FM. Freeform radio in Music City.
 
 ## Misc., Internet-only
