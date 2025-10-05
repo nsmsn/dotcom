@@ -9,7 +9,7 @@ tags:
 
 <div class="heads-up">
 <h2>👋 Hey there!</h2>
-<p>This is an old post, which no longer reflects my views on Micro.blog. Nowadays I have harsher things to say about Elon Musk, too. Proceed with caution!</p>
+<p>This is an old and outdated post, which no longer reflects my views on Micro.blog. <a href="/posts/2025-choose-inclusion.html">Read the 2025 update</a>. Nowadays I have harsher things to say about Elon Musk, too. Proceed with caution!</p>
 </div>
 
 In a 2014 essay called [Ditching Twitter](http://incisive.nu/2014/ditching-twitter/), Erin Kissane wrote about her personal dissatisfaction with the social network. The issues with the platform she diagnosed seven-plus years ago are still there. I keep coming back to this essay since it is about making something imperfect, broken even, work somehow for you.
@@ -42,7 +42,7 @@ Micro.blog is designed to be more *decentralized* than other major social networ
 
 I am currently using the 10-day free trial to try all these features out. I created a separate blog for notes as a brief experiment with WordPress last fall and imported those posts using an XML file. It went very smoothly, save for the [youtube] shortcode that WordPress uses for the video embed block. I was able to [import photos and captions from my Instagram account](https://help.micro.blog/t/copying-photos-to-micro-blog-from-instagram/78) (after requesting a download of my data from Meta/Instagram) using the MacOS app. The [bookshelves feature](https://help.micro.blog/t/bookshelves/515/13) is a very basic Goodreads alternative. I found it relatively easy to export my Goodreads data into a .csv file and imported this into my Micro.blog account under Bookshelves. The import worked relatively quickly and uses ISBN data to find books in the Micro.blog [book database](https://micro.blog/discover/books/grid).
 
-If you’re curious to see what this all looks like, you can check out [my timeline on Micro.blog](http://micro.blog/nsmsn) or visit [nsmsn.micro.blog](https://nsmsn.micro.blog)
+<del>If you’re curious to see what this all looks like, you can check out [my timeline on Micro.blog](http://micro.blog/nsmsn) or visit [nsmsn.micro.blog](https://nsmsn.micro.blog)</del>
 
 <h2>Platform and Community</h2>
 

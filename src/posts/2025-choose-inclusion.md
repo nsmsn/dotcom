@@ -9,11 +9,11 @@ tags:
   - "Social Media"
 ---
 
-Adam Newbold’s post on “[The InclusiveWeb](https://notes.neatnik.net/2024/06/the-inclusiveweb)” really resonated with me last year. Especially this part:
+Adam Newbold’s post on “The InclusiveWeb” (sadly no longer up) really resonated with me last year. Especially this part:
 
 > An IndieWeb that isn’t **inclusive** offers no value to the world. An IndieWeb built by and for only certain people isn’t a web at all. An IndieWeb that allows someone to feel like less of a person is a tragedy.
 
-The particular developer Adam called out at the time still works on [Micro.blog](https://micro.blog/) (M.b. for short) which hosts blogs but also a small but significant social network, built on [IndieWeb principles](https://indieweb.org/principles). Adam published a follow up post today called “[Accountability](https://notes.neatnik.net/2025/01/accountability)” detailing an exchange, or series of exchanges he had with [Manton Reece](https://manton.org/), the creator and primary developer behind Micro.blog, on what he sees as problematic behavior by the contractor or staff. You can also read [Manton’s timeline](https://micro.blog/manton) or his blog posts to get his perspective.
+The particular developer Adam called out at the time still works on [Micro.blog](https://micro.blog/) (M.b. for short) which hosts blogs but also a small but significant social network, built on [IndieWeb principles](https://indieweb.org/principles). Adam published a follow up post today called “Accountability” detailing an exchange, or series of exchanges he had with [Manton Reece](https://manton.org/), the creator and primary developer behind Micro.blog, on what he sees as problematic behavior by the contractor or staff. You can also read [Manton’s timeline](https://micro.blog/manton) or his blog posts to get his perspective.
 
 I followed some of this in real time on my Mastodon feed and M.b. timeline yesterday and today. I’m pretty sure its still going on, even though [Manton decided to mute Adam](https://www.manton.org/2025/01/22/ive-had-to-mute-adam.html). I don’t normally weigh in on public spats, but I’ve given money to both Manton and Adam to use their products. I used to host a blog on M.b. and I still syndicate my RSS feeds to a [M.b. account](https://micro.blog/nsmsn), and interact with people on the timeline. I have a [omg.lol account](https://nsmsn.co/) and use [social.lol as my primary home](https://social.lol/@nsmsn) on the fediverse.
 

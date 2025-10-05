@@ -67,6 +67,7 @@ Artists, designers, developers, educators, illustrators, writers, and&nbsp;other
 <li><a href="https://barbaraweissberger.net/">Barbara Weissberger</a></li>
 <li><a href="https://www.lisawelchman.com/">Lisa Welchman</a></li>
 <li><a href="https://jessamyn.com/">Jessamyn West</a></li>
+<li><a href="https://robweychert.com/">Rob Weychert</a></li>
 <li><a href="https://www.mollywhite.net/">Molly White</a></li>
 <li><a href="https://kayserifserif.place">Katherine Yang</a></li>
 </ul>
