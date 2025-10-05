@@ -2,6 +2,7 @@
 title: Alternative PDSs for ATProto
 date: 2025-10-05T15:25:03.788-06:00
 tags:
+  - "Bookmarks"
   - "Social Media"
 ---
 
