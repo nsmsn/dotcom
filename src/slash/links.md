@@ -15,18 +15,18 @@ Here are links to my other projects and profiles around the World Wide Web.
 ## Social Links
 
 <ul class="list-multi-col list-social">
-    <li><a href="https://www.are.na/nick-simson/channels">Are.na</a></li>
-    <li><a href="https://bsky.app/profile/nicksimson.com">Bluesky</a></li>
-    <li><a href="https://dribbble.com/nsmsn/">Dribbble</a></li>
-    <li><a href="https://github.com/nsmsn">GitHub</a></li>
-    <li><a href="https://www.last.fm/user/nsmsn">Last.fm</a></li>
-    <li><a href="https://letterboxd.com/nsmsn/">Letterboxd</a></li>
-    <li><a href="https://libre.fm/user/nsmsn">Libre.fm</a></li>
-    <li><a href="https://www.linkedin.com/in/nsmsn/">LinkedIn</a></li>
-    <li><a href="https://literal.club/nsmsn">Literal</a></li>
-    <li><a href="https://social.lol/@nsmsn">Mastodon</a></li>
-    <li><a href="https://record.club/nsmsn">Record Club</a></li>
-    <li><a href="https://spacehey.com/nsmsn">SpaceHey</a></li>
+    <li><a href="https://www.are.na/nick-simson/channels">are.na</a></li>
+    <li><a href="https://blacksky.community/profile/did:plc:34426v334rdehfd2rapmaapr">atproto</a></li>
+    <li><a href="https://dribbble.com/nsmsn/">dribbble</a></li>
+    <li><a href="https://github.com/nsmsn">github</a></li>
+    <li><a href="https://www.last.fm/user/nsmsn">last.fm</a></li>
+    <li><a href="https://letterboxd.com/nsmsn/">letterboxd</a></li>
+    <li><a href="https://libre.fm/user/nsmsn">libre.fm</a></li>
+    <li><a href="https://www.linkedin.com/in/nsmsn/">linkedin</a></li>
+    <li><a href="https://literal.club/nsmsn">literal</a></li>
+    <li><a href="https://social.lol/@nsmsn">mastodon</a></li>
+    <li><a href="https://record.club/nsmsn">record club</a></li>
+    <li><a href="https://spacehey.com/nsmsn">spacehey</a></li>
 </ul>
 
 &nbsp;

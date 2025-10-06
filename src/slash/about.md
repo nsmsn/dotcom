@@ -55,7 +55,7 @@ I’m married to [Eleanor](https://eleanoraldrich.com), who makes paintings. We 
 
 Send me email: <a href="mailto:nick@nicksimson.com">nick@nicksimson.com</a>. This is the quickest way to reach me.
 
-I’m also on [Mastodon](https://social.lol/@nsmsn) (which is stupid), [Bluesky](https://bsky.app/profile/nicksimson.com) (evil, probably!) , and [a few other&nbsp;places](/links.html).
+I’m also on [Mastodon](https://social.lol/@nsmsn) and [a few other&nbsp;places](/links.html).
 
 &nbsp;
 
