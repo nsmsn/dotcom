@@ -33,13 +33,13 @@ Here are links to my other projects and profiles around the World Wide Web.
 
 ## Miscellaneous
 
-- [Bandcamp](https://bandcamp.com/nsmsn)
-- [Bookshop](https://bookshop.org/shop/nsmsn) (buy a 📕 from me!)
-- [Cotton Bureau](https://cottonbureau.com/people/nick-simson) (buy a 👕 from me!)
-- [Crucial Tracks](https://app.crucialtracks.org/profile/nsmsn)
-- [Huffduffer](https://huffduffer.com/nsmsn)
-- [IndieWeb.org](https://indieweb.org/User:Nicksimson.com)
-- [Ko-fi](https://ko-fi.com/nsmsn) (buy me a ☕!)
+- [bandcamp](https://bandcamp.com/nsmsn)
+- [bookshop](https://bookshop.org/shop/nsmsn) (buy a 📕 from me!)
+- [cotton bureau](https://cottonbureau.com/people/nick-simson) (buy a 👕 from me!)
+- [crucial tracks](https://app.crucialtracks.org/profile/nsmsn)
+- [huffduffer](https://huffduffer.com/nsmsn)
+- [indieweb.org](https://indieweb.org/User:Nicksimson.com)
+- [ko-fi](https://ko-fi.com/nsmsn) (buy me a ☕!)
 - [omg.lol](https://nsmsn.co/)
 - [status.lol](https://nsmsn.status.lol/)
-- [The StoryGraph](https://app.thestorygraph.com/profile/nsmsn)
+- [the storygraph](https://app.thestorygraph.com/profile/nsmsn)
