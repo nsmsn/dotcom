@@ -16,7 +16,7 @@ Here are links to my other projects and profiles around the World Wide Web.
 
 <ul class="list-multi-col list-social">
     <li><a href="https://www.are.na/nick-simson/channels">are.na</a></li>
-    <li><a href="https://blacksky.community/profile/did:plc:34426v334rdehfd2rapmaapr">atproto</a></li>
+    <li><a href="https://deer.social/profile/did:plc:34426v334rdehfd2rapmaapr">atproto</a></li>
     <li><a href="https://dribbble.com/nsmsn/">dribbble</a></li>
     <li><a href="https://github.com/nsmsn">github</a></li>
     <li><a href="https://www.last.fm/user/nsmsn">last.fm</a></li>
