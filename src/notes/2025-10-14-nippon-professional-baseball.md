@@ -8,7 +8,7 @@ tags:
 ---
 
 <div class="u-bookmark-of h-cite">
-<p><i>Bookmarked <a class="u-url p-name" href="https://www.youtube.com/watch?v=8XBzaiiIYdM">A Brief History of Every Team in NPB (Nippon Professional Baseball)</a> (YouTube video) by <span class="p-author">Evan Christie</span> (aks Gaijin Baseball).</i></p>
+<p><i>Bookmarked <a class="u-url p-name" href="https://www.youtube.com/watch?v=8XBzaiiIYdM">A Brief History of Every Team in NPB (Nippon Professional Baseball)</a> by <span class="p-author">Gaijin Baseball</span>. (YouTube video)</i></p>
 </div>
 
 <div class="e-content">
