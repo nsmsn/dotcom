@@ -15,5 +15,5 @@ tags:
 Indice is a tribute to the iconic indexhibit, an archetypal open source CMS that was heavily used by a generation of designers in the early web due to its simplicity and charm.
 </blockquote>
 
-<p>This is a wave of nostalgia (and a breath of fresh air). That 2006 aesthetic with a modern CMS. Of course, you can still download and host the Indexhibit yourself from <a href="https://www.indexhibit.org/about/">indexhibit.org</a>.</p>
+<p>This is a wave of nostalgia (and a breath of fresh air). That 2006 aesthetic with a modern CMS. Of course, you can still download and host Indexhibit yourself from <a href="https://www.indexhibit.org/about/">indexhibit.org</a>.</p>
 </div>
