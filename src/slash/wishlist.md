@@ -16,7 +16,8 @@ Uh-oh. You found my wish list.
 
 ## Type
 
-1. [Marist](https://abcdinamo.com/typefaces/marist)
-2. [Method](https://www.futurefonts.com/typeji/method)
-3. [Taurus Grotesk](https://www.fostertype.com/buy/taurus-grotesk)
-4. [Zetkin](https://www.futurefonts.com/inga-plonnigs/zetkin)
+1. [Lovechild](https://beastsofengland.co/products/lovechild-2)
+2. [Marist](https://abcdinamo.com/typefaces/marist)
+3. [Method](https://www.futurefonts.com/typeji/method)
+4. [Taurus Grotesk](https://www.fostertype.com/buy/taurus-grotesk)
+5. [Zetkin](https://www.futurefonts.com/inga-plonnigs/zetkin)

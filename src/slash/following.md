@@ -87,7 +87,6 @@ Artists, designers, developers, educators, illustrators, writers, and&nbsp;other
 <li><a href="https://jamesg.blog/">jamesg.blog</a></li>
 <li><a href="https://krrd.ing/">krrd.ing</a></li>
 <li><a href="https://livelaugh.blog/">livelaugh.blog</a></li>
-<li><a href="https://notes.neatnik.net/">notes.neatnik.net</a></li>
 <li><a href="https://olu.online/">olu.online</a></li>
 <li><a href="https://starrwulfe.xyz/">starrwulfe.xyz</a></li>
 <li><a href="https://thehistoryoftheweb.com/">thehistoryoftheweb.com</a></li>
