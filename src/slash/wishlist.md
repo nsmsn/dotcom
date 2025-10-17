@@ -16,8 +16,10 @@ Uh-oh. You found my wish list.
 
 ## Type
 
-1. [Lovechild](https://beastsofengland.co/products/lovechild-2)
-2. [Marist](https://abcdinamo.com/typefaces/marist)
-3. [Method](https://www.futurefonts.com/typeji/method)
-4. [Taurus Grotesk](https://www.fostertype.com/buy/taurus-grotesk)
-5. [Zetkin](https://www.futurefonts.com/inga-plonnigs/zetkin)
+1. [Def Sans](https://publictype.works/font/defsans/)
+2. [Hearken](https://publictype.works/font/hearken/)
+3. [Lovechild](https://beastsofengland.co/products/lovechild-2)
+4. [Marist](https://abcdinamo.com/typefaces/marist)
+5. [Method](https://www.futurefonts.com/typeji/method)
+6. [Taurus Grotesk](https://www.fostertype.com/buy/taurus-grotesk)
+7. [Zetkin](https://www.futurefonts.com/inga-plonnigs/zetkin)

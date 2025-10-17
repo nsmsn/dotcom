@@ -10,6 +10,7 @@
   items: Tree.values(Tree.map(notes, (note, key) => {
     content_html: note/_body
     date_published: note/date
+    title: ``
     id: `${ siteInfo.yaml/url }/notes/${ key }`
     url: `${ siteInfo.yaml/url }/notes/${ key }`
   }))
