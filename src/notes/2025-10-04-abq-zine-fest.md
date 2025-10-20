@@ -3,6 +3,7 @@ title: abq zine fest
 date: 2025-10-04T14:55:41.533-06:00
 tags:
   - "Albuquerque"
+  - "Zines"
 ---
 
 I went to my first [ABQ Zine Fest](https://www.abqzf.com/) today. I don't love big crowds, but this was my kind of crowd.
