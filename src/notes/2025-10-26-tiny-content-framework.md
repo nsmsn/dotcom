@@ -19,5 +19,5 @@ This is a tiny content strategy framework focused on goals, messages, and brandi
 </p>
 </blockquote>
 
-<p>This is something I regularly use, in fact, I'm using it right now on a project! I have this GitHub gist starred, but thought I'd post a public bookmark if in case it helps others.</p>
+<p>This is something I regularly use. In fact, I'm using it right now on a project! I have this GitHub gist starred, but thought I'd post a public bookmark if in case it helps others.</p>
 </div>
