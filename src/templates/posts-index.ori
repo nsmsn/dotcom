@@ -7,6 +7,8 @@
   `
   _body: `    
     <h1>${ title }</h1>
+    <p>A weblog, or “blog”. Usually longer-form writing.</p>
+    <hr>
     <ol reversed class="list-unstyled posts-list">
 
     ${ Tree.map(posts, (post) => `
