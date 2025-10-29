@@ -5,17 +5,17 @@ description: A little bit about Nick Simson. Designer, blogger, internet nobody.
 
 # About
 
-<img src="/img/note-images/2025-whitesands-kite-02.jpg" alt="a man flies a kite against a bright blue sky and white sand dunes" width="420" height="358">
+<img class="float-right-xlarge" src="/img/static/2025-fall-october.jpg" alt="Nick is seated in an aspen grove wearing sunglasses and a corduroy hat. His daughter is climbing on his shoulder and a dog in a sweater is standing in front of them." width="420" height="560">
 
 My name is Nick, short for *Nicholas* which means “[victory of the people](https://www.behindthename.com/name/nicholas).”
 
-I’m a graphic and interaction designer, and my favorite medium to work with is the World Wide Web. I have been at this design thing professionally for more than 15 years, with most of that time spent working in-house with higher education institutions. Today I’m a user interface (UI) designer at a nonprofit member association in Washington, DC.
+I’m a graphic and interaction designer, and my favorite medium to work with is the World Wide Web. I have been at this design thing professionally for more than 15 years, with most of that time spent working in-house with higher education institutions. Today I’m a user interface (UI) designer at a nonprofit member association in Washington,&nbsp;DC.
 
-Through my design practice I’ve been lucky to work with some wonderful artists, musicians, scientists, and writers. I spent a long time as a generalist and thrive on learning new things.
+Through my design practice I’ve been lucky to work with some wonderful artists, musicians, scientists, and writers. I spent a long time as a generalist and thrive on learning new&nbsp;things.
 
 See what I’m up to [now](/now.html).
 
-I’m married to [Eleanor](https://eleanoraldrich.com), who makes paintings. We live in New Mexico with our preschooler and a [small dog](/tags/zelda.html).
+I’m married to [Eleanor](https://eleanoraldrich.com), who makes paintings. We live in New Mexico with our preschooler and a [small&nbsp;dog](/tags/zelda.html).
 
 <details>
   <summary class="h5">Places I’ve lived</summary>

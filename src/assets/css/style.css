@@ -917,6 +917,14 @@ small, .text-small {
 	float: right;
 }
 
+@media (min-width: 64em) {
+	.float-right-xlarge {
+		float: right;
+		margin-left: 4em;
+		margin-bottom: 4em;
+	}
+}
+
 /**
  * Margins
  */
