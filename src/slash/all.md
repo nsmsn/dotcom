@@ -33,7 +33,6 @@ description: (Almost) every page or directory on this website, in alphabetical o
 - [/support](/support.html)
 - [/tags](/tags/)
 - [/this-site](/this-site.html)
-- [/uses](/uses.html)
 - [/vinyl](/vinyl.html)
 - [/work](/work/index.html)
 
