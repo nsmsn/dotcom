@@ -6,7 +6,7 @@
     <link rel="alternate" type="application/json" title="${ siteInfo.yaml/description }" href="/feed.json">
   `
   _body: `
-  <h1 id="greeting" class="home-heading">Hello, I’m Nick.</h1>
+  <h1><span id="greeting">Howdy,</span> <span class="text-primary text-home-20px">I’m Nick. 👋</span></h1>
     <script>
       var myDate = new Date();
       var greeting;
@@ -26,11 +26,9 @@
       }
     </script>
 
-    <p class="text-large">Welcome to my little corner of the world wide&nbsp;web.</p>
-
     <div class="row row-gap-xlarge">
     <div class="grid-half">
-    <p>I design digital interfaces, graphic identities, plus the artifacts supporting these practices. I also write a bit. You can read more <a href="/about.html">about me</a>, or see what I'm up to&nbsp;<a href="/now.html">now</a>.
+    <p><strong>Welcome to my little corner of the world wide&nbsp;web</strong>. You can read more <a href="/about.html">about me</a>, or see what I'm up to&nbsp;<a href="/now.html">now</a>.
 
     &nbsp;
 
