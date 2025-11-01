@@ -7,7 +7,7 @@ tags:
 ---
 
 <div class="u-bookmark-of h-cite">
-<p><i>Bookmarked <a class="u-url p-name" href="https://order.design/otf/sita">Sita Collection</a> by <span class="p-author">Order Type Foundry</span>.</i></p>
+<p><i>Bookmarked <a class="u-url p-name" href="https://order.design/otf/sita">The Sita Collection</a> by <span class="p-author">Order Type Foundry</span>.</i></p>
 </div>
 
 <div class="e-content">
