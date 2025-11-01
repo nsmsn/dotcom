@@ -1278,8 +1278,12 @@ a.site-logo:hover {
 
 /* Utility Classes */
 
+.grayscale {
+	filter: grayscale(100%);
+}
+
 .img-circle {
-  border-radius: 50%;
+	border-radius: 50%;
 }
 
 .img-pixel {
@@ -1287,8 +1291,8 @@ a.site-logo:hover {
 }
 
 .list-multi-col{
-  column-width: 12em;
-  column-gap: 2em;
+	column-width: 12em;
+	column-gap: 2em;
 }
 
 .vis-hidden {
