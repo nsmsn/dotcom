@@ -91,6 +91,7 @@ Artists, designers, developers, educators, illustrators, writers, and&nbsp;other
 <li><a href="https://olu.online/">olu.online</a></li>
 <li><a href="https://starrwulfe.xyz/">starrwulfe.xyz</a></li>
 <li><a href="https://thehistoryoftheweb.com/">thehistoryoftheweb.com</a></li>
+<li><a href="https://www.theslowinternet.com/">theslowinternet.com</a></li>
 <li><a href="https://www.thisdaysportion.com/">thisdaysportion.com</a></li>
 </ul>
 

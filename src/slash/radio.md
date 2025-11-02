@@ -45,6 +45,8 @@ This list has an unfortunate bias toward places I’ve lived and visited, but id
 
 ## Misc., Internet-only
 
+- [door.link](https://www.door.link/): A handpicked music selection, grown over time, algorithm-free, made for listening and dancing.
+
 - [earth.fm](https://earth.fm/): Listen to nature sounds from around the world.
 
 - [myNoise](https://mynoise.net/): Immersive and customizable soundscapes, like Japanese Garden and Medieval Village.
