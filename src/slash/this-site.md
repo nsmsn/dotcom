@@ -72,8 +72,10 @@ The primary typeface is [Hanken Grotesk](https://hanken.co/products/hanken-grote
 <figcaption>80 × 15 pixel badge</figcaption>
 </figure>
 
+<iframe src="https://internetphonebook.net/badges/dial-a-site-badge.html?number=521&size=small" width="228" height="54" frameborder="0" style="border: 1px solid #000;"></iframe>
+
 <small>I try to run a clean website. View this page's [Website Carbon score](https://www.websitecarbon.com/website/nicksimson-com-this-site/).</small>
 
-<small>You can find this site listed in the [Internet Phone Book](https://internetphonebook.net/). [Try dialing **521**](https://internetphonebook.net/dial/).</small>
+<!--<small>You can find this site listed in the [Internet Phone Book](https://internetphonebook.net/). [Try dialing **521**](https://internetphonebook.net/dial/).</small>-->
 
 &nbsp;
