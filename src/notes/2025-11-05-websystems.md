@@ -14,5 +14,7 @@ tags:
 <div class="e-content">
 <p>A provocative handbook for building Web Systems: large-scale websites that produce revenue and results.</p>
 
+<small><em>I know</em>, this is a sales vehicle for a digital firm, and the examples are Sweetgreen and Palantir. 🤢</small>
+
 <p><a href="https://davesmyth.com/design-process">Via Dave Smyth</a>.</p>
 </div>
