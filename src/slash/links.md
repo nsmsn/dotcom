@@ -8,7 +8,7 @@ description: Here are links to my other projects and profiles around the World W
 Here are links to my other projects and profiles around the World Wide Web.
 
 <div class="bg-color-cycle img-circle" style="width: 128px; height: 128px">
-  <img src="/img/meta/nsmsn-hat-transparent-bg.png" alt="a cartoon man in glasses and a blue hat with an orange brim with a pencil behind his ear" width="128" height="128" class="img-circle" loading="lazy"/>
+  <img src="/img/meta/nsmsn-hat-transparent-bg.png" alt="a cartoon man in glasses and a baseball cap with a pencil behind his ear" width="128" height="128" class="img-circle"/>
 </div>
 
 
