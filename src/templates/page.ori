@@ -13,10 +13,10 @@
     <link rel="apple-touch-icon" href="/img/meta/apple-touch-icon.png"><!-- 180×180 -->
 
     <!--webmention-->
-    <link rel="webmention" href="https://webmention.nicksimson.com/webmention">
+    <!--<link rel="webmention" href="https://webmention.nicksimson.com/webmention">-->
     <link rel="webmention" href="https://webmention.io/www.nicksimson.com/webmention" />
   
-    <!--mastodon-->
+    <!--mastodon stuff-->
     <link rel="me" href="https://social.lol/@nsmsn" />
     <meta name="fediverse:creator" content="@nsmsn@social.lol" />
 
