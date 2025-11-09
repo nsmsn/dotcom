@@ -33,7 +33,7 @@ I first encountered Scott McCloud's <i>Understanding Comics</i> in the library a
 
 McCloud's cartoon avatar self-portrait is surrounded by and swimming through icons, many of which may as well be [emoji](https://en.wikipedia.org/wiki/Emoji), which are ubiquitous today but were only beginning to be developed and far short of any kind of standardization until the 2000s. 
 
-I am thouroughly enjoying the re-read of this book, and rediscovering why it made such an impact on me at a young age. I'm nearly finished, but I just had to get this review in this weekend. There's still time this month to [pick up a copy at your library](https://search.worldcat.org/title/Understanding-comics-:-the-invisible-art/oclc/30351626) or [read it online via the Internet Archive](https://archive.org/details/understanding-comics) if you wish to participate in the IndieWeb book club.
+I am thoroughly enjoying the re-read of this book, and rediscovering why it made such an impact on me at a young age. I'm nearly finished, but I just had to get this review in this weekend. There's still time this month to [pick up a copy at your library](https://search.worldcat.org/title/Understanding-comics-:-the-invisible-art/oclc/30351626) or [read it online via the Internet Archive](https://archive.org/details/understanding-comics) if you wish to participate in the IndieWeb book club.
 
 Another excerpt stands out, describing comics as a form of _new media_: 
 
