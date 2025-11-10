@@ -87,6 +87,7 @@ Artists, designers, developers, educators, illustrators, writers, and&nbsp;other
 <li><a href="https://gkeenan.co/avgb/">gkeenan.co</a></li>
 <li><a href="https://jamesg.blog/">jamesg.blog</a></li>
 <li><a href="https://krrd.ing/">krrd.ing</a></li>
+<li><a href="https://kwon.nyc/">kwon.nyc</a></li>
 <li><a href="https://livelaugh.blog/">livelaugh.blog</a></li>
 <li><a href="https://olu.online/">olu.online</a></li>
 <li><a href="https://starrwulfe.xyz/">starrwulfe.xyz</a></li>
