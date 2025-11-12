@@ -11,5 +11,5 @@ tags:
 </div>
 
 <div class="e-content">
-<p>Except for a class that went over Dreamweaver and Flash I took back in 2005, all my front-end development knowledge was learned in my spare time or on the job. This looks like a useful article to read as I try to dive a bit deeper into JavaScript this winter.</p>
+<p>Except for a class that went over Dreamweaver and Flash I took back in 2005, everything I know about front-end development was learned in my spare time or on the job. Knowledge gaps? I have a few. This looks like a useful article to read as I try to dive a bit deeper into JavaScript this winter.</p>
 </div>
