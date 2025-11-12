@@ -24,6 +24,7 @@ description: (Almost) every page or directory on this website, in alphabetical o
 - [/loves](/loves.html)
 - [/notes](/notes/)
 - [/now](/now.html)
+- [/paste](/paste.html)
 - [/pay](/pay.html)
 - [/posts](/posts)
 - [/radio](/radio.html)

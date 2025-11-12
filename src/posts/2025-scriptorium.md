@@ -1,7 +1,7 @@
 ---
 title: "scriptorium@christdesert"
 date: "2025-11-11T20:33:50.995-07:00"
-description: "A web design service run by Benedictine monks in remote New Mexico in the 1990s."
+description: "A solar-powered web design service run by Benedictine monks in remote New Mexico in the 1990s."
 tags:
   - "Design"
   - "History"
