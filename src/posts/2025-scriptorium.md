@@ -21,6 +21,8 @@ Here's a bit longer excerpt from a [Commonweal story about the monastery](https:
 
 > Monks adhering to Benedict’s rule can’t pull eighteen-hour shifts to fill orders. They can’t respond to clients’ emails while they’re praying the Liturgy of the Hours, studying, or eating—the activities that make up most of their day. Abbot Philip told me in an email that the project ended because he couldn’t justify the labor the scriptorium demanded. It took a long time to train monks for the work, but he couldn’t fully capitalize on their skills, as he would soon need to send them off for theological study. In her history of the monastery, <i>Brothers of the Desert</i>, Mari Graña writes, “There were so many orders for design services that what at first seemed the perfect answer for work that would not interfere with the contemplative life, soon began to take over that life.”
 
+Be sure to check out [the 1996 hourly prices](https://web.archive.org/web/19971015193304/http://www.christdesert.org/noframes/script/services.html) for hiring monks to build your website (and index it in Alta Vista)... not too shabby.
+
 I know there are thriving web businesses that observe holidays and holy rules... [Electronics retailer B&H](https://www.bhphotovideo.com/)'s e-commerce closing each Shabbat comes to mind. 
 
 Knowing how long the medieval manuscripts took, its somewhat fascinating to me that a digital scriptorium couldn't make it work in the late 90s.
