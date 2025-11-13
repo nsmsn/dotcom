@@ -4,19 +4,19 @@
   _body: `
     <h1>${ title }</h1>
 
-    <p>A collection of music I’ve accumulated over the years. I only buy records I intend to listen to, so everything here has been played again and again.</p>
+    <p>Music I’ve accumulated over the years. I only buy records I intend to listen to, so everything here has been played again and&nbsp;again.</p>
     
-    <p>Releases are organized alphabetically by artist, and chronologically by release date. It will be some time before the collection is fully cataloged, so this page is very much a work in progress.</p>
+    <p>Releases are organized alphabetically by artist, and chronologically by release&nbsp;date.</p>
 
     <ul class="list-unstyled auto-grid">
 
     ${ Tree.map(vinyls, (vinyl) => `
       <li class="lib-item">
-        <a href="${ vinyl/url }"> <img src="/.netlify/images?url=/img/vinyl/${ vinyl/cover }" alt="" width="128" height="128" loading="lazy" />
-        <span class="lib-title">${ vinyl/title }</span>
+        <a href="${ vinyl/url }"> <img src="/img/vinyl/${ vinyl/cover }" alt="" width="128" height="128" loading="lazy" />
+        <span class="lib-title text-small">${ vinyl/title }</span>
         </a>
-        <span class="artist">${ vinyl/artist }</span><br />
-        <span class="date">${ vinyl/year }</span>
+        <span class="artist text-small">${ vinyl/artist }</span><br />
+        <span class="date text-small">${ vinyl/year }</span>
       </li>
     `) }
 
