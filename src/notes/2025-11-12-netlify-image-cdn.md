@@ -11,5 +11,5 @@ tags:
 </div>
 
 <div class="e-content">
-<p>I really should start using the <a href="https://docs.netlify.com/build/image-cdn/overview/">Image CDN feature</a>, as long as I'm on Netlify. I already optimize my jpgs and pngs with <a href="https://imageoptim.com/mac">ImageOptim</a>, but I gotta get around to using those new and scary formats with killer compression. A good place to start is probably my <a href="/library.html">library</a> and <a href="/vinyl.html">vinyl collection</a>.</p>
+<p>Perhaps I should start using the <a href="https://docs.netlify.com/build/image-cdn/overview/">Image CDN feature</a>, as long as I'm on Netlify. I already optimize my jpgs and pngs with <a href="https://imageoptim.com/mac">ImageOptim</a>, but I gotta get around to using those new and scary formats with killer compression. A good place to start is probably my <a href="/library.html">library</a> and <a href="/vinyl.html">vinyl collection</a>.</p>
 </div>

@@ -12,7 +12,7 @@
 
     ${ Tree.map(vinyls, (vinyl) => `
       <li class="lib-item">
-        <a href="${ vinyl/url }"> <img src="/img/vinyl/${ vinyl/cover }" alt="" width="128" height="128" loading="lazy" />
+        <a href="${ vinyl/url }"> <img src="/.netlify/images?url=/img/vinyl/${ vinyl/cover }" alt="" width="128" height="128" loading="lazy" />
         <span class="lib-title">${ vinyl/title }</span>
         </a>
         <span class="artist">${ vinyl/artist }</span><br />
