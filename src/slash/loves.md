@@ -41,7 +41,6 @@ Plus plenty of others I don’t have room to mention.
 ## Misc.
 
 - If you’re looking for books, check out [my library](/library.html).
-- I love Scrabble, and it is one of the only hashtags I follow on Mastodon. I also play [Wordvoyance](http://www.themisgames.com/wordvoyance/), an ad-free, screen reader accessible version on my phone.
+- I love Scrabble, and it is one of only a few hashtags I follow on Mastodon. I also play [Wordvoyance](http://www.themisgames.com/wordvoyance/), an ad-free, screen reader accessible version on my phone.
+- Western “cowboy” shirts with the pearl snap buttons. Bonus if they have a [cool label](https://reaganray.com/2017/12/12/western-clothing-labels) sewn&nbsp;in.
 - Cake vs. Pie: Cobbler.
-- Hot sauce: Huy Fong Siriracha will always have a special place in my heart.
-- New Mexican food: too many great things to list. This is a great place to live, visit, and eat.
