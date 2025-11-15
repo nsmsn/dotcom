@@ -1,7 +1,7 @@
 # Netlify-specific file: Redirects from what the browser requests to what we serve
 
-https://www.nicks.im/*                          https://www.nicksimson.com/:splat 301!
-https://nicks.im/*                              https://www.nicksimson.com/:splat 301!
+https://www.nicks.im/*                                  https://www.nicksimson.com/:splat 301!
+https://nicks.im/*                                      https://www.nicksimson.com/:splat 301!
 
 /home                                                   /
 /feed                                                   /feed.xml
@@ -20,6 +20,7 @@ https://nicks.im/*                              https://www.nicksimson.com/:spla
 /recommends                                             /uses.html
 /friends                                                /following.html
 /type/                                                  /tags/type.html
+/ai                                                     /posts/2025-just-a-tool.html
 
 /posts/deploy/                                          /posts/2014-deploy.html
 /posts/hello-world/                                     /posts/2014-deploy.html

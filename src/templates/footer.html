@@ -4,9 +4,39 @@
     <img style="float:left; margin-right:16px; margin-bottom: 16px" decoding="async" class="u-photo img-circle" width="64" height="64" src="/img/meta/nsmsn-profile-offwhite.png" alt="" loading="lazy">
     <p>Howdy, I’m <a class="u-url" href="https://nicksimson.com" rel="me"><span class="p-name">Nick Simson</span></a>.</p>
     <p class="p-note">I live in New Mexico and work as a graphic and interaction&nbsp;designer.</p>
+    <p>This website represents my personal opinion and perspective only... not those of any current, past, or future&nbsp;employers.</p>
     <p>You can email me at <a class="u-email" href="mailto:nick@nicksimson.com">nick@nicksimson.com</a>. I’m also on <a rel="me" href="https://social.lol/@nsmsn">Mastodon</a>, <a rel="me" href="https://github.com/nsmsn">GitHub</a>, <a rel="me" href="https://libre.fm/user/nsmsn">Libre.fm</a>, and <a href="https://nicksimson.com/links">a few other places</a>.</p>
     <p><a href="/accessibility.html">Accessibility</a> | <a href="/guest-posts.html">Guest posts</a> | <a href="/support.html">Support this site</a></p>
-    <p>&copy; 2025. This website represents my personal opinion and perspective only... not those of any current, past, or future&nbsp;employers.</p>
+    <p>&copy; 2025. <span id="randomText" class="superfluous">Thanks for stopping by.</span></p>  
     </div>
   </div>
 </footer>
+
+<script type="text/javascript">
+  var r_text = [
+    "Thanks for stopping by.",
+    "This website does not track you.",
+    "Batteries not included.",
+    "Part of a balanced breakfast.",
+    "Insert clever footer text here.",
+    "The large print giveth and the small print taketh away.",
+    "Now, more than ever.",
+    "Poetry is code.",
+    "Your mileage may vary.",
+    "Duty now for the future.",
+    "Your friendly neighborhood graphic designer.",
+    "Void where prohibited.",
+    "Congrats! You made it to the footer.",
+    "Millions of pixels served.",
+    "You can’t have too many eagles.",
+    "Free of hamburger menus since 2008.",
+    "Be kind. Please rewind.",
+    "Made with 🌶️ in New Mexico."
+  ];
+
+  var randomIndex = Math.floor(Math.random() * r_text.length);
+  var randomText = r_text[randomIndex];
+
+  var spanElement = document.getElementById("randomText");
+  spanElement.textContent = randomText;
+</script>
