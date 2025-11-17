@@ -5,7 +5,7 @@ tags:
   - "Music"
 ---
 
-Algorithmically, I thought I should know [Peel Dream Magazine](https://peeldreammagazine.bandcamp.com/) by now. Their music has been compared to some of my personal favorites Broadcast, Stereolab, and Yo La Tengo. The "Peel" in their name is a dedication to the late BBC Radio1 deejay [John Peel](https://en.wikipedia.org/wiki/John_Peel). I'm just old enough that the phrase "Peel Session" means something to me. They are on a favorite label, [Top Shelf Records](https://www.topshelfrecords.com/) (I'm in the&nbsp;Discord).
+Algorithmically, I thought I should know [Peel Dream Magazine](https://peeldreammagazine.bandcamp.com/) by now. Their music has been compared to some of my personal favorites Broadcast, Stereolab, and Yo La Tengo. The "Peel" in their name is a dedication to the late BBC Radio1 deejay [John Peel](https://en.wikipedia.org/wiki/John_Peel). I'm just old enough that the phrase "Peel Session" means something to me. PDM is also on a favorite label, [Topshelf Records](https://www.topshelfrecords.com/) (I'm in the&nbsp;Discord).
 
 Ah well. I found my way to this music via the [SimpleBits Studio Notes](https://simplebits.com/notebook/studio-notes-58/) newsletter. Dan writes he heard them on SiriusXM. Long live the radio and the personal recommendation.
 
