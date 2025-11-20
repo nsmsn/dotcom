@@ -5,7 +5,7 @@ description: A little bit about Nick Simson. Designer, blogger, internet nobody.
 
 # About
 
-<img class="float-right-xlarge" src="/img/static/2025-fall-october.jpg" alt="Nick is seated in an aspen grove wearing sunglasses and a corduroy hat. His daughter is climbing on his shoulder and a dog in a sweater is standing in front of them." width="420" height="560">
+<img style="background-color: #c2ab61;" class="float-right-xlarge" src="/img/static/2025-fall-october.jpg" alt="Nick is seated in an aspen grove wearing sunglasses and a corduroy hat. His daughter is climbing on his shoulder and a dog in a sweater is standing in front of them." width="420" height="560">
 
 My name is Nick, short for *Nicholas* which means “[victory of the people](https://www.behindthename.com/name/nicholas).”
 
