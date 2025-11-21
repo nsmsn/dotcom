@@ -7,7 +7,7 @@ tags:
   - "Websites"
 ---
 
-In her talk for [PixelPalooza 2025](https://cfe.dev/events/pixelpalooza-2025/) today, [Jen Looper](https://www.jenlooper.com/) shared her thoughts on the personal web in the age of AI, referencing Proust, the [Dark Forest and the Cozy Web](https://maggieappleton.com/cozy-web), online communities and inclusion, [Useless Websites](https://theuselessweb.com/), and a ton more.
+In her talk for [PixelPalooza 2025](https://cfe.dev/events/pixelpalooza-2025/) today, [Jen Looper](https://www.jenlooper.com/) shared her thoughts on the personal web in the age of AI, referencing Marcel Proust, the [Dark Forest and the Cozy Web](https://maggieappleton.com/cozy-web), online communities and inclusion, [Useless Websites](https://theuselessweb.com/), and a ton more.
 
 One of Jen's slides:
 

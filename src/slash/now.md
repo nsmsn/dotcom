@@ -15,7 +15,7 @@ Currently:
 
 - working with an awesome digital experience team.
 - raising a preschooler with [Eleanor](https://eleanoraldrich.com).
-- exploring the desert.
+- contemplating some winter side projects. ⛄️
 
 &nbsp;
 
@@ -45,6 +45,8 @@ Currently:
                 icon = '🪁';
             } else if (description.includes('rain') || description.includes('shower')) {
                 icon = '🌧️';
+            } else if (description.includes('dust')) {
+                icon = '░░';
             }
       document.getElementById('weather').innerHTML = `${icon} <strong>Weather in ${city}:</strong> ${temp}°F, ${description}`;
     })
@@ -69,7 +71,12 @@ I use [Literal](https://literal.club/nsmsn/is-reading) and [The StoryGraph](http
 
 ## 🎧 Listening
 
+<figure>
+<a href="https://libre.fm/user/nsmsn"><img src="https://libre.fm/user/nsmsn/now" width="320" height="60" alt="Nick's latest tracks on Libre.fm" loading="lazy"></a>
+<figcaption>
 <script async src="https://recentfm.rknight.me/now.js?u=nsmsn&e=🎵"></script>
+</figcaption>
+</figure>
 
 [My last.fm account](https://www.last.fm/user/nsmsn) keeps track of music I listen to throughout the day. [Stats are fun](https://lastfmstats.com/user/nsmsn/dataset). I'm also scrobbling to [Libre.fm](https://libre.fm/user/nsmsn) as much as I can.
 
@@ -77,7 +84,7 @@ I use [Literal](https://literal.club/nsmsn/is-reading) and [The StoryGraph](http
 
 <small>
 This page uses a few third-party widgets and APIs to display my current status, weather, books, and music.<br />
-<em>Last manually updated Sept. 23, 2025.</em>
+<em>Last manually updated Nov. 21, 2025.</em>
 </small>
 
 &nbsp;
