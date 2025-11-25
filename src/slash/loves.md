@@ -43,4 +43,5 @@ Plus plenty of others I don’t have room to mention.
 - If you’re looking for books, check out [my library](/library.html).
 - I love Scrabble, and it is one of only a few hashtags I follow on Mastodon. I also play [Wordvoyance](http://www.themisgames.com/wordvoyance/), an ad-free, screen reader accessible version on my phone.
 - Western “cowboy” shirts with the pearl snap buttons. Bonus if they have a [cool label](https://reaganray.com/2017/12/12/western-clothing-labels) sewn&nbsp;in.
+- Snoopy's brother Spike.
 - Cake vs. Pie: Cobbler.
