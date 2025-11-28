@@ -1,0 +1,128 @@
+[
+  {
+    "id": "404-001",
+    "mfg": "Unknown",
+    "type": "Six-panel adjustable strapback baseball cap",
+    "material": "100% cotton",
+    "description": "Bright green ballcap with embroidered 404 Media logo."
+  },
+  {
+    "id": "BLU-001",
+    "mfg": "Unknown",
+    "type": "Knit beanie",
+    "material": "100% acrylic",
+    "description": "Bright blue knit beanie. Computer blue. Suitable for Blue Beanie Day."
+  },
+  {
+    "id": "EFF-001",
+    "mfg": "Ebbet's Field Flannels",
+    "type": "Six-panel adjustable strapback baseball cap",
+    "material": "100% wool",
+    "description": "Black baseball cap with adjustable leather strap. No logo."
+  },
+  {
+    "id": "EFF-002",
+    "mfg": "Ebbet's Field Flannels",
+    "type": "Six-panel adjustable strapback baseball cap",
+    "material": "100% wool",
+    "description": "Hunter green baseball cap with adjustable leather strap. Gold felt lightning bolt logo. Black satin under brim."
+  },
+  {
+    "id": "EFF-003",
+    "mfg": "Ebbet's Field Flannels",
+    "type": "Six-panel adjustable strapback baseball cap",
+    "material": "100% wool",
+    "description": "Navy blue baseball cap with orange squatchee and adjustable leather strap. 1950s Hiroshima Carp logo. Green satin under brim."
+  },  
+  {
+    "id": "EFF-004",
+    "mfg": "Ebbet's Field Flannels",
+    "type": "Eight-panel adjustable strapback baseball cap",
+    "material": "100% wool",
+    "description": "Navy blue baseball cap with adjustable leather strap. 1950s alternate Hiroshima Carp logo. Green satin under brim."
+  },    
+  {
+    "id": "FLT-001",
+    "mfg": "Unknown",
+    "type": "Flat cap, 'newsboy' hat",
+    "material": "30% wool, 70% polyester",
+    "description": "Herringbone tweed pattern with subtle orange and blue plaid. Eleanor says this one ages me 40 years."
+  },
+  {
+    "id": "GLN-001",
+    "mfg": "Unknown",
+    "type": "Six-panel adjustable strapback baseball cap",
+    "material": "100% cotton",
+    "description": "Gray/glen plaid ballcap with black brim."
+  },
+  {
+    "id": "HTC-001",
+    "mfg": "Unknown",
+    "type": "Six-panel adjustable baseball cap",
+    "material": "100% polyester",
+    "description": "Red baseball cap with Hiroshima Toyo Carp logo embroidered on front. Green under brim. Plastic zip-adjustable strap on back."
+  },
+  {
+    "id": "ISO-001",
+    "mfg": "Melonwear",
+    "type": "Five-panel adjustable snapback baseball cap",
+    "material": "100% cotton",
+    "description": "Cream ballcap with black brim. Embroidered Isotopes logo on front. 2025 Season Ticket Member on the back."
+  },
+  {
+    "id": "ISO-002",
+    "mfg": "New Era",
+    "type": "Six-panel fitted baseball cap",
+    "material": "100% polyester",
+    "description": "Black and white ballcap with turquoise brim. Embroidered Mariachis logo on front. Minor League Baseball logo on back."
+  },
+  {
+    "id": "MSS-001",
+    "mfg": "Mollusk Surf Shop",
+    "type": "Five-panel adjustable strapback baseball cap",
+    "material": "100% cotton (corduroy)",
+    "description": "Orange/tan corduroy cap with white sunburst embroidered on front."
+  },
+  {
+    "id": "NP-001",
+    "mfg": "Norse Projects",
+    "type": "Six-panel adjustable strapback baseball cap",
+    "material": "100% cotton",
+    "description": "Black cap with white N monogram embroidered on front. Norse Projects embroidered in black on the back."
+  },
+  {
+    "id": "NYM-001",
+    "mfg": "New Era",
+    "type": "Six-panel fitted baseball cap",
+    "material": "100% polyester",
+    "description": "Royal blue baseball cap with orange squatchee. New York Mets logo embroidered on front. MLB patch on back."
+  },
+  {
+    "id": "NYM-002",
+    "mfg": "American Needle",
+    "type": "Six-panel snapback baseball cap",
+    "material": "100% polysester",
+    "description": "Royal blue cap with orange brim and squatchee. Green under the brim. New York Mets logo embroidered on front, Mr. Met logo embroidered on side panel. METS across the back, above orange plastic snapback mechanism."
+  },
+  {
+    "id": "NYM-003",
+    "mfg": "47 Brand",
+    "type": "Six-panel adjustable strapback baseball cap",
+    "material": "100% cotton",
+    "description": "Royal blue baseball cap with orange squatchee and orange brim. New York Mets logo embroidered on front."
+  },
+  {
+    "id": "NYM-004",
+    "mfg": "New Era",
+    "type": "Six-panel fitted baseball cap",
+    "material": "100% polyester",
+    "description": "Black baseball cap with New York Mets logo embroidered on front. 'New York or Nowhere' embroidered on right panel."
+  },
+  {
+    "id": "TKF-001",
+    "mfg": "The Killing Floor",
+    "type": "Six-panel adjustable strapback baseball cap",
+    "material": "100% cotton (corduroy)",
+    "description": "Navy corduroy cap with pink rose and TKF initials embroidered on front."
+  }
+]

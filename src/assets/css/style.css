@@ -80,7 +80,7 @@
 	/* Fonts */
 	--font-display: 'Dinger', Rockwell, 'Rockwell Nova', 'Roboto Slab', 'DejaVu Serif', 'Sitka Small', serif;
 	--font-primary: 'Hanken Grotesk', system-ui, "Helvetica Neue", Arial, sans-serif;
-	--font-monospace: Menlo, Monaco, "Courier New", monospace;
+	--font-monospace: 'Server Mono', Menlo, Monaco, "Courier New", monospace;
 	--font-server: 'Server Mono', monospace;
 	/* Sizes */
 	--font-size: 125%;
@@ -557,6 +557,7 @@ code {
 
 pre {
 	background-color: var(--color-gray-darker);
+	color: var(--color-gray-lighter);
 	display: block;
 	line-height: 1.5;
 	margin-bottom: var(--spacing);
@@ -569,6 +570,10 @@ pre {
 pre code {
 	color: var(--color-gray-lighter);
 	font-size: 1em;
+}
+
+pre p {
+    max-width: none;
 }
 
 /**
@@ -689,7 +694,6 @@ fieldset {
 
 legend,
 label {
-	display: block;
 	margin: 0 0 0.3125em;
 	padding: 0;
 }
@@ -828,13 +832,18 @@ td {
 }
 
 th {
-	border-bottom: 0.125em solid var(--color-gray-light);
+	border-bottom: 0.125em solid #999;
 	font-weight: bold;
 	vertical-align: bottom;
 }
 
+th[scope=row]{
+	border-top: 1px solid #999;
+	border-bottom: none;
+}
+
 td {
-	border-top: 1px solid var(--color-gray-light);
+	border-top: 1px solid #999;
 	vertical-align: top;
 }
 

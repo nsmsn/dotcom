@@ -5,6 +5,8 @@
 
   img
 
+  hats.html = templates/hats.ori(data/hats.json)
+
   library.html = templates/library.ori(data/library.json)
 
   playlist.html = templates/playlist.ori(data/playlist.json)

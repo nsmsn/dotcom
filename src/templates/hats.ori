@@ -1,0 +1,36 @@
+(hats) => page.ori({
+  title: "Hats"
+  description: "A collection of hats."
+  _body: `
+
+<h1>${ title }</h1>
+
+<p>I wear a lot of hats. Here's where I keep track of them. Each thumbnail image links to a larger image of the hat. This page is a work-in-progress.</p>
+
+&nbsp;
+
+<table>
+<caption class="text-display margin-bottom" style="text-align: left">Nick’s hat inventory</caption>
+
+<tr class="text-small">
+<th scope="col">Hat ID</th>
+<th scope="col">Brand/Mfg. info</th>
+<th scope="col">Hat Type</th>
+<th scope="col">Material</th>
+<th scope="col">Description/notes</th>
+</tr>
+
+${ Tree.map(hats, (hat) => `
+<tr class="text-small text-secondary">
+    <th scope="row" style="font-weight: 400"><a href="/img/hats/${ hat/id }.jpg"><img style="background-color: #afaea3; display: block" src="/img/hats/${ hat/id }-thumb.jpg" alt="${ hat/id } large image" loading="lazy" width="75" height="56"></a>${ hat/id }</th>
+    <td>${ hat/mfg }</td>
+    <td>${ hat/type }</td>
+    <td>${ hat/material }</td>
+    <td>${ hat/description }</td>
+</tr>
+    `) }
+
+</table>
+
+  `
+})
