@@ -5,7 +5,9 @@
 
 <h1>${ title }</h1>
 
-<p>I wear a lot of hats. Here's where I keep track of them. Each thumbnail image links to a larger image of the hat. This page is a work-in-progress.</p>
+<p>I wear a lot of hats. Here's where I keep track of them. Each thumbnail image links to a larger image of the hat.</p>
+
+<p>Inspired by <a href="https://indieweb.org/hat">IndieWeb.org/hat</a>. This page is a work-in-progress.</p>
 
 &nbsp;
 
