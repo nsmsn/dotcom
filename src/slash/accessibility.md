@@ -18,7 +18,7 @@ I want as many people as possible to be able to use my website. For example, tha
 
 ## Standards and Testing
 
-The [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) defines requirements for designers and developers to make web content more accessible to people with disabilities. My site stives to conform to **WCAG 2.2 level&nbsp;AA**.
+The [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) defines requirements for designers and developers to make web content more accessible to people with disabilities. My site aims to conform to **WCAG 2.2 level&nbsp;AA**.
 
 I use [standards-compliant HTML, CSS, and JavaScript](https://www.w3.org/standards/) throughout this website. Anyone using a web browser that honors these standards should be capable of navigating this&nbsp;site.
 
@@ -32,7 +32,7 @@ Pages are structured with semantic elements like <code>header</code>, <code>nav<
 
 Images are described with [text alternatives](https://www.a11yproject.com/posts/alt-text/), using the <code>alt</code> attribute. This website’s colors were chosen to ensure there is sufficient color contrast between elements on each page. My site has been coded to honor user device preferences whenever possible.
 
-I strive to use inclusive, plain language throughout this site and use a readability checker to test my content and improve my writing.
+I strive to use inclusive, plain language throughout this site.
 
 &nbsp;
 
