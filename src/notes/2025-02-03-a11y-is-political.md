@@ -6,7 +6,7 @@ tags:
   - "Politics"
 ---
 
-Brian DeConinck, on [the politics of accessibility](https://www.briandeconinck.com/the-politics-of-accessibility/):
+Beth DeConinck, on [the politics of accessibility](https://bethdeconinck.com/the-politics-of-accessibility/):
 
 <blockquote>
 <p>When the new administration issued an executive order targeting DEIA programs, I heard people express shock that the “A” stands for “Accessibility.” They felt that it somehow felt out of place alongside diversity, equity, and inclusion, that it was a different thing.</p>

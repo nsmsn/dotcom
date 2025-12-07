@@ -8,11 +8,11 @@ tags:
 ---
 
 <div class="u-bookmark-of h-cite">
-<p><i>Bookmarked <a class="u-url p-name" href="https://www.briandeconinck.com/the-hero-of-my-own-story/">The hero of my own story</a> by <span class="p-author">Brian DeConinck</span>.</i></p>
+<p><i>Bookmarked <a class="u-url p-name" href="https://bethdeconinck.com/the-hero-of-my-own-story/">The hero of my own story</a> by <span class="p-author">Beth DeConinck</span>.</i></p>
 </div>
 
 <div class="e-content">
-<p>Brian’s reflection on his three and a half years working with a federal contractor on VA.gov is worthy of your time. Especially if you spend any time thinking about digital accessibility, governance in a large organization, or what is going on with the U.S. federal government workforce at this present moment.</p>
+<p>Beth’s reflection on her three and a half years working with a federal contractor on VA.gov is worthy of your time. Especially if you spend any time thinking about digital accessibility, governance in a large organization, or what is going on with the U.S. federal government workforce at this present moment.</p>
 
 <p>Hard to pick just one excerpt worth sharing, but I really liked this:</p>
 

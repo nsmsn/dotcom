@@ -5,6 +5,6 @@ tags:
   - "Accessibility"
 ---
 
-I really enjoyed this month's accessibility discussion hosted by [WPCampus](https://wpcampus.org/). Today's event featured [Brian DeConinck](https://www.briandeconinck.com/) discussing forms and accessibility in government services and higher education.
+I really enjoyed this month's accessibility discussion hosted by [WPCampus](https://wpcampus.org/). Today's event featured [Beth DeConinck](https://bethdeconinck.com/) discussing forms and accessibility in government services and higher education.
 
-Although WPCampus is a WordPress-focused organization, Brian's talk was very much CMS-agnostic. I'm glad I spent my lunch hour with this group of people, and hope to attend more of these events in the future.
+Although WPCampus is a WordPress-focused organization, Beth's talk was very much CMS-agnostic. I'm glad I spent my lunch hour with this group of people, and hope to attend more of these events in the future.
