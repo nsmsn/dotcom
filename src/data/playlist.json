@@ -1,5 +1,15 @@
 [
-    {
+  {
+    "title": "Every Time I Hear",
+    "artist": "Sharp Pins",
+    "album": "Radio DDR",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/81/c1/ed81c17a-0483-ca61-5ed8-5f63a1694c10/50897.jpg/160x160bb.jpg",
+    "permalink": "https://app.crucialtracks.org/profile/nsmsn/20251208",
+    "entrydate": "Dec 8, 2025",
+    "applemusic": "https://music.apple.com/us/album/every-time-i-hear/1784552411?i=1784552414",
+    "songlink": "https://song.link/i/1784552414"
+  },
+  {
     "title": "My Proud Mountains",
     "artist": "Townes Van Zandt",
     "album": "Our Mother the Mountain",
