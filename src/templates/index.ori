@@ -45,10 +45,8 @@
       <div class="grid-half">
       <h2 class="text-small text-uppercase text-secondary">Lists</h2>
       <ul class="list-unstyled">
-      <li><a href="/following.html">Following</a></li>
       <li><a href="/library.html">Library</a></li>
       <li><a href="/links.html">Links</a></li>
-      <li><a href="/loves.html">Loves</a></li>
       <li><a href="/playlist.html">Playlist</a></li>
       <li><a href="/radio.html">Radio</a></li>
       <li><a href="/vinyl.html">Vinyl collection</a></li>
@@ -60,7 +58,6 @@
       <ul class="list-unstyled">
       <li><a href="/accessibility.html">Accessibility statement</a></li>
       <li><a href="/feeds.html">Feeds</a></li>
-      <li><a href="/guest-posts.html">Guest posts</a></li>
       <li><a href="/this-site.html">How this site works</a></li>
       <li><a href="/shop.html">Shop</a></li>
       <li><a href="/tags/index.html">Tags</a></li>
