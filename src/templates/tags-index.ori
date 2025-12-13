@@ -7,7 +7,7 @@
 
     ${ Tree.map(tags, (posts,tagname) => `
       <li class="margin-bottom-small">
-        <a href="/tags/${ Origami.slug(tagname) }.html" class="tagged-item">${ tagname }</a> <span class="tagged-count">(${ Tree.length(posts) })</span>
+        <a href="/tags/${ Origami.slug(tagname) }.html" class="tagged-item">${ tagname }</a> <span class="tagged-count">(${ Tree.size(posts) })</span>
       </li>
     `) }
 

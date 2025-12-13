@@ -21,7 +21,7 @@
   notes = {
     ...Tree.map(data/notes.ori, templates/note.ori)
     (noteSets) = Tree.paginate(data/notes.ori, 16)
-    pages/ = Tree.map(noteSets, {
+    pages/ = Tree.mapExtension(noteSets, {
       extension: "->.html"
       value: templates/notes-index.ori
     })
