@@ -15,4 +15,4 @@ Doug Wilson interviewed Tobias Frere-Jones on [designing Gotham](https://frerejo
 
 A lot of great stuff in this post, particulary the photographs of the source material: vernacular signage in New York City.
 
-Earlier this year, [Mark Simonson wrote a post celebrating the 20th birthday of his Proxima Nova](https://www.marksimonson.com/notebook/view/proxima-nova-turns-20/). Frere-Jones doesn't mention Proxima, while Simonson does mention Gotham. The graphic designer (me) who has used both of these designs a lot in his first decades of working appreciates hearing from both type designers, looking back on these blockbuster releases this year.
+Earlier this year, [Mark Simonson wrote a post celebrating the 20th birthday of his Proxima Nova](https://www.marksimonson.com/notebook/view/proxima-nova-turns-20/). Frere-Jones doesn't mention Proxima, while Simonson does mention Gotham. The graphic designer (me) who has used both of these designs a lot in his first decades of working appreciates hearing from both type designers, looking back on these blockbuster releases.
