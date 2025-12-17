@@ -14,6 +14,13 @@
     "description": "Bright blue knit beanie. Computer blue. Suitable for Blue Beanie Day."
   },
   {
+    "id": "BSC-001",
+    "mfg": "Yupoong",
+    "type": "Five-panel adjustable snapback baseball cap",
+    "material": "60% cotton, 40% polyester",
+    "description": "Blue cap with white embroidered Buscadero Motorcycle Co. logo."
+  },
+  {
     "id": "EFF-001",
     "mfg": "Ebbet's Field Flannels",
     "type": "Six-panel adjustable strapback baseball cap",
@@ -75,6 +82,13 @@
     "type": "Six-panel fitted baseball cap",
     "material": "100% polyester",
     "description": "Black and white ballcap with turquoise brim. Embroidered Mariachis logo on front. Minor League Baseball logo on back."
+  },
+  {
+    "id": "JBS-001",
+    "mfg": "Yupoong",
+    "type": "Five-panel adjustable snapback baseball cap",
+    "material": "80% acrylic, 20% wool",
+    "description": "Black cap with black Sturgill Simpson/Johnny Blue Skies patch. Green under brim."
   },
   {
     "id": "MSS-001",
