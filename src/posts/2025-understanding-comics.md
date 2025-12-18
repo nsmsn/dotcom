@@ -7,15 +7,15 @@ tags:
   - "Media"
 ---
 
-In my youth, I lived and breathed cartoons, comics, and animation. Like many children I learned to read through Dr. Suess' iconic picture books. Once I started reading and writing, I also found myself illustrating my own stories. Some early memories with cartoons and comics include painting the yellow submarine from the Beatles animated film in art class, and turning in a comics panel based on <i>Mrs. Frisby and the Rats of NIMH</i> as a book report in elementary school<sup><a href="#fn1">1</a></sup>.
+In my youth, I lived and breathed cartoons, comics, and animation. Like many children I learned to read through Dr. Suess' iconic picture books. Once I started reading and writing, I also found myself illustrating my own stories. Some early memories with cartoons and comics include painting the yellow submarine from the Beatles animated film in art class, and turning in a comics panel based on <cite>Mrs. Frisby and the Rats of NIMH</cite> as a book report in elementary school<sup><a href="#fn1">1</a></sup>.
 
 I had a few of the Calvin Hobbes book collections as well as scrapbooks of other favorite Sunday strips I was clipping from the newspaper myself. My parents bought me the [earliest Wallace and Gromit short film](https://en.wikipedia.org/wiki/A_Grand_Day_Out) on VHS, many dollar store compilations of animation from the 1930s and 40s, as well as [Bruce Blitz's 'How to Draw Cartoons'](https://www.youtube.com/watch?v=sP6AWMNuq9o) tape from 1987. As a youngster with a bicycle and a library card, I was hungry to get my hands on every book that was related to comics or animation.
 
 <a href="https://bookshop.org/a/21729/9780060976255"><img src="/img/library/mccloudcomics.jpg" alt="Understanding Comics by Scott McCloud" width="200" height="304"></a>
 
-I first encountered Scott McCloud's <i>Understanding Comics</i> in the library as a teenager in the early 2000s. I didn’t yet know “graphic design” was a thing, but “cartoonist” was still an aspirational career for me then. The book has stayed with me. I've had McCloud's book listed on my [Library web page](/library.html) for the last five years, but I have not actually re-read this book in nearly 25 years. It happens to be this month's selection for the [IndieWeb Book Club](https://indieweb.org/IndieWeb_Book_Club), [hosted by Joe "Artlung" Crawford](https://artlung.com/understandingcomics-ibc/). So I eagerly put a hold on the title and picked it up from the library last week.
+I first encountered Scott McCloud's <cite>Understanding Comics</cite> in the library as a teenager in the early 2000s. I didn’t yet know “graphic design” was a thing, but “cartoonist” was still an aspirational career for me then. The book has stayed with me. I've had McCloud's book listed on my [Library web page](/library.html) for the last five years, but I have not actually re-read this book in nearly 25 years. It happens to be this month's selection for the [IndieWeb Book Club](https://indieweb.org/IndieWeb_Book_Club), [hosted by Joe "Artlung" Crawford](https://artlung.com/understandingcomics-ibc/). So I eagerly put a hold on the title and picked it up from the library last week.
 
-<i>Understanding Comics</i> begins with the concept of visual literacy, and each chapter builds upon the previous one, exploring concepts like abstraction, time, motion, artistic movements, art history, and other media&nbsp;all through comic devices: panels of sequential art and hand-lettered word balloons. This book is still as timely as written in 1993.
+<cite>Understanding Comics</cite> begins with the concept of visual literacy, and each chapter builds upon the previous one, exploring concepts like abstraction, time, motion, artistic movements, art history, and other media&nbsp;all through comic devices: panels of sequential art and hand-lettered word balloons. This book is still as timely as written in 1993.
 
 <figure role="group">
 <img src="/img/post-images/2025-understanding-comics-page-58.jpg" loading="lazy" alt="a comics page about visual iconography and universal communication. Described in more detail below." width="800" height="1210">
@@ -57,7 +57,7 @@ Another excerpt stands out, describing comics as a form of _new media_:
 </figcaption>
 </figure>
 
-As I read this book again in 2025, I can't help but think of the web, the medium I primarily work in today. It's still a young medium, only thirty-something years old, and in its very infancy when <i>Understanding Comics</i> first came out. McCloud did write  a follow-up, called <a href="https://en.wikipedia.org/wiki/Reinventing_Comics"><i>Reinventing Comics</i></a> in 2000, and includes many examples of comics artists using the web and digital technology to advance the art form further. I read this book as well as a teen, and I'd be interested in revisiting that title as well. My memory is a bit fuzzy, but I remember a lot about the web page as an _infinite canvas_ standing out in my baby-web-developer brain.
+As I read this book again in 2025, I can't help but think of the web, the medium I primarily work in today. It's still a young medium, only thirty-something years old, and in its very infancy when <cite>Understanding Comics</cite> first came out. McCloud did write  a follow-up, called <a href="https://en.wikipedia.org/wiki/Reinventing_Comics"><cite>Reinventing Comics</cite></a> in 2000, and includes many examples of comics artists using the web and digital technology to advance the art form further. I read this book as well as a teen, and I'd be interested in revisiting that title as well. My memory is a bit fuzzy, but I remember a lot about the web page as an _infinite canvas_ standing out in my baby-web-developer brain.
 
 Significantly, McCloud spends a lot of energy in his work talking about comics as _participatory communication_. As a reader, you are filling in the space between panels with your own sensory imagination (a concept McCloud calls _closure_). The web is similar as an interactive medium. There are very few "passive" websites these days, and that most powerful element of the web, the hyperlink helps you uncover entire worlds within and beyond sites.
 
@@ -65,14 +65,14 @@ McCloud uses the terms "comics artist" and "comics creator" interchangably throu
 
 I don't know who out there is still using terms like _[new media](https://en.wikipedia.org/wiki/New_media)_ or even _[visual communication](https://en.wikipedia.org/wiki/Visual_communication)_. Both feel like aging, academic, and outdated terms. To me, at least. I think we will someday even drop the "social" in "social media." The web is news and comics. Blogs and conversation. Art and games you can participate in. Live television you make and react to. And probably other stuff yet to be invented.
 
-Scott McCloud titled his book after Marshall McLuhan's <a href="https://en.wikipedia.org/wiki/Understanding_Media"><i>Understanding Media</i></a> (1964), about thirty years after that book made a splash. Perhaps it's time for someone to do the difficult work of writing an "Understanding the Web." Despite [all the efforts to declare the web dead](https://zeldman.com/2025/10/25/receipts-a-brief-list-of-prominent-articles-proclaiming-the-death-of-the-web/), it's still a young medium, and still very misunderstood.
+Scott McCloud titled his book after Marshall McLuhan's <a href="https://en.wikipedia.org/wiki/Understanding_Media"><cite>Understanding Media</cite></a> (1964), about thirty years after that book made a splash. Perhaps it's time for someone to do the difficult work of writing an "Understanding the Web." Despite [all the efforts to declare the web dead](https://zeldman.com/2025/10/25/receipts-a-brief-list-of-prominent-articles-proclaiming-the-death-of-the-web/), it's still a young medium, and still very misunderstood.
 
 &nbsp;
 
 <small>
 <ol>
-<li id="fn1">I have this book report <i>somewhere</i>, and really need to scan it and add it to this post later.</li>
+<li id="fn1">I have this book report <em>somewhere</em>, and really need to scan it and add it to this post later.</li>
 
-<li id="fn2">On the web I can use <code>author</code> as a value for the <code>rel</code> attribute in HTML, as a proof that I made the document. On my website I also use the <code>meta name="fediverse:creator"</code> tag in my markup to generate a link preview in Mastodon posts for things I write. On the web, we can all be <i>creators</i>.</li>
+<li id="fn2">On the web I can use <code>author</code> as a value for the <code>rel</code> attribute in HTML, as a proof that I made the document. On my website I also use the <code>meta name="fediverse:creator"</code> tag in my markup to generate a link preview in Mastodon posts for things I write. On the web, we can all be <em>creators</em>.</li>
 </ol>
 </small>
