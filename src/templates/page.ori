@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>${ page/title }</title>
     <meta name="description" content="${ page/description }" />
-    <link rel="stylesheet" href="/assets/css/style.css" />
+    <link rel="stylesheet" href="/assets/css/style-holiday.css" />
     <!--<link rel="icon" href="/favicon.ico"> https://getoutofmyhead.dev/favicons/ -->
     <link rel="icon" type="image/svg+xml" href="/img/meta/favicon.svg">
     <link rel="apple-touch-icon" href="/img/meta/apple-touch-icon.png"><!-- 180×180 -->
@@ -21,8 +21,10 @@
     <meta name="fediverse:creator" content="@nsmsn@social.lol" />
 
     ${ page/head ?? "" }
+    <script type="module" src="/assets/js/snow-fall.js"></script>
   </head>
   <body>
+  <snow-fall></snow-fall>
     ${ header.html }
     ${ navigation.html }
 
