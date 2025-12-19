@@ -5,7 +5,7 @@ tags:
   - "This site"
 ---
 
-Screw it... I'm _sprucing_ up the ol website today with a holiday theme. I used [Kyle Reddoch's instructions](https://www.kylereddoch.me/blog/cooling-down-the-servers-by-adding-a-little-snow/) to implement [Zach Leatherman's snow-fall web component](https://www.zachleat.com/web/snow-fall/) across the site. 
+Screw it... I'm _sprucing_ up the ol website today with a holiday theme. I implemented [Zach Leatherman's snow-fall web component](https://www.zachleat.com/web/snow-fall/) across the site. 
 
 My site is red and green (mostly forest green) today but the message in the footer is universal: "Peace on earth, good will to all." Happy <code>whatever</code> you celebrate. 
 

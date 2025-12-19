@@ -1072,6 +1072,10 @@ small, .text-small {
 		transition-duration: 0.01ms !important;
 		scroll-behavior: auto !important;
 	}
+
+	snow-fall {
+		display: none;
+	}
 }
 /**
  * Clear any floats
