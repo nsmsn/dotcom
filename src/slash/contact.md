@@ -5,7 +5,7 @@ description: A simple contact form to reach me.
 
 # Get in Touch
 
-Use the form below to send me a message. Or email me at <a href="mailto:nick@nicksimson.com">nick@nicksimson.com</a>.
+Use the form below to send me a message. Or just email me at <a href="mailto:nick@nicksimson.com">nick@nicksimson.com</a>.
 
 <small>This contact form is powered by <a href="https://www.netlify.com/blog/2019/02/12/improved-netlify-forms-spam-filtering-using-akismet/">Netlify, Akismet</a>, and HTML.</small>
 
