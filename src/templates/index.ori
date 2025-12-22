@@ -6,7 +6,7 @@
     <link rel="alternate" type="application/json" title="${ siteInfo.yaml/description }" href="/feed.json">
   `
   _body: `
-  <h1><span id="greeting">Howdy,</span> <span class="text-primary text-home-20px">I’m Nick. <span class="grayscale">❄️</span></span></h1>
+  <h1><span id="greeting">Howdy,</span> <span class="text-primary text-home-20px">I’m Nick. <span class="grayscale">👋</span></span></h1>
     <script>
       var myDate = new Date();
       var greeting;

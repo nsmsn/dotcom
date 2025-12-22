@@ -21,10 +21,25 @@
     <meta name="fediverse:creator" content="@nsmsn@social.lol" />
 
     ${ page/head ?? "" }
-    <script type="module" src="/assets/js/snow-fall.js"></script>
+    <script type="module" src="/assets/js/snow-fall-extended.js"></script>
   </head>
   <body>
-  <snow-fall count="240" style="--snow-fall-size: 8px"></snow-fall>
+  <snow-fall id="snowEffect" style="--snow-fall-size: 8px"></snow-fall>
+
+  <div class="snow-controls" id="snowControls">
+    <div class="snow-controls-header">
+      <h2 class="text-small text-uppercase text-secondary">❄️ Snow Controls</h2>
+      <button class="toggle-button" id="toggleButton" aria-label="Toggle snow controls">−</button>
+    </div>
+    <div class="slider-container">
+      <div class="slider-label">
+        <span>Snowflakes:</span>
+        <span id="countDisplay">250</span>
+      </div>
+      <input type="range" id="snowSlider" min="0" max="1000" value="250" step="50">
+    </div>
+  </div>
+  
     ${ header.html }
     ${ navigation.html }
 
