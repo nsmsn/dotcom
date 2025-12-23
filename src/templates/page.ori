@@ -24,7 +24,7 @@
     <script type="module" src="/assets/js/snow-fall-extended.js"></script>
   </head>
   <body>
-  <snow-fall id="snowEffect" style="--snow-fall-size: 8px"></snow-fall>
+  <snow-fall id="snowEffect" style="--snow-fall-size: 4px"></snow-fall>
 
   <div class="snow-controls" id="snowControls">
     <div class="snow-controls-header">

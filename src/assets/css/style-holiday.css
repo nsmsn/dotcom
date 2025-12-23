@@ -1183,9 +1183,18 @@ img {
 }
 
 .site-footer {
-	background: rgba(0, 0, 0, 0.125);
+	background: aliceblue;
+	color: var(--color-forest);
 	margin-top: 2.5rem;
 	padding-top: 1.5rem;
+}
+
+.site-footer a {
+	color: var(--color-forest);
+}
+
+.site-footer a:hover {
+	color: var(--color-code);
 }
 
 .site-footer p {
@@ -1263,7 +1272,7 @@ img {
 
 /* Site logo */
 a.site-logo {
-	background-color: rgba(0, 0, 0, 0.125);
+	background-color: rgba(0, 0, 0, 0.25);
   	display: block;
   	width: 48px;
   	height: 48px;
@@ -1389,31 +1398,37 @@ a.site-logo:hover {
 .bg-color-cycle {
     -webkit-animation: gradient 60s infinite alternate linear;
     animation: gradient 60s infinite alternate linear;
-    background: hsl(1.7,100%,86.3%);
+    background: hsl(0,100%,79%);
 	}
   	
 	@-webkit-keyframes gradient {
-    25% {
-    	background: hsl(282.7,91.7%,85.9%);
+    20% {
+    	background: hsl(0, 100%, 79%);
+		}
+	40% {
+      	background: hsl(48, 89%, 67%);
     	}
-    50% {
-    	background: hsl(180,69%,74.7%);
+    60% {
+    	background: hsl(125, 71%, 68%);
     	}
-    75% {
-      	background: hsl(48.2,98.6%,72.7%);
+    80% {
+      	background: hsl(48, 89%, 67%);
     	}
   	}
   
 	@keyframes gradient {
-    25% {
-        background: hsl(282.7,91.7%,85.9%);
-      	}
-    50% {
-        background: hsl(180,69%,74.7%);
+    20% {
+    	background: hsl(0, 100%, 79%);
+		}
+	40% {
+      	background: hsl(48, 89%, 67%);
     	}
-    75% {
-        background: hsl(48.2,98.6%,72.7%);
-      	}
+    60% {
+    	background: hsl(125, 71%, 68%);
+    	}
+    80% {
+      	background: hsl(48, 89%, 67%);
+    	}
   	}
 
 /* Animated Rotating image */
@@ -1474,6 +1489,7 @@ a.site-logo:hover {
     display: flex;
     align-items: center;
     justify-content: center;
+	background-color: rgba(0, 0, 0, 0.25);
 }
 
 .snow-controls-header {
