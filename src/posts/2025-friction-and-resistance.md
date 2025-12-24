@@ -77,7 +77,7 @@ The irony is not lost on me that I’m responding to a prompt about friction and
 
 A promising antidote to the Silicon Valley money machine is the idea of an indie web, or independent web. You can host a website yourself, or pay someone to host it for you, but participating is quite simple: you just have your own website.
 
-I like the generous, inclusive way [Jeremy Keith explained it in 2024](https://adactio.com/journal/tags/indiewebcamp):
+I like the generous, inclusive way [Jeremy Keith explained it in 2024](https://adactio.com/journal/20968):
 
 <blockquote>
 <p>While we were hacking away on day two, somebody mentioned that they still find hard to explain the indie web to people.</p>
