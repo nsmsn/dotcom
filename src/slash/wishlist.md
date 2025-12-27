@@ -11,8 +11,7 @@ Uh-oh. You found my wish list.
 
 1. [Time of the Last Persecution](https://www.strandedrecords.com/collections/bill-fay) by Bill Fay (vinyl)
 2. [Things We Lost in the Fire](https://lowtheband.bandcamp.com/album/things-we-lost-in-the-fire) by Low (vinyl)
-3. [Other Networks: a Radical Technology Sourcebook](https://shop.mexicansummer.com/merch/495898-lori-emerson-other-networks-a-radical-technology-sourcebook) by Lori Emerson (book)
-4. [Metropolitans: New York Baseball, Class Struggle, and the People's Team](https://astrapublishinghouse.com/product/metropolitans-9781662603006/) by A.M. Gittlitz (book)
+3. [Metropolitans: New York Baseball, Class Struggle, and the People's Team](https://astrapublishinghouse.com/product/metropolitans-9781662603006/) by A.M. Gittlitz (book)
 
 
 ## Type
