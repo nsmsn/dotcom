@@ -15,7 +15,7 @@ Currently:
 
 - working with an awesome digital experience team.
 - raising a preschooler with [Eleanor](https://eleanoraldrich.com).
-- contemplating some winter side projects. ⛄️
+- contemplating a couple winter side projects. ⛄️
 
 &nbsp;
 
@@ -74,7 +74,7 @@ I use [Literal](https://literal.club/nsmsn/is-reading) and [The StoryGraph](http
 <figure>
 <a href="https://libre.fm/user/nsmsn"><img src="https://libre.fm/user/nsmsn/now" width="320" height="60" alt="Nick's latest tracks on Libre.fm" loading="lazy"></a>
 <figcaption>
-<script async src="https://recentfm.rknight.me/now.js?u=nsmsn&e=🎵"></script>
+<script async src="https://recentfm.rknight.me/now.js?u=nsmsn&nomoji=true"></script>
 </figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ I use [Literal](https://literal.club/nsmsn/is-reading) and [The StoryGraph](http
 
 <small>
 This page uses a few third-party widgets and APIs to display my current status, weather, books, and music.<br />
-<em>Last manually updated Nov. 21, 2025.</em>
+<em>Last manually updated Dec. 30, 2025.</em>
 </small>
 
 &nbsp;

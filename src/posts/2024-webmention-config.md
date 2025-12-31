@@ -10,7 +10,7 @@ tags:
 
 <div class="heads-up">
 <h2>👋 Hey there!</h2>
-<p>The contents of this post refer to an older version of my site and therefore may be <strong>wildly</strong> out of date. I'm keeping this post up for posterity, but some things may have changed in these WordPress settings. Also I don't have webmentions currently set up on this version, lol.</p>
+<p>The contents of this post refer to an older version of my site and therefore may be <strong>wildly</strong> out of date. I'm keeping this post up for posterity, but some things may have changed in these WordPress settings.</p>
 </div>
 
 In [IndieWeb chat today](https://chat.indieweb.org/dev/2024-07-18#bottom), somebody was asking about this sentence in the [IndieBlocks](https://wordpress.org/plugins/indieblocks/) plugin description on WordPress.org:
