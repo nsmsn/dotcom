@@ -13,5 +13,5 @@ tags:
 </div>
 
 <div class="e-content">
-<p>I've been interested in trying Penpot, the open source alternative to Sketch and Figma (products I'm currently using at work). This blog post is a snapshot from earlier this year how this particular company product team is thinking about and approaching AI.</p>
+<p>I've been curious about Penpot, the open source alternative to Sketch and Figma (products I'm currently using at work). This blog post is a snapshot from earlier this year, detailing how this particular company and product team is thinking about and approaching AI.</p>
 </div>
