@@ -5,6 +5,9 @@ date: 2025-12-31T02:01:14.231-07:00
 tags:
   - Books
 ---
+
+Every year it is my annual tradition to inventory my reading for the calendar year. I started several books throughout the year, but only finished a few.
+
 I ended 2024 and began 2025 saying I wanted to read more and "reclaim my attention"&mdash;whatever that means. Baseball Season is long, and so is Basketball Season, too. Sleep was precious. I am not going to beat myself up about the books I did not finish this year. There were several I started and had to put down. Even [the one about <i>The Onion</i>](https://www.npr.org/2025/03/23/nx-s1-5184428/funny-because-its-true-tells-the-history-of-satirical-paper-the-onion), I just couldn't get all the way through. Oh well.
 
 Here’s a guide to the emoji in this post:<br/>
