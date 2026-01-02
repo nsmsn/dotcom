@@ -77,5 +77,5 @@ It's too early for me to pick favorites, and that is the relationship I have wit
 
 Then there's the matter of live music. Because I have a little kid, I do not get out to see much live music these days. But I'd like to get out to at least one show in 2026. Ratboys is playing here in March.
 
-A lot of great stuff came out in 2025. I was still discovering old gems this year too. Maybe this roundup post will become an annual tradition.
+A lot of great stuff came out in 2025. I was still discovering old gems this year too. I've been tracking my reading on my website for almost a decade now. Maybe this music roundup post will become a new annual tradition.
 
