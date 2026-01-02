@@ -14,6 +14,11 @@ I listened to <cite>Versions of Modern Performance</cite> by Horsegirl a lot thi
 
 I only listened to Bruce Springsteen's <cite>Tracks II</cite> once, but at eighty-something songs it clocked in as one of my top albums, both in Apple Music's Recap and Last.fm's Playback.
 
+<figure>
+<img src="/img/post-images/2026-lastfm-profile.png" alt="We'd describe you as a pioneering, versatile, adventurer. A dubious diagram showing positions along 5 axis... consistency, discovery rate, variance, concentration, replay rate" width="800" height="510">
+<figcaption>Alright, Last.fm... thanks for this.</figcaption>
+</figure>
+
 Last.fm recorded **15,306** scrobbles for me in 2025, and my longest streak was 66 consecutive days (not of continuous listening, but days I didn't miss a scrobble).
 
 Libre.fm recorded **7,771** songs, or approx. 453 hours of music. Here's my top ten artists of 2025:
