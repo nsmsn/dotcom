@@ -44,6 +44,7 @@ I switched streaming from Apple Music to Qobuz toward the end of the year. A pal
 
 Here's some records I liked that came out in 2025, not ranked, but in the order they were released:
 
+- <cite>Freckle</cite> by Freckle <!--(Jan. 31)-->
 - <cite>Sharon Van Etten & The Attachment Theory</cite> by Sharon Van Etten <!--(Feb. 7)-->
 - <cite>Phonetics On and On</cite> by Horsegirl <!--(Feb. 14)-->
 - <cite>Cotton Crown</cite> by The Tubs <!--(March 7)-->
