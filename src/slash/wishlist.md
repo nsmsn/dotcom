@@ -21,6 +21,5 @@ Uh-oh. You found my wish list.
 3. [Lovechild](https://beastsofengland.co/products/lovechild-2)
 4. [Marist](https://abcdinamo.com/typefaces/marist)
 5. [Method](https://www.futurefonts.com/typeji/method)
-6. [Shop Sans](https://www.futurefonts.com/hex/shop-sans)
-7. [Taurus Grotesk](https://www.fostertype.com/buy/taurus-grotesk)
-8. [Zetkin](https://www.futurefonts.com/inga-plonnigs/zetkin)
+6. [Taurus Grotesk](https://www.fostertype.com/buy/taurus-grotesk)
+7. [Zetkin](https://www.futurefonts.com/inga-plonnigs/zetkin)
