@@ -62,10 +62,9 @@ Currently:
 
 ## 📚 Reading
 
-<div id="literal-widget" handle="nsmsn" status="IS_READING" layout="list"></div>
-<script async src="https://literal.club/js/widget.js"></script>
-
-I use [Literal](https://literal.club/nsmsn/is-reading) and [The StoryGraph](https://app.thestorygraph.com/profile/nsmsn) to keep track of my reading.
+- [Weapons of Mass Delusion](https://app.thestorygraph.com/books/b8457eb4-26b2-42e7-bdf5-d885bcc74c98) by Robert Draper
+- [Capital, Volume 1](https://app.thestorygraph.com/books/9260f7ea-2e06-4e00-90d6-0b9e69f11bd1) by Karl Marx 
+- [New Mexico: An Interpretive History](https://app.thestorygraph.com/books/f9dc6dac-8b1d-46fa-adec-2dbcbaba8ae2) by Marc Simmons
 
 &nbsp;
 
@@ -83,8 +82,8 @@ I use [Literal](https://literal.club/nsmsn/is-reading) and [The StoryGraph](http
 &nbsp;
 
 <small>
-This page uses a few third-party widgets and APIs to display my current status, weather, books, and music.<br />
-<em>Last manually updated Dec. 30, 2025.</em>
+This page uses a few third-party widgets and APIs to display my current status, weather, and music.<br />
+<em>Last manually updated Jan. 21, 2026.</em>
 </small>
 
 &nbsp;
