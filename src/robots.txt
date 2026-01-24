@@ -31,6 +31,7 @@ User-agent: Google-Extended
 User-agent: GoogleOther
 User-agent: GoogleOther-Image
 User-agent: GoogleOther-Video
+User-agent: Grok
 User-agent: ICC Crawler
 User-agent: ICC-Crawler
 User-agent: ISSCyberRiskCrawler
