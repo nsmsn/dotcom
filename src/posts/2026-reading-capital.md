@@ -1,6 +1,6 @@
 ---
-title: Reading ‘Capital’ in 2026
-description: Trying to read Volume One in the calendar year. 
+title: Reading ‘Capital’... in this economy?
+description: Attempting to read Volume One of Marx’s magnum opus in the calendar year. 
 date: 2026-01-24T12:22:00.711-07:00
 tags:
   - Books
@@ -22,3 +22,6 @@ From Paul North's editor's introduction:
 
 If you're interested, I invite you to read Volume 1 of <cite>Capital</cite> with me this year. Even if you've read it before! Feel free to pick any edition, any translation... you can even [download an ebook for free](https://www.marxists.org/archive/marx/works/download/). Just let me know if you start reading this in 2026.
 
+&nbsp;
+
+**2026-01-30 Update**: I picked up David Harvey's <a href="https://www.versobooks.com/products/803-a-companion-to-marx-s-capital"><cite>A Companion To Marx's Capital</cite></a>, which I am planning to read after finishing each chapter. The Harvey book is great so far. He's been teaching <cite>Capital</cite> in a university setting for several decades, and it is helpful to have such a guide for reading this on my own for the first time. I successfully finished chapter one (The Commodity), by the way.
