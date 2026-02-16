@@ -19,10 +19,8 @@ Here are links to my other projects and profiles around the World Wide Web.
     <li><a href="https://letterboxd.com/nsmsn/">letterboxd</a></li>
     <li><a href="https://libre.fm/user/nsmsn">libre.fm</a></li>
     <li><a href="https://www.linkedin.com/in/nsmsn/">linkedin</a></li>
-    <li><a href="https://literal.club/nsmsn">literal</a></li>
     <li><a href="https://social.lol/@nsmsn">mastodon</a></li>
     <li><a href="https://record.club/nsmsn">record club</a></li>
-    <li><a href="https://spacehey.com/nsmsn">spacehey</a></li>
 </ul>
 
 &nbsp;
