@@ -9,7 +9,7 @@ tags:
 
 I received my signed vinyl copy of Ratboys’ <cite>Singing’ To An Empty Chair</cite> today, a few days early from the album’s Feb. 6 release.
 
-I played it through once this afternoon, and found it to be another solid collaboration between the band and producer Chris Walla. The songwriting on here is much more vulnerable, and the album is not lacking in guitar pyrotechnics. Ratboys have longed called their sound "post country" and this one may lean a bit more to the country side of things than previous alt rock outings. I’m looking forward to spending more time with the record this winter, and seeing the group live later in March.
+I played it through once this afternoon, and found it to be another solid collaboration between the band and producer Chris Walla. The songwriting on here is much more vulnerable, and the album is not lacking in guitar pyrotechnics. Ratboys have long called their sound "post country" and this one may lean a bit more to the country side of things than previous alt rock outings. I’m looking forward to spending more time with the record this winter, and seeing the group live later in March.
 
 A few recent reviews, interviews and features: 
 
