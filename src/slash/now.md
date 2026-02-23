@@ -13,9 +13,9 @@ description: Current status, activity, weather, books, and music.
 
 Currently:
 
-- working with an awesome digital experience team.
-- raising a preschooler with [Eleanor](https://eleanoraldrich.com).
-- contemplating a couple winter side projects. ⛄️
+- working with an awesome digital experience team
+- raising a preschooler with [Eleanor](https://eleanoraldrich.com)
+- rooting for the Knicks 🏀 and the Mets ⚾️
 
 &nbsp;
 
@@ -84,7 +84,7 @@ Currently:
 
 <small>
 This page uses a few third-party widgets and APIs to display my current status, weather, and music.<br />
-<em>Last manually updated Feb. 4, 2026.</em>
+<em>Last manually updated Feb. 23, 2026.</em>
 </small>
 
 &nbsp;
