@@ -7,6 +7,6 @@
 // regenerating it. Any map that does not exist will be generated and saved.
 
 {
-  note-maps: cache(maps.ori(data/notes.ori), files:src/img/note-maps)
-  post-maps: cache(maps.ori(data/posts.ori), files:src/img/post-maps)
+  note-maps: Tree.cache(maps.ori(data/notes.ori), files:src/img/note-maps)
+  post-maps: Tree.cache(maps.ori(data/posts.ori), files:src/img/post-maps)
 }

@@ -1,14 +1,14 @@
 // Return the set of maps for the given collection (post or notes).
 // This maps the .html files to .png map images.
-(collection) => map(collection, {
+(collection) => Tree.map(collection, {
   // Only return a .png key if the .html file has both longitude and latitude.
   // Files without these properties will not appear in the set of maps.
   key: (item, key) => item/longitude !== undefined && item/latitude !== undefined
-    ? `${ basename(key) }.png`
+    ? `${ Origami.basename(key) }.png`
     : undefined
 
   // Inverse operation: given a .png key, return the corresponding .html file
-  inverseKey: (key) => `${ basename(key) }.html`
+  inverseKey: (key) => `${ Origami.basename(key) }.html`
 
   // For a given item with a location, generate a map image.
   value: (item) => map.ori(item/longitude, item/latitude)

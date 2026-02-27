@@ -9,4 +9,4 @@
   `https://api.mapbox.com/styles/v1/mapbox/streets-v12/static/pin-s+ff0000(${long},${lat})/${long},${lat},8/400x400@2x?access_token=${ mapbox-token.txt }`
 
   // Fetch the image from the constructed URL
-  -> fetch
+  -> Origami.fetch
