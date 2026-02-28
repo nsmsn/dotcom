@@ -7,7 +7,7 @@ tags:
   - IndieWeb
 ---
 
-For this month’s IndieWeb Book Club, I chose <cite>The Timeless Way of Building</cite>, a 1979 book on architecture by Christopher Alexander. This is part of a series that also includes <cite>A Pattern Language</cite> and <cite>The Oregon Experiment</cite>. 
+For March’s IndieWeb Book Club, I chose <cite>The Timeless Way of Building</cite> <small>(ISBN 9780195024029)</small>, a 1979 book on architecture by Christopher Alexander. This is part of a series that also includes <cite>A Pattern Language</cite> and <cite>The Oregon Experiment</cite>. 
 
 On the PatternLanguage.com website, the [description of this volume](https://www.patternlanguage.com/bookstore/timeless-way-of-building.html) reads:
 
