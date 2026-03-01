@@ -62,10 +62,11 @@ Currently:
 
 ## 📚 Reading
 
+- [The Timeless Way of Building](https://app.thestorygraph.com/books/3cdc9dab-df24-4406-9fb9-d36ec9ddb4d1) by Christopher Alexander ([join the book club](/posts/2026-the-timeless-way-of-building.html)!)
 - [Thelonious Monk: The Life and Times of an American Original](https://app.thestorygraph.com/books/b786b214-dc56-491f-9275-80bff5dc103c) by Robin D.G. Kelley
 - [Capital, Volume 1](https://app.thestorygraph.com/books/9260f7ea-2e06-4e00-90d6-0b9e69f11bd1) by Karl Marx 
 - [A Companion to Marx's Capital](https://app.thestorygraph.com/books/597e3e5b-f02b-4d88-9411-9906cb71439d) by David Harvey
-- [New Mexico: An Interpretive History](https://app.thestorygraph.com/books/f9dc6dac-8b1d-46fa-adec-2dbcbaba8ae2) by Marc Simmons
+<!-- [New Mexico: An Interpretive History](https://app.thestorygraph.com/books/f9dc6dac-8b1d-46fa-adec-2dbcbaba8ae2) by Marc Simmons-->
 
 &nbsp;
 
@@ -84,7 +85,7 @@ Currently:
 
 <small>
 This page uses a few third-party widgets and APIs to display my current status, weather, and music.<br />
-<em>Last manually updated Feb. 23, 2026.</em>
+<em>Last manually updated March 1, 2026.</em>
 </small>
 
 &nbsp;
