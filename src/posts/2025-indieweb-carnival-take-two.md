@@ -110,4 +110,6 @@ These are displayed in a list, in the order I received them.
 
 36. davidized.com: [IndieWeb Carnival: Take Two](https://davidized.com/2025/06/30/take-two/).
 
-37. fractalkitty.com: [Take Two](https://www.fractalkitty.com/take-two-2/)
+37. fractalkitty.com: [Take Two](https://www.fractalkitty.com/take-two-2/).
+
+38. jamesg.blog: [Take two](https://jamesg.blog/2026/03/05/take-two).

@@ -24,7 +24,7 @@ Comics were a huge part of developing visual literacy for me. My most beloved co
 
 🏈 Bills, 🏀 Knicks, ⚾ Mets, 🏒 Sabres. These are the teams I picked as a kid.
 
-New York Liberty for WNBA. Syracuse Orange and Tennessee Volunteers for NCAA. In Nippon Professional Baseball, I like the Hiroshima Toyo Carp. Locally, I cheer on the Albuquerque Isotopes and NM United ⚽.
+New York Liberty for WNBA. Syracuse Orange and Tennessee Volunteers for NCAA. In Nippon Professional Baseball, I like the Hiroshima Carp. Locally, I cheer on the Albuquerque Isotopes and NM United ⚽.
 
 &nbsp;
 

@@ -6,7 +6,7 @@ tags:
   - "IndieWeb"
 ---
 
-June 2025 was my very first time hosting the [IndieWeb Carnival](https://indieweb.org/IndieWeb_Carnival). I received 36 entries total, which comes out to more than a one per day, so a lot of you had something to say about [the theme I came up with](/posts/2025-indieweb-carnival-take-two.html).
+June 2025 was my very first time hosting the [IndieWeb Carnival](https://indieweb.org/IndieWeb_Carnival). I initially received 36 entries total, which comes out to more than a one per day, so a lot of you had something to say about [the theme I came up with](/posts/2025-indieweb-carnival-take-two.html).
 
 "Take Two" was about do-overs, second chances, and the possibility of time travel. But the vast majority of responses I got were pretty adamant that we all get one shot at life and most people would not take a chance for a do-over. I get it! I really enjoyed reading each entry and what follows are excerpts from each, **ordered alphabetically by domain name**. Editorially, I decided to ignore the common www subdomain, and also removed other hyperlinks in the blockquote exceprts.
 
@@ -105,6 +105,12 @@ Fractal Kitty wrote a haiku as well as programming two colorful orbiting bodies,
 gregnewman.io: [Emacs Take Two (Eglot)](https://gregnewman.io/blog/emacs-take-two/).
 
 > I started using Emacs about 20 years ago. From the start I was heavily involved in the Emacs IRC channel and the Org mode mailing list. I contributed the refresh of the Org mode logo to Dr. Carsten Dominik and the community as a small thank you for such a great package. All my notes were stored in Org mode files, along with my task lists. For development I used Elpy for Python and Webmode for anything HTML and Javascript. Elpy was good enough for me back then. Webmode was just ok but had a lot of problems with javascript. I jumped over to LSP mode pretty early and that solved a lot of problems with Python but it was a pain to configure and broke at the most inconvenient times. I was frustrated a lot of the time I was trying to work.
+
+<hr />
+
+jamesg.blog: [Take two](https://jamesg.blog/2026/03/05/take-two).
+
+> On reflection, studying a work of art involves a lot of “take twos”: of looking and looking again to gain a better understanding of a painting, either in one sitting (looking around a work and coming back to different features) or across multiple sittings. Impressions of art change with time, too: with knowledge of the artist, the time period in which the work was painted, growing knowledge of how others painted similar subject matters, my own new experiences since I last saw the painting, and the context in which a painting is seen (location, digital vs. physical).
 
 <hr />
 
