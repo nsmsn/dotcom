@@ -15,7 +15,7 @@ Currently:
 
 - working with an awesome digital experience team
 - raising a preschooler with [Eleanor](https://eleanoraldrich.com)
-- rooting for the Knicks 🏀 and the Mets ⚾️
+- enjoying 🏀 and ⚾️ season
 
 &nbsp;
 
@@ -55,7 +55,7 @@ Currently:
 <div id="weather"></div>
 <small>(<a href="https://openweathermap.org/city/5454711">Forecast by OpenWeather</a>)</small>
 
-<p class="padding-top">The <a href="https://en.wikipedia.org/wiki/Albuquerque%2C_New_Mexico)">Duke City</a> has been home since 2023. I am slowly making more friends&nbsp;here!</p> 
+<p class="padding-top">The <a href="https://en.wikipedia.org/wiki/Albuquerque%2C_New_Mexico)">Duke City</a> has been home since 2023.</p> 
 
 
 &nbsp;
@@ -85,7 +85,7 @@ Currently:
 
 <small>
 This page uses a few third-party widgets and APIs to display my current status, weather, and music.<br />
-<em>Last manually updated March 1, 2026.</em>
+<em>Last manually updated March 10, 2026.</em>
 </small>
 
 &nbsp;
