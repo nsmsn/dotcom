@@ -5,7 +5,7 @@ tags:
   - Blogging
 ---
 
-I love the metaphor Wilfred Stephen Anfield uses for blogging in this introductory post, "[Why the porch](https://wilfredstephenanfield.com/notes/why-the-porch/)":
+I love the metaphor Wilfred Stephen Anfield chooses for blogging in this introductory post, "[Why the porch](https://wilfredstephenanfield.com/notes/why-the-porch/)":
 
 <blockquote>
 <p>I designed this digital porch lined with <a href="https://wilfredstephenanfield.com/notes/">Mason Jar Notes</a> to work in a different way. Slower. Calmer. Spacious. Mine. Somewhere I could sit with an idea long enough to find out what I actually believe about it—or think I believe about it—not just what might potentially go viral.</p>
