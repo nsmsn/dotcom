@@ -46,5 +46,5 @@ I was able to get a few photos on my phone. This post is about a week late as I 
 
 <figure>
 <img src="/img/post-images/2026-04-ratboys-setlist.jpg" alt="Ratboys March 30, 2026 ABQ. Open Up. Anywhere. Penny in the lake. Know you then. Morning Zoo. It’s alive! Alien with a Sleep Mask On. Slumhouse. Strange Love. Light Night Mountains. Elvis is in the freezer. World so madly. The Window. Just Want You To Know the Truth. What’s Right? - Fuck ICE - Burn It Down. Go Outside. Black Earth Wisconsin" width="720" height="960" loading="lazy">
-<figcaption>I got a Ratboys setlist at the end of the night.</figcaption>
+<figcaption>I got a Ratboys setlist at the end of the night!</figcaption>
 </figure>

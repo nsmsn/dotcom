@@ -6,7 +6,7 @@ tags:
   - Sports
 ---
 
-[Engels in the Outfield &rarr;](https://www.newyorker.com/magazine/2026/03/30/metropolitans-a-m-gittlitz-book-review).
+[Engels in the Outfield &rarr;](https://www.newyorker.com/magazine/2026/03/30/metropolitans-a-m-gittlitz-book-review)
 
 For <cite>The New Yorker</cite>, Adam Gopnik reviewed <cite><a href="https://astrapublishinghouse.com/product/metropolitans-9781662603006/">Metropolitans</a></cite> by A.M. Gittlitz, a history of the New York Mets as "the people's team", and referenced Alva Noë's <cite><a href="https://bookshop.org/a/21729/9780190928186">Infinite Baseball</a></cite> as well:
 

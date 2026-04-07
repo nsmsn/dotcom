@@ -3,7 +3,7 @@
   "type": "module",
   "dependencies": {
     "@weborigami/origami": "0.6.15",
-    "@weborigami/pagefind": "0.0.16"
+    "@weborigami/pagefind": "0.0.17"
   },
   "scripts": {
     "build": "ori copy src/site.ori, clear files:build",
