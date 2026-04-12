@@ -15,7 +15,7 @@ Currently:
 
 - working with an awesome digital experience team
 - raising a preschooler with [Eleanor](https://eleanoraldrich.com)
-- enjoying 🏀 and ⚾️ season
+- following New York Mets baseball
 
 &nbsp;
 
@@ -79,13 +79,12 @@ Currently:
 </figcaption>
 </figure>
 
-[My last.fm account](https://www.last.fm/user/nsmsn) keeps track of music I listen to throughout the day. [Stats are fun](https://lastfmstats.com/user/nsmsn/dataset). I'm also scrobbling to [Libre.fm](https://libre.fm/user/nsmsn) as much as I can.
-
+Music I listen to throughout the day is captured on [Libre.fm](https://libre.fm/user/nsmsn) and [Last.fm](https://www.last.fm/user/nsmsn).
 &nbsp;
 
 <small>
 This page uses a few third-party widgets and APIs to display my current status, weather, and music.<br />
-<em>Last manually updated March 10, 2026.</em>
+<em>Last manually updated April 12, 2026.</em>
 </small>
 
 &nbsp;
