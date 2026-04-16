@@ -16,6 +16,7 @@ Currently:
 - working with an awesome digital experience team
 - raising a preschooler with [Eleanor](https://eleanoraldrich.com)
 - following New York Mets baseball
+- enjoying the last year of my thirties 🥳
 
 &nbsp;
 
@@ -62,29 +63,23 @@ Currently:
 
 ## 📚 Reading
 
-- [The Timeless Way of Building](https://app.thestorygraph.com/books/3cdc9dab-df24-4406-9fb9-d36ec9ddb4d1) by Christopher Alexander ([join the book club](/posts/2026-the-timeless-way-of-building.html)!)
+- [Metropolitans: New York Baseball, Class Struggle, and the People's Team ](https://app.thestorygraph.com/books/d965fd2f-42f6-45e7-a0de-5f1b6e8e3c71) by A.M. Gittlitz
 - [Thelonious Monk: The Life and Times of an American Original](https://app.thestorygraph.com/books/b786b214-dc56-491f-9275-80bff5dc103c) by Robin D.G. Kelley
 - [Capital, Volume 1](https://app.thestorygraph.com/books/9260f7ea-2e06-4e00-90d6-0b9e69f11bd1) by Karl Marx 
 - [A Companion to Marx's Capital](https://app.thestorygraph.com/books/597e3e5b-f02b-4d88-9411-9906cb71439d) by David Harvey
-<!-- [New Mexico: An Interpretive History](https://app.thestorygraph.com/books/f9dc6dac-8b1d-46fa-adec-2dbcbaba8ae2) by Marc Simmons-->
 
 &nbsp;
 
 ## 🎧 Listening
 
-<figure>
-<a href="https://libre.fm/user/nsmsn"><img src="https://libre.fm/user/nsmsn/now" width="320" height="60" alt="Nick's latest tracks on Libre.fm" loading="lazy"></a>
-<figcaption>
 <script async src="https://recentfm.rknight.me/now.js?u=nsmsn&nomoji=true"></script>
-</figcaption>
-</figure>
 
 Music I listen to throughout the day is captured on [Libre.fm](https://libre.fm/user/nsmsn) and [Last.fm](https://www.last.fm/user/nsmsn).
 &nbsp;
 
 <small>
 This page uses a few third-party widgets and APIs to display my current status, weather, and music.<br />
-<em>Last manually updated April 12, 2026.</em>
+<em>Last manually updated April 16, 2026.</em>
 </small>
 
 &nbsp;

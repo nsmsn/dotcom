@@ -11,7 +11,7 @@ Uh-oh. You found my wish list.
 
 1. [Time of the Last Persecution](https://www.strandedrecords.com/collections/bill-fay) by Bill Fay (vinyl)
 2. [Things We Lost in the Fire](https://lowtheband.bandcamp.com/album/things-we-lost-in-the-fire) by Low (vinyl)
-3. [Metropolitans: New York Baseball, Class Struggle, and the People's Team](https://astrapublishinghouse.com/product/metropolitans-9781662603006/) by A.M. Gittlitz (book)
+3. [Infinite Baseball](https://bookshop.org/a/21729/9780190928186) by Alva Noë (book)
 
 
 ## Type
