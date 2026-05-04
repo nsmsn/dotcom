@@ -8,6 +8,6 @@ tags:
   - "Sports"
 ---
 
-_Bookmarked [The Mets Hat](https://themetshat.bigcartel.com/product/the-mets-hat)._
+_Bookmarked [The Mets Hat](https://themetshat.com/collections/all)._
 
 A mashup of two of my favorite things in New York. Not 100% sure about the T-S ligature, but I would still wear this.
