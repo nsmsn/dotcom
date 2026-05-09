@@ -36,7 +36,7 @@ Gittlitz paints a vivid picture of the counter-cultural Happenings at the Polo G
 
 I don't think you need to be any combination of leftist, Mets fan, or New York partisan to enjoy this book, but it certainly helps. Gittlitz, whose previous book concerns the Trotskyist [J. Posadas](https://en.wikipedia.org/wiki/J._Posadas) and ufology, includes some gonzo diary entries of the memorable months between March and October 2024 ("The Gay Grimace Mets") at the close of <cite>Metropolitans</cite>. I'm not sure if this lengthy epilogue bolsters the author's arguments, but it does add color and a personal touch. While every season has its highs and lows, the Mets' unexpected run into their own joyful October revolution should stand out in this generation's memories for a long time.
 
-At the time I finished reading <cite>Metropolitans</cite> in May 2026, the team is still at the bottom of the NL East, but they have adopted a new home run celebration: Each slugger is welcomed back into the dugout with a construction worker ensemble in the team's colors and insignia. I'm not sure if the clubhouse has copies of Gitlittz's book lying around, or if this is merely a coincidence:
+At the time I finished reading <cite>Metropolitans</cite> in May 2026, the team is still at the bottom of the NL East, but they have adopted a [new home run celebration](https://www.youtube.com/watch?v=ZBofNsLijvM): Each slugger is welcomed back into the dugout with a construction worker ensemble in the team's colors and insignia. I'm not sure if the clubhouse has copies of Gitlittz's book lying around, or if this is merely a coincidence:
 
 <figure>
  <blockquote>
