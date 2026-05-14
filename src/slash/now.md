@@ -63,6 +63,7 @@ Currently:
 
 ## 📚 Reading
 
+- [The Rings of Saturn](https://app.thestorygraph.com/books/a8678671-3a77-4256-ae23-ad900cf55155) by W.G. Sebald
 - [Word Freak: Heartbreak, Triumph, Genius, and Obsession in the World of Competitive Scrabble Players](https://app.thestorygraph.com/books/debd9473-8e53-4433-a1b3-c4e3936ea7b3) by Stefan Fatsis
 - [Thelonious Monk: The Life and Times of an American Original](https://app.thestorygraph.com/books/b786b214-dc56-491f-9275-80bff5dc103c) by Robin D.G. Kelley
 - [Capital, Volume 1](https://app.thestorygraph.com/books/9260f7ea-2e06-4e00-90d6-0b9e69f11bd1) by Karl Marx 
@@ -79,7 +80,7 @@ Music I listen to throughout the day is captured on [Libre.fm](https://libre.fm/
 
 <small>
 This page uses a few third-party widgets and APIs to display my current status, weather, and music.<br />
-<em>Last manually updated May 4, 2026.</em>
+<em>Last manually updated May 14, 2026.</em>
 </small>
 
 &nbsp;

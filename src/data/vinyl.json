@@ -893,6 +893,14 @@
       },
 
       {
+        "title": "Learning to Crawl",
+        "artist": "Pretenders",
+        "cover": "pretenders-ltc-1984.jpg",
+        "year": "1984",
+        "url": "https://www.discogs.com/master/69602-The-Pretenders-Learning-To-Crawl"
+      },
+
+      {
         "title": "Country Charley Pride",
         "artist": "Charley Pride",
         "cover": "country-charley-pride-1966.jpg",
@@ -976,6 +984,23 @@
         "year": "1973",
         "url": "https://www.discogs.com/master/1224780-Tom-Rush-Tom-Rush"
       },
+
+      {
+        "title": "Borboletta",
+        "artist": "Santana",
+        "cover": "santana-borboletta-1974.jpg",
+        "year": "1974",
+        "url": "https://www.discogs.com/master/31608-Santana-Borboletta"
+      },
+
+      {
+        "title": "Inner Secrets",
+        "artist": "Santana",
+        "cover": "santana-inner-secrets-1978.jpg",
+        "year": "1978",
+        "url": "https://www.discogs.com/master/65861-Santana-Inner-Secrets"
+      },
+
       {
         "title": "Piano Music of Erik Satie",
         "artist": "Erik Satie, Jacques Février",
