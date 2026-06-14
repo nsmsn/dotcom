@@ -5,4 +5,4 @@ tags:
   - Likes
 ---
 
-<div class="u-like-of h-cite"><p><i>Likes <a class="u-url p-name" href="artlung.com/blog/2026/03/09/take-your-own-pulse/">Take your own pulse</a> by <span class="p-author">Joe Crawford</span>.</i></p></div>
+<div class="u-like-of h-cite"><p><i>Likes <a class="u-url p-name" href="https://artlung.com/blog/2026/03/09/take-your-own-pulse/">Take your own pulse</a> by <span class="p-author">Joe Crawford</span>.</i></p></div>

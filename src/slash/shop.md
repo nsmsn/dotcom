@@ -14,9 +14,9 @@ I'm currently selling a few physical products. The products below are linked to 
 
 I'm selling these 2-inch wide stickers. Slap 'em on your laptop or other hardware, and remember the original Luddites didn't smash their own hand looms.
 
-- [2-pack (U.S. only)](https://ko-fi.com/s/7ff96b0a15) $6 USD (ko-fi)
-- [4-pack (U.S. only)](https://ko-fi.com/s/871275c3cc) $10 USD (ko-fi)
-- [Worldwide 5-pack](https://ko-fi.com/s/6d32090a72) $15 USD (ko-fi)
+- [2-pack (U.S. only)](https://ko-fi.com/s/7ff96b0a15) $5 USD (ko-fi)
+- [4-pack (U.S. only)](https://ko-fi.com/s/871275c3cc) $9 USD (ko-fi)
+- [Worldwide 5-pack](https://ko-fi.com/s/6d32090a72) $13 USD (ko-fi)
 
 &nbsp;
 
@@ -36,7 +36,7 @@ I'm selling these 2-inch wide stickers. Slap 'em on your laptop or other hardwar
 
 Having your own website is powerful. The words "IndieWeb" rendered as a heavy metal logo. Money from these products will be donated to the [IndieWeb Open Collective](https://opencollective.com/indieweb).
 
-- [2-pack glow-in-the-dark stickers](https://ko-fi.com/s/a4d98e4503) $12 USD (ko-fi)
+- [2-pack glow-in-the-dark stickers](https://ko-fi.com/s/a4d98e4503) $10 USD (ko-fi)
 - [Black logo printed on a natural totebag](https://cottonbureau.com/p/476ZPW/tote/indieweb-is-metal) from $21 USD (Cotton Bureau)
 - [Purple logo printed on a black totebag](https://cottonbureau.com/p/PK5UV6/tote/indieweb-is-metal-purple-on-black) from $21 USD (Cotton Bureau)
 - [Black logo printed on a garment](https://cottonbureau.com/p/2RF754/shirt/indieweb-is-metal) from $29 and up (Cotton Bureau)

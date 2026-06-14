@@ -5,7 +5,7 @@ description: A little bit about Nick Simson. Designer, blogger, internet nobody.
 
 # About
 
-<img style="background-color: #e47b4d;" class="float-right-xlarge" src="/img/static/farmington.jpg" alt="Nick is standing in a field with his back to the camera taking a picture of a sunset on his phone" width="420" height="auto">
+<img style="background-color: #e47b4d;" class="float-right-xlarge" src="/img/static/farmington.jpg" alt="Nick is standing on a sidewalk with his back to the camera taking a picture of a sunset on his phone" width="420" height="auto">
 
 My name is Nick, short for *Nicholas* which means “[victory of the people](https://www.behindthename.com/name/nicholas).”
 
@@ -15,7 +15,7 @@ Through my design practice I’ve been lucky to work with some wonderful artists
 
 See what I’m up to [now](/now.html).
 
-I’m married to [Eleanor](https://eleanoraldrich.com), who makes paintings. We live in New Mexico with our preschooler and a [small&nbsp;dog](/tags/zelda.html).
+I’m married to [Eleanor](https://eleanoraldrich.com), who makes paintings, and took that photo of me. We live in New Mexico with our&nbsp;preschooler.
 
 <details>
   <summary class="h5">Places I’ve lived</summary>
