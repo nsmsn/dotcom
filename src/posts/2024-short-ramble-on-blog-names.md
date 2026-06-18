@@ -21,8 +21,6 @@ That said, I've been feeling like it might be useful to have a more professional
 
 - Mandy Brown has two blogs: one is for her coaching practice at the lovely URL [everythingchanges.us](https://everythingchanges.us/blog/). Mandy's longtime blog on reading and ideas from books is [A Working Library](https://aworkinglibrary.com/).
 
-- Leon Paternoster blogs at [This Day's Portion](https://www.thisdaysportion.com/posts/). Leon's professional profile and work case studies are housed at [leonpaternoster.com](https://www.leonpaternoster.com/).
-
 If I were to go this route, I'd probably migrate my blog posts over to a new domain name (I've been loosely brainstorming ideas), and redirect my RSS feeds (and greatest hits) to the new blog. The tiny branding consultant that lives rent-free in my head nags at me that the blog name should match the URL in some way, although this is not necessarily what [Anne is arguing for](https://weblog.anniegreens.lol/2024/03/give-your-blog-a-name).
 
 I kind of unceremoniously missed the 15th anniversary of registering my domain name in February last year, but I am coming up on the 10th anniversary of [my first blog post](/posts/2014-deploy.html). As that milestone approaches, I've been thinking a bit about what I'd do differently (if anything) knowing everything I know today.
