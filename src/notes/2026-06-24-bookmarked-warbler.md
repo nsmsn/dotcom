@@ -11,6 +11,6 @@ tags:
 </div>
 
 <div class="e-content">
-<p>A revival of a late eighteenth century "soft" Tansitional serif type designed by William Martin and cut for William Bulmer. A gorgeous specimen website by <a href="https://matthewsmith.website/">Matthew Smith</a>.</p>
+<p>A revival of a late eighteenth century "soft" Transitional serif type designed by William Martin and cut for William Bulmer. A gorgeous specimen website by <a href="https://matthewsmith.website/">Matthew Smith</a>.</p>
 </blockquote>
 </div>
