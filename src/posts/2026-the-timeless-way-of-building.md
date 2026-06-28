@@ -24,3 +24,12 @@ Notably, Alexander writes in the forward that you can read the 552 page volume i
 Hopefully you can find this through your local library, or perhaps a cheap used copy online. If you are in need of a PDF, someone else has [uploaded the whole thing to Are.na](https://www.are.na/block/19359072).
 
 To participate in the IndieWeb Book Club, write about <cite>The Timeless Way of Building</cite> on your website this month. Did this book inspire any new ideas about building for the web? As host, I will be collecting links to your responses to this book. If your site supports webmentions, link to this post. You can also <a href="mailto:nick@nicksimson.com">email a link to me</a>, or respond via [Mastodon](https://social.lol/@nsmsn/116150345483833996) or [Bluesky](https://bsky.app/profile/nicks.im/post/3mfx5rei4b22k). I also have a [contact form](/contact.html) you can use. At the end of March (or beginning of April) I’ll share everyone’s links and add a few thoughts of my own.
+
+&nbsp;
+
+## Roundup, June 2026
+
+So... I still haven't finished this book. Someday I might. But James did, and so did Sara. Here are their responses:
+
+* James: [The Timeless Way of Building](https://jamesg.blog/2026/03/18/the-timeless-way-of-building) (March 18)
+* Sara: [IndieWeb Book Club March 2026: The timeless way of building](https://sarajaksa.eu/2026/03/indieweb-book-club-march-2026-the-timeless-way-of-building/) (March 31)

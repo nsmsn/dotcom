@@ -30,7 +30,7 @@
 <div class="grid-half">
 
 ${ Tree.map(songs, (song) => `
-      <h2 class="h3">${ song/title }</h2>
+      <h2>${ song/title }</h2>
       <img style="background-color: #afaea3" class="float-right img-playlist img-border" src="${ song/artwork }" width="128" height="128" alt="" loading="lazy" />
       <p>Artist: <span>${ song/artist }</span> <br>
       Album:  <i>${ song/album }</i></p>
