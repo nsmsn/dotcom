@@ -21,6 +21,8 @@ https://nicks.im/*                                      https://www.nicksimson.c
 /friends                                                /following.html
 /type/                                                  /tags/type.html
 /ai                                                     /posts/2025-just-a-tool.html
+/fediverse                                              /tags/fediverse.html
+/zelda                                                  /tags/zelda.html
 
 /posts/deploy/                                          /posts/2014-deploy.html
 /posts/hello-world/                                     /posts/2014-deploy.html
