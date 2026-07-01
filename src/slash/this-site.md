@@ -37,7 +37,7 @@ Built with [Web Origami](https://weborigami.org/), a programming language and st
 
 The [search functionality](/search.html) is powered by [Pagefind](https://pagefind.app/), a fully static search library built with JavaScript. 
 
-The primary typeface is [Standard](https://github.com/brycewilner/Standard), with <code>h1</code> display headings set in <a class="text-display" href="https://www.dingbat.xyz/l/dinger">Dinger</a>. Subheadings are set in <a class="text-subheading" href="https://xcicero.esad-gv.net/page/jakob/index.php">Jakob</a>. Supporting text set in <a class="text-secondary text-uppercase text-small" href="https://commitmono.com/">Commit Mono</a>.
+The primary typeface is [Standard](https://github.com/brycewilner/Standard), with <code>h1</code> display headings set in <a class="text-display text-xlarge" href="https://www.dingbat.xyz/l/dinger">Dinger</a>. Subheadings are set in <a class="text-subheading text-xlarge" href="https://xcicero.esad-gv.net/page/jakob/index.php">Jakob</a>. Supporting text and <code>code</code> is set in <a class="text-secondary text-uppercase text-small" href="https://commitmono.com/">Commit Mono</a>.
 
 **This website does not track you.** While some pages may contain third-party code for additional functionality, to my best knowledge and efforts there are **no cookies** anywhere on this website.
 

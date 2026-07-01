@@ -55,7 +55,7 @@
   _redirects
   favicon.ico
   humans.txt
-  robots.txt 
+  robots.txt
 
   search.html = templates/search.ori/
 }
