@@ -81,7 +81,7 @@
     <p>${ firstPost/description }</p>
     <small class="timestamp">${ date.ori(firstPost/date) }</small>
 
-    <p><a href="/posts/index.html">Posts Archive <span class="text-secondary">&rarr;</span></a></p>
+    <p><a href="/posts/index.html"><strong>Posts Archive</strong> <span class="text-secondary">&rarr;</span></a></p>
 
     &nbsp;
 
@@ -97,7 +97,7 @@
     `) }
     </ol>
 
-    <a href="/notes/index.html">Notes Archive <span class="text-secondary">&rarr;</span></a>
+    <a href="/notes/index.html"><strong>Notes Archive</strong> <span class="text-secondary">&rarr;</span></a>
 
     &nbsp;
 
