@@ -554,6 +554,16 @@ pre p {
     max-width: none;
 }
 
+del {
+	text-decoration-color: red;
+	text-decoration-thickness: 4px;
+}
+
+abbr {
+	text-decoration-color: #999;
+	text-decoration-thickness: 2px;
+}
+
 /**
  * @section Buttons
  * Styling for CSS buttons.
