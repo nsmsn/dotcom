@@ -10,7 +10,7 @@ Introducing this month’s [IndieWeb Carnival](https://artlung.com/identity-cosp
 
 > The more I cosplay the more I think all clothing is costume. Doing makeup to be a character is not much different from a haircut and a shave. Dressing for Halloween and dressing for a wedding are related. Comic Con, funeral, job interview, first date. We dress to meet a moment. It’s not a purely practical exercise, getting dressed. I can put on things that match my identity, I can put on things that don’t.
 
-I’m a middle aged adult cis-het white man, and I never really think about putting on my middle aged cis-het white man costume when I get dressed, but it is there. My personal style is a mix of influences from my dad and the other men in my life growing up; things I consciously rejected or chose for myself in my teens and twenties; different places and climates I’ve lived in too. 
+I’m a middle aged adult cis-het North American white man, and I never really think about putting on my middle aged cis-het North American white man costume when I get dressed, but it is there. My personal style is a mix of influences from my dad and the other men in my life growing up; things I consciously rejected or chose for myself in my teens and twenties; different places and climates I’ve lived in too. 
 
 Writing this up now, I realize how much inhibition is at play in this costume-identity.
 
@@ -24,7 +24,7 @@ It always felt like a score when I found a Brooks Brothers shirt in good shape. 
 
 There are no [aloha shirts](https://en.wikipedia.org/wiki/Aloha_shirt) in my closet. Always feels like something I can’t pull off. Maybe I would hear the teasing voice of a male relative calling me “Hawkeye Pierce” or something if I were to put one on. I have a bunch of ties, but I can’t look at the skinny ones without thinking of R.F.K. Jr. and recoiling in horror.
 
-I have an interest in clothing. I have an interest in style. I know my measurements, and I know when something fits. I know a few people who make their own clothes, and I’m jealous of that. I have time to learn to sew. I have time to try more things on, without worrying about looking like I’m trying too hard.
+Yes, I have an interest in clothing. I have an interest in style. I know my measurements, and I know when something fits. I know a few people who make their own clothes, and I’m jealous of that. I have time to learn to sew. I have time to try more things on, without worrying about looking like I’m trying too hard.
 
 I think what I wear most people might find boring. Hosiery is where the self-expression comes out. I’ll wear socks in any color, any pattern, as long as it is bright and loud.
 
