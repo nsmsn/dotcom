@@ -12,3 +12,4 @@ tags:
 <blockquote>
 <p>The explosion of AI has played a significant role in my own burnout. Worse, it feels inescapable. Few tech organizations are taking a principled stance against AI use. But AI use is only one part of broader social trends within tech that leave me questioning whether I should remain here.</p>
 </blockquote>
+</div>
