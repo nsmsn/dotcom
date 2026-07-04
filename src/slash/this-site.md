@@ -18,6 +18,8 @@ My website is a labor of love. I registered the domain <code>nicksimson.com</cod
 
 I treat my site as a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book), a term I stumbled upon in 2021. I have become a big fan of writing frequent, shorter [notes](/notes/index.html), which I refer to in my daily life and work, and often feed into my longer form writing, which I call [posts](/posts/index.html).
 
+If you want to call my site a _blog_ or _digital garden_, I'm also fine with that.
+
 My site has a few different [feeds](/feeds.html), in RSS and JSON formats. I also use a system of [tags](/tags/index.html) to organize the posts and notes. For example, entries tagged with <a class="tagged-item" href="/tags/this-site.html">This site</a> document countless updates I've made to the website over the years.
 
 I keep many static pages serving various purposes. I try to keep a sprawling index of [all pages and directories](/all.html), and try to keep these evergreen/perennial pages up to date.
