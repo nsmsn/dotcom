@@ -14,5 +14,4 @@ tags:
 <p>A neat deconstruction of Brian Eno's work and process.</p>
 
 <p>Via <a href="https://social.lol/@thetonearm/116865428564413857">The Tonearm</a>.</p>
-</blockquote>
 </div>

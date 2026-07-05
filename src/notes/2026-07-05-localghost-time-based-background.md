@@ -14,5 +14,4 @@ tags:
 
 <div class="e-content">
 <p>This is so freakin' cool! Creative programming with the Temporal API and <code>color-mix</code> CSS function.</p>
-</blockquote>
 </div>
