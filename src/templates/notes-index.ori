@@ -7,7 +7,7 @@
   `
   _body: `
     <h1>${ title }</h1>
-    <p>A microblog. Frequent, shorter updates. My <a href="/tags/bookmarks.html">bookmarks</a> and <a href="/tags/likes.html">likes</a> live here. Often with hyperlinks, quotes, or&nbsp;commentary.</p>
+    <p>A microblog. Frequent, shorter updates. My <a class="tagged-item" href="/tags/bookmarks.html">Bookmarks</a> and <a class="tagged-item" href="/tags/likes.html">Likes</a> live here. Often with hyperlinks, quotes, or&nbsp;commentary.</p>
     <hr>
     <ol reversed class="list-unstyled posts-list">
 

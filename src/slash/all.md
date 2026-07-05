@@ -21,6 +21,7 @@ description: (Almost) every page or directory on this website, in alphabetical o
 - [/html](/html.html)
 - [/humans.txt](/humans.txt)
 - [/library](/library.html)
+- [/loves](/loves.html)
 - [/musica](/musica.html)
 - [/notes](/notes/)
 - [/now](/now.html)

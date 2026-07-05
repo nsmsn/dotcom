@@ -75,7 +75,7 @@
     <h2 class="text-small text-uppercase text-secondary no-padding-top">Latest post</h2>
 
     <a href="${ firstPost/path }" class="text-large text-display">${ firstPost/title }</a><br/>
-    <p>${ firstPost/description }</p>
+    <p class="margin-bottom-small">${ firstPost/description }</p>
     <small class="timestamp">${ date.ori(firstPost/date) }</small>
 
     <p><a href="/posts/index.html"><strong>Posts Archive</strong> <span class="text-secondary">&rarr;</span></a></p>
