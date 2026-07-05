@@ -10,3 +10,7 @@ I have some [radio stations](/radio.html) I listen to. I keep track of a growing
 Posts and notes about songs and albums are tagged with&nbsp;<a class="tagged-item" href="/tags/music.html">Music</a>
 
 Find me on [Libre.fm](https://libre.fm/user/nsmsn), [Last.fm](https://last.fm/user/nsmsn), or [Record&nbsp;Club](https://record.club/nsmsn).
+
+&nbsp;
+
+<small><script async src="https://recentfm.rknight.me/now.js?u=nsmsn"></script></small>
