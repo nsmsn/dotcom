@@ -43,7 +43,7 @@
     <div class="row">
 
       <div class="grid-half">
-      <h2 class="text-small text-uppercase text-secondary">Piles &amp; Plots</h2>
+      <h2 class="text-small text-uppercase text-secondary text-lighter">Piles &amp; Plots</h2>
       <ul class="list-unstyled">
       <li><a href="/this-site.html">How this site works</a></li>
       <li><a href="/biblio.html">Biblio</a></li>
@@ -53,7 +53,7 @@
       </div>
 
       <div class="grid-half">
-      <h2 class="text-small text-uppercase text-secondary">Meta</h2>
+      <h2 class="text-small text-uppercase text-secondary text-lighter">Meta</h2>
       <ul class="list-unstyled">
       <li><a href="/accessibility.html">Accessibility statement</a></li>
       <li><a href="/feeds.html">Feeds</a></li>
@@ -72,7 +72,7 @@
     </div>
     
     <div class="grid-half">
-    <h2 class="text-small text-uppercase text-secondary no-padding-top">Latest post</h2>
+    <h2 class="text-small text-uppercase text-secondary text-lighter no-padding-top">Latest post</h2>
 
     <a href="${ firstPost/path }" class="text-large text-display">${ firstPost/title }</a><br/>
     <p class="margin-bottom-small">${ firstPost/description }</p>
@@ -82,7 +82,7 @@
 
     &nbsp;
 
-    <h2 class="text-small text-uppercase text-secondary">Latest notes</h2>
+    <h2 class="text-small text-uppercase text-secondary text-lighter">Latest notes</h2>
     <ol reversed class="list-unstyled posts-list">
     ${ Tree.map(notes, (note) => `
       <li>

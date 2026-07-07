@@ -65,11 +65,23 @@ color-scheme: light dark;
 --font-primary:  'Standard', Arial, sans-serif;
 --font-monospace: 'Commit Mono', Menlo, Monaco, "Courier New", monospace;
 
+/* Colors */
+--color-bg: light-dark(#f6eff6, #2c1f2c);
+--color-bg-step: light-dark(#d1c9d1, #3e323e);
+--color-text: light-dark(#2c1f2c, #f6eff6);
+--color-text-step: light-dark(#514551, #d1c9d1);
+--color-med: #9d829d;
+--color-lavender: #dcb0ed;
+
 /* Sizes */
 --font-size: 100%;
 --spacing: 1.6em;
 --container-width: 88%;
 --container-max-width: 80em;
+}
+
+/* {
+	border: 1px solid
 }
 
 /**
@@ -320,6 +332,8 @@ figure {
  */
 
 body {
+	background: var(--color-bg);
+	color: var(--color-text);
 	font-family: var(--font-primary);
 	font-size: var(--font-size);
 	line-height: 1.5;
@@ -347,14 +361,15 @@ li, blockquote {
  * Hyperlink styling
  */
 a {
-	color: var(--color-black);
+	color: var(--color-text);
 	text-decoration-skip-ink: auto;
-	text-decoration-color: #999;
+	text-decoration-color: var(--color-med);
 	text-decoration-thickness: 2px;
 	word-wrap: break-word;
 }
 a:active, a:focus, a:hover {
-	color: var(--color-primary-dark);
+	color: black;
+	background-color: var(--color-lavender);
 }
 
 /**
@@ -396,7 +411,7 @@ figure p img {
 }
 
 figcaption {
-  color: var(--color-gray-darker);
+  color: var(--color-text-step);
   font-size: 0.8em;
 }
 
@@ -502,7 +517,7 @@ h4,
  */
 hr {
 	border: 0;
-	border-top: 1px solid #999;
+	border-top: 1px solid var(--color-med);
 	margin: 2em auto;
 }
 
@@ -513,7 +528,7 @@ blockquote {
 	margin: 0 0 var(--spacing);
 	padding-left: 0.8125em;
 	padding-right: 0.8125em;
-	border-left: #999 dotted 2px;
+	border-left: var(--color-med) dotted 2px;
 }
 
 cite {
@@ -560,7 +575,7 @@ del {
 }
 
 abbr {
-	text-decoration-color: #999;
+	text-decoration-color: var(--color-med);
 	text-decoration-thickness: 2px;
 }
 
@@ -572,7 +587,7 @@ abbr {
  * Primary buttons
  */
 .btn {
-	border: 1px solid #999;
+	border: 1px solid var(--color-med);
 	display: inline-block;
 	font-size: 0.9375em;
 	font-weight: normal;
@@ -812,18 +827,18 @@ td {
 }
 
 th {
-	border-bottom: 0.125em solid #999;
+	border-bottom: 0.125em solid var(--color-med);
 	font-weight: bold;
 	vertical-align: bottom;
 }
 
 th[scope=row]{
-	border-top: 1px solid #999;
+	border-top: 1px solid var(--color-med);
 	border-bottom: none;
 }
 
 td {
-	border-top: 1px solid #999;
+	border-top: 1px solid var(--color-med);
 	vertical-align: top;
 }
 
@@ -831,7 +846,7 @@ td {
  * Adds zebra striping
  */
 .table-striped tbody tr:nth-child(odd) {
-	background-color: var(--color-gray-lighter);
+	background-color: var(--color-bg-step);
 }
 
 /**
@@ -1133,7 +1148,7 @@ h1, h2, h3 {
 	 */
 	pre,
 blockquote {
-		border-color: #999;
+		border-color: var(--color-med);
 		page-break-inside: avoid;
 	}
 
@@ -1154,10 +1169,9 @@ img {
 }
 
 .site-footer {
-	background: rgba(0, 0, 0, 0.125);
+	background: var(--color-bg-step);
 	margin-top: 2.5rem;
 	padding-top: 1.5rem;
-    border-top: 1px dashed #999;
 }
 
 .site-footer p {
@@ -1196,19 +1210,25 @@ img {
 
 .tagged-item {
 	display: inline-block;
-    background: rgba(0, 0, 0, 0.125);
+    background: var(--color-bg-step);
     border-radius: 8px;
-    border: 1px solid #999;
+	border: 1px solid var(--color-med);
     font-family: var(--font-monospace);
     font-size: 0.8em;
     padding: .2em .5em 0px .5em;
     text-decoration: none;
 }
 
+.tagged-item:hover {
+	background-color: var(--color-lavender);
+	color: black;
+}
+
   .tagged-count {
     font-family: var(--font-monospace);
     font-size: 14px;
-    opacity: 0.8;
+	font-weight: 350;
+    color: var(--color-text-step);
   }
 
 /* Collections */     
@@ -1240,7 +1260,7 @@ a.site-logo {
 	}
 
 a.site-logo:hover {
-	background-color: #ededed;
+	background-color: #fff;
 	}
 
 
@@ -1269,7 +1289,7 @@ a.site-logo:hover {
 }
 
 .img-border {
-  border: 1px solid #999;
+  border: 1px solid var(--color-med);
 }
 
 .img-circle {
@@ -1351,6 +1371,10 @@ a.site-logo:hover {
 .text-secondary {
   font-family: var(--font-monospace);
   font-weight: 400;
+}
+
+.text-lighter {
+	color: var(--color-text-step);
 }
 
 .text-bold {

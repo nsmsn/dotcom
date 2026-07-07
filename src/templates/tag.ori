@@ -18,7 +18,7 @@
           // Post
           ? `
             <a href="${ item/path }">
-              <h2 class="text-large text-display">${ item/title }</h2>
+              <span class="text-large text-display">${ item/title }</span>
             </a>
             <p>${ item/description }</p>
           `
