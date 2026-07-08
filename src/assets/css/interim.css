@@ -67,11 +67,12 @@ color-scheme: light dark;
 
 /* Colors */
 --color-bg: light-dark(#f6eff6, #2c1f2c);
---color-bg-step: light-dark(#d1c9d1, #3e323e);
+--color-bg-step: light-dark(#dfd7df, #3e323e);
 --color-text: light-dark(#2c1f2c, #f6eff6);
 --color-text-step: light-dark(#514551, #d1c9d1);
 --color-med: #9d829d;
---color-lavender: #dcb0ed;
+--color-hover: #dcb0ed;
+--color-hover-underline: #a22fd0; 
 
 /* Sizes */
 --font-size: 100%;
@@ -369,7 +370,8 @@ a {
 }
 a:active, a:focus, a:hover {
 	color: black;
-	background-color: var(--color-lavender);
+	background-color: var(--color-hover);
+	text-decoration-color: var(--color-hover-underline);
 }
 
 /**
@@ -1220,7 +1222,7 @@ img {
 }
 
 .tagged-item:hover {
-	background-color: var(--color-lavender);
+	background-color: var(--color-hover);
 	color: black;
 }
 
