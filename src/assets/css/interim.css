@@ -1286,6 +1286,10 @@ a.site-logo:hover {
 
 /* Utility Classes */
 
+.display-block {
+	display: block;
+}
+
 .grayscale {
 	filter: grayscale(100%);
 }
