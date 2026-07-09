@@ -10,6 +10,7 @@ https://nicks.im/*                                      https://www.nicksimson.c
 /posts/feed                                             /posts/feed.xml
 /notes/feed                                             /notes/feed.xml
 /likes                                                  /tags/likes.html
+/links.html                                             /elsewhere.html
 /links                                                  /elsewhere.html
 /cat/words                                              /posts/
 /cat/places                                             /tags/places.html
