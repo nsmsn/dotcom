@@ -16,7 +16,7 @@ Currently:
 - working with an awesome digital experience team
 - raising a preschooler with [Eleanor](https://eleanoraldrich.com)
 - following New York Mets baseball
-- enjoying the final year of my thirties 🥳
+- enjoying the final year of my thirties 🎢
 
 &nbsp;
 
@@ -63,7 +63,6 @@ Currently:
 
 ## 📚 Reading
 
-- [The Rings of Saturn](https://app.thestorygraph.com/books/a8678671-3a77-4256-ae23-ad900cf55155) by W.G. Sebald
 - [Thelonious Monk: The Life and Times of an American Original](https://app.thestorygraph.com/books/b786b214-dc56-491f-9275-80bff5dc103c) by Robin D.G. Kelley
 - [Capital, Volume 1](https://app.thestorygraph.com/books/9260f7ea-2e06-4e00-90d6-0b9e69f11bd1) by Karl Marx 
 - [A Companion to Marx's Capital](https://app.thestorygraph.com/books/597e3e5b-f02b-4d88-9411-9906cb71439d) by David Harvey
@@ -79,7 +78,7 @@ Music I listen to throughout the day is captured on [Libre.fm](https://libre.fm/
 
 <small>
 This page uses a few third-party widgets and APIs to display my current status, weather, and music.<br />
-<em>Last manually updated June 28, 2026.</em>
+<em>Last manually updated July 16, 2026.</em>
 </small>
 
 &nbsp;

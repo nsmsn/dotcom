@@ -9,9 +9,11 @@ Uh-oh. You found my wish list.
 
 ## Physical Media
 
+
 1. [Time of the Last Persecution](https://www.strandedrecords.com/collections/bill-fay) by Bill Fay (vinyl)
-2. [Things We Lost in the Fire](https://lowtheband.bandcamp.com/album/things-we-lost-in-the-fire) by Low (vinyl)
-3. [Do What You Fear Most: The History of the Velvet Underground](https://www.strandedrecords.com/products/richie-unterberger-do-what-you-fear-most-the-history-of-the-velvet-underground-book) by Richie Unterberger (book)
+2. [Maggot Brain](https://www.strandedrecords.com/collections/org-music/products/funkadelic-maggot-brain-color-vinyl-lp) by Funkadelic (vinyl)
+3. [Things We Lost in the Fire](https://lowtheband.bandcamp.com/album/things-we-lost-in-the-fire) by Low (vinyl)
+4. [Do What You Fear Most: The History of the Velvet Underground](https://www.strandedrecords.com/products/richie-unterberger-do-what-you-fear-most-the-history-of-the-velvet-underground-book) by Richie Unterberger (book)
 
 
 ## Type
