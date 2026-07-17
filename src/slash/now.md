@@ -73,12 +73,12 @@ Currently:
 
 <script async src="https://recentfm.rknight.me/now.js?u=nsmsn&nomoji=true"></script>
 
-Music I listen to throughout the day is captured on [Libre.fm](https://libre.fm/user/nsmsn) and [Last.fm](https://www.last.fm/user/nsmsn).
+Music I listen to throughout the day is captured with [Libre.fm](https://libre.fm/user/nsmsn) and [Last.fm](https://www.last.fm/user/nsmsn).
 &nbsp;
 
 <small>
 This page uses a few third-party widgets and APIs to display my current status, weather, and music.<br />
-<em>Last manually updated July 16, 2026.</em>
+<em>Last manually updated July 17, 2026.</em>
 </small>
 
 &nbsp;

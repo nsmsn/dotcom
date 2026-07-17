@@ -7,10 +7,10 @@ tags:
   - "WordPress"
 ---
 
-<div class="heads-up">
+<aside class="heads-up">
 <h2>👋 Hey there!</h2>
 <p>The contents of this post refer to an older version of my site and therefore may be <strong>wildly</strong> out of date. I'm keeping this up for posterity, but obviously some things have changed and links might be a little broken.</p>
-</div>
+</aside>
 
 I spent a little time cleaning up things on my website during the previous weekend. Little things you might not see unless I point them out in this post. _(I did share a demo of these changes at the [Homebrew Website Club Pacific meeting](https://events.indieweb.org/) earlier this week.)_
 

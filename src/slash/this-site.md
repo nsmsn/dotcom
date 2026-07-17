@@ -24,10 +24,10 @@ My site has a few different [feeds](/feeds.html), in RSS and JSON formats. I als
 
 I keep many static pages serving various purposes. I try to keep a sprawling index of [all pages and directories](/all.html), and try to keep these evergreen/perennial pages up to date.
 
-🚧 **Everything on this site is under construction** right now...so please pardon the dust. I am constantly making changes, and will probably never be 100% happy with my CSS.
+🚧 **Everything on this site is under construction** right now... so please pardon the dust. I am constantly making changes, and will probably never be 100% happy with my CSS.
 
 <figure>
-<img src="/img/meta/indieweb.svg" width="240" height="188" alt="indie web" loading="lazy" style="background-color: #dcb0ed; border-radius: 8px" class="img-border">
+<img src="/img/meta/indieweb.svg" width="360" height="281" alt="indie web" loading="lazy" style="background-color: #dcb0ed; border-radius: 8px" />
 <figcaption>I am inspired by the <a href="https://indieweb.org">indie web</a> ethos: have your own website and own your own data.</figcaption>
 </figure>
 
@@ -35,13 +35,18 @@ I keep many static pages serving various purposes. I try to keep a sprawling ind
 
 ## Colophon
 
-Built with [Web Origami](https://weborigami.org/), a programming language and static site generator that runs on NodeJS. Most of the content here is written as [Markdown](https://en.wikipedia.org/wiki/Markdown) files rendered to HTML on each build. The site is [versioned on GitHub](https://github.com/nsmsn/dotcom) and deploys to [Netlify](https://netlify.com), which hosts the&nbsp;site.
+Built with [Web Origami](https://weborigami.org/), a programming language and website making tool that runs on NodeJS. Most of the content here is written as [Markdown](https://en.wikipedia.org/wiki/Markdown) files rendered to HTML on each build. The site is [versioned on GitHub](https://github.com/nsmsn/dotcom) and deploys to [Netlify](https://netlify.com), which hosts the&nbsp;site.
 
 The [search functionality](/search.html) is powered by [Pagefind](https://pagefind.app/), a fully static search library built with JavaScript. 
 
-The primary typeface is [Standard](https://github.com/brycewilner/Standard), with <code>h1</code> display headings set in <a class="text-display text-xlarge" href="https://www.dingbat.xyz/l/dinger">Dinger</a>. Subheadings are set in <a class="text-subheading text-xlarge" href="https://xcicero.esad-gv.net/page/jakob/index.php">Jakob</a>. Supporting text and <code>code</code> is set in <a class="text-secondary text-uppercase text-small" href="https://commitmono.com/">Commit Mono</a>.
+Typeset in your system's UI font, with <code>h1</code> display headings set in <a class="text-display text-xlarge" href="https://www.dingbat.xyz/l/dinger">Dinger</a>. Subheadings are set in <a class="text-subheading" href="https://www.fontshare.com/fonts/cabinet-grotesk">Cabinet Grotesk</a>. Supporting text and <code>code</code> is set in <a class="text-secondary text-uppercase text-small" href="https://commitmono.com/">Commit Mono</a>.
 
 **This website does not track you.** While some pages may contain third-party code for additional functionality, to my best knowledge and efforts there are **no cookies** anywhere on this website.
+
+&nbsp;
+## Statement on A.I.
+
+I do not use <abbr title="Large Language Model">LLM</abbr> tools to write or code, and this website is an A.I.-free space. Any mistakes are the result of human error.
 
 &nbsp;
 
@@ -65,12 +70,12 @@ The primary typeface is [Standard](https://github.com/brycewilner/Standard), wit
 ## Misc, etc.
 
 <figure>
-<img src="/img/meta/website-badge-88x31.svg" class="img-pixel" style="border: 1px solid #525252" width="88" height="31" alt="" loading="lazy">
+<img src="/img/meta/website-badge-88x31.svg" class="img-pixel" width="88" height="31" alt="" loading="lazy">
 <figcaption>88 × 31 pixel badge</figcaption>
 </figure>
 
 <figure>
-<img src="/img/meta/website-badge-80x15.svg" class="img-pixel" style="border: 1px solid #525252" width="80" height="15" alt="" loading="lazy">
+<img src="/img/meta/website-badge-80x15.svg" class="img-pixel" width="80" height="15" alt="" loading="lazy">
 <figcaption>80 × 15 pixel badge</figcaption>
 </figure>
 

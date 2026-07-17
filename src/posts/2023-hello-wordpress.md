@@ -8,10 +8,10 @@ tags:
   - "WordPress"
 ---
 
-<div class="heads-up">
+<aside class="heads-up">
 <h2>👋 Hey there!</h2>
 <p>The contents of this post refer to an older version of my site and therefore may be <strong>wildly</strong> out of date. I'm keeping this post up for posterity, but some links might be broken and obviously some things have changed.</p>
-</div>
+</aside>
 
 With the latest version of my site, and this latest post, I'm announcing that I am now running on WordPress.
 

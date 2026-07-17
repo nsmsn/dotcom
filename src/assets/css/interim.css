@@ -1,42 +1,18 @@
-/* Standard */
-@font-face {
-  font-family: "Standard";
-  font-style: normal;
-  font-weight: 400;
-  src: url("/assets/fonts/standard-book-webfont.woff2") format("woff2");
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Standard";
-  font-style: italic;
-  font-weight: 400;
-  src: url("/assets/fonts/standard-book-italic-webfont.woff2") format("woff2");
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Standard";
-  font-style: normal;
-  font-weight: 700;
-  src: url("/assets/fonts/standard-bold-webfont.woff2") format("woff2");
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Standard";
-  font-style: italic;
-  font-weight: 700;
-  src: url("/assets/fonts/standard-bold-italic-webfont.woff2") format("woff2");
-  font-display: swap;
-}
-
 /* Dinger Bold */
 @font-face {
     font-family: "Dinger";
     font-style: normal;
     font-weight: 700;
     src: url("/assets/fonts/Dinger-Bold.woff2") format("woff2");
+    font-display: swap;
+}
+
+/* Cabinet */
+@font-face {
+    font-family: "Cabinet";
+    font-style: normal;
+    font-weight: 800;
+    src: url("/assets/fonts/CabinetGrotesk-Extrabold.woff2") format("woff2");
     font-display: swap;
 }
 
@@ -61,14 +37,14 @@
 color-scheme: light dark;
 /* Fonts */
 --font-display: 'Dinger', Rockwell, 'Rockwell Nova', 'Roboto Slab', 'DejaVu Serif', 'Sitka Small', serif;
---font-subheading: 'Jakob', Impact, sans-serif;
---font-primary:  'Standard', Arial, sans-serif;
+--font-subheading: 'Cabinet', Arial, sans-serif;
+--font-primary:  system-ui, sans-serif;
 --font-monospace: 'Commit Mono', Menlo, Monaco, "Courier New", monospace;
 
 /* Colors */
---color-bg: light-dark(#f6eff6, #2c1f2c);
+--color-bg: light-dark(#f7f2f6, #2c1f2c);
 --color-bg-step: light-dark(#dfd7df, #3e323e);
---color-text: light-dark(#2c1f2c, #f6eff6);
+--color-text: light-dark(#2c1f2c, #f7f2f6);
 --color-text-step: light-dark(#514551, #d1c9d1);
 --color-med: #9d829d;
 --color-hover: #dcb0ed;
@@ -336,6 +312,7 @@ body {
 	background: var(--color-bg);
 	color: var(--color-text);
 	font-family: var(--font-primary);
+	font-feature-settings: "ss06";
 	font-size: var(--font-size);
 	line-height: 1.5;
 }
@@ -390,6 +367,10 @@ ol ul {
 	margin-bottom: var(--spacing);
 }
 
+ul li::marker{
+	color: var(--color-med);
+}
+
 dl,
 dd {
 	margin: 0;
@@ -415,6 +396,10 @@ figure p img {
 figcaption {
   color: var(--color-text-step);
   font-size: 0.8em;
+}
+
+summary::marker { 
+  color: #EE453B;
 }
 
 /**
@@ -541,12 +526,17 @@ cite {
  * @section Code
  * Styling for code and preformatted text.
  */
+
 code,
 kbd,
 pre,
+var,
 samp {
 	font-family: var(--font-monospace);
 	font-size: 0.875em;
+	border-radius: .25rem;
+	background-color: var(--color-bg-step);
+	padding: .25rem .5rem;
 }
 
 code {
@@ -563,8 +553,11 @@ pre {
 	white-space: pre-wrap;
 	word-break: break-all;
 }
-pre code {
-	font-size: 1em;
+
+code pre , pre code { 
+	border: 0; 
+	padding: 0;
+	font-size: 1em; 
 }
 
 pre p {

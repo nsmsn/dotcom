@@ -28,13 +28,13 @@
 
     <div class="row row-gap-xlarge">
     <div class="grid-half">
-    <p><strong>Welcome to my little corner of the world wide&nbsp;web</strong>. You can read more <a href="/about.html">about me</a>, or see what I'm up to&nbsp;<a href="/now.html">now</a>.
+    <p><strong>Welcome to my little corner of the world wide&nbsp;web</strong>. You can read more <a href="/about.html">about me</a>, or see what I’m up to&nbsp;<a href="/now.html">now</a>.
 
     &nbsp;
 
     <div class="sticky-desktop">
 
-    <div class="bg-color-cycle img-circle" style="width: 128px; height: 128px">
+    <div class="bg-color-cycle img-circle" style="width: 128px; height: 128px; margin-bottom: 2px">
     <img src="/img/meta/victory-grain.png" alt="a hand with two extended fingers flashing the V for Victory or peace sign" width="128" height="128" class="img-circle img-multiply"/>
     </div>
 

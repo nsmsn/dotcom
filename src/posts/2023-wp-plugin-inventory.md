@@ -8,10 +8,10 @@ tags:
   - "WordPress"
 ---
 
-<div class="heads-up">
+<aside class="heads-up">
 <h2>👋 Hey there!</h2>
 <p>The contents of this post refer to an older version of my site and therefore may be <strong>wildly</strong> out of date. I'm keeping this up for posterity, but obviously some things have changed.</p>
-</div>
+</aside>
 
 In [May 2022](/notes/2022-05-30-tech-tool-carousel.html) I wrote the following:
 

@@ -8,10 +8,10 @@ tags:
   - "WordPress"
 ---
 
-<div class="heads-up">
+<aside class="heads-up">
 <h2>👋 Hey there!</h2>
 <p>The contents of this post refer to an older version of my site and therefore may be <strong>wildly</strong> out of date. I'm no longer using WordPress or ActivityPub on this site, for example. I'm keeping this up for posterity, but obviously some things have changed.</p>
-</div>
+</aside>
 
 **TL;DR**: This post gets a little technical, and most of this stuff is way over my head in the first place. I got a lot of help from [my host](https://getflywheel/) and the [plugin support forum](https://wordpress.org/support/topic/new-posts-are-not-federating/). Hopefully things are working again now.
 

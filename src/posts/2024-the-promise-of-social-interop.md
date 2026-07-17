@@ -6,10 +6,10 @@ tags:
   - "Social Media"
 ---
 
-<div class="heads-up">
+<aside class="heads-up">
 <h2>👋 Hey there!</h2>
 <p>The contents of this post refer to an older version of my site and therefore may be kinda out of date. Also, some links may be broken.</p>
-</div>
+</aside>
 
 I learned about [**Openvibe**](https://openvibe.social/) from [something Andy Bell posted](https://bsky.app/profile/bell.bz/post/3kxwv4kjbev2g) the other day. Openvibe promises to combine your decentralized social media accounts (Mastodon, Bluesky, Nostr, and pretty soon Threads plus others) into one timeline.
 

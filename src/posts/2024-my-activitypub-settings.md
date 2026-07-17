@@ -8,10 +8,10 @@ tags:
   - "WordPress"
 ---
 
-<div class="heads-up">
+<aside class="heads-up">
 <h2>👋 Hey there!</h2>
 <p>The contents of this post refer to an older version of my site and therefore may be <strong>wildly</strong> out of date. I'm no longer using WordPress or ActivityPub on this site, for example. I'm keeping this up for posterity, but obviously some things have changed.</p>
-</div>
+</aside>
 
 _In reply to [BTW, how do you actually push your likes into ActivityPub plugin? Is it automatic, because I thought that was just a webmentions thing…](https://starrwulfe.xyz/notes/2024/01/reply-to-i-broke-activitypub/) by starrwulfe._
 

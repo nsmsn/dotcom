@@ -7,10 +7,10 @@ tags:
   - "IndieWeb"
 ---
 
-<div class="heads-up">
+<aside class="heads-up">
 <h2>👋 Hey there!</h2>
 <p>The contents of this post refer to an older version of my site and therefore may be <strong>wildly</strong> out of date. I'm keeping this up for posterity, but obviously some things have changed.</p>
-</div>
+</aside>
 
 _In reply to [What’s the difference between a blog and a social posting site?](https://starrwulfe.xyz/2024/01/whats-the-difference-between-a-blog-and-a-social-posting-site/) by starrwulfe._
 
