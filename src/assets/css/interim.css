@@ -16,15 +16,6 @@
     font-display: swap;
 }
 
-/* Jakob */
-@font-face {
-    font-family: "Jakob";
-    font-style: normal;
-    font-weight: 700;
-    src: url("/assets/fonts/Jakob-Semi-Condensed.woff2") format("woff2");
-    font-display: swap;
-}
-
 /* Commit Mono */
 @font-face {
 	font-family: "Commit Mono";
@@ -1311,22 +1302,9 @@ a.site-logo:hover {
 	}
 }
 
-
 .list-multi-col{
 	column-width: 12em;
 	column-gap: 2em;
-}
-
-.vis-hidden {
-	border: 0;
-	clip: rect(0 0 0 0);
-	height: auto;
-	margin: 0;
-	overflow: hidden;
-	padding: 0; 
-	position: absolute;
-	width: 1px;
-	white-space: nowrap;
 }
 
 .skip-to-content{

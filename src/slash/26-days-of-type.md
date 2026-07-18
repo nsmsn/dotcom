@@ -3,7 +3,7 @@ title: 26 Days of Type
 description: A monthlong exploration of typography, from February 2024.
 ---
 
-<h1 class="vis-hidden">26 Days of Type</h1>
+<h1 class="visually-hidden">26 Days of Type</h1>
 
 &nbsp;
 
