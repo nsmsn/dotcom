@@ -45,7 +45,7 @@ I’m married to [Eleanor](https://eleanoraldrich.com), who makes paintings, and
     <li>Tennessee College Public Relations Association Awards</li>
     <li><a href="https://krrd.ing/nick-simson-omglol-interview-series-8/">krrd.ing</a></li>
     <li><a href="https://internetphonebook.net/">Internet Phone Book</a></li>
-    <li><a href="https://manuelmoreale.com/pb-nick-simson">People &amp; Blogs</a></li>
+    <li><a href="https://zacharykai.net/notes/pb/nick">People &amp; Blogs</a></li>
   </ul>
 </details>
 
