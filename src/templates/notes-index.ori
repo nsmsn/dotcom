@@ -15,7 +15,7 @@
       <li>
       <article class="note-single container-med margin-bottom-xlarge h-entry">
         ${ note/_body }
-        <small class="timestamp"><a href="${ note/path }">${ date.ori(note/date) }</a></small>
+        <small class="timestamp text-lighter"><a href="${ note/path }">${ date.ori(note/date) }</a></small>
       </article>  
       </li>
     `) }

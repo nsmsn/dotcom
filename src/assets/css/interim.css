@@ -878,6 +878,11 @@ small, .text-small {
 	}
 }
 
+.h2-homepage {
+	font-size: 20px;
+	margin-bottom: 0;
+}
+
 /**
  * Text colors
  */
@@ -1183,7 +1188,7 @@ img {
 
 .timestamp {
     display: block;
-    font-family: var(--font-monospace);
+    font-family: var(--font-primary);
     margin-bottom: var(--spacing);
 }
 

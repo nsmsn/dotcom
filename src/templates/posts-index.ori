@@ -15,7 +15,7 @@
       <li class="margin-bottom-xlarge">
         <a href="${ post/path }" class="text-large text-display">${ post/title }</a><br/>
         <span>${ post/description }</span><br/>
-        <small class="timestamp">${ date.ori(post/date) }</small>
+        <small class="timestamp text-lighter">${ date.ori(post/date) }</small>
       </li>
     `) }
 

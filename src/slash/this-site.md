@@ -39,7 +39,7 @@ Built with [Web Origami](https://weborigami.org/), a programming language and we
 
 The [search functionality](/search.html) is powered by [Pagefind](https://pagefind.app/), a fully static search library built with JavaScript. 
 
-Typeset in your system's UI font, with <code>h1</code> display headings set in <a class="text-display text-xlarge" href="https://www.dingbat.xyz/l/dinger">Dinger</a>. Subheadings are set in <a class="text-subheading" href="https://www.fontshare.com/fonts/cabinet-grotesk">Cabinet Grotesk</a>. Supporting text and <code>code</code> is set in <a class="text-secondary text-uppercase text-small" href="https://commitmono.com/">Commit Mono</a>.
+Typeset in your system's UI font, with <code>h1</code> display headings set in <a class="text-display text-xlarge" href="https://www.dingbat.xyz/l/dinger">Dinger</a>. Subheadings are set in <a class="text-subheading" href="https://www.fontshare.com/fonts/cabinet-grotesk">Cabinet Grotesk</a>. Supporting text and <code>code</code> is set in <a class="text-secondary" href="https://commitmono.com/">Commit&nbsp;Mono</a>.
 
 **This website does not track you.** While some pages may contain third-party code for additional functionality, to my best knowledge and efforts there are **no cookies** anywhere on this website.
 

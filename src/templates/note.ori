@@ -5,7 +5,7 @@ _body: `
   <div class="note-single v-centered">
   <article class="container-med h-entry">
   <div class="pre-note-meta">
-  <small class="timestamp">Published <time datetime="${ note/date }" class="dt-published">${ date.ori(note/date) }</time> by <a rel="author" class="p-author h-card" href="/about.html">Nick</a></small>
+  <small class="timestamp text-lighter">Published <time datetime="${ note/date }" class="dt-published">${ date.ori(note/date) }</time> by <a rel="author" class="p-author h-card" href="/about.html">Nick</a></small>
   </div>
 
   ${ note/longitude !== undefined && note/latitude !== undefined
