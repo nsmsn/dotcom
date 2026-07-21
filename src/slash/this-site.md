@@ -39,14 +39,14 @@ Built with [Web Origami](https://weborigami.org/), a programming language and we
 
 The [search functionality](/search.html) is powered by [Pagefind](https://pagefind.app/), a fully static search library built with JavaScript. 
 
-Typeset in your system's UI font, with <code>h1</code> display headings set in <a class="text-display text-xlarge" href="https://www.dingbat.xyz/l/dinger">Dinger</a>. Subheadings are set in <a class="text-subheading" href="https://www.fontshare.com/fonts/cabinet-grotesk">Cabinet Grotesk</a>. Supporting text and <code>code</code> is set in <a class="text-secondary" href="https://commitmono.com/">Commit&nbsp;Mono</a>.
+Typeset in [Def Sans](https://publictype.works/font/defsans/), with <code>h1</code> display headings set in <a class="text-display text-xlarge" href="https://www.dingbat.xyz/l/dinger">Dinger</a>. Supporting text and <code>code</code> is set in <a class="text-secondary" href="https://commitmono.com/">Commit&nbsp;Mono</a>. Webfonts are hosted and delivered via [Bunny.net](https://bunny.net/).
 
 **This website does not track you.** While some pages may contain third-party code for additional functionality, to my best knowledge and efforts there are **no cookies** anywhere on this website.
 
 &nbsp;
 ## Statement on A.I.
 
-I do not use <abbr title="Large Language Model">LLM</abbr> tools to write or code, and this website is an A.I.-free space. Any mistakes are the result of human error.
+I do not use <abbr title="Large Language Model">LLM</abbr> tools to write or code or generate images, and I'm working to keep this website an A.I.-free space. Any mistakes are the result of human error.
 
 &nbsp;
 

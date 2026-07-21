@@ -1,25 +1,25 @@
+/* Def Sans */
+@font-face {
+    font-family: "Def Sans";
+    font-style: normal;
+    font-weight: 400;
+    src: url('https://nsmsn-store.b-cdn.net/fonts/DefSansVFVF.woff2') format("woff2");
+    font-display: swap;
+}
+
 /* Dinger Bold */
 @font-face {
     font-family: "Dinger";
     font-style: normal;
     font-weight: 700;
-    src: url("/assets/fonts/Dinger-Bold.woff2") format("woff2");
-    font-display: swap;
-}
-
-/* Cabinet */
-@font-face {
-    font-family: "Cabinet";
-    font-style: normal;
-    font-weight: 800;
-    src: url("/assets/fonts/CabinetGrotesk-Extrabold.woff2") format("woff2");
+    src: url('https://nsmsn-store.b-cdn.net/fonts/Dinger-Bold.woff2') format("woff2");
     font-display: swap;
 }
 
 /* Commit Mono */
 @font-face {
 	font-family: "Commit Mono";
-	src: url("/assets/fonts/CommitMonoVariableFont.woff2") format('woff2');
+	src: url('https://nsmsn-store.b-cdn.net/fonts/CommitMono%20VariableFont.woff2') format('woff2');
 	font-weight: 500;
 	font-display: swap;
 }
@@ -28,8 +28,8 @@
 color-scheme: light dark;
 /* Fonts */
 --font-display: 'Dinger', Rockwell, 'Rockwell Nova', 'Roboto Slab', 'DejaVu Serif', 'Sitka Small', serif;
---font-subheading: 'Cabinet', Arial, sans-serif;
---font-primary:  system-ui, sans-serif;
+--font-subheading: 'Def Sans', system-ui, sans-serif;
+--font-primary:  'Def Sans', system-ui, sans-serif;
 --font-monospace: 'Commit Mono', Menlo, Monaco, "Courier New", monospace;
 
 /* Colors */
@@ -45,7 +45,7 @@ color-scheme: light dark;
 --font-size: 100%;
 --spacing: 1.6em;
 --container-width: 88%;
---container-max-width: 80em;
+--container-max-width: 80rem;
 }
 
 /* {
@@ -166,14 +166,14 @@ figure {
 }
 
 .container-small {
-  max-width: 32em;
+  max-width: 32rem;
 }
 
 .container-med {
   max-width: 800px;
 }
 
-@media (max-width: 28em) {
+@media (max-width: 28rem) {
 	.nav-container {
 		white-space: nowrap;
 		overflow: scroll;
@@ -184,7 +184,7 @@ figure {
 	}
 }
 
-@media (min-width: 28em) {
+@media (min-width: 28rem) {
 	.nav-container {
 		margin-left: auto;
 		margin-right: auto;
@@ -196,7 +196,7 @@ figure {
 /**
  * Grids
  */
-@media (min-width: 64em) {
+@media (min-width: 64rem) {
 	.row {
 		display: grid;
 		grid-template-columns: repeat(12, 1fr);
@@ -217,7 +217,7 @@ figure {
 	}
 
 	.row-auto {
-		grid-template-columns: repeat(auto-fit, minmax(1em, 1fr));
+		grid-template-columns: repeat(auto-fit, minmax(1rem, 1fr));
 	}
 
 	.grid-fourth {
@@ -286,12 +286,12 @@ figure {
 .flexo {
 	display: flex;
 	flex-wrap: wrap;
-	margin: -0.5em;
+	margin: -0.5rem;
 	}
 	  
 .flexo > * {
-	flex: 1 0 18em;
-	margin: 0.75em;
+	flex: 1 0 18rem;
+	margin: 0.75rem;
 	}
 
 /**
@@ -303,11 +303,13 @@ body {
 	background: var(--color-bg);
 	color: var(--color-text);
 	font-family: var(--font-primary);
-	font-feature-settings: "ss06";
+	font-variation-settings: "wdth" 100, "wght" 400, "slnt" 0;
+	font-feature-settings: "ss03", "ss04", "ss07";
+	font-variant-alternates: character-variant(cv01);
 	font-size: var(--font-size);
 	line-height: 1.5;
 }
-@media (min-width: 40em) {
+@media (min-width: 40rem) {
 	body {
 		font-size: 125%;
 		line-height: 1.5625;
@@ -324,6 +326,16 @@ p, small {
 
 li, blockquote {
 	max-width: 60ch;
+}
+
+b, strong {
+	font-variation-settings: "wght" 640;
+}
+
+i, em, cite {
+	font-style: normal;
+	font-variation-settings: "slnt" -8;
+	font-feature-settings: "ss03", "ss07", "ss08";
 }
 
 /**
@@ -421,14 +433,14 @@ summary::marker {
  * Display lists on a single line.
  */
 .list-inline {
-	margin-left: -0.5em;
-	margin-right: -0.5em;
+	margin-left: -0.5rem;
+	margin-right: -0.5rem;
 	padding: 0;
 }
 .list-inline > li {
 	display: inline-block;
-	margin-left: 0.5em;
-	margin-right: 0.5em;
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
 }
 
 /**
@@ -441,6 +453,7 @@ h1, h2, h3, h4, h5, h6 {
 	padding: 1em 0 0;
 	word-wrap: break-word;
     font-family: var(--font-subheading);
+	font-variation-settings: "wght" 700;
 }
 
 h1,
@@ -450,7 +463,7 @@ h1,
 	padding-top: 0.5em;
 	font-weight: 700;
 }
-@media (min-width: 40em) {
+@media (min-width: 40rem) {
 	h1,
 .h1 {
 		font-size: 2.4em;
@@ -462,7 +475,7 @@ h2,
 	font-size: 1.4em;
 	font-weight: 400;
 }
-@media (min-width: 40em) {
+@media (min-width: 40rem) {
 	h2,
 .h2 {
 		font-size: 2em;
@@ -485,6 +498,7 @@ h4,
 .h4 {
 	font-size: 0.8125em;
 	text-transform: uppercase;
+	letter-spacing: 1px;
 }
 
 /**
@@ -504,8 +518,8 @@ hr {
  */
 blockquote {
 	margin: 0 0 var(--spacing);
-	padding-left: 0.8125em;
-	padding-right: 0.8125em;
+	padding-left: 0.8125rem;
+	padding-right: 0.8125rem;
 	border-left: var(--color-med) dotted 2px;
 }
 
@@ -712,7 +726,7 @@ select {
 	margin-bottom: 1.1875em;
 	width: 100%;
 }
-@media (min-width: 40em) {
+@media (min-width: 40rem) {
 	input,
 textarea,
 select {
@@ -922,11 +936,11 @@ small, .text-small {
 	float: right;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 64rem) {
 	.float-right-xlarge {
 		float: right;
-		margin-left: 4em;
-		margin-bottom: 4em;
+		margin-left: 4rem;
+		margin-bottom: 4rem;
 	}
 }
 
@@ -1189,10 +1203,11 @@ img {
 .timestamp {
     display: block;
     font-family: var(--font-primary);
+	font-feature-settings: "tnum";
     margin-bottom: var(--spacing);
 }
 
-@media (min-width: 36em) {
+@media (min-width: 36rem) {
 	.tagged-list-index > li {
 		display: inline-block;
 		margin-right: 16px;
@@ -1357,6 +1372,7 @@ a.site-logo:hover {
 
 .text-lighter {
 	color: var(--color-text-step);
+	opacity: 0.9;
 }
 
 .text-bold {
