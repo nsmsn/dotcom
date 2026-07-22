@@ -3,7 +3,7 @@ title: Pay me!
 description: Money can be exchanged for goods and services.
 ---
 
-## Send me money
+# Send me money
 
 <figure>
  <blockquote>

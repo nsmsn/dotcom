@@ -329,6 +329,7 @@ li, blockquote {
 }
 
 b, strong {
+	font-weight: 400;
 	font-variation-settings: "wght" 640;
 }
 
@@ -385,7 +386,7 @@ dd {
 }
 
 dt {
-	font-weight: bold;
+	font-variation-settings: "wght" 640;
 }
 
 figure {
@@ -453,7 +454,8 @@ h1, h2, h3, h4, h5, h6 {
 	padding: 1em 0 0;
 	word-wrap: break-word;
     font-family: var(--font-subheading);
-	font-variation-settings: "wght" 700;
+	font-weight: 400;
+	font-variation-settings: "wght" 600;
 }
 
 h1,
@@ -473,7 +475,7 @@ h1,
 h2,
 .h2 {
 	font-size: 1.4em;
-	font-weight: 400;
+	letter-spacing: -1px;
 }
 @media (min-width: 40rem) {
 	h2,
@@ -485,13 +487,13 @@ h2,
 h3,
 .h3 {
 	font-size: 1.2em;
-	font-weight: 400;
+	letter-spacing: normal;
 }
 
 h4, h5, h6,
 .h4, .h5, .h6 {
 	font-size: 1em;
-	font-weight: 400;
+	letter-spacing: normal;
 }
 
 h4,
@@ -828,7 +830,8 @@ td {
 
 th {
 	border-bottom: 0.125em solid var(--color-med);
-	font-weight: bold;
+	font-weight: 400;
+	font-variation-settings: "wght" 640;
 	vertical-align: bottom;
 }
 
@@ -884,6 +887,7 @@ small, .text-small {
 
 .text-home-20px {
 	font-size: 20px;
+	font-weight: 400;
 	font-variation-settings: "wght" 400;
 }
 
@@ -896,6 +900,7 @@ small, .text-small {
 .h2-homepage {
 	font-size: 20px;
 	margin-bottom: 0;
+	letter-spacing: normal;
 }
 
 /**
@@ -1247,7 +1252,7 @@ img {
       
 .lib-title {
 	display: block;	
-  	font-weight: 700;
+  	font-variation-settings: "wght" 640;
   	}
       
 .lib-cover {
@@ -1358,17 +1363,17 @@ a.site-logo:hover {
 
 .text-subheading {
   font-family: var(--font-subheading);
-  font-weight: 400;
+  font-variation-settings: "wght" 700;
 }
 
 .text-primary {
   font-family: var(--font-primary);
-  font-weight: 400;
+  font-variation-settings: "wght" 400;
 }
 
 .text-secondary {
   font-family: var(--font-monospace);
-  font-weight: 400;
+  font-weight: 500;
 }
 
 .text-lighter {
@@ -1377,7 +1382,7 @@ a.site-logo:hover {
 }
 
 .text-bold {
-  font-weight: 700;
+	font-variation-settings: "wght" 640;
 }
 
 
