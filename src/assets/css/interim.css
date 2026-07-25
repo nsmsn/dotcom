@@ -40,12 +40,17 @@ color-scheme: light dark;
 --color-med: #9d829d;
 --color-hover: #dcb0ed;
 --color-hover-underline: #a22fd0; 
+--color-select-highlight: light-dark(hsla(267, 57%, 55%, 0.25),hsla(291, 86%, 80%, 0.375));
 
 /* Sizes */
 --font-size: 100%;
 --spacing: 1.6em;
 --container-width: 88%;
 --container-max-width: 120rem;
+}
+
+::selection {
+  background: var(--color-select-highlight);
 }
 
 /* {
