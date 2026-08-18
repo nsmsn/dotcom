@@ -63,8 +63,7 @@ Currently:
 
 ## 📚 Reading
 
-- [Pale Fire](https://app.thestorygraph.com/books/9c56d5c2-e6d8-4daf-9f3d-5235026a18fb) by Vladimir Nabokov
-- [Thelonious Monk: The Life and Times of an American Original](https://app.thestorygraph.com/books/b786b214-dc56-491f-9275-80bff5dc103c) by Robin D.G. Kelley
+- [Infinite Baseball: Notes from a Philosopher at the Ballpark](https://app.thestorygraph.com/books/93d3342f-4349-416f-9900-a41d15352992) by Alva Noë
 - [Capital, Volume 1](https://app.thestorygraph.com/books/9260f7ea-2e06-4e00-90d6-0b9e69f11bd1) by Karl Marx 
 - [A Companion to Marx's Capital](https://app.thestorygraph.com/books/597e3e5b-f02b-4d88-9411-9906cb71439d) by David Harvey
 
@@ -79,7 +78,7 @@ Music I listen to throughout the day is captured with [Libre.fm](https://libre.f
 
 <small>
 This page uses a few third-party widgets and APIs to display my current status, weather, and music.<br />
-<em>Last manually updated July 25, 2026.</em>
+<em>Last manually updated August 18, 2026.</em>
 </small>
 
 &nbsp;
