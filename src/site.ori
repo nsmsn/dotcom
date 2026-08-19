@@ -61,11 +61,8 @@
   search.html = templates/search.ori/
 }
 
-// Only build each page once
-→ (site) => Tree.cache(site)
-
 // Use the pages to make both the site and the search index
 → (cached) => {
     ...cached
-    pagefind/ = Origami.once(() => package:@weborigami/pagefind(cached))
+    pagefind/ = package:@weborigami/pagefind(cached)
   }
