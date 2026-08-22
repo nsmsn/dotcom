@@ -1,0 +1,46 @@
+{
+  "version": "0.1.1",
+  "url": "https://www.nicksimson.com",
+  "vouches": [
+    {
+      "url": "https://artlung.com",
+      "vouched_at": "2026-08-22"
+    },
+    {
+      "url": "https://brennan.day",
+      "vouched_at": "2026-08-22"
+    },
+    {
+      "url": "https://ericwbailey.website",
+      "vouched_at": "2026-08-22"
+    },
+    {
+      "url": "https://gomakethings.com",
+      "vouched_at": "2026-08-22"
+    },
+    {
+      "url": "https://jamesg.blog",
+      "vouched_at": "2026-08-22"
+    },
+    {
+      "url": "https://jan.miksovsky.com",
+      "vouched_at": "2026-08-22"
+    },
+	  {
+	  "url": "https://www.neatnik.net",
+	  "vouched_at": "2026-08-22"
+	  },
+    {
+      "url": "https://rknight.me",
+      "vouched_at": "2026-08-22"
+    },
+    {
+      "url": "https://tracydurnell.com",
+      "vouched_at": "2026-08-22"
+    },
+    {
+      "url": "https://vhbelvadi.com",
+      "vouched_at": "2026-08-22"
+    }
+  ]
+}

@@ -16,6 +16,7 @@
     <link rel="webmention" href="https://webmention.io/www.nicksimson.com/webmention" />
   
     <!--authentication stuff-->
+    <link rel="human-json" href="https://www.nicksimson.com/human.json" />
     <link rel="me" href="https://github.com/nsmsn" />
     <link rel="me" href="https://libre.fm/user/nsmsn" />
     <link rel="me" href="https://social.lol/@nsmsn" />

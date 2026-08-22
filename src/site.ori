@@ -54,6 +54,7 @@
 
   _redirects
   favicon.ico
+  human.json
   humans.txt
   robots.txt
   to-read.txt
