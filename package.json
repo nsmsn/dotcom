@@ -8,6 +8,6 @@
   "scripts": {
     "build": "ori copy src/site.ori, clear files:build",
     "maps": "ori Tree.visit src/maps/cacheMaps.ori",
-    "start": "ori serve watch src, =debug src/site.ori"
+    "start": "ori debug2 src/site.ori"
   }
 }
