@@ -16,3 +16,9 @@ These are 2-inch wide vinyl stickers you can buy through my ko-fi shop. Slap 'em
 - [2-pack (U.S. only)](https://ko-fi.com/s/7ff96b0a15) $5 USD (ko-fi)
 - [4-pack (U.S. only)](https://ko-fi.com/s/871275c3cc) $9 USD (ko-fi)
 - [Worldwide 5-pack](https://ko-fi.com/s/6d32090a72) $13 USD (ko-fi)
+
+## Wear it on your chest
+
+<img src="/img/static/luddite-shirt-red.png" alt="A red tee shirt with Luddite Inside on the left chest" width="360" height="360" loading="lazy">
+
+This design is also available as a [shirt printed by Cotton Bureau](https://cottonbureau.com/p/6UWMEB/shirt/luddite-inside). 
