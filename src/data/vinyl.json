@@ -35,6 +35,13 @@
         "url": "https://www.discogs.com/release/11196147-The-Band-Moondog-Matinee"
       },
       {
+        "title": "Paul's Boutique",
+        "artist": "Beastie Boys",
+        "cover": "beasties-pauls-boutique-1989.png",
+        "year": "1989",
+        "url": "https://www.discogs.com/master/20135-Beastie-Boys-Pauls-Boutique"
+      },
+      {
         "title": "Revolver",
         "artist": "The Beatles",
         "cover": "beatles-revolver-1966.jpg",
@@ -379,6 +386,13 @@
         "cover": "dylan-blood-tracks-1975.jpg",
         "year": "1975",
         "url": "https://www.discogs.com/master/3878-Bob-Dylan-Blood-On-The-Tracks"
+      },
+      {
+        "title": "Infidels",
+        "artist": "Bob Dylan",
+        "cover": "dylan-infidels-1983.jpg",
+        "year": "1983",
+        "url": "https://www.discogs.com/master/27903-Bob-Dylan-Infidels"
       },
       {
         "title": "The Great Paris Concert",
