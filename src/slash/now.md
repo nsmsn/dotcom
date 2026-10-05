@@ -15,7 +15,6 @@ Currently:
 
 - working with an awesome digital experience team
 - raising a preschooler with [Eleanor](https://eleanoraldrich.com)
-- following New York Mets baseball
 - enjoying the final year of my thirties 🎢
 
 &nbsp;
@@ -79,7 +78,7 @@ Music I listen to throughout the day is captured with [Libre.fm](https://libre.f
 
 <small>
 This page uses a few third-party widgets and APIs to display my current status, weather, and music.<br />
-<em>Last manually updated August 22, 2026.</em>
+<em>Last manually updated October 5, 2026.</em>
 </small>
 
 &nbsp;
