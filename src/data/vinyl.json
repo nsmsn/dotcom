@@ -13,12 +13,19 @@
         "year": "1975",
         "url": "https://www.discogs.com/master/36627-Aerosmith-Toys-In-The-Attic"
       },
-            {
+      {
         "title": "The Allman Brothers Band At Fillmore East",
         "artist": "The Allman Brothers Band",
         "cover": "allman-bros-fillmore-1971.jpg",
         "year": "1971",
         "url": "https://www.discogs.com/release/1469396-The-Allman-Brothers-Band-The-Allman-Brothers-Band-At-Fillmore-East"
+      },
+      {
+        "title": "Wild Planet",
+        "artist": "The B-52's",
+        "cover": "b52s-wild-planet-1980.jpg",
+        "year": "1980",
+        "url": "https://www.discogs.com/master/53967-The-B-52s-Wild-Planet"
       },
       {
         "title": "Stage Fright",
@@ -70,6 +77,13 @@
         "url": "https://www.discogs.com/master/79414-The-Black-Keys-Chulahoma"
       },
       {
+        "title": "Black Mountain (Deluxe Edition)",
+        "artist": "Black Mountain",
+        "cover": "black-mountain-st-2005.jpg",
+        "year": "2005",
+        "url": "https://www.discogs.com/release/7129440-Black-Mountain-Black-Mountain"
+      },
+      {
         "title": "Violin Concertos",
         "artist": "Benjamin Britten, Ralph Vaughan Williams (Prague Symphony Orchestra)",
         "cover": "prague-violin-concertos-1970.jpg",
@@ -111,7 +125,13 @@
         "year": "1972",
         "url": "https://www.discogs.com/release/2754865-The-Byrds-The-Best-Of-The-Byrds-Greatest-Hits-Volume-II-"
       },
-
+      {
+        "title": "Hot Rail",
+        "artist": "Calexico",
+        "cover": "calexico-hot-rail-2000.jpg",
+        "year": "2000",
+        "url": "https://www.discogs.com/release/1371415-Calexico-Hot-Rail"
+      },
       {
         "title": "Feast of Wire (20 Year Anniversary Edition)",
         "artist": "Calexico",
@@ -192,6 +212,13 @@
         "url": "https://www.discogs.com/master/1811009-Sam-Cooke-The-Legendary"
       },
       {
+        "title": "My Spanish Heart",
+        "artist": "Chick Corea",
+        "cover": "chick-corea-spanish-heart-1976.jpg",
+        "year": "1976",
+        "url": "https://www.discogs.com/master/119937-Chick-Corea-My-Spanish-Heart"
+      },
+      {
         "title": "My Aim Is True",
         "artist": "Elvis Costello",
         "cover": "costello-myaim-1977.jpg",
@@ -204,6 +231,13 @@
         "cover": "costello-thisyears-1978.jpg",
         "year": "1978",
         "url": "https://www.discogs.com/master/455505-Elvis-Costello-The-Attractions-This-Years-Model"
+      },
+      {
+        "title": "Imperial Bedroom",
+        "artist": "Elvis Costello & The Attractions",
+        "cover": "costello-imperial-1982.jpg",
+        "year": "1982",
+        "url": "https://www.discogs.com/master/42894-Elvis-Costello-And-The-Attractions-Imperial-Bedroom"
       },
       {
         "title": "Last Date",
@@ -234,6 +268,13 @@
         "url": "https://www.discogs.com/master/2566268-Crystal-Band-Henry-Turners-Crystal-Band-Can-We-Funk-Again"
       },
       {
+        "title": "Kind of Blue",
+        "artist": "Miles Davis",
+        "cover": "miles-kind-of-blue-1959.jpg",
+        "year": "1959",
+        "url": "https://www.discogs.com/release/2252871-Miles-Davis-Kind-Of-Blue"
+      },      
+      {
         "title": "La Mer / Prelude To The Afternoon Of A Faun / Jeux",
         "artist": "Claude Debussy (New Philharmonia Orch. conducted by Pierre Boulez)",
         "cover": "debussy-boulez-1982.jpg",
@@ -253,6 +294,13 @@
         "cover": "del-fuegos-boston-mass-1985.jpg",
         "year": "1985",
         "url": "https://www.discogs.com/master/152386-The-Del-Fuegos-Boston-Mass"
+      },
+      {
+        "title": "Stand Up",
+        "artist": "The Del Fuegos",
+        "cover": "del-fuegos-stand-up-1987.jpg",
+        "year": "1987",
+        "url": "https://www.discogs.com/master/152388-The-Del-Fuegos-Stand-Up"
       },
       {
         "title": "Layla And Other Assorted Love Songs",
@@ -353,6 +401,13 @@
         "url": "https://www.discogs.com/master/3730-Bob-Dylan-Another-Side-Of-Bob-Dylan"
       },
       {
+        "title": "Blonde on Blonde",
+        "artist": "Bob Dylan",
+        "cover": "dylan-blonde-1966.jpg",
+        "year": "1966",
+        "url": "https://www.discogs.com/master/3773-Bob-Dylan-Blonde-On-Blonde"
+      },
+      {
         "title": "Nashville Skyline",
         "artist": "Bob Dylan",
         "cover": "dylan-nashville-skyline-1969.jpg",
@@ -387,6 +442,20 @@
         "year": "1975",
         "url": "https://www.discogs.com/master/3878-Bob-Dylan-Blood-On-The-Tracks"
       },
+      {
+        "title": "Desire",
+        "artist": "Bob Dylan",
+        "cover": "dylan-desire-1976.jpg",
+        "year": "1976",
+        "url": "https://www.discogs.com/master/3911-Bob-Dylan-Desire"
+      },
+      {
+        "title": "Street Legal",
+        "artist": "Bob Dylan",
+        "cover": "dylan-street-legal-1978.jpg",
+        "year": "1978",
+        "url": "https://www.discogs.com/master/4481-Bob-Dylan-Street-Legal"
+      },        
       {
         "title": "Infidels",
         "artist": "Bob Dylan",
@@ -558,6 +627,13 @@
         "year": "1996",
         "url": "https://www.discogs.com/master/125525-Guided-By-Voices-Under-The-Bushes-Under-The-Stars"
       },
+      {
+        "title": "Okie From Muskogee",
+        "artist": "Merle Haggard",
+        "cover": "merle-okie-1969.jpg",
+        "year": "1969",
+        "url": "https://www.discogs.com/master/178080-Merle-Haggard-And-The-Strangers-Okie-From-Muskogee-Recorded-Live-In-Muskogee-Oklahoma"
+      },      
       {
         "title": "Tim Hardin 3 Live In Concert",
         "artist": "Tim Hardin",
@@ -768,13 +844,19 @@
         "year": "2004",
         "url": "https://www.discogs.com/release/32249100-MF-Doom-MMFood"
       },
-
       {
         "title": "Complete Recorded Works, Volume 1",
         "artist": "The Mississippi Sheiks",
         "cover": "miss-sheiks-vol1-2013.jpg",
         "year": "2013",
         "url": "https://www.discogs.com/master/520329-The-Mississippi-Sheiks-Complete-Recorded-Works-Presented-In-Chronological-Order-Volume-1"
+      },
+      {
+        "title": "Cruising With Ruben & The Jets",
+        "artist": "The Mothers Of Invention",
+        "cover": "mothers-ruben-jets-1968.jpg",
+        "year": "1968",
+        "url": "https://www.discogs.com/master/36745-The-Mothers-Of-Invention-Cruising-With-Ruben-The-Jets"
       },
       {
         "title": "Illmatic",
@@ -817,6 +899,13 @@
         "cover": "newman-good-old-boys-1974.jpg",
         "year": "1974",
         "url": "https://www.discogs.com/master/81090-Randy-Newman-Good-Old-Boys"
+      },
+      {
+        "title": "Broken Hymns Limbs and Skin",
+        "artist": "O’Death",
+        "cover": "odeath-broken-hymns-2008.jpg",
+        "year": "2008",
+        "url": "https://www.discogs.com/master/222895-ODeath-Broken-Hymns-Limbs-And-Skin"
       },
       {
         "title": "Eureka",
@@ -905,13 +994,26 @@
         "url": "https://www.discogs.com/master/10370-Pink-Floyd-Animals"
       },
       {
+        "title": "Surfer Rosa",
+        "artist": "Pixies",
+        "cover": "pixies-surfer-rosa-1988.jpg",
+        "year": "1988",
+        "url": "https://www.discogs.com/master/16731-Pixies-Surfer-Rosa"
+      },
+      {
         "title": "Soít",
         "artist": "The Pogues",
         "cover": "pogues-soit-1985.jpg",
         "year": "1985 (released 2002)",
         "url": "https://www.discogs.com/master/943912-The-Pogues-So%C3%ADt"
       },
-
+      {
+        "title": "Pretenders",
+        "artist": "Pretenders",
+        "cover": "pretenders-st-1980.jpg",
+        "year": "1980",
+        "url": "https://www.discogs.com/master/69563-Pretenders-Pretenders"
+      },
       {
         "title": "Back on the Chain Gang",
         "artist": "Pretenders",
@@ -976,6 +1078,13 @@
         "cover": "ratboys-singin-2026.jpg",
         "year": "2026",
         "url": "https://www.discogs.com/release/36373810-Ratboys-Singin-to-an-Empty-Chair"
+      },
+      {
+        "title": "Historic Performances Recorded At The Monterey International Pop Festival",
+        "artist": "Otis Redding / The Jimi Hendrix Experience",
+        "cover": "otis-hendrix-reprise-1970.jpg",
+        "year": "1970",
+        "url": "https://www.discogs.com/master/154892-Otis-Redding-The-Jimi-Hendrix-Experience-Historic-Performances-Recorded-At-The-Monterey-Internationa"
       },
       {
         "title": "Pleased To Meet Me",
@@ -1252,6 +1361,13 @@
         "cover": "wilco-sky-blue-sky-2007.jpg",
         "year": "2007",
         "url": "https://www.discogs.com/release/3851147-Wilco-Sky-Blue-Sky"
+      },
+      {
+        "title": "The Best Of Bob Wills",
+        "artist": "Bob Wills",
+        "cover": "bob-wills-best-of-1973.jpg",
+        "year": "1973",
+        "url": "https://www.discogs.com/release/12235546-Bob-Wills-The-Best-Of-Bob-Wills"
       },
       {
         "title": "Innervisions",
