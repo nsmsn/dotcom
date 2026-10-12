@@ -24,6 +24,5 @@ If you like what I’m doing and want to support my blogging habit, there are a 
 
 <ul>
 <li><a href="https://rknight.me/">Robb Knight</a></li>
-<li><a href="https://sekhmetdesign.thegeekcartel.com/">SekhmetDesign</a></li>
 <li><a href="https://mattstein.com/">Matt Stein</a></li>
 </ul>
