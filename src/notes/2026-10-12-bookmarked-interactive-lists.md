@@ -3,6 +3,7 @@ title: The web needs interactive lists
 date: 2026-10-12T15:19:07.586-06:00
 tags:
   - "Bookmarks"
+  - "Accessibility"
   - "Web Platform"
 ---
 
