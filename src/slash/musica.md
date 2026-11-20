@@ -13,4 +13,4 @@ Find me on [Libre.fm](https://libre.fm/user/nsmsn), [Last.fm](https://last.fm/us
 
 &nbsp;
 
-<small><script async src="https://recentfm.rknight.me/now.js?u=nsmsn"></script></small>
+<a href="https://libre.fm/user/nsmsn/"><img src="https://libre.fm/user/nsmsn/now" alt="Libre.fm recent tracks" loading="lazy" style="width: 100%; max-width: 320px; height: auto;"></a>

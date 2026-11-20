@@ -63,7 +63,6 @@ Currently:
 ## 📚 Reading
 
 - [Here Where We Live Is Our Country: The Story of the Jewish Bund ](https://app.thestorygraph.com/books/0235cbf4-e8ea-496b-89c8-0c04f276aa37) by Molly Crabapple
-- [Infinite Baseball: Notes from a Philosopher at the Ballpark](https://app.thestorygraph.com/books/93d3342f-4349-416f-9900-a41d15352992) by Alva Noë
 - [Capital, Volume 1](https://app.thestorygraph.com/books/9260f7ea-2e06-4e00-90d6-0b9e69f11bd1) by Karl Marx 
 - [A Companion to Marx's Capital](https://app.thestorygraph.com/books/597e3e5b-f02b-4d88-9411-9906cb71439d) by David Harvey
 
@@ -71,14 +70,14 @@ Currently:
 
 ## 🎧 Listening
 
-<script async src="https://recentfm.rknight.me/now.js?u=nsmsn&nomoji=true"></script>
+<a href="https://libre.fm/user/nsmsn/"><img src="https://libre.fm/user/nsmsn/now" alt="Libre.fm recent tracks" loading="lazy" style="width: 100%; max-width: 320px; height: auto;"></a>
 
 Music I listen to throughout the day is captured with [Libre.fm](https://libre.fm/user/nsmsn) and [Last.fm](https://www.last.fm/user/nsmsn).
 &nbsp;
 
 <small>
 This page uses a few third-party widgets and APIs to display my current status, weather, and music.<br />
-<em>Last manually updated October 5, 2026.</em>
+<em>Last manually updated November 20, 2026.</em>
 </small>
 
 &nbsp;
