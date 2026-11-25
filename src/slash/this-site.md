@@ -41,7 +41,7 @@ The [search functionality](/search.html) is powered by [Pagefind](https://pagefi
 
 Typeset in [Def Sans](https://publictype.works/font/defsans/), with <code>h1</code> display headings set in <a class="text-display text-xlarge" href="https://www.dingbat.xyz/l/dinger">Dinger</a>. Supporting text and <code>code</code> is set in <a class="text-secondary" href="https://commitmono.com/">Commit&nbsp;Mono</a>. Webfonts are hosted and delivered via [Bunny.net](https://bunny.net/).
 
-**This website does not track you.** While some pages may contain third-party code for additional functionality, to my best knowledge and efforts there are **no cookies** anywhere on this website.
+**This website does not track you.** While some pages may contain third-party code for additional functionality, to my best knowledge and efforts there are **no cookies** anywhere on this website. I am using [NeatStats](https://neatstats.net/docs/about) to get privacy-respecting stats about the visits to this site.
 
 &nbsp;
 ## Statement on A.I.
