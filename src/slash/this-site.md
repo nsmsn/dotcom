@@ -83,6 +83,7 @@ I do not use <abbr title="Large Language Model">LLM</abbr> tools to write or cod
 
 <small>I try to run a clean website. View this page's [Website Carbon score](https://www.websitecarbon.com/website/nicksimson-com-this-site/).</small>
 
-<!--<small>You can find this site listed in the [Internet Phone Book](https://internetphonebook.net/). [Try dialing **521**](https://internetphonebook.net/dial/).</small>-->
+<script src="https://neatstats.net/updoot.js" defer></script>
+<span class="updoot" data-emoji="⭐️"></span>
 
 &nbsp;

@@ -13,6 +13,9 @@
 
     ${ post/_body }
 
+    <script src="https://neatstats.net/updoot.js" defer></script>
+    <span class="updoot" data-emoji="⭐️"></span>
+
     <ul class="list-unstyled list-inline margin-top-xlarge">
 
     ${ Tree.map(post/tags, (tagname) => `
